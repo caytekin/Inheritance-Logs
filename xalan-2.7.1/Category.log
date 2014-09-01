@@ -1,0 +1,12 @@
+[
+  <<|java+class:///org/apache/xpath/functions/FuncTrue|,|java+class:///org/apache/xpath/functions/Function|>,|java+class:///org/apache/xpath/functions/FuncExtFunction|>,
+  <<|java+class:///org/apache/xml/dtm/ref/DTMDefaultBaseTraversers/IndexedDTMAxisTraverser|,|java+class:///org/apache/xml/dtm/DTMAxisTraverser|>,|java+class:///org/apache/xml/dtm/ref/DTMDefaultBaseTraversers/NamespaceTraverser|>,
+  <<|java+class:///org/apache/xpath/functions/FuncLast|,|java+class:///org/apache/xpath/functions/Function|>,|java+class:///org/apache/xpath/functions/FuncExtFunction|>,
+  <<|java+class:///org/apache/xpath/functions/FuncCurrent|,|java+class:///org/apache/xpath/functions/Function|>,|java+class:///org/apache/xpath/functions/FuncExtFunction|>,
+  <<|java+class:///org/apache/xml/utils/XMLStringFactoryDefault|,|java+class:///org/apache/xml/utils/XMLStringFactory|>,|java+class:///org/apache/xpath/objects/XMLStringFactoryImpl|>,
+  <<|java+class:///org/apache/xalan/xsltc/compiler/util/NumberType|,|java+class:///org/apache/xalan/xsltc/compiler/util/Type|>,|java+class:///org/apache/xalan/xsltc/compiler/util/BooleanType|>,
+  <<|java+class:///org/apache/xpath/functions/FuncPosition|,|java+class:///org/apache/xpath/functions/Function|>,|java+class:///org/apache/xpath/functions/FuncExtFunction|>,
+  <<|java+class:///org/apache/xpath/functions/FuncFalse|,|java+class:///org/apache/xpath/functions/Function|>,|java+class:///org/apache/xpath/functions/FuncExtFunction|>,
+  <<|java+class:///org/apache/xpath/domapi/XPathEvaluatorImpl/DummyPrefixResolver|,|java+interface:///org/apache/xml/utils/PrefixResolver|>,|java+class:///org/apache/xpath/jaxp/JAXPPrefixResolver|>,
+  <<|java+class:///org/apache/xalan/xsltc/dom/DocumentCache|,|java+interface:///org/apache/xalan/xsltc/DOMCache|>,|java+class:///org/apache/xalan/xsltc/trax/TransformerImpl|>
+]

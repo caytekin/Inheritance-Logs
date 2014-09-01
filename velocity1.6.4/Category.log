@@ -1,0 +1,11 @@
+[
+  <<|java+class:///org/apache/velocity/runtime/log/NullLogChute|,|java+interface:///org/apache/velocity/runtime/log/LogChute|>,|java+class:///org/apache/velocity/runtime/log/LogChuteSystem|>,
+  <<|java+class:///org/apache/velocity/runtime/log/CommonsLogLogChute|,|java+interface:///org/apache/velocity/runtime/log/LogChute|>,|java+class:///org/apache/velocity/runtime/log/LogChuteSystem|>,
+  <<|java+class:///org/apache/velocity/app/event/implement/PrintExceptions|,|java+interface:///org/apache/velocity/util/RuntimeServicesAware|>,|java+class:///org/apache/velocity/app/event/implement/EscapeReference|>,
+  <<|java+class:///org/apache/velocity/runtime/log/ServletLogChute|,|java+interface:///org/apache/velocity/runtime/log/LogChute|>,|java+class:///org/apache/velocity/runtime/log/LogChuteSystem|>,
+  <<|java+class:///org/apache/velocity/app/event/implement/IncludeNotFound|,|java+interface:///org/apache/velocity/util/RuntimeServicesAware|>,|java+class:///org/apache/velocity/app/event/implement/EscapeReference|>,
+  <<|java+class:///org/apache/velocity/runtime/log/JdkLogChute|,|java+interface:///org/apache/velocity/runtime/log/LogChute|>,|java+class:///org/apache/velocity/runtime/log/LogChuteSystem|>,
+  <<|java+class:///org/apache/velocity/app/event/implement/ReportInvalidReferences|,|java+interface:///org/apache/velocity/util/RuntimeServicesAware|>,|java+class:///org/apache/velocity/app/event/implement/EscapeReference|>,
+  <<|java+class:///org/apache/velocity/runtime/log/AvalonLogChute|,|java+interface:///org/apache/velocity/runtime/log/LogChute|>,|java+class:///org/apache/velocity/runtime/log/LogChuteSystem|>,
+  <<|java+class:///org/apache/velocity/context/ChainedInternalContextAdapter|,|java+interface:///org/apache/velocity/context/InternalContextAdapter|>,|java+class:///org/apache/velocity/context/InternalContextAdapterImpl|>
+]
