@@ -1,0 +1,6 @@
+[
+  <<|java+class:///com/puppycrawl/tools/checkstyle/filters/SeverityMatchFilter|,|java+class:///com/puppycrawl/tools/checkstyle/api/AutomaticBean|>,{|java+interface:///com/puppycrawl/tools/checkstyle/api/Filter|},|project://checkstyle-5.6/src/checkstyle/com/puppycrawl/tools/checkstyle/Checker.java|(6287,21,<155,43>,<155,64>)>,
+  <<|java+class:///com/puppycrawl/tools/checkstyle/api/AbstractFileSetCheck|,|java+interface:///com/puppycrawl/tools/checkstyle/api/FileSetCheck|>,{|java+class:///com/puppycrawl/tools/checkstyle/api/AbstractViolationReporter|},|project://checkstyle-5.6/src/checkstyle/com/puppycrawl/tools/checkstyle/Checker.java|(6514,20,<160,41>,<160,61>)>,
+  <<|java+class:///com/puppycrawl/tools/checkstyle/filters/SeverityMatchFilter|,|java+interface:///com/puppycrawl/tools/checkstyle/api/Filter|>,{|java+class:///com/puppycrawl/tools/checkstyle/api/AutomaticBean|},|project://checkstyle-5.6/src/checkstyle/com/puppycrawl/tools/checkstyle/Checker.java|(6678,14,<164,38>,<164,52>)>,
+  <<|java+class:///com/puppycrawl/tools/checkstyle/XMLLogger|,|java+interface:///com/puppycrawl/tools/checkstyle/api/AuditListener|>,{|java+class:///com/puppycrawl/tools/checkstyle/api/AutomaticBean|},|project://checkstyle-5.6/src/checkstyle/com/puppycrawl/tools/checkstyle/Checker.java|(6849,21,<168,47>,<168,68>)>
+]

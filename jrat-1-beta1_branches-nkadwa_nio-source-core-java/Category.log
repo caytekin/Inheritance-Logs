@@ -1,0 +1,12 @@
+[
+  <<|java+class:///org/shiftone/jrat/inject/process/DirectoryFileProcessor|,|java+interface:///org/shiftone/jrat/inject/process/FileProcessor|>,|java+class:///org/shiftone/jrat/inject/process/CompositeFileProcessor|>,
+  <<|java+class:///org/shiftone/jrat/util/log/AbstractLogCommandlet|,|java+interface:///org/shiftone/jrat/core/spi/Commandlet|>,|java+class:///org/shiftone/jrat/provider/tree/command/ResetCommandlet|>,
+  <<|java+class:///org/shiftone/jrat/core/web/http/Server|,|java+interface:///org/shiftone/jrat/core/shutdown/ShutdownListener|>,|java+class:///org/shiftone/jrat/core/MemoryMonitor|>,
+  <<|java+class:///org/shiftone/jrat/core/web/http/TestWebActionFactory|,|java+interface:///org/shiftone/jrat/core/spi/WebActionFactory|>,|java+class:///org/shiftone/jrat/provider/tree/TreeWebActionFactory|>,
+  <<|java+class:///org/shiftone/jrat/core/criteria/DebugMethodCriteria|,|java+interface:///org/shiftone/jrat/core/criteria/MethodCriteria|>,|java+class:///org/shiftone/jrat/core/criteria/NotMethodCriteria|>,
+  <<|java+class:///org/shiftone/jrat/util/log/Logger|,|java+interface:///org/shiftone/jrat/util/log/target/LogTarget|>,|java+class:///org/shiftone/jrat/util/log/target/TandemTarget|>,
+  <<|java+class:///org/shiftone/jrat/api/Callable|,|java+interface:///org/shiftone/jrat/api/Command|>,|java+class:///org/shiftone/jrat/integration/aop/dynaop/DynaopInvocationCommand|>,
+  <<|java+class:///org/shiftone/jrat/core/web/http/FsBrowseHandler|,|java+interface:///org/shiftone/jrat/core/web/http/Handler|>,|java+class:///org/shiftone/jrat/core/web/http/WebActionHandler|>,
+  <<|java+class:///org/shiftone/jrat/core/proxy/ProxyCommand|,|java+interface:///org/shiftone/jrat/api/Command|>,|java+class:///org/shiftone/jrat/integration/aop/dynaop/DynaopInvocationCommand|>,
+  <<|java+class:///org/shiftone/jrat/inject/process/AbstractFileProcessor|,|java+interface:///org/shiftone/jrat/inject/process/FileProcessor|>,|java+class:///org/shiftone/jrat/inject/process/CompositeFileProcessor|>
+]

@@ -1,0 +1,6 @@
+[
+  <<|java+class:///net/suberic/pooka/gui/crypto/CryptoButton|,|java+interface:///net/suberic/pooka/gui/crypto/CryptoStatusDisplay|>,|java+class:///net/suberic/pooka/gui/crypto/CryptoPanel|>,
+  <<|java+class:///net/suberic/util/ValueChangeAdapter|,|java+interface:///net/suberic/util/ValueChangeListener|>,|java+anonymousClass:///net/suberic/pooka/StartupManager/loadManagers(net/suberic/pooka/gui/PookaStartup)/$anonymous3|>,
+  <<|java+class:///net/suberic/pooka/jdbcaddr/JDBCAddressBook|,|java+interface:///net/suberic/pooka/AddressBook|>,|java+class:///net/suberic/pooka/vcard/VcardAddressBook|>,
+  <<|java+class:///net/suberic/pooka/gui/SwingUIFactory|,|java+interface:///net/suberic/pooka/gui/PookaUIFactory|>,|java+class:///net/suberic/pooka/gui/PookaMinimalUIFactory|>
+]

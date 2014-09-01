@@ -1,0 +1,19 @@
+[
+  <<|java+class:///gnu/trove/TObjectHash|,|java+class:///gnu/trove/THash|>,{|java+interface:///gnu/trove/TObjectHashingStrategy|},|project://trove-2.1.0/test/gnu/trove/SerializationTest.java|(25359,13,<516,32>,<516,45>)>,
+  <<|java+class:///gnu/trove/TObjectHash|,|java+class:///gnu/trove/THash|>,{|java+interface:///gnu/trove/TObjectHashingStrategy|},|project://trove-2.1.0/test/gnu/trove/SerializationTest.java|(25424,17,<517,22>,<517,39>)>,
+  <<|java+class:///gnu/trove/THashSet|,|java+class:///gnu/trove/TObjectHash|>,{
+    |java+interface:///java/util/Set|,
+    |java+interface:///java/lang/Iterable|,
+    |java+interface:///java/io/Externalizable|
+  },|project://trove-2.1.0/src/gnu/trove/TObjectHash.java|(4497,29,<127,27>,<127,56>)>,
+  <<|java+class:///gnu/trove/TObjectHash|,|java+interface:///gnu/trove/TObjectHashingStrategy|>,{|java+class:///gnu/trove/THash|},|project://trove-2.1.0/src/gnu/trove/TObjectHash.java|(13554,45,<370,27>,<370,72>)>,
+  <<|java+class:///gnu/trove/THashMap|,|java+interface:///java/util/Map|>,{
+    |java+class:///gnu/trove/TObjectHash|,
+    |java+interface:///java/io/Externalizable|
+  },|project://trove-2.1.0/src/gnu/trove/THashMap.java|(6716,16,<210,25>,<210,41>)>,
+  <<|java+class:///gnu/trove/THashSet|,|java+interface:///java/util/Set|>,{
+    |java+interface:///java/lang/Iterable|,
+    |java+class:///gnu/trove/TObjectHash|,
+    |java+interface:///java/io/Externalizable|
+  },|project://trove-2.1.0/src/gnu/trove/THashSet.java|(5150,10,<156,19>,<156,29>)>
+]

@@ -1,0 +1,11 @@
+[
+  <<|java+class:///com/vladium/jcd/cls/constant/CONSTANT_Integer_info|,|java+class:///com/vladium/jcd/cls/constant/CONSTANT_literal_info|>,|java+class:///com/vladium/jcd/cls/constant/CONSTANT_Long_info|>,
+  <<|java+class:///com/vladium/jcd/cls/constant/CONSTANT_Float_info|,|java+class:///com/vladium/jcd/cls/constant/CONSTANT_literal_info|>,|java+class:///com/vladium/jcd/cls/constant/CONSTANT_Long_info|>,
+  <<|java+class:///com/vladium/jcd/cls/constant/CONSTANT_Double_info|,|java+class:///com/vladium/jcd/cls/constant/CONSTANT_literal_info|>,|java+class:///com/vladium/jcd/cls/constant/CONSTANT_Long_info|>,
+  <<|java+class:///com/vladium/jcd/cls/constant/CONSTANT_String_info|,|java+class:///com/vladium/jcd/cls/constant/CONSTANT_literal_info|>,|java+class:///com/vladium/jcd/cls/constant/CONSTANT_Long_info|>,
+  <<|java+class:///com/vladium/emma/report/html/doc/TextContent|,|java+interface:///com/vladium/emma/report/html/doc/IContent|>,|java+class:///com/vladium/emma/report/html/doc/Text|>,
+  <<|java+class:///com/vladium/emma/report/html/doc/Attribute|,|java+interface:///com/vladium/emma/report/html/doc/IContent|>,|java+class:///com/vladium/emma/report/html/doc/Text|>,
+  <<|java+class:///com/vladium/emma/report/html/doc/Tag|,|java+interface:///com/vladium/emma/report/html/doc/IContent|>,|java+class:///com/vladium/emma/report/html/doc/Text|>,
+  <<|java+class:///com/vladium/emma/report/html/doc/AttributeSet|,|java+interface:///com/vladium/emma/report/html/doc/IContent|>,|java+class:///com/vladium/emma/report/html/doc/Text|>,
+  <<|java+class:///com/vladium/emma/instr/InstrProcessor|,|java+interface:///com/vladium/util/IPathEnumerator/IPathHandler|>,|java+class:///com/vladium/emma/rt/ClassPathProcessorST|>
+]

@@ -1,0 +1,7 @@
+[
+  <<|java+class:///org/springframework/core/serializer/support/SerializingConverter|,|java+interface:///org/springframework/core/convert/converter/Converter|>,|java+class:///org/springframework/core/convert/support/NumberToCharacterConverter|>,
+  <<|java+class:///org/springframework/util/AutoPopulatingListTests/MockElementFactory|,|java+interface:///org/springframework/util/AutoPopulatingList/ElementFactory|>,|java+class:///org/springframework/util/AutoPopulatingList/ReflectiveElementFactory|>,
+  <<|java+class:///org/springframework/core/serializer/support/DeserializingConverter|,|java+interface:///org/springframework/core/convert/converter/Converter|>,|java+class:///org/springframework/core/convert/support/NumberToCharacterConverter|>,
+  <<|java+class:///org/springframework/core/type/StandardMethodMetadata|,|java+interface:///org/springframework/core/type/MethodMetadata|>,|java+class:///org/springframework/core/type/classreading/MethodMetadataReadingVisitor|>,
+  <<|java+class:///org/springframework/core/LocalVariableTableParameterNameDiscoverer|,|java+interface:///org/springframework/core/ParameterNameDiscoverer|>,|java+anonymousClass:///org/springframework/core/PrioritizedParameterNameDiscovererTests/$anonymous2|>
+]

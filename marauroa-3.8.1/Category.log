@@ -1,0 +1,4 @@
+[
+  <<|java+class:///marauroa/common/io/WebstartPersistence|,|java+class:///marauroa/common/io/Persistence|>,|java+class:///marauroa/common/io/FileSystemPersistence|>,
+  <<|java+class:///marauroa/server/game/python/PythonRPRuleProcessor|,|java+interface:///marauroa/server/game/rp/IRPRuleProcessor|>,|java+class:///marauroa/ping/server/PingRPRuleProcessor|>
+]

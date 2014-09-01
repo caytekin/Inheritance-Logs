@@ -1,0 +1,7 @@
+[
+  <<|java+class:///org/apache/james/util/watchdog/SchedulerWatchdogFactory|,|java+interface:///org/apache/james/util/watchdog/WatchdogFactory|>,|java+class:///org/apache/james/util/watchdog/ThreadPerWatchdogFactory|>,
+  <<|java+class:///org/apache/james/mailrepository/JDBCSpoolRepository|,|java+interface:///org/apache/james/services/SpoolRepository|>,|java+class:///org/apache/james/mailrepository/AvalonSpoolRepository|>,
+  <<|java+class:///org/apache/mailet/GenericMatcher|,|java+interface:///org/apache/mailet/MatcherConfig|>,|java+class:///org/apache/james/core/MatcherConfigImpl|>,
+  <<|java+class:///org/apache/mailet/GenericMailet|,|java+interface:///org/apache/mailet/MailetConfig|>,|java+class:///org/apache/james/core/MailetConfigImpl|>,
+  <<|java+class:///org/apache/james/util/SynchronizedDateFormat|,|java+interface:///org/apache/james/util/SimplifiedDateFormat|>,|java+class:///org/apache/james/util/RFC977DateFormat|>
+]

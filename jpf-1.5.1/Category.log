@@ -1,0 +1,5 @@
+[
+  <<|java+class:///org/java/plugin/tools/mocks/MockPluginRegistry|,|java+interface:///org/java/plugin/registry/PluginRegistry|>,|java+class:///org/java/plugin/registry/xml/PluginRegistryImpl|>,
+  <<|java+class:///org/java/plugin/boot/BootErrorHandlerConsole|,|java+interface:///org/java/plugin/boot/BootErrorHandler|>,|java+class:///org/java/plugin/boot/BootErrorHandlerGui|>,
+  <<|java+class:///org/java/plugin/tools/mocks/MockDocumentation|,|java+interface:///org/java/plugin/registry/Documentation|>,|java+class:///org/java/plugin/registry/xml/DocumentationImpl|>
+]

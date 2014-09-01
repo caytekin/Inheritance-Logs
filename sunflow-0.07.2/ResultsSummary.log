@@ -1,0 +1,240 @@
+RESULTS LOG: 
+INTERNAL REUSE TOTAL: 10 
+<|java+class:///org/sunflow/Benchmark/BenchmarkScene|,|java+class:///org/sunflow/SunflowAPI|> 
+<|java+class:///org/sunflow/RealtimeBenchmark|,|java+class:///org/sunflow/SunflowAPI|> 
+<|java+class:///org/sunflow/core/Options|,|java+class:///org/sunflow/core/ParameterList|> 
+<|java+class:///org/sunflow/core/light/TriangleMeshLight|,|java+class:///org/sunflow/core/primitive/TriangleMesh|> 
+<|java+class:///org/sunflow/core/shader/TexturedAmbientOcclusionShader|,|java+class:///org/sunflow/core/shader/AmbientOcclusionShader|> 
+<|java+class:///org/sunflow/core/shader/TexturedDiffuseShader|,|java+class:///org/sunflow/core/shader/DiffuseShader|> 
+<|java+class:///org/sunflow/core/shader/TexturedPhongShader|,|java+class:///org/sunflow/core/shader/PhongShader|> 
+<|java+class:///org/sunflow/core/shader/TexturedShinyDiffuseShader|,|java+class:///org/sunflow/core/shader/ShinyDiffuseShader|> 
+<|java+class:///org/sunflow/core/shader/TexturedWardShader|,|java+class:///org/sunflow/core/shader/AnisotropicWardShader|> 
+<|java+class:///org/sunflow/image/ChromaticitySpectrum|,|java+class:///org/sunflow/image/SpectralCurve|> 
+
+EXTERNAL REUSE TOTAL: 2 
+<|java+class:///org/sunflow/core/Options|,|java+class:///org/sunflow/core/ParameterList|> 
+<|java+class:///org/sunflow/image/RegularSpectralCurve|,|java+class:///org/sunflow/image/SpectralCurve|> 
+
+SUBTYPE TOTAL: 11 
+<|java+class:///org/sunflow/Benchmark/BenchmarkScene|,|java+class:///org/sunflow/SunflowAPI|> 
+<|java+class:///org/sunflow/core/light/TriangleMeshLight|,|java+class:///org/sunflow/core/primitive/TriangleMesh|> 
+<|java+class:///org/sunflow/core/shader/TexturedAmbientOcclusionShader|,|java+class:///org/sunflow/core/shader/AmbientOcclusionShader|> 
+<|java+class:///org/sunflow/core/shader/TexturedDiffuseShader|,|java+class:///org/sunflow/core/shader/DiffuseShader|> 
+<|java+class:///org/sunflow/core/shader/TexturedPhongShader|,|java+class:///org/sunflow/core/shader/PhongShader|> 
+<|java+class:///org/sunflow/core/shader/TexturedShinyDiffuseShader|,|java+class:///org/sunflow/core/shader/ShinyDiffuseShader|> 
+<|java+class:///org/sunflow/core/shader/TexturedWardShader|,|java+class:///org/sunflow/core/shader/AnisotropicWardShader|> 
+<|java+class:///org/sunflow/core/tesselatable/Gumbo|,|java+class:///org/sunflow/core/tesselatable/BezierMesh|> 
+<|java+class:///org/sunflow/core/tesselatable/Teapot|,|java+class:///org/sunflow/core/tesselatable/BezierMesh|> 
+<|java+class:///org/sunflow/image/ConstantSpectralCurve|,|java+class:///org/sunflow/image/SpectralCurve|> 
+<|java+class:///org/sunflow/image/RegularSpectralCurve|,|java+class:///org/sunflow/image/SpectralCurve|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 2 
+<|java+class:///org/sunflow/core/tesselatable/Gumbo|,|java+class:///org/sunflow/core/tesselatable/BezierMesh|> 
+<|java+class:///org/sunflow/core/tesselatable/Teapot|,|java+class:///org/sunflow/core/tesselatable/BezierMesh|> 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 0 
+
+DOWNCALL TOTAL: 10 
+<|java+class:///org/sunflow/core/shader/TexturedAmbientOcclusionShader|,|java+class:///org/sunflow/core/shader/AmbientOcclusionShader|> 
+<|java+class:///org/sunflow/core/shader/TexturedDiffuseShader|,|java+class:///org/sunflow/core/shader/DiffuseShader|> 
+<|java+class:///org/sunflow/core/shader/TexturedPhongShader|,|java+class:///org/sunflow/core/shader/PhongShader|> 
+<|java+class:///org/sunflow/core/shader/TexturedShinyDiffuseShader|,|java+class:///org/sunflow/core/shader/ShinyDiffuseShader|> 
+<|java+class:///org/sunflow/core/shader/TexturedWardShader|,|java+class:///org/sunflow/core/shader/AnisotropicWardShader|> 
+<|java+class:///org/sunflow/image/BlackbodySpectrum|,|java+class:///org/sunflow/image/SpectralCurve|> 
+<|java+class:///org/sunflow/image/ChromaticitySpectrum|,|java+class:///org/sunflow/image/SpectralCurve|> 
+<|java+class:///org/sunflow/image/ConstantSpectralCurve|,|java+class:///org/sunflow/image/SpectralCurve|> 
+<|java+class:///org/sunflow/image/IrregularSpectralCurve|,|java+class:///org/sunflow/image/SpectralCurve|> 
+<|java+class:///org/sunflow/image/RegularSpectralCurve|,|java+class:///org/sunflow/image/SpectralCurve|> 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 1 
+<|java+class:///org/sunflow/core/Instance|,|java+interface:///org/sunflow/core/RenderObject|> 
+
+SUBTYPE TOTAL: 106 
+<|java+class:///SunflowGUI|,|java+interface:///org/sunflow/system/UserInterface|> 
+<|java+class:///org/sunflow/Benchmark|,|java+interface:///org/sunflow/system/BenchmarkTest|> 
+<|java+class:///org/sunflow/Benchmark|,|java+interface:///org/sunflow/system/UserInterface|> 
+<|java+class:///org/sunflow/core/Camera|,|java+interface:///org/sunflow/core/RenderObject|> 
+<|java+class:///org/sunflow/core/Geometry|,|java+interface:///org/sunflow/core/RenderObject|> 
+<|java+class:///org/sunflow/core/Instance|,|java+interface:///org/sunflow/core/RenderObject|> 
+<|java+class:///org/sunflow/core/InstanceList|,|java+interface:///org/sunflow/core/PrimitiveList|> 
+<|java+class:///org/sunflow/core/Options|,|java+interface:///org/sunflow/core/RenderObject|> 
+<|java+class:///org/sunflow/core/accel/BoundingIntervalHierarchy|,|java+interface:///org/sunflow/core/AccelerationStructure|> 
+<|java+class:///org/sunflow/core/accel/KDTree|,|java+interface:///org/sunflow/core/AccelerationStructure|> 
+<|java+class:///org/sunflow/core/accel/NullAccelerator|,|java+interface:///org/sunflow/core/AccelerationStructure|> 
+<|java+class:///org/sunflow/core/accel/UniformGrid|,|java+interface:///org/sunflow/core/AccelerationStructure|> 
+<|java+class:///org/sunflow/core/bucket/ColumnBucketOrder|,|java+interface:///org/sunflow/core/BucketOrder|> 
+<|java+class:///org/sunflow/core/bucket/DiagonalBucketOrder|,|java+interface:///org/sunflow/core/BucketOrder|> 
+<|java+class:///org/sunflow/core/bucket/HilbertBucketOrder|,|java+interface:///org/sunflow/core/BucketOrder|> 
+<|java+class:///org/sunflow/core/bucket/InvertedBucketOrder|,|java+interface:///org/sunflow/core/BucketOrder|> 
+<|java+class:///org/sunflow/core/bucket/RandomBucketOrder|,|java+interface:///org/sunflow/core/BucketOrder|> 
+<|java+class:///org/sunflow/core/bucket/RowBucketOrder|,|java+interface:///org/sunflow/core/BucketOrder|> 
+<|java+class:///org/sunflow/core/bucket/SpiralBucketOrder|,|java+interface:///org/sunflow/core/BucketOrder|> 
+<|java+class:///org/sunflow/core/camera/FisheyeLens|,|java+interface:///org/sunflow/core/CameraLens|> 
+<|java+class:///org/sunflow/core/camera/PinholeLens|,|java+interface:///org/sunflow/core/CameraLens|> 
+<|java+class:///org/sunflow/core/camera/SphericalLens|,|java+interface:///org/sunflow/core/CameraLens|> 
+<|java+class:///org/sunflow/core/camera/ThinLens|,|java+interface:///org/sunflow/core/CameraLens|> 
+<|java+class:///org/sunflow/core/display/FastDisplay|,|java+interface:///org/sunflow/core/Display|> 
+<|java+class:///org/sunflow/core/display/FileDisplay|,|java+interface:///org/sunflow/core/Display|> 
+<|java+class:///org/sunflow/core/display/FrameDisplay|,|java+interface:///org/sunflow/core/Display|> 
+<|java+class:///org/sunflow/core/display/ImgPipeDisplay|,|java+interface:///org/sunflow/core/Display|> 
+<|java+class:///org/sunflow/core/display/OpenExrDisplay|,|java+interface:///org/sunflow/core/Display|> 
+<|java+class:///org/sunflow/core/filter/BlackmanHarrisFilter|,|java+interface:///org/sunflow/core/Filter|> 
+<|java+class:///org/sunflow/core/filter/BoxFilter|,|java+interface:///org/sunflow/core/Filter|> 
+<|java+class:///org/sunflow/core/filter/CatmullRomFilter|,|java+interface:///org/sunflow/core/Filter|> 
+<|java+class:///org/sunflow/core/filter/GaussianFilter|,|java+interface:///org/sunflow/core/Filter|> 
+<|java+class:///org/sunflow/core/filter/LanczosFilter|,|java+interface:///org/sunflow/core/Filter|> 
+<|java+class:///org/sunflow/core/filter/MitchellFilter|,|java+interface:///org/sunflow/core/Filter|> 
+<|java+class:///org/sunflow/core/filter/SincFilter|,|java+interface:///org/sunflow/core/Filter|> 
+<|java+class:///org/sunflow/core/filter/TriangleFilter|,|java+interface:///org/sunflow/core/Filter|> 
+<|java+class:///org/sunflow/core/gi/AmbientOcclusionGIEngine|,|java+interface:///org/sunflow/core/GIEngine|> 
+<|java+class:///org/sunflow/core/gi/FakeGIEngine|,|java+interface:///org/sunflow/core/GIEngine|> 
+<|java+class:///org/sunflow/core/gi/InstantGI|,|java+interface:///org/sunflow/core/GIEngine|> 
+<|java+class:///org/sunflow/core/gi/InstantGI/PointLightStore|,|java+interface:///org/sunflow/core/PhotonStore|> 
+<|java+class:///org/sunflow/core/gi/IrradianceCacheGIEngine|,|java+interface:///org/sunflow/core/GIEngine|> 
+<|java+class:///org/sunflow/core/gi/PathTracingGIEngine|,|java+interface:///org/sunflow/core/GIEngine|> 
+<|java+class:///org/sunflow/core/light/DirectionalSpotlight|,|java+interface:///org/sunflow/core/LightSource|> 
+<|java+class:///org/sunflow/core/light/ImageBasedLight|,|java+interface:///org/sunflow/core/LightSource|> 
+<|java+class:///org/sunflow/core/light/ImageBasedLight|,|java+interface:///org/sunflow/core/PrimitiveList|> 
+<|java+class:///org/sunflow/core/light/ImageBasedLight|,|java+interface:///org/sunflow/core/Shader|> 
+<|java+class:///org/sunflow/core/light/PointLight|,|java+interface:///org/sunflow/core/LightSource|> 
+<|java+class:///org/sunflow/core/light/SphereLight|,|java+interface:///org/sunflow/core/LightSource|> 
+<|java+class:///org/sunflow/core/light/SphereLight|,|java+interface:///org/sunflow/core/Shader|> 
+<|java+class:///org/sunflow/core/light/SunSkyLight|,|java+interface:///org/sunflow/core/LightSource|> 
+<|java+class:///org/sunflow/core/light/SunSkyLight|,|java+interface:///org/sunflow/core/PrimitiveList|> 
+<|java+class:///org/sunflow/core/light/SunSkyLight|,|java+interface:///org/sunflow/core/Shader|> 
+<|java+class:///org/sunflow/core/light/TriangleMeshLight|,|java+interface:///org/sunflow/core/Shader|> 
+<|java+class:///org/sunflow/core/light/TriangleMeshLight/TriangleLight|,|java+interface:///org/sunflow/core/LightSource|> 
+<|java+class:///org/sunflow/core/modifiers/BumpMappingModifier|,|java+interface:///org/sunflow/core/Modifier|> 
+<|java+class:///org/sunflow/core/modifiers/NormalMapModifier|,|java+interface:///org/sunflow/core/Modifier|> 
+<|java+class:///org/sunflow/core/parser/RA2Parser|,|java+interface:///org/sunflow/core/SceneParser|> 
+<|java+class:///org/sunflow/core/parser/RA3Parser|,|java+interface:///org/sunflow/core/SceneParser|> 
+<|java+class:///org/sunflow/core/parser/SCParser|,|java+interface:///org/sunflow/core/SceneParser|> 
+<|java+class:///org/sunflow/core/parser/ShaveRibParser|,|java+interface:///org/sunflow/core/SceneParser|> 
+<|java+class:///org/sunflow/core/parser/TriParser|,|java+interface:///org/sunflow/core/SceneParser|> 
+<|java+class:///org/sunflow/core/photonmap/CausticPhotonMap|,|java+interface:///org/sunflow/core/CausticPhotonMapInterface|> 
+<|java+class:///org/sunflow/core/photonmap/GlobalPhotonMap|,|java+interface:///org/sunflow/core/GlobalPhotonMapInterface|> 
+<|java+class:///org/sunflow/core/photonmap/GridPhotonMap|,|java+interface:///org/sunflow/core/GlobalPhotonMapInterface|> 
+<|java+class:///org/sunflow/core/primitive/Background|,|java+interface:///org/sunflow/core/PrimitiveList|> 
+<|java+class:///org/sunflow/core/primitive/BanchoffSurface|,|java+interface:///org/sunflow/core/PrimitiveList|> 
+<|java+class:///org/sunflow/core/primitive/CornellBox|,|java+interface:///org/sunflow/core/LightSource|> 
+<|java+class:///org/sunflow/core/primitive/CornellBox|,|java+interface:///org/sunflow/core/PrimitiveList|> 
+<|java+class:///org/sunflow/core/primitive/CornellBox|,|java+interface:///org/sunflow/core/Shader|> 
+<|java+class:///org/sunflow/core/primitive/Hair|,|java+interface:///org/sunflow/core/PrimitiveList|> 
+<|java+class:///org/sunflow/core/primitive/JuliaFractal|,|java+interface:///org/sunflow/core/PrimitiveList|> 
+<|java+class:///org/sunflow/core/primitive/ParticleSurface|,|java+interface:///org/sunflow/core/PrimitiveList|> 
+<|java+class:///org/sunflow/core/primitive/Plane|,|java+interface:///org/sunflow/core/PrimitiveList|> 
+<|java+class:///org/sunflow/core/primitive/QuadMesh|,|java+interface:///org/sunflow/core/PrimitiveList|> 
+<|java+class:///org/sunflow/core/primitive/Sphere|,|java+interface:///org/sunflow/core/PrimitiveList|> 
+<|java+class:///org/sunflow/core/primitive/Torus|,|java+interface:///org/sunflow/core/PrimitiveList|> 
+<|java+class:///org/sunflow/core/primitive/TriangleMesh|,|java+interface:///org/sunflow/core/PrimitiveList|> 
+<|java+class:///org/sunflow/core/primitive/TriangleMesh/BakingSurface|,|java+interface:///org/sunflow/core/PrimitiveList|> 
+<|java+class:///org/sunflow/core/renderer/BucketRenderer|,|java+interface:///org/sunflow/core/ImageSampler|> 
+<|java+class:///org/sunflow/core/renderer/ProgressiveRenderer|,|java+interface:///org/sunflow/core/ImageSampler|> 
+<|java+class:///org/sunflow/core/renderer/SimpleRenderer|,|java+interface:///org/sunflow/core/ImageSampler|> 
+<|java+class:///org/sunflow/core/shader/AmbientOcclusionShader|,|java+interface:///org/sunflow/core/Shader|> 
+<|java+class:///org/sunflow/core/shader/AnisotropicWardShader|,|java+interface:///org/sunflow/core/Shader|> 
+<|java+class:///org/sunflow/core/shader/ConstantShader|,|java+interface:///org/sunflow/core/Shader|> 
+<|java+class:///org/sunflow/core/shader/DiffuseShader|,|java+interface:///org/sunflow/core/Shader|> 
+<|java+class:///org/sunflow/core/shader/GlassShader|,|java+interface:///org/sunflow/core/Shader|> 
+<|java+class:///org/sunflow/core/shader/IDShader|,|java+interface:///org/sunflow/core/Shader|> 
+<|java+class:///org/sunflow/core/shader/MirrorShader|,|java+interface:///org/sunflow/core/Shader|> 
+<|java+class:///org/sunflow/core/shader/NormalShader|,|java+interface:///org/sunflow/core/Shader|> 
+<|java+class:///org/sunflow/core/shader/PhongShader|,|java+interface:///org/sunflow/core/Shader|> 
+<|java+class:///org/sunflow/core/shader/PrimIDShader|,|java+interface:///org/sunflow/core/Shader|> 
+<|java+class:///org/sunflow/core/shader/QuickGrayShader|,|java+interface:///org/sunflow/core/Shader|> 
+<|java+class:///org/sunflow/core/shader/ShinyDiffuseShader|,|java+interface:///org/sunflow/core/Shader|> 
+<|java+class:///org/sunflow/core/shader/SimpleShader|,|java+interface:///org/sunflow/core/Shader|> 
+<|java+class:///org/sunflow/core/shader/UVShader|,|java+interface:///org/sunflow/core/Shader|> 
+<|java+class:///org/sunflow/core/shader/UberShader|,|java+interface:///org/sunflow/core/Shader|> 
+<|java+class:///org/sunflow/core/shader/ViewCausticsShader|,|java+interface:///org/sunflow/core/Shader|> 
+<|java+class:///org/sunflow/core/shader/ViewGlobalPhotonsShader|,|java+interface:///org/sunflow/core/Shader|> 
+<|java+class:///org/sunflow/core/shader/ViewIrradianceShader|,|java+interface:///org/sunflow/core/Shader|> 
+<|java+class:///org/sunflow/core/shader/WireframeShader|,|java+interface:///org/sunflow/core/Shader|> 
+<|java+class:///org/sunflow/core/tesselatable/BezierMesh|,|java+interface:///org/sunflow/core/PrimitiveList|> 
+<|java+class:///org/sunflow/core/tesselatable/BezierMesh|,|java+interface:///org/sunflow/core/Tesselatable|> 
+<|java+class:///org/sunflow/core/tesselatable/FileMesh|,|java+interface:///org/sunflow/core/Tesselatable|> 
+<|java+class:///org/sunflow/system/ImagePanel|,|java+interface:///org/sunflow/core/Display|> 
+<|java+class:///org/sunflow/system/ui/ConsoleInterface|,|java+interface:///org/sunflow/system/UserInterface|> 
+<|java+class:///org/sunflow/system/ui/SilentInterface|,|java+interface:///org/sunflow/system/UserInterface|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 2 
+<|java+class:///org/sunflow/core/primitive/CornellBox|,|java+interface:///org/sunflow/core/Shader|> 
+<|java+class:///org/sunflow/core/tesselatable/BezierMesh|,|java+interface:///org/sunflow/core/Tesselatable|> 
+
+CATEGORY TOTAL: 5 
+<|java+class:///org/sunflow/Benchmark|,|java+interface:///org/sunflow/core/Display|> 
+<|java+class:///org/sunflow/core/primitive/Box|,|java+interface:///org/sunflow/core/PrimitiveList|> 
+<|java+class:///org/sunflow/core/primitive/CubeGrid|,|java+interface:///org/sunflow/core/PrimitiveList|> 
+<|java+class:///org/sunflow/core/primitive/Hair|,|java+interface:///org/sunflow/core/Shader|> 
+<|java+class:///org/sunflow/core/tesselatable/BezierMesh|,|java+interface:///org/sunflow/core/PrimitiveList|> 
+
+FRAMEWORK TOTAL: 0 
+
+DOWNCALL TOTAL: 0 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 3 
+<|java+interface:///org/sunflow/core/CameraLens|,|java+interface:///org/sunflow/core/RenderObject|> 
+<|java+interface:///org/sunflow/core/PrimitiveList|,|java+interface:///org/sunflow/core/RenderObject|> 
+<|java+interface:///org/sunflow/core/Tesselatable|,|java+interface:///org/sunflow/core/RenderObject|> 
+
+SUBTYPE TOTAL: 6 
+<|java+interface:///org/sunflow/core/CausticPhotonMapInterface|,|java+interface:///org/sunflow/core/PhotonStore|> 
+<|java+interface:///org/sunflow/core/GlobalPhotonMapInterface|,|java+interface:///org/sunflow/core/PhotonStore|> 
+<|java+interface:///org/sunflow/core/LightSource|,|java+interface:///org/sunflow/core/RenderObject|> 
+<|java+interface:///org/sunflow/core/Modifier|,|java+interface:///org/sunflow/core/RenderObject|> 
+<|java+interface:///org/sunflow/core/Shader|,|java+interface:///org/sunflow/core/RenderObject|> 
+<|java+interface:///org/sunflow/core/Tesselatable|,|java+interface:///org/sunflow/core/RenderObject|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 0 
+
+DOWNCALL TOTAL: 0 
+
+
+
+

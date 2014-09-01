@@ -1,0 +1,238 @@
+RESULTS LOG: 
+INTERNAL REUSE TOTAL: 28 
+<|java+class:///org/java/plugin/registry/xml/ExtensionImpl|,|java+class:///org/java/plugin/registry/xml/PluginElementImpl|> 
+<|java+class:///org/java/plugin/registry/xml/ExtensionImpl/ParameterImpl|,|java+class:///org/java/plugin/registry/xml/PluginElementImpl|> 
+<|java+class:///org/java/plugin/registry/xml/ExtensionPointImpl|,|java+class:///org/java/plugin/registry/xml/PluginElementImpl|> 
+<|java+class:///org/java/plugin/registry/xml/ExtensionPointImpl/ParameterDefinitionImpl|,|java+class:///org/java/plugin/registry/xml/PluginElementImpl|> 
+<|java+class:///org/java/plugin/registry/xml/LibraryImpl|,|java+class:///org/java/plugin/registry/xml/PluginElementImpl|> 
+<|java+class:///org/java/plugin/registry/xml/ManifestHandler|,|java+class:///org/java/plugin/registry/xml/BaseHandler|> 
+<|java+class:///org/java/plugin/registry/xml/ManifestInfoHandler|,|java+class:///org/java/plugin/registry/xml/BaseHandler|> 
+<|java+class:///org/java/plugin/registry/xml/PluginAttributeImpl|,|java+class:///org/java/plugin/registry/xml/PluginElementImpl|> 
+<|java+class:///org/java/plugin/registry/xml/PluginDescriptorImpl|,|java+class:///org/java/plugin/registry/xml/IdentityImpl|> 
+<|java+class:///org/java/plugin/registry/xml/PluginElementImpl|,|java+class:///org/java/plugin/registry/xml/IdentityImpl|> 
+<|java+class:///org/java/plugin/registry/xml/PluginFragmentImpl|,|java+class:///org/java/plugin/registry/xml/IdentityImpl|> 
+<|java+class:///org/java/plugin/standard/ShadingPathResolver|,|java+class:///org/java/plugin/standard/StandardPathResolver|> 
+<|java+class:///org/java/plugin/standard/StandardPluginClassLoader|,|java+class:///org/java/plugin/PluginClassLoader|> 
+<|java+class:///org/java/plugin/standard/StandardPluginLifecycleHandler|,|java+class:///org/java/plugin/standard/PluginLifecycleHandler|> 
+<|java+class:///org/java/plugin/standard/StandardPluginManager|,|java+class:///org/java/plugin/PluginManager|> 
+<|java+class:///org/java/plugin/tools/ant/CheckTask|,|java+class:///org/java/plugin/tools/ant/BaseJpfTask|> 
+<|java+class:///org/java/plugin/tools/ant/DocTask|,|java+class:///org/java/plugin/tools/ant/BaseJpfTask|> 
+<|java+class:///org/java/plugin/tools/ant/PackTask|,|java+class:///org/java/plugin/tools/ant/BaseJpfTask|> 
+<|java+class:///org/java/plugin/tools/ant/PathTask|,|java+class:///org/java/plugin/tools/ant/BaseJpfTask|> 
+<|java+class:///org/java/plugin/tools/ant/SingleFilePluginTask|,|java+class:///org/java/plugin/tools/ant/BaseJpfTask|> 
+<|java+class:///org/java/plugin/tools/ant/SortTask|,|java+class:///org/java/plugin/tools/ant/BaseJpfTask|> 
+<|java+class:///org/java/plugin/tools/ant/VersionUpdateTask|,|java+class:///org/java/plugin/tools/ant/BaseJpfTask|> 
+<|java+class:///org/java/plugin/tools/mocks/MockExtension|,|java+class:///org/java/plugin/tools/mocks/MockPluginElement|> 
+<|java+class:///org/java/plugin/tools/mocks/MockExtensionPoint|,|java+class:///org/java/plugin/tools/mocks/MockPluginElement|> 
+<|java+class:///org/java/plugin/tools/mocks/MockLibrary|,|java+class:///org/java/plugin/tools/mocks/MockPluginElement|> 
+<|java+class:///org/java/plugin/tools/mocks/MockPluginDescriptor|,|java+class:///org/java/plugin/tools/mocks/MockIdentity|> 
+<|java+class:///org/java/plugin/tools/mocks/MockPluginFragment|,|java+class:///org/java/plugin/tools/mocks/MockIdentity|> 
+<|java+class:///org/java/plugin/tools/mocks/MockPluginPrerequisite|,|java+class:///org/java/plugin/tools/mocks/MockPluginElement|> 
+
+EXTERNAL REUSE TOTAL: 10 
+<|java+class:///org/java/plugin/registry/xml/ExtensionImpl|,|java+class:///org/java/plugin/registry/xml/PluginElementImpl|> 
+<|java+class:///org/java/plugin/registry/xml/ExtensionImpl/ParameterImpl|,|java+class:///org/java/plugin/registry/xml/PluginElementImpl|> 
+<|java+class:///org/java/plugin/registry/xml/ExtensionPointImpl|,|java+class:///org/java/plugin/registry/xml/PluginElementImpl|> 
+<|java+class:///org/java/plugin/registry/xml/ExtensionPointImpl/ParameterDefinitionImpl|,|java+class:///org/java/plugin/registry/xml/PluginElementImpl|> 
+<|java+class:///org/java/plugin/registry/xml/LibraryImpl|,|java+class:///org/java/plugin/registry/xml/PluginElementImpl|> 
+<|java+class:///org/java/plugin/registry/xml/PluginAttributeImpl|,|java+class:///org/java/plugin/registry/xml/PluginElementImpl|> 
+<|java+class:///org/java/plugin/registry/xml/PluginDescriptorImpl|,|java+class:///org/java/plugin/registry/xml/IdentityImpl|> 
+<|java+class:///org/java/plugin/registry/xml/PluginElementImpl|,|java+class:///org/java/plugin/registry/xml/IdentityImpl|> 
+<|java+class:///org/java/plugin/registry/xml/PluginFragmentImpl|,|java+class:///org/java/plugin/registry/xml/IdentityImpl|> 
+<|java+class:///org/java/plugin/standard/StandardPluginLifecycleHandler|,|java+class:///org/java/plugin/standard/PluginLifecycleHandler|> 
+
+SUBTYPE TOTAL: 17 
+<|java+class:///org/java/plugin/boot/ApplicationPlugin|,|java+class:///org/java/plugin/Plugin|> 
+<|java+class:///org/java/plugin/registry/xml/ExtensionImpl|,|java+class:///org/java/plugin/registry/xml/PluginElementImpl|> 
+<|java+class:///org/java/plugin/registry/xml/ExtensionImpl/ParameterImpl|,|java+class:///org/java/plugin/registry/xml/PluginElementImpl|> 
+<|java+class:///org/java/plugin/registry/xml/ExtensionPointImpl|,|java+class:///org/java/plugin/registry/xml/PluginElementImpl|> 
+<|java+class:///org/java/plugin/registry/xml/ExtensionPointImpl/ParameterDefinitionImpl|,|java+class:///org/java/plugin/registry/xml/PluginElementImpl|> 
+<|java+class:///org/java/plugin/registry/xml/LibraryImpl|,|java+class:///org/java/plugin/registry/xml/PluginElementImpl|> 
+<|java+class:///org/java/plugin/registry/xml/ManifestHandler|,|java+class:///org/java/plugin/registry/xml/BaseHandler|> 
+<|java+class:///org/java/plugin/registry/xml/ManifestInfoHandler|,|java+class:///org/java/plugin/registry/xml/BaseHandler|> 
+<|java+class:///org/java/plugin/registry/xml/ModelPluginDescriptor|,|java+class:///org/java/plugin/registry/xml/ModelPluginManifest|> 
+<|java+class:///org/java/plugin/registry/xml/ModelPluginFragment|,|java+class:///org/java/plugin/registry/xml/ModelPluginManifest|> 
+<|java+class:///org/java/plugin/registry/xml/PluginAttributeImpl|,|java+class:///org/java/plugin/registry/xml/PluginElementImpl|> 
+<|java+class:///org/java/plugin/registry/xml/PluginDescriptorImpl|,|java+class:///org/java/plugin/registry/xml/IdentityImpl|> 
+<|java+class:///org/java/plugin/registry/xml/PluginElementImpl|,|java+class:///org/java/plugin/registry/xml/IdentityImpl|> 
+<|java+class:///org/java/plugin/registry/xml/PluginFragmentImpl|,|java+class:///org/java/plugin/registry/xml/IdentityImpl|> 
+<|java+class:///org/java/plugin/standard/StandardPluginClassLoader|,|java+class:///org/java/plugin/PluginClassLoader|> 
+<|java+class:///org/java/plugin/standard/StandardPluginManager|,|java+class:///org/java/plugin/PluginManager|> 
+<|java+class:///org/java/plugin/standard/StandardPluginManager/EmptyPlugin|,|java+class:///org/java/plugin/Plugin|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 12 
+<|java+class:///org/java/plugin/registry/xml/ExtensionImpl|,|java+class:///org/java/plugin/registry/xml/PluginElementImpl|> 
+<|java+class:///org/java/plugin/registry/xml/ExtensionImpl/ParameterImpl|,|java+class:///org/java/plugin/registry/xml/PluginElementImpl|> 
+<|java+class:///org/java/plugin/registry/xml/ExtensionPointImpl|,|java+class:///org/java/plugin/registry/xml/PluginElementImpl|> 
+<|java+class:///org/java/plugin/registry/xml/ExtensionPointImpl/ParameterDefinitionImpl|,|java+class:///org/java/plugin/registry/xml/PluginElementImpl|> 
+<|java+class:///org/java/plugin/registry/xml/LibraryImpl|,|java+class:///org/java/plugin/registry/xml/PluginElementImpl|> 
+<|java+class:///org/java/plugin/registry/xml/ManifestHandler|,|java+class:///org/java/plugin/registry/xml/BaseHandler|> 
+<|java+class:///org/java/plugin/registry/xml/ManifestInfoHandler|,|java+class:///org/java/plugin/registry/xml/BaseHandler|> 
+<|java+class:///org/java/plugin/registry/xml/PluginAttributeImpl|,|java+class:///org/java/plugin/registry/xml/PluginElementImpl|> 
+<|java+class:///org/java/plugin/registry/xml/PluginDescriptorImpl|,|java+class:///org/java/plugin/registry/xml/IdentityImpl|> 
+<|java+class:///org/java/plugin/registry/xml/PluginElementImpl|,|java+class:///org/java/plugin/registry/xml/IdentityImpl|> 
+<|java+class:///org/java/plugin/registry/xml/PluginFragmentImpl|,|java+class:///org/java/plugin/registry/xml/IdentityImpl|> 
+<|java+class:///org/java/plugin/standard/StandardPluginClassLoader|,|java+class:///org/java/plugin/PluginClassLoader|> 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 10 
+<|java+class:///org/java/plugin/registry/xml/ManifestHandler|,|java+class:///org/java/plugin/registry/xml/BaseHandler|> 
+<|java+class:///org/java/plugin/registry/xml/ManifestInfoHandler|,|java+class:///org/java/plugin/registry/xml/BaseHandler|> 
+<|java+class:///org/java/plugin/standard/StandardPluginClassLoader|,|java+class:///org/java/plugin/PluginClassLoader|> 
+<|java+class:///org/java/plugin/tools/ant/CheckTask|,|java+class:///org/java/plugin/tools/ant/BaseJpfTask|> 
+<|java+class:///org/java/plugin/tools/ant/DocTask|,|java+class:///org/java/plugin/tools/ant/BaseJpfTask|> 
+<|java+class:///org/java/plugin/tools/ant/PackTask|,|java+class:///org/java/plugin/tools/ant/BaseJpfTask|> 
+<|java+class:///org/java/plugin/tools/ant/PathTask|,|java+class:///org/java/plugin/tools/ant/BaseJpfTask|> 
+<|java+class:///org/java/plugin/tools/ant/SingleFilePluginTask|,|java+class:///org/java/plugin/tools/ant/BaseJpfTask|> 
+<|java+class:///org/java/plugin/tools/ant/SortTask|,|java+class:///org/java/plugin/tools/ant/BaseJpfTask|> 
+<|java+class:///org/java/plugin/tools/ant/VersionUpdateTask|,|java+class:///org/java/plugin/tools/ant/BaseJpfTask|> 
+
+DOWNCALL TOTAL: 5 
+<|java+class:///org/java/plugin/registry/xml/PluginDescriptorImpl|,|java+class:///org/java/plugin/registry/xml/IdentityImpl|> 
+<|java+class:///org/java/plugin/registry/xml/PluginElementImpl|,|java+class:///org/java/plugin/registry/xml/IdentityImpl|> 
+<|java+class:///org/java/plugin/registry/xml/PluginFragmentImpl|,|java+class:///org/java/plugin/registry/xml/IdentityImpl|> 
+<|java+class:///org/java/plugin/standard/StandardObjectFactory|,|java+class:///org/java/plugin/ObjectFactory|> 
+<|java+class:///org/java/plugin/standard/StandardPluginManager/EmptyPlugin|,|java+class:///org/java/plugin/Plugin|> 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 1 
+<|java+class:///org/java/plugin/boot/DefaultPluginsCollector|,|java+interface:///org/java/plugin/boot/PluginsCollector|> 
+
+SUBTYPE TOTAL: 21 
+<|java+class:///org/java/plugin/boot/BootErrorHandlerGui|,|java+interface:///org/java/plugin/boot/BootErrorHandler|> 
+<|java+class:///org/java/plugin/boot/DefaultApplicationInitializer|,|java+interface:///org/java/plugin/boot/ApplicationInitializer|> 
+<|java+class:///org/java/plugin/boot/DefaultPluginsCollector|,|java+interface:///org/java/plugin/boot/PluginsCollector|> 
+<|java+class:///org/java/plugin/boot/SimpleSplashHandler|,|java+interface:///org/java/plugin/boot/SplashHandler|> 
+<|java+class:///org/java/plugin/boot/SplashHandlerWrapper|,|java+interface:///org/java/plugin/boot/SplashHandler|> 
+<|java+class:///org/java/plugin/registry/xml/DocumentationImpl|,|java+interface:///org/java/plugin/registry/Documentation|> 
+<|java+class:///org/java/plugin/registry/xml/ExtensionImpl|,|java+interface:///org/java/plugin/registry/Extension|> 
+<|java+class:///org/java/plugin/registry/xml/ExtensionImpl/ParameterImpl|,|java+interface:///org/java/plugin/registry/Extension/Parameter|> 
+<|java+class:///org/java/plugin/registry/xml/ExtensionPointImpl|,|java+interface:///org/java/plugin/registry/ExtensionPoint|> 
+<|java+class:///org/java/plugin/registry/xml/ExtensionPointImpl/ParameterDefinitionImpl|,|java+interface:///org/java/plugin/registry/ExtensionPoint/ParameterDefinition|> 
+<|java+class:///org/java/plugin/registry/xml/IntegrityChecker|,|java+interface:///org/java/plugin/registry/IntegrityCheckReport|> 
+<|java+class:///org/java/plugin/registry/xml/LibraryImpl|,|java+interface:///org/java/plugin/registry/Library|> 
+<|java+class:///org/java/plugin/registry/xml/PluginAttributeImpl|,|java+interface:///org/java/plugin/registry/PluginAttribute|> 
+<|java+class:///org/java/plugin/registry/xml/PluginDescriptorImpl|,|java+interface:///org/java/plugin/registry/PluginDescriptor|> 
+<|java+class:///org/java/plugin/registry/xml/PluginElementImpl|,|java+interface:///org/java/plugin/registry/PluginElement|> 
+<|java+class:///org/java/plugin/registry/xml/PluginFragmentImpl|,|java+interface:///org/java/plugin/registry/PluginFragment|> 
+<|java+class:///org/java/plugin/registry/xml/PluginPrerequisiteImpl|,|java+interface:///org/java/plugin/registry/PluginPrerequisite|> 
+<|java+class:///org/java/plugin/registry/xml/PluginRegistryImpl|,|java+interface:///org/java/plugin/registry/PluginRegistry|> 
+<|java+class:///org/java/plugin/registry/xml/PluginRegistryImpl/ManifestInfoImpl|,|java+interface:///org/java/plugin/registry/PluginRegistry/ManifestInfo|> 
+<|java+class:///org/java/plugin/registry/xml/PluginRegistryImpl/RegistryChangeDataImpl|,|java+interface:///org/java/plugin/registry/PluginRegistry/RegistryChangeData|> 
+<|java+class:///org/java/plugin/standard/StandardPluginLocation|,|java+interface:///org/java/plugin/PluginManager/PluginLocation|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 17 
+<|java+class:///org/java/plugin/registry/xml/ExtensionImpl|,|java+interface:///org/java/plugin/registry/Extension|> 
+<|java+class:///org/java/plugin/registry/xml/ExtensionImpl/ParameterImpl|,|java+interface:///org/java/plugin/registry/Extension/Parameter|> 
+<|java+class:///org/java/plugin/registry/xml/ExtensionPointImpl|,|java+interface:///org/java/plugin/registry/ExtensionPoint|> 
+<|java+class:///org/java/plugin/registry/xml/ExtensionPointImpl/ParameterDefinitionImpl|,|java+interface:///org/java/plugin/registry/ExtensionPoint/ParameterDefinition|> 
+<|java+class:///org/java/plugin/registry/xml/LibraryImpl|,|java+interface:///org/java/plugin/registry/Library|> 
+<|java+class:///org/java/plugin/registry/xml/PluginAttributeImpl|,|java+interface:///org/java/plugin/registry/PluginAttribute|> 
+<|java+class:///org/java/plugin/registry/xml/PluginDescriptorImpl|,|java+interface:///org/java/plugin/registry/PluginDescriptor|> 
+<|java+class:///org/java/plugin/registry/xml/PluginFragmentImpl|,|java+interface:///org/java/plugin/registry/PluginFragment|> 
+<|java+class:///org/java/plugin/tools/mocks/MockExtension|,|java+interface:///org/java/plugin/registry/Extension|> 
+<|java+class:///org/java/plugin/tools/mocks/MockExtensionPoint|,|java+interface:///org/java/plugin/registry/ExtensionPoint|> 
+<|java+class:///org/java/plugin/tools/mocks/MockLibrary|,|java+interface:///org/java/plugin/registry/Library|> 
+<|java+class:///org/java/plugin/tools/mocks/MockParameter|,|java+interface:///org/java/plugin/registry/Extension/Parameter|> 
+<|java+class:///org/java/plugin/tools/mocks/MockParameterDefinition|,|java+interface:///org/java/plugin/registry/ExtensionPoint/ParameterDefinition|> 
+<|java+class:///org/java/plugin/tools/mocks/MockPluginAttribute|,|java+interface:///org/java/plugin/registry/PluginAttribute|> 
+<|java+class:///org/java/plugin/tools/mocks/MockPluginDescriptor|,|java+interface:///org/java/plugin/registry/PluginDescriptor|> 
+<|java+class:///org/java/plugin/tools/mocks/MockPluginFragment|,|java+interface:///org/java/plugin/registry/PluginFragment|> 
+<|java+class:///org/java/plugin/tools/mocks/MockPluginPrerequisite|,|java+interface:///org/java/plugin/registry/PluginPrerequisite|> 
+
+CATEGORY TOTAL: 3 
+<|java+class:///org/java/plugin/boot/BootErrorHandlerConsole|,|java+interface:///org/java/plugin/boot/BootErrorHandler|> 
+<|java+class:///org/java/plugin/tools/mocks/MockDocumentation|,|java+interface:///org/java/plugin/registry/Documentation|> 
+<|java+class:///org/java/plugin/tools/mocks/MockPluginRegistry|,|java+interface:///org/java/plugin/registry/PluginRegistry|> 
+
+FRAMEWORK TOTAL: 0 
+
+DOWNCALL TOTAL: 0 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 17 
+<|java+interface:///org/java/plugin/registry/Extension|,|java+interface:///org/java/plugin/registry/PluginElement|> 
+<|java+interface:///org/java/plugin/registry/Extension|,|java+interface:///org/java/plugin/registry/UniqueIdentity|> 
+<|java+interface:///org/java/plugin/registry/Extension/Parameter|,|java+interface:///org/java/plugin/registry/PluginElement|> 
+<|java+interface:///org/java/plugin/registry/ExtensionPoint|,|java+interface:///org/java/plugin/registry/PluginElement|> 
+<|java+interface:///org/java/plugin/registry/ExtensionPoint|,|java+interface:///org/java/plugin/registry/UniqueIdentity|> 
+<|java+interface:///org/java/plugin/registry/ExtensionPoint/ParameterDefinition|,|java+interface:///org/java/plugin/registry/PluginElement|> 
+<|java+interface:///org/java/plugin/registry/Library|,|java+interface:///org/java/plugin/registry/PluginElement|> 
+<|java+interface:///org/java/plugin/registry/Library|,|java+interface:///org/java/plugin/registry/UniqueIdentity|> 
+<|java+interface:///org/java/plugin/registry/PluginAttribute|,|java+interface:///org/java/plugin/registry/PluginElement|> 
+<|java+interface:///org/java/plugin/registry/PluginDescriptor|,|java+interface:///org/java/plugin/registry/Documentable|> 
+<|java+interface:///org/java/plugin/registry/PluginDescriptor|,|java+interface:///org/java/plugin/registry/UniqueIdentity|> 
+<|java+interface:///org/java/plugin/registry/PluginElement|,|java+interface:///org/java/plugin/registry/Identity|> 
+<|java+interface:///org/java/plugin/registry/PluginFragment|,|java+interface:///org/java/plugin/registry/Documentable|> 
+<|java+interface:///org/java/plugin/registry/PluginFragment|,|java+interface:///org/java/plugin/registry/UniqueIdentity|> 
+<|java+interface:///org/java/plugin/registry/PluginPrerequisite|,|java+interface:///org/java/plugin/registry/PluginElement|> 
+<|java+interface:///org/java/plugin/registry/PluginPrerequisite|,|java+interface:///org/java/plugin/registry/UniqueIdentity|> 
+<|java+interface:///org/java/plugin/registry/UniqueIdentity|,|java+interface:///org/java/plugin/registry/Identity|> 
+
+SUBTYPE TOTAL: 12 
+<|java+interface:///org/java/plugin/boot/ServiceApplication|,|java+interface:///org/java/plugin/boot/Application|> 
+<|java+interface:///org/java/plugin/registry/Extension|,|java+interface:///org/java/plugin/registry/UniqueIdentity|> 
+<|java+interface:///org/java/plugin/registry/Extension/Parameter|,|java+interface:///org/java/plugin/registry/PluginElement|> 
+<|java+interface:///org/java/plugin/registry/ExtensionPoint|,|java+interface:///org/java/plugin/registry/UniqueIdentity|> 
+<|java+interface:///org/java/plugin/registry/ExtensionPoint/ParameterDefinition|,|java+interface:///org/java/plugin/registry/PluginElement|> 
+<|java+interface:///org/java/plugin/registry/Library|,|java+interface:///org/java/plugin/registry/UniqueIdentity|> 
+<|java+interface:///org/java/plugin/registry/PluginAttribute|,|java+interface:///org/java/plugin/registry/PluginElement|> 
+<|java+interface:///org/java/plugin/registry/PluginDescriptor|,|java+interface:///org/java/plugin/registry/UniqueIdentity|> 
+<|java+interface:///org/java/plugin/registry/PluginElement|,|java+interface:///org/java/plugin/registry/Identity|> 
+<|java+interface:///org/java/plugin/registry/PluginFragment|,|java+interface:///org/java/plugin/registry/UniqueIdentity|> 
+<|java+interface:///org/java/plugin/registry/PluginPrerequisite|,|java+interface:///org/java/plugin/registry/UniqueIdentity|> 
+<|java+interface:///org/java/plugin/registry/UniqueIdentity|,|java+interface:///org/java/plugin/registry/Identity|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 3 
+<|java+interface:///org/java/plugin/registry/Library|,|java+interface:///org/java/plugin/registry/PluginElement|> 
+<|java+interface:///org/java/plugin/registry/PluginDescriptor|,|java+interface:///org/java/plugin/registry/UniqueIdentity|> 
+<|java+interface:///org/java/plugin/registry/PluginElement|,|java+interface:///org/java/plugin/registry/Identity|> 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 0 
+
+DOWNCALL TOTAL: 0 
+
+
+
+

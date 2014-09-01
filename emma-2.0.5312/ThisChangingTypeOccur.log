@@ -1,0 +1,4 @@
+{
+  <<|java+class:///com/vladium/util/exit/ExitHookManager/JRE13ExitHookManager|,|java+class:///com/vladium/util/exit/ExitHookManager|>,<|project://emma-2.0.5312/core/java13/com/vladium/util/exit/ExitHookManager.java|(1290,27,<41,30>,<41,57>),|java+class:///com/vladium/util/exit/ExitHookManager/JRE13ExitHookManager|>>,
+  <<|java+class:///com/vladium/util/exit/ExitHookManager/SunJREExitHookManager|,|java+class:///com/vladium/util/exit/ExitHookManager|>,<|project://emma-2.0.5312/core/java13/com/vladium/util/exit/ExitHookManager.java|(1429,28,<45,30>,<45,58>),|java+class:///com/vladium/util/exit/ExitHookManager/SunJREExitHookManager|>>
+}

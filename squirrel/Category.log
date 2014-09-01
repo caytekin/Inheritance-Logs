@@ -1,0 +1,14 @@
+[
+  <<|java+class:///net/sourceforge/squirrel_sql/fw/datasetviewer/JavabeanDataSet|,|java+interface:///net/sourceforge/squirrel_sql/fw/datasetviewer/IDataSet|>,|java+class:///net/sourceforge/squirrel_sql/fw/sql/MetaDataDataSet|>,
+  <<|java+class:///net/sourceforge/squirrel_sql/fw/datasetviewer/EmptyDataSet|,|java+interface:///net/sourceforge/squirrel_sql/fw/datasetviewer/IDataSet|>,|java+class:///net/sourceforge/squirrel_sql/fw/sql/MetaDataDataSet|>,
+  <<|java+class:///net/sourceforge/squirrel_sql/fw/datasetviewer/JavabeanArrayDataSet|,|java+interface:///net/sourceforge/squirrel_sql/fw/datasetviewer/IDataSet|>,|java+class:///net/sourceforge/squirrel_sql/fw/sql/MetaDataDataSet|>,
+  <<|java+class:///net/sourceforge/squirrel_sql/fw/datasetviewer/ObjectArrayDataSet|,|java+interface:///net/sourceforge/squirrel_sql/fw/datasetviewer/IDataSet|>,|java+class:///net/sourceforge/squirrel_sql/fw/sql/MetaDataDataSet|>,
+  <<|java+class:///net/sourceforge/squirrel_sql/fw/datasetviewer/ResultSetMetaDataDataSet|,|java+interface:///net/sourceforge/squirrel_sql/fw/datasetviewer/IDataSet|>,|java+class:///net/sourceforge/squirrel_sql/fw/sql/MetaDataDataSet|>,
+  <<|java+class:///net/sourceforge/squirrel_sql/fw/sql/MetaDataListDataSet|,|java+interface:///net/sourceforge/squirrel_sql/fw/datasetviewer/IDataSet|>,|java+class:///net/sourceforge/squirrel_sql/fw/sql/MetaDataDataSet|>,
+  <<|java+class:///net/sourceforge/squirrel_sql/fw/sql/TableInfoDataSet|,|java+interface:///net/sourceforge/squirrel_sql/fw/datasetviewer/IDataSet|>,|java+class:///net/sourceforge/squirrel_sql/fw/sql/MetaDataDataSet|>,
+  <<|java+class:///net/sourceforge/squirrel_sql/fw/datasetviewer/HashtableDataSet|,|java+interface:///net/sourceforge/squirrel_sql/fw/datasetviewer/IDataSet|>,|java+class:///net/sourceforge/squirrel_sql/fw/sql/MetaDataDataSet|>,
+  <<|java+class:///net/sourceforge/squirrel_sql/fw/util/ListMessageHandler|,|java+interface:///net/sourceforge/squirrel_sql/fw/util/IMessageHandler|>,|java+class:///net/sourceforge/squirrel_sql/fw/util/NullMessageHandler|>,
+  <<|java+class:///net/sourceforge/squirrel_sql/fw/datasetviewer/FilterDataSet|,|java+interface:///net/sourceforge/squirrel_sql/fw/datasetviewer/IDataSet|>,|java+class:///net/sourceforge/squirrel_sql/fw/sql/MetaDataDataSet|>,
+  <<|java+class:///net/sourceforge/squirrel_sql/fw/datasetviewer/cellcomponent/BaseDataTypeComponent|,|java+interface:///net/sourceforge/squirrel_sql/fw/datasetviewer/cellcomponent/IDataTypeComponent|>,|java+class:///net/sourceforge/squirrel_sql/fw/datasetviewer/cellcomponent/DataTypeString|>,
+  <<|java+class:///net/sourceforge/squirrel_sql/fw/datasetviewer/MapDataSet|,|java+interface:///net/sourceforge/squirrel_sql/fw/datasetviewer/IDataSet|>,|java+class:///net/sourceforge/squirrel_sql/fw/sql/MetaDataDataSet|>
+]

@@ -1,0 +1,9 @@
+[
+  <<|java+class:///artofillusion/raytracer/RTImplicitObject|,|java+class:///artofillusion/raytracer/RTObject|>,|java+class:///artofillusion/raytracer/RTTriangleLowMemory|>,
+  <<|java+class:///artofillusion/texture/UVMappingViewer/UVMesh|,|java+interface:///artofillusion/object/Mesh|>,|java+class:///artofillusion/object/SplineMesh|>,
+  <<|java+class:///artofillusion/raytracer/DirectionalPhotonSource|,|java+interface:///artofillusion/raytracer/PhotonSource|>,|java+class:///artofillusion/raytracer/DisplacedTrianglePhotonSource|>,
+  <<|java+class:///artofillusion/raytracer/PointPhotonSource|,|java+interface:///artofillusion/raytracer/PhotonSource|>,|java+class:///artofillusion/raytracer/DisplacedTrianglePhotonSource|>,
+  <<|java+class:///artofillusion/raytracer/SpotlightPhotonSource|,|java+interface:///artofillusion/raytracer/PhotonSource|>,|java+class:///artofillusion/raytracer/DisplacedTrianglePhotonSource|>,
+  <<|java+class:///artofillusion/raytracer/EnvironmentPhotonSource|,|java+interface:///artofillusion/raytracer/PhotonSource|>,|java+class:///artofillusion/raytracer/DisplacedTrianglePhotonSource|>,
+  <<|java+class:///artofillusion/raytracer/CompoundPhotonSource|,|java+interface:///artofillusion/raytracer/PhotonSource|>,|java+class:///artofillusion/raytracer/DisplacedTrianglePhotonSource|>
+]

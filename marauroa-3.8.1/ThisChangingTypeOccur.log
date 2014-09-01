@@ -1,0 +1,7 @@
+{
+  <<|java+class:///marauroa/common/game/RPEvent|,|java+class:///marauroa/common/game/SlotOwner|>,<|project://marauroa-3.8.1/src/marauroa/common/game/RPEvent.java|(2912,17,<92,2>,<92,19>),|java+method:///marauroa/common/game/SlotOwner/fill(marauroa.common.game.Attributes)|>>,
+  <<|java+class:///marauroa/common/game/DefaultRPClass|,|java+class:///marauroa/common/game/RPClass|>,<|project://marauroa-3.8.1/src/marauroa/common/game/DefaultRPClass.java|(323,10,<17,2>,<17,12>),|java+constructor:///marauroa/common/game/RPClass/RPClass(java.lang.String)|>>,
+  <<|java+class:///marauroa/common/game/RPEvent|,|java+class:///marauroa/common/game/SlotOwner|>,<|project://marauroa-3.8.1/src/marauroa/common/game/RPEvent.java|(4627,22,<176,3>,<176,25>),|java+method:///marauroa/common/game/SlotOwner/deserializeRPSlots(marauroa.common.net.InputSerializer)|>>,
+  <<|java+class:///marauroa/common/game/RPObject|,|java+class:///marauroa/common/game/SlotOwner|>,<|project://marauroa-3.8.1/src/marauroa/common/game/RPObject.java|(4333,18,<155,2>,<155,20>),|java+method:///marauroa/common/game/SlotOwner/fill(marauroa.common.game.Attributes)|>>,
+  <<|java+class:///marauroa/common/game/RPObject|,|java+class:///marauroa/common/game/SlotOwner|>,<|project://marauroa-3.8.1/src/marauroa/common/game/RPObject.java|(24372,22,<1014,2>,<1014,24>),|java+method:///marauroa/common/game/SlotOwner/deserializeRPSlots(marauroa.common.net.InputSerializer)|>>
+}

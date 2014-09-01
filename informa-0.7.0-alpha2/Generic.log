@@ -1,0 +1,7 @@
+[
+  <<|java+interface:///de/nava/informa/core/ItemEnclosureIF|,|java+interface:///java/io/Serializable|>,{|java+interface:///de/nava/informa/core/WithLocationMIF|},|project://informa-0.7.0-alpha2/src/de/nava/informa/impl/hibernate/ChannelUpdatePeriodUserType.java|(2290,20,<83,11>,<83,31>)>,
+  <<|java+class:///de/nava/informa/impl/hibernate/TestInformaPersistence|,|java+interface:///de/nava/informa/core/ChannelObserverIF|>,{|java+class:///de/nava/informa/utils/InformaTestCase|},|project://informa-0.7.0-alpha2/src/de/nava/informa/impl/hibernate/Channel.java|(16225,29,<671,28>,<671,57>)>,
+  <<|java+class:///de/nava/informa/impl/hibernate/TestInformaPersistence|,|java+interface:///de/nava/informa/core/ChannelObserverIF|>,{|java+class:///de/nava/informa/utils/InformaTestCase|},|project://informa-0.7.0-alpha2/src/de/nava/informa/impl/hibernate/Channel.java|(16529,29,<683,28>,<683,57>)>,
+  <<|java+class:///de/nava/informa/impl/hibernate/TestInformaPersistence|,|java+interface:///de/nava/informa/core/ChannelObserverIF|>,{|java+class:///de/nava/informa/utils/InformaTestCase|},|project://informa-0.7.0-alpha2/src/de/nava/informa/impl/basic/Channel.java|(12524,29,<507,28>,<507,57>)>,
+  <<|java+class:///de/nava/informa/impl/hibernate/TestInformaPersistence|,|java+interface:///de/nava/informa/core/ChannelObserverIF|>,{|java+class:///de/nava/informa/utils/InformaTestCase|},|project://informa-0.7.0-alpha2/src/de/nava/informa/impl/basic/Channel.java|(12829,29,<519,28>,<519,57>)>
+]

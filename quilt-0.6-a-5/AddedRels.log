@@ -1,0 +1,17 @@
+{
+  <<|java+class:///org/quilt/frontend/ant/BatchTest|,|java+class:///org/quilt/framework/QuiltTest|>,2,|java+class:///java/lang/Object|>,
+  <<|java+class:///org/quilt/graph/Entry|,|java+class:///org/quilt/graph/Vertex|>,2,|java+class:///java/lang/Object|>,
+  <<|java+interface:///org/quilt/reports/Formatter|,|java+interface:///junit/framework/TestListener|>,2,|java+class:///java/lang/Object|>,
+  <<|java+class:///org/quilt/cl/QuiltClassLoader|,|java+class:///java/net/URLClassLoader|>,2,|java+class:///java/lang/Object|>,
+  <<|java+class:///org/quilt/cl/ControlFlowGraph|,|java+class:///org/quilt/graph/Directed|>,2,|java+class:///java/lang/Object|>,
+  <<|java+class:///org/quilt/cl/QuiltClassLoader|,|java+class:///java/net/URLClassLoader|>,2,|java+class:///java/lang/ClassLoader|>,
+  <<|java+class:///org/quilt/cl/TestClassFactory/CFClassLoader|,|java+class:///java/net/URLClassLoader|>,2,|java+class:///java/lang/ClassLoader|>,
+  <<|java+class:///org/quilt/cover/stmt/CounterVertex|,|java+class:///org/quilt/cl/CodeVertex|>,2,|java+class:///org/quilt/graph/Vertex|>,
+  <<|java+class:///org/quilt/runner/BaseTestRunner|,|java+class:///org/quilt/runner/Runner|>,2,|java+interface:///junit/framework/TestListener|>,
+  <<|java+class:///org/quilt/graph/Exit|,|java+class:///org/quilt/graph/Vertex|>,2,|java+class:///java/lang/Object|>,
+  <<|java+class:///org/quilt/cl/CodeVertex|,|java+class:///org/quilt/graph/Vertex|>,2,|java+class:///java/lang/Object|>,
+  <<|java+class:///org/quilt/reg/QuiltRegistry|,|java+class:///org/quilt/reg/Registry|>,2,|java+class:///java/lang/Object|>,
+  <<|java+class:///org/quilt/cl/CodeVertex|,|java+class:///org/quilt/graph/Vertex|>,2,|java+class:///org/quilt/graph/Vertex|>,
+  <<|java+class:///org/quilt/cover/stmt/StmtRegistry|,|java+class:///org/quilt/reg/QuiltRegistry|>,2,|java+class:///java/lang/Object|>,
+  <<|java+class:///org/quilt/runner/Runner|,|java+interface:///junit/framework/TestListener|>,2,|java+interface:///junit/framework/TestListener|>
+}

@@ -1,0 +1,5 @@
+[
+  <<|java+class:///proguard/classfile/attribute/LocalVariableTypeInfo|,|java+interface:///proguard/classfile/VisitorAccepter|>,{|java+interface:///java/lang/Comparable|},|project://proguard-4.9/src/proguard/classfile/util/MethodLinker.java|(5157,53,<155,34>,<155,87>)>,
+  <<|java+class:///proguard/classfile/ProgramMethod|,|java+class:///proguard/classfile/ProgramMember|>,{|java+interface:///proguard/classfile/Method|},|project://proguard-4.9/src/proguard/classfile/editor/ClassMemberSorter.java|(1845,22,<58,32>,<58,54>)>,
+  <<|java+class:///proguard/classfile/ProgramMethod|,|java+class:///proguard/classfile/ProgramMember|>,{|java+interface:///proguard/classfile/Method|},|project://proguard-4.9/src/proguard/classfile/editor/ClassMemberSorter.java|(1901,22,<59,32>,<59,54>)>
+]

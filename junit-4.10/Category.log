@@ -1,0 +1,10 @@
+[
+  <<|java+class:///org/junit/experimental/theories/internal/AllMembersSupplier/MethodParameterValue|,|java+class:///org/junit/experimental/theories/PotentialAssignment|>,|java+anonymousClass:///org/junit/experimental/theories/PotentialAssignment/forValue(java/lang/String,java/lang/Object)/$anonymous1|>,
+  <<|java+class:///org/junit/experimental/theories/suppliers/TestedOnSupplier|,|java+class:///org/junit/experimental/theories/ParameterSupplier|>,|java+class:///org/junit/experimental/theories/internal/AllMembersSupplier|>,
+  <<|java+class:///junit/runner/BaseTestRunner|,|java+interface:///junit/framework/TestListener|>,|java+class:///org/junit/internal/runners/JUnit38ClassRunner/OldTestClassAdaptingListener|>,
+  <<|java+class:///org/junit/internal/runners/JUnit4ClassRunner|,|java+interface:///org/junit/runner/manipulation/Sortable|>,|java+class:///junit/framework/JUnit4TestAdapter|>,
+  <<|java+class:///org/junit/runners/ParentRunner|,|java+interface:///org/junit/runner/manipulation/Filterable|>,|java+class:///junit/framework/JUnit4TestAdapter|>,
+  <<|java+class:///org/junit/runner/Runner|,|java+interface:///org/junit/runner/Describable|>,|java+class:///junit/framework/JUnit4TestCaseFacade|>,
+  <<|java+class:///org/junit/internal/runners/JUnit38ClassRunner|,|java+interface:///org/junit/runner/manipulation/Sortable|>,|java+class:///junit/framework/JUnit4TestAdapter|>,
+  <<|java+class:///org/junit/internal/runners/JUnit38ClassRunner|,|java+interface:///org/junit/runner/manipulation/Filterable|>,|java+class:///junit/framework/JUnit4TestAdapter|>
+]

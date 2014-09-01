@@ -1,0 +1,328 @@
+RESULTS LOG: 
+INTERNAL REUSE TOTAL: 45 
+<|java+class:///org/columba/core/command/CompoundCommand|,|java+class:///org/columba/core/command/Command|> 
+<|java+class:///org/columba/core/command/Worker|,|java+class:///org/columba/core/base/SwingWorker|> 
+<|java+class:///org/columba/core/config/DefaultXmlConfig|,|java+class:///org/columba/core/xml/XmlIO|> 
+<|java+class:///org/columba/core/config/OptionsXmlConfig|,|java+class:///org/columba/core/config/DefaultXmlConfig|> 
+<|java+class:///org/columba/core/filter/Filter|,|java+class:///org/columba/core/config/DefaultItem|> 
+<|java+class:///org/columba/core/filter/FilterAction|,|java+class:///org/columba/core/config/DefaultItem|> 
+<|java+class:///org/columba/core/filter/FilterActionList|,|java+class:///org/columba/core/config/DefaultItem|> 
+<|java+class:///org/columba/core/filter/FilterCriteria|,|java+class:///org/columba/core/config/DefaultItem|> 
+<|java+class:///org/columba/core/filter/FilterList|,|java+class:///org/columba/core/config/DefaultItem|> 
+<|java+class:///org/columba/core/filter/FilterRule|,|java+class:///org/columba/core/config/DefaultItem|> 
+<|java+class:///org/columba/core/gui/globalactions/CancelAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/CloseAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/CopyAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/CutAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/DeleteAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/ExitAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/FindAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/GlobalOptionsAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/OpenNewAddressbookWindowAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/OpenProfileManagerDialogAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/PasteAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/RedoAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/ShowContextSpecificHelpAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/SwitchPerspectiveSubmenu|,|java+class:///org/columba/core/gui/menu/IMenu|> 
+<|java+class:///org/columba/core/gui/globalactions/UndoAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/ViewFolderInfoPanelAction|,|java+class:///org/columba/core/gui/action/AbstractSelectableAction|> 
+<|java+class:///org/columba/core/gui/globalactions/ViewToolbarAction|,|java+class:///org/columba/core/gui/action/AbstractSelectableAction|> 
+<|java+class:///org/columba/core/gui/globalactions/WorkOfflineAction|,|java+class:///org/columba/core/gui/action/AbstractSelectableAction|> 
+<|java+class:///org/columba/core/io/StreamCacheCopyStream|,|java+class:///org/columba/core/io/PassiveCopyStream|> 
+<|java+class:///org/columba/core/pluginhandler/ActionExtensionHandler|,|java+class:///org/columba/core/plugin/ExtensionHandler|> 
+<|java+class:///org/columba/core/pluginhandler/ComponentExtensionHandler|,|java+class:///org/columba/core/plugin/ExtensionHandler|> 
+<|java+class:///org/columba/core/pluginhandler/ConfigExtensionHandler|,|java+class:///org/columba/core/plugin/ExtensionHandler|> 
+<|java+class:///org/columba/core/pluginhandler/ExternalToolsExtensionHandler|,|java+class:///org/columba/core/plugin/ExtensionHandler|> 
+<|java+class:///org/columba/core/pluginhandler/FrameExtensionHandler|,|java+class:///org/columba/core/plugin/ExtensionHandler|> 
+<|java+class:///org/columba/core/pluginhandler/HTMLViewerExtensionHandler|,|java+class:///org/columba/core/plugin/ExtensionHandler|> 
+<|java+class:///org/columba/core/pluginhandler/ThemeExtensionHandler|,|java+class:///org/columba/core/plugin/ExtensionHandler|> 
+<|java+class:///org/columba/core/pluginhandler/ViewExtensionHandler|,|java+class:///org/columba/core/plugin/ExtensionHandler|> 
+<|java+class:///org/columba/core/print/cCmUnit|,|java+class:///org/columba/core/print/cUnit|> 
+<|java+class:///org/columba/core/print/cHGroup|,|java+class:///org/columba/core/print/cPrintObject|> 
+<|java+class:///org/columba/core/print/cHTMLPart|,|java+class:///org/columba/core/print/cPrintObject|> 
+<|java+class:///org/columba/core/print/cLine|,|java+class:///org/columba/core/print/cPrintObject|> 
+<|java+class:///org/columba/core/print/cParagraph|,|java+class:///org/columba/core/print/cPrintObject|> 
+<|java+class:///org/columba/core/print/cPointUnit|,|java+class:///org/columba/core/print/cUnit|> 
+<|java+class:///org/columba/core/print/cPrintVariable|,|java+class:///org/columba/core/print/cParagraph|> 
+<|java+class:///org/columba/core/print/cVGroup|,|java+class:///org/columba/core/print/cPrintObject|> 
+
+EXTERNAL REUSE TOTAL: 17 
+<|java+class:///org/columba/core/command/Worker|,|java+class:///org/columba/core/base/SwingWorker|> 
+<|java+class:///org/columba/core/config/DefaultXmlConfig|,|java+class:///org/columba/core/xml/XmlIO|> 
+<|java+class:///org/columba/core/config/GuiItem|,|java+class:///org/columba/core/config/DefaultItem|> 
+<|java+class:///org/columba/core/config/ViewItem|,|java+class:///org/columba/core/config/DefaultItem|> 
+<|java+class:///org/columba/core/filter/Filter|,|java+class:///org/columba/core/config/DefaultItem|> 
+<|java+class:///org/columba/core/filter/FilterCriteria|,|java+class:///org/columba/core/config/DefaultItem|> 
+<|java+class:///org/columba/core/gui/action/AbstractSelectableAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/pluginhandler/ActionExtensionHandler|,|java+class:///org/columba/core/plugin/ExtensionHandler|> 
+<|java+class:///org/columba/core/pluginhandler/ComponentExtensionHandler|,|java+class:///org/columba/core/plugin/ExtensionHandler|> 
+<|java+class:///org/columba/core/pluginhandler/ConfigExtensionHandler|,|java+class:///org/columba/core/plugin/ExtensionHandler|> 
+<|java+class:///org/columba/core/pluginhandler/ExternalToolsExtensionHandler|,|java+class:///org/columba/core/plugin/ExtensionHandler|> 
+<|java+class:///org/columba/core/pluginhandler/FrameExtensionHandler|,|java+class:///org/columba/core/plugin/ExtensionHandler|> 
+<|java+class:///org/columba/core/pluginhandler/HTMLViewerExtensionHandler|,|java+class:///org/columba/core/plugin/ExtensionHandler|> 
+<|java+class:///org/columba/core/pluginhandler/ThemeExtensionHandler|,|java+class:///org/columba/core/plugin/ExtensionHandler|> 
+<|java+class:///org/columba/core/pluginhandler/ViewExtensionHandler|,|java+class:///org/columba/core/plugin/ExtensionHandler|> 
+<|java+class:///org/columba/core/print/cCmUnit|,|java+class:///org/columba/core/print/cUnit|> 
+<|java+class:///org/columba/core/print/cPrintVariable|,|java+class:///org/columba/core/print/cParagraph|> 
+
+SUBTYPE TOTAL: 20 
+<|java+class:///org/columba/core/command/Worker|,|java+class:///org/columba/core/base/SwingWorker|> 
+<|java+class:///org/columba/core/config/DefaultXmlConfig|,|java+class:///org/columba/core/xml/XmlIO|> 
+<|java+class:///org/columba/core/config/OptionsXmlConfig|,|java+class:///org/columba/core/config/DefaultXmlConfig|> 
+<|java+class:///org/columba/core/gui/action/AbstractSelectableAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/menu/ExtendableMenu|,|java+class:///org/columba/core/gui/base/CMenu|> 
+<|java+class:///org/columba/core/gui/menu/IMenu|,|java+class:///org/columba/core/gui/base/CMenu|> 
+<|java+class:///org/columba/core/gui/menu/MenuTest/TestAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/toolbar/ImageSequenceTimer|,|java+class:///org/columba/core/gui/toolbar/ToolBarButton|> 
+<|java+class:///org/columba/core/io/StreamCacheCopyStream|,|java+class:///org/columba/core/io/PassiveCopyStream|> 
+<|java+class:///org/columba/core/pluginhandler/ActionExtensionHandler|,|java+class:///org/columba/core/plugin/ExtensionHandler|> 
+<|java+class:///org/columba/core/pluginhandler/ComponentExtensionHandler|,|java+class:///org/columba/core/plugin/ExtensionHandler|> 
+<|java+class:///org/columba/core/pluginhandler/ConfigExtensionHandler|,|java+class:///org/columba/core/plugin/ExtensionHandler|> 
+<|java+class:///org/columba/core/pluginhandler/ExternalToolsExtensionHandler|,|java+class:///org/columba/core/plugin/ExtensionHandler|> 
+<|java+class:///org/columba/core/pluginhandler/FrameExtensionHandler|,|java+class:///org/columba/core/plugin/ExtensionHandler|> 
+<|java+class:///org/columba/core/pluginhandler/ThemeExtensionHandler|,|java+class:///org/columba/core/plugin/ExtensionHandler|> 
+<|java+class:///org/columba/core/print/cCmUnit|,|java+class:///org/columba/core/print/cUnit|> 
+<|java+class:///org/columba/core/print/cHTMLPart|,|java+class:///org/columba/core/print/cPrintObject|> 
+<|java+class:///org/columba/core/print/cParagraph|,|java+class:///org/columba/core/print/cPrintObject|> 
+<|java+class:///org/columba/core/print/cPointUnit|,|java+class:///org/columba/core/print/cUnit|> 
+<|java+class:///org/columba/core/print/cPrintVariable|,|java+class:///org/columba/core/print/cParagraph|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 71 
+<|java+class:///org/columba/core/command/CompoundCommand|,|java+class:///org/columba/core/command/Command|> 
+<|java+class:///org/columba/core/command/Worker|,|java+class:///org/columba/core/base/SwingWorker|> 
+<|java+class:///org/columba/core/config/GuiItem|,|java+class:///org/columba/core/config/DefaultItem|> 
+<|java+class:///org/columba/core/config/OptionsXmlConfig|,|java+class:///org/columba/core/config/DefaultXmlConfig|> 
+<|java+class:///org/columba/core/config/ViewItem|,|java+class:///org/columba/core/config/DefaultItem|> 
+<|java+class:///org/columba/core/filter/Filter|,|java+class:///org/columba/core/config/DefaultItem|> 
+<|java+class:///org/columba/core/filter/FilterAction|,|java+class:///org/columba/core/config/DefaultItem|> 
+<|java+class:///org/columba/core/filter/FilterActionList|,|java+class:///org/columba/core/config/DefaultItem|> 
+<|java+class:///org/columba/core/filter/FilterCriteria|,|java+class:///org/columba/core/config/DefaultItem|> 
+<|java+class:///org/columba/core/filter/FilterList|,|java+class:///org/columba/core/config/DefaultItem|> 
+<|java+class:///org/columba/core/filter/FilterRule|,|java+class:///org/columba/core/config/DefaultItem|> 
+<|java+class:///org/columba/core/gui/action/AbstractSelectableAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/externaltools/ASpellPlugin|,|java+class:///org/columba/core/gui/externaltools/AbstractExternalToolsPlugin|> 
+<|java+class:///org/columba/core/gui/externaltools/GPGPlugin|,|java+class:///org/columba/core/gui/externaltools/AbstractExternalToolsPlugin|> 
+<|java+class:///org/columba/core/gui/globalactions/AboutDialogAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/CancelAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/CloseAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/CopyAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/CutAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/DeleteAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/DonateAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/ExitAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/FindAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/FindAgainAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/GlobalOptionsAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/OpenExternalToolsDialogAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/OpenNewAddressbookWindowAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/OpenNewMailWindowAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/OpenNewWindowSubmenu|,|java+class:///org/columba/core/gui/menu/IMenu|> 
+<|java+class:///org/columba/core/gui/globalactions/OpenProfileManagerDialogAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/PasteAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/PluginManagerAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/PrintSetupAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/RedoAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/SelectAllAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/ShowBugDatabaseAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/ShowContextSpecificHelpAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/ShowFAQAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/ShowHelpAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/ShowHomepageAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/ShowLicenseAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/ShowProjectPageAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/SwitchPerspectiveSubmenu|,|java+class:///org/columba/core/gui/menu/IMenu|> 
+<|java+class:///org/columba/core/gui/globalactions/UndoAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/ViewFolderInfoPanelAction|,|java+class:///org/columba/core/gui/action/AbstractSelectableAction|> 
+<|java+class:///org/columba/core/gui/globalactions/ViewLogAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/ViewToolbarAction|,|java+class:///org/columba/core/gui/action/AbstractSelectableAction|> 
+<|java+class:///org/columba/core/gui/globalactions/WorkOfflineAction|,|java+class:///org/columba/core/gui/action/AbstractSelectableAction|> 
+<|java+class:///org/columba/core/gui/menu/ExtendableMenu|,|java+class:///org/columba/core/gui/base/CMenu|> 
+<|java+class:///org/columba/core/gui/menu/IMenu|,|java+class:///org/columba/core/gui/base/CMenu|> 
+<|java+class:///org/columba/core/gui/menu/MenuTest/TestAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/themes/plugin/GtkLookAndFeelPlugin|,|java+class:///org/columba/core/gui/themes/plugin/AbstractThemePlugin|> 
+<|java+class:///org/columba/core/gui/themes/plugin/MacLookAndFeelPlugin|,|java+class:///org/columba/core/gui/themes/plugin/AbstractThemePlugin|> 
+<|java+class:///org/columba/core/gui/themes/plugin/MetalLookAndFeelPlugin|,|java+class:///org/columba/core/gui/themes/plugin/AbstractThemePlugin|> 
+<|java+class:///org/columba/core/gui/themes/plugin/MotifLookAndFeelPlugin|,|java+class:///org/columba/core/gui/themes/plugin/AbstractThemePlugin|> 
+<|java+class:///org/columba/core/gui/themes/plugin/PlasticLookAndFeelConfigPlugin|,|java+class:///org/columba/core/gui/plugin/AbstractConfigPlugin|> 
+<|java+class:///org/columba/core/gui/themes/plugin/PlasticLookAndFeelPlugin|,|java+class:///org/columba/core/gui/themes/plugin/AbstractThemePlugin|> 
+<|java+class:///org/columba/core/gui/themes/plugin/WindowsLookAndFeelPlugin|,|java+class:///org/columba/core/gui/themes/plugin/AbstractThemePlugin|> 
+<|java+class:///org/columba/core/gui/toolbar/ImageSequenceTimer|,|java+class:///org/columba/core/gui/toolbar/ToolBarButton|> 
+<|java+class:///org/columba/core/io/StreamCacheCopyStream|,|java+class:///org/columba/core/io/PassiveCopyStream|> 
+<|java+class:///org/columba/core/pluginhandler/ActionExtensionHandler|,|java+class:///org/columba/core/plugin/ExtensionHandler|> 
+<|java+class:///org/columba/core/pluginhandler/ComponentExtensionHandler|,|java+class:///org/columba/core/plugin/ExtensionHandler|> 
+<|java+class:///org/columba/core/pluginhandler/ConfigExtensionHandler|,|java+class:///org/columba/core/plugin/ExtensionHandler|> 
+<|java+class:///org/columba/core/pluginhandler/ExternalToolsExtensionHandler|,|java+class:///org/columba/core/plugin/ExtensionHandler|> 
+<|java+class:///org/columba/core/pluginhandler/FrameExtensionHandler|,|java+class:///org/columba/core/plugin/ExtensionHandler|> 
+<|java+class:///org/columba/core/pluginhandler/HTMLViewerExtensionHandler|,|java+class:///org/columba/core/plugin/ExtensionHandler|> 
+<|java+class:///org/columba/core/pluginhandler/ThemeExtensionHandler|,|java+class:///org/columba/core/plugin/ExtensionHandler|> 
+<|java+class:///org/columba/core/pluginhandler/ViewExtensionHandler|,|java+class:///org/columba/core/plugin/ExtensionHandler|> 
+<|java+class:///org/columba/core/print/cHTMLPart|,|java+class:///org/columba/core/print/cPrintObject|> 
+<|java+class:///org/columba/core/print/cLine|,|java+class:///org/columba/core/print/cPrintObject|> 
+<|java+class:///org/columba/core/print/cParagraph|,|java+class:///org/columba/core/print/cPrintObject|> 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 66 
+<|java+class:///org/columba/core/command/CompoundCommand|,|java+class:///org/columba/core/command/Command|> 
+<|java+class:///org/columba/core/config/DefaultXmlConfig|,|java+class:///org/columba/core/xml/XmlIO|> 
+<|java+class:///org/columba/core/config/GuiItem|,|java+class:///org/columba/core/config/DefaultItem|> 
+<|java+class:///org/columba/core/config/ViewItem|,|java+class:///org/columba/core/config/DefaultItem|> 
+<|java+class:///org/columba/core/filter/Filter|,|java+class:///org/columba/core/config/DefaultItem|> 
+<|java+class:///org/columba/core/filter/FilterAction|,|java+class:///org/columba/core/config/DefaultItem|> 
+<|java+class:///org/columba/core/filter/FilterActionList|,|java+class:///org/columba/core/config/DefaultItem|> 
+<|java+class:///org/columba/core/filter/FilterCriteria|,|java+class:///org/columba/core/config/DefaultItem|> 
+<|java+class:///org/columba/core/filter/FilterList|,|java+class:///org/columba/core/config/DefaultItem|> 
+<|java+class:///org/columba/core/filter/FilterRule|,|java+class:///org/columba/core/config/DefaultItem|> 
+<|java+class:///org/columba/core/gui/action/AbstractSelectableAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/externaltools/ASpellPlugin|,|java+class:///org/columba/core/gui/externaltools/AbstractExternalToolsPlugin|> 
+<|java+class:///org/columba/core/gui/externaltools/GPGPlugin|,|java+class:///org/columba/core/gui/externaltools/AbstractExternalToolsPlugin|> 
+<|java+class:///org/columba/core/gui/globalactions/AboutDialogAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/CancelAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/CloseAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/CopyAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/CutAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/DeleteAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/DonateAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/ExitAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/FindAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/FindAgainAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/GlobalOptionsAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/OpenExternalToolsDialogAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/OpenNewAddressbookWindowAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/OpenNewMailWindowAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/OpenNewWindowSubmenu|,|java+class:///org/columba/core/gui/menu/IMenu|> 
+<|java+class:///org/columba/core/gui/globalactions/OpenProfileManagerDialogAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/PasteAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/PluginManagerAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/PrintSetupAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/RedoAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/SelectAllAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/ShowBugDatabaseAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/ShowContextSpecificHelpAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/ShowFAQAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/ShowHelpAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/ShowHomepageAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/ShowLicenseAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/ShowProjectPageAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/SwitchPerspectiveSubmenu|,|java+class:///org/columba/core/gui/menu/IMenu|> 
+<|java+class:///org/columba/core/gui/globalactions/UndoAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/globalactions/ViewLogAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/menu/ExtendableMenu|,|java+class:///org/columba/core/gui/base/CMenu|> 
+<|java+class:///org/columba/core/gui/menu/IMenu|,|java+class:///org/columba/core/gui/base/CMenu|> 
+<|java+class:///org/columba/core/gui/menu/MenuTest/TestAction|,|java+class:///org/columba/core/gui/action/AbstractColumbaAction|> 
+<|java+class:///org/columba/core/gui/themes/plugin/GtkLookAndFeelPlugin|,|java+class:///org/columba/core/gui/themes/plugin/AbstractThemePlugin|> 
+<|java+class:///org/columba/core/gui/themes/plugin/MacLookAndFeelPlugin|,|java+class:///org/columba/core/gui/themes/plugin/AbstractThemePlugin|> 
+<|java+class:///org/columba/core/gui/themes/plugin/MetalLookAndFeelPlugin|,|java+class:///org/columba/core/gui/themes/plugin/AbstractThemePlugin|> 
+<|java+class:///org/columba/core/gui/themes/plugin/MotifLookAndFeelPlugin|,|java+class:///org/columba/core/gui/themes/plugin/AbstractThemePlugin|> 
+<|java+class:///org/columba/core/gui/themes/plugin/PlasticLookAndFeelConfigPlugin|,|java+class:///org/columba/core/gui/plugin/AbstractConfigPlugin|> 
+<|java+class:///org/columba/core/gui/themes/plugin/PlasticLookAndFeelPlugin|,|java+class:///org/columba/core/gui/themes/plugin/AbstractThemePlugin|> 
+<|java+class:///org/columba/core/gui/themes/plugin/WindowsLookAndFeelPlugin|,|java+class:///org/columba/core/gui/themes/plugin/AbstractThemePlugin|> 
+<|java+class:///org/columba/core/gui/toolbar/ImageSequenceTimer|,|java+class:///org/columba/core/gui/toolbar/ToolBarButton|> 
+<|java+class:///org/columba/core/io/StreamCacheCopyStream|,|java+class:///org/columba/core/io/PassiveCopyStream|> 
+<|java+class:///org/columba/core/pluginhandler/ActionExtensionHandler|,|java+class:///org/columba/core/plugin/ExtensionHandler|> 
+<|java+class:///org/columba/core/pluginhandler/ComponentExtensionHandler|,|java+class:///org/columba/core/plugin/ExtensionHandler|> 
+<|java+class:///org/columba/core/pluginhandler/ConfigExtensionHandler|,|java+class:///org/columba/core/plugin/ExtensionHandler|> 
+<|java+class:///org/columba/core/pluginhandler/ExternalToolsExtensionHandler|,|java+class:///org/columba/core/plugin/ExtensionHandler|> 
+<|java+class:///org/columba/core/pluginhandler/FrameExtensionHandler|,|java+class:///org/columba/core/plugin/ExtensionHandler|> 
+<|java+class:///org/columba/core/pluginhandler/HTMLViewerExtensionHandler|,|java+class:///org/columba/core/plugin/ExtensionHandler|> 
+<|java+class:///org/columba/core/pluginhandler/ThemeExtensionHandler|,|java+class:///org/columba/core/plugin/ExtensionHandler|> 
+<|java+class:///org/columba/core/pluginhandler/ViewExtensionHandler|,|java+class:///org/columba/core/plugin/ExtensionHandler|> 
+<|java+class:///org/columba/core/print/cCmUnit|,|java+class:///org/columba/core/print/cUnit|> 
+<|java+class:///org/columba/core/print/cPointUnit|,|java+class:///org/columba/core/print/cUnit|> 
+
+DOWNCALL TOTAL: 9 
+<|java+class:///org/columba/core/command/CompoundCommand|,|java+class:///org/columba/core/command/Command|> 
+<|java+class:///org/columba/core/command/Worker|,|java+class:///org/columba/core/base/SwingWorker|> 
+<|java+class:///org/columba/core/print/cCmUnit|,|java+class:///org/columba/core/print/cUnit|> 
+<|java+class:///org/columba/core/print/cHGroup|,|java+class:///org/columba/core/print/cPrintObject|> 
+<|java+class:///org/columba/core/print/cHTMLPart|,|java+class:///org/columba/core/print/cPrintObject|> 
+<|java+class:///org/columba/core/print/cLine|,|java+class:///org/columba/core/print/cPrintObject|> 
+<|java+class:///org/columba/core/print/cParagraph|,|java+class:///org/columba/core/print/cPrintObject|> 
+<|java+class:///org/columba/core/print/cPointUnit|,|java+class:///org/columba/core/print/cUnit|> 
+<|java+class:///org/columba/core/print/cVGroup|,|java+class:///org/columba/core/print/cPrintObject|> 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 0 
+
+SUBTYPE TOTAL: 8 
+<|java+class:///org/columba/core/gui/globalactions/CancelAction|,|java+interface:///org/columba/core/command/TaskManagerListener|> 
+<|java+class:///org/columba/core/gui/menu/MenuElement|,|java+interface:///org/columba/core/gui/menu/IMenuElement|> 
+<|java+class:///org/columba/core/gui/profiles/ProfileManager|,|java+interface:///org/columba/core/gui/profiles/IProfileManager|> 
+<|java+class:///org/columba/core/gui/statusbar/StatusBar|,|java+interface:///org/columba/core/command/TaskManagerListener|> 
+<|java+class:///org/columba/core/gui/statusbar/TaskManagerDialog|,|java+interface:///org/columba/core/command/TaskManagerListener|> 
+<|java+class:///org/columba/core/gui/toolbar/ImageSequenceTimer|,|java+interface:///org/columba/core/command/TaskManagerListener|> 
+<|java+class:///org/columba/core/gui/trayicon/DefaultTrayIcon|,|java+interface:///org/columba/core/gui/trayicon/TrayIconInterface|> 
+<|java+class:///org/columba/core/gui/trayicon/JDICTrayIcon|,|java+interface:///org/columba/core/gui/trayicon/TrayIconInterface|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 2 
+<|java+class:///org/columba/core/gui/statusbar/StatusBar|,|java+interface:///org/columba/core/command/TaskManagerListener|> 
+<|java+class:///org/columba/core/gui/toolbar/ImageSequenceTimer|,|java+interface:///org/columba/core/command/TaskManagerListener|> 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 8 
+<|java+class:///org/columba/core/component/ComponentManager|,|java+interface:///org/columba/core/component/IComponentPlugin|> 
+<|java+class:///org/columba/core/folder/DefaultFolderCommandReference|,|java+interface:///org/columba/core/folder/IFolderCommandReference|> 
+<|java+class:///org/columba/core/gui/globalactions/CancelAction|,|java+interface:///org/columba/core/command/TaskManagerListener|> 
+<|java+class:///org/columba/core/gui/htmlviewer/JDICHTMLViewerPlugin|,|java+interface:///org/columba/core/gui/htmlviewer/IHTMLViewerPlugin|> 
+<|java+class:///org/columba/core/gui/htmlviewer/JavaHTMLViewerPlugin|,|java+interface:///org/columba/core/gui/htmlviewer/IHTMLViewerPlugin|> 
+<|java+class:///org/columba/core/gui/statusbar/StatusBar|,|java+interface:///org/columba/core/command/TaskManagerListener|> 
+<|java+class:///org/columba/core/gui/statusbar/TaskManagerDialog|,|java+interface:///org/columba/core/command/TaskManagerListener|> 
+<|java+class:///org/columba/core/gui/toolbar/ImageSequenceTimer|,|java+interface:///org/columba/core/command/TaskManagerListener|> 
+
+DOWNCALL TOTAL: 0 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 0 
+
+SUBTYPE TOTAL: 0 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 0 
+
+DOWNCALL TOTAL: 0 
+
+
+
+

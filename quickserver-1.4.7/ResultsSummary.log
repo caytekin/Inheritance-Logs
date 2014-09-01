@@ -1,0 +1,203 @@
+RESULTS LOG: 
+INTERNAL REUSE TOTAL: 13 
+<|java+class:///echoserver/EchoServerQuickAuthenticator|,|java+class:///org/quickserver/net/server/QuickAuthenticator|> 
+<|java+class:///ftpserver/Authenticator|,|java+class:///org/quickserver/net/server/QuickAuthenticator|> 
+<|java+class:///org/quickserver/net/server/impl/BlockingClientHandler|,|java+class:///org/quickserver/net/server/impl/BasicClientHandler|> 
+<|java+class:///org/quickserver/net/server/impl/NonBlockingClientHandler|,|java+class:///org/quickserver/net/server/impl/BasicClientHandler|> 
+<|java+class:///org/quickserver/net/server/impl/OptimisticClientIdentifier|,|java+class:///org/quickserver/net/server/impl/BasicClientIdentifier|> 
+<|java+class:///org/quickserver/net/server/impl/SyncClientIdentifier|,|java+class:///org/quickserver/net/server/impl/BasicClientIdentifier|> 
+<|java+class:///org/quickserver/util/xmlreader/ByteBufferObjectPoolConfig|,|java+class:///org/quickserver/util/xmlreader/PoolConfig|> 
+<|java+class:///org/quickserver/util/xmlreader/ClientDataObjectPoolConfig|,|java+class:///org/quickserver/util/xmlreader/PoolConfig|> 
+<|java+class:///org/quickserver/util/xmlreader/ClientHandlerObjectPoolConfig|,|java+class:///org/quickserver/util/xmlreader/PoolConfig|> 
+<|java+class:///org/quickserver/util/xmlreader/ObjectPoolConfig|,|java+class:///org/quickserver/util/xmlreader/PoolConfig|> 
+<|java+class:///org/quickserver/util/xmlreader/QSAdminServerConfig|,|java+class:///org/quickserver/util/xmlreader/BasicServerConfig|> 
+<|java+class:///org/quickserver/util/xmlreader/QuickServerConfig|,|java+class:///org/quickserver/util/xmlreader/BasicServerConfig|> 
+<|java+class:///org/quickserver/util/xmlreader/ThreadObjectPoolConfig|,|java+class:///org/quickserver/util/xmlreader/PoolConfig|> 
+
+EXTERNAL REUSE TOTAL: 7 
+<|java+class:///org/quickserver/net/server/impl/NonBlockingClientHandler|,|java+class:///org/quickserver/net/server/impl/BasicClientHandler|> 
+<|java+class:///org/quickserver/util/xmlreader/ByteBufferObjectPoolConfig|,|java+class:///org/quickserver/util/xmlreader/PoolConfig|> 
+<|java+class:///org/quickserver/util/xmlreader/ClientDataObjectPoolConfig|,|java+class:///org/quickserver/util/xmlreader/PoolConfig|> 
+<|java+class:///org/quickserver/util/xmlreader/ClientHandlerObjectPoolConfig|,|java+class:///org/quickserver/util/xmlreader/PoolConfig|> 
+<|java+class:///org/quickserver/util/xmlreader/ObjectPoolConfig|,|java+class:///org/quickserver/util/xmlreader/PoolConfig|> 
+<|java+class:///org/quickserver/util/xmlreader/QSAdminServerConfig|,|java+class:///org/quickserver/util/xmlreader/BasicServerConfig|> 
+<|java+class:///org/quickserver/util/xmlreader/QuickServerConfig|,|java+class:///org/quickserver/util/xmlreader/BasicServerConfig|> 
+
+SUBTYPE TOTAL: 10 
+<|java+class:///org/quickserver/net/server/impl/BlockingClientHandler|,|java+class:///org/quickserver/net/server/impl/BasicClientHandler|> 
+<|java+class:///org/quickserver/net/server/impl/NonBlockingClientHandler|,|java+class:///org/quickserver/net/server/impl/BasicClientHandler|> 
+<|java+class:///org/quickserver/net/server/impl/SyncClientIdentifier|,|java+class:///org/quickserver/net/server/impl/BasicClientIdentifier|> 
+<|java+class:///org/quickserver/util/xmlreader/ByteBufferObjectPoolConfig|,|java+class:///org/quickserver/util/xmlreader/PoolConfig|> 
+<|java+class:///org/quickserver/util/xmlreader/ClientDataObjectPoolConfig|,|java+class:///org/quickserver/util/xmlreader/PoolConfig|> 
+<|java+class:///org/quickserver/util/xmlreader/ClientHandlerObjectPoolConfig|,|java+class:///org/quickserver/util/xmlreader/PoolConfig|> 
+<|java+class:///org/quickserver/util/xmlreader/ObjectPoolConfig|,|java+class:///org/quickserver/util/xmlreader/PoolConfig|> 
+<|java+class:///org/quickserver/util/xmlreader/QSAdminServerConfig|,|java+class:///org/quickserver/util/xmlreader/BasicServerConfig|> 
+<|java+class:///org/quickserver/util/xmlreader/QuickServerConfig|,|java+class:///org/quickserver/util/xmlreader/BasicServerConfig|> 
+<|java+class:///org/quickserver/util/xmlreader/ThreadObjectPoolConfig|,|java+class:///org/quickserver/util/xmlreader/PoolConfig|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 7 
+<|java+class:///org/quickserver/net/server/impl/BlockingClientHandler|,|java+class:///org/quickserver/net/server/impl/BasicClientHandler|> 
+<|java+class:///org/quickserver/net/server/impl/NonBlockingClientHandler|,|java+class:///org/quickserver/net/server/impl/BasicClientHandler|> 
+<|java+class:///org/quickserver/util/xmlreader/ByteBufferObjectPoolConfig|,|java+class:///org/quickserver/util/xmlreader/PoolConfig|> 
+<|java+class:///org/quickserver/util/xmlreader/ClientDataObjectPoolConfig|,|java+class:///org/quickserver/util/xmlreader/PoolConfig|> 
+<|java+class:///org/quickserver/util/xmlreader/ClientHandlerObjectPoolConfig|,|java+class:///org/quickserver/util/xmlreader/PoolConfig|> 
+<|java+class:///org/quickserver/util/xmlreader/ThreadObjectPoolConfig|,|java+class:///org/quickserver/util/xmlreader/PoolConfig|> 
+<|java+class:///test/org/quickserver/net/server/SimpleServerNBlockTest|,|java+class:///test/org/quickserver/net/server/SimpleServerBlockTest|> 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 8 
+<|java+class:///org/quickserver/util/xmlreader/ByteBufferObjectPoolConfig|,|java+class:///org/quickserver/util/xmlreader/PoolConfig|> 
+<|java+class:///org/quickserver/util/xmlreader/ClientDataObjectPoolConfig|,|java+class:///org/quickserver/util/xmlreader/PoolConfig|> 
+<|java+class:///org/quickserver/util/xmlreader/ClientHandlerObjectPoolConfig|,|java+class:///org/quickserver/util/xmlreader/PoolConfig|> 
+<|java+class:///org/quickserver/util/xmlreader/ObjectPoolConfig|,|java+class:///org/quickserver/util/xmlreader/PoolConfig|> 
+<|java+class:///org/quickserver/util/xmlreader/QSAdminServerConfig|,|java+class:///org/quickserver/util/xmlreader/BasicServerConfig|> 
+<|java+class:///org/quickserver/util/xmlreader/QuickServerConfig|,|java+class:///org/quickserver/util/xmlreader/BasicServerConfig|> 
+<|java+class:///org/quickserver/util/xmlreader/ThreadObjectPoolConfig|,|java+class:///org/quickserver/util/xmlreader/PoolConfig|> 
+<|java+class:///test/org/quickserver/net/server/SimpleServerNBlockTest|,|java+class:///test/org/quickserver/net/server/SimpleServerBlockTest|> 
+
+DOWNCALL TOTAL: 3 
+<|java+class:///org/quickserver/net/server/impl/BlockingClientHandler|,|java+class:///org/quickserver/net/server/impl/BasicClientHandler|> 
+<|java+class:///org/quickserver/net/server/impl/NonBlockingClientHandler|,|java+class:///org/quickserver/net/server/impl/BasicClientHandler|> 
+<|java+class:///test/org/quickserver/net/server/SimpleServerNBlockTest|,|java+class:///test/org/quickserver/net/server/SimpleServerBlockTest|> 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 1 
+<|java+class:///org/quickserver/net/server/QuickServer|,|java+interface:///org/quickserver/net/Service|> 
+
+SUBTYPE TOTAL: 24 
+<|java+class:///chatserver/ChatData|,|java+interface:///org/quickserver/net/server/ClientData|> 
+<|java+class:///chatserver/ChatData|,|java+interface:///org/quickserver/net/server/ClientIdentifiable|> 
+<|java+class:///chatserver/ChatData|,|java+interface:///org/quickserver/util/pool/PoolableObject|> 
+<|java+class:///cmdserver/CmdData|,|java+interface:///org/quickserver/net/server/ClientData|> 
+<|java+class:///echoserver/Data|,|java+interface:///org/quickserver/net/server/ClientData|> 
+<|java+class:///echoserver/EchoCommandHandler|,|java+interface:///org/quickserver/net/server/ClientCommandHandler|> 
+<|java+class:///echoserver/EchoCommandHandler|,|java+interface:///org/quickserver/net/server/ClientEventHandler|> 
+<|java+class:///echowebserver/EchoWSData|,|java+interface:///org/quickserver/net/server/ClientData|> 
+<|java+class:///filesrv/CommandHandler|,|java+interface:///org/quickserver/net/server/ClientCommandHandler|> 
+<|java+class:///filesrv/CommandHandler|,|java+interface:///org/quickserver/net/server/ClientEventHandler|> 
+<|java+class:///filesrv/CommandHandler|,|java+interface:///org/quickserver/net/server/ClientWriteHandler|> 
+<|java+class:///filesrv/Data|,|java+interface:///org/quickserver/net/server/ClientData|> 
+<|java+class:///ftpserver/Data|,|java+interface:///org/quickserver/net/server/ClientData|> 
+<|java+class:///org/quickserver/net/client/BlockingClient|,|java+interface:///org/quickserver/net/client/ClientService|> 
+<|java+class:///org/quickserver/net/qsadmin/Data|,|java+interface:///org/quickserver/net/server/ClientData|> 
+<|java+class:///org/quickserver/net/server/GhostSocketReaper|,|java+interface:///org/quickserver/net/ServerHook|> 
+<|java+class:///org/quickserver/net/server/impl/BasicClientHandler|,|java+interface:///org/quickserver/net/server/ClientHandler|> 
+<|java+class:///org/quickserver/net/server/impl/BasicClientIdentifier|,|java+interface:///org/quickserver/net/server/ClientIdentifier|> 
+<|java+class:///org/quickserver/net/server/impl/DefaultClientEventHandler|,|java+interface:///org/quickserver/net/server/ClientEventHandler|> 
+<|java+class:///org/quickserver/util/pool/MakeQSObjectPool|,|java+interface:///org/quickserver/util/pool/QSObjectPool|> 
+<|java+class:///pipeserver/CommandHandler|,|java+interface:///org/quickserver/net/server/ClientBinaryHandler|> 
+<|java+class:///pipeserver/CommandHandler|,|java+interface:///org/quickserver/net/server/ClientEventHandler|> 
+<|java+class:///pipeserver/Data|,|java+interface:///org/quickserver/net/server/ClientData|> 
+<|java+class:///xmladder/Data|,|java+interface:///org/quickserver/net/server/ClientData|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 9 
+<|java+class:///chatserver/ChatData|,|java+interface:///org/quickserver/net/server/ClientData|> 
+<|java+class:///cmdserver/CmdData|,|java+interface:///org/quickserver/net/server/ClientData|> 
+<|java+class:///echoserver/Data|,|java+interface:///org/quickserver/net/server/ClientData|> 
+<|java+class:///echowebserver/EchoWSData|,|java+interface:///org/quickserver/net/server/ClientData|> 
+<|java+class:///filesrv/Data|,|java+interface:///org/quickserver/net/server/ClientData|> 
+<|java+class:///ftpserver/Data|,|java+interface:///org/quickserver/net/server/ClientData|> 
+<|java+class:///org/quickserver/net/qsadmin/Data|,|java+interface:///org/quickserver/net/server/ClientData|> 
+<|java+class:///pipeserver/Data|,|java+interface:///org/quickserver/net/server/ClientData|> 
+<|java+class:///xmladder/Data|,|java+interface:///org/quickserver/net/server/ClientData|> 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 10 
+<|java+class:///chatserver/ChatCommandHandler|,|java+interface:///org/quickserver/net/server/ClientEventHandler|> 
+<|java+class:///chatserver/ChatData|,|java+interface:///org/quickserver/net/server/ClientData|> 
+<|java+class:///filesrv/CommandHandler|,|java+interface:///org/quickserver/net/server/ClientWriteHandler|> 
+<|java+class:///ftpserver/Data|,|java+interface:///org/quickserver/net/server/ClientData|> 
+<|java+class:///org/quickserver/net/server/GhostSocketReaper|,|java+interface:///org/quickserver/net/ServerHook|> 
+<|java+class:///org/quickserver/util/pool/MakeQSObjectPool|,|java+interface:///org/quickserver/util/pool/QSObjectPoolMaker|> 
+<|java+class:///pipeserver/CommandHandler|,|java+interface:///org/quickserver/net/server/ClientBinaryHandler|> 
+<|java+class:///pipeserver/Data|,|java+interface:///org/quickserver/net/server/ClientData|> 
+<|java+class:///xmladder/CommandHandler|,|java+interface:///org/quickserver/net/server/ClientCommandHandler|> 
+<|java+class:///xmladder/Data|,|java+interface:///org/quickserver/net/server/ClientData|> 
+
+CATEGORY TOTAL: 17 
+<|java+class:///chatserver/ChatCommandHandler|,|java+interface:///org/quickserver/net/server/ClientCommandHandler|> 
+<|java+class:///cmdserver/CmdCommandHandler|,|java+interface:///org/quickserver/net/server/ClientCommandHandler|> 
+<|java+class:///dateserver/CommandHandler|,|java+interface:///org/quickserver/net/server/ClientCommandHandler|> 
+<|java+class:///echowebserver/EchoWSCommandHandler|,|java+interface:///org/quickserver/net/server/ClientCommandHandler|> 
+<|java+class:///echowebserver/EchoWSData|,|java+interface:///org/quickserver/util/pool/PoolableObject|> 
+<|java+class:///echowebserver/PrepareHook|,|java+interface:///org/quickserver/net/ServerHook|> 
+<|java+class:///filesrv/Data|,|java+interface:///org/quickserver/util/pool/PoolableObject|> 
+<|java+class:///filesrv/PrepareHook|,|java+interface:///org/quickserver/net/ServerHook|> 
+<|java+class:///ftpserver/CommandHandler|,|java+interface:///org/quickserver/net/server/ClientCommandHandler|> 
+<|java+class:///ftpserver/Data|,|java+interface:///org/quickserver/util/pool/PoolableObject|> 
+<|java+class:///org/quickserver/net/qsadmin/CommandHandler|,|java+interface:///org/quickserver/net/server/ClientCommandHandler|> 
+<|java+class:///org/quickserver/net/qsadmin/CommandHandler|,|java+interface:///org/quickserver/net/server/ClientEventHandler|> 
+<|java+class:///pipeserver/Data|,|java+interface:///org/quickserver/util/pool/PoolableObject|> 
+<|java+class:///test/org/quickserver/net/server/TestCommandHandler|,|java+interface:///org/quickserver/net/server/ClientCommandHandler|> 
+<|java+class:///test/org/quickserver/net/server/TestEventHandler|,|java+interface:///org/quickserver/net/server/ClientEventHandler|> 
+<|java+class:///xmladder/CommandHandler|,|java+interface:///org/quickserver/net/server/ClientEventHandler|> 
+<|java+class:///xmladder/Data|,|java+interface:///org/quickserver/util/pool/PoolableObject|> 
+
+FRAMEWORK TOTAL: 12 
+<|java+class:///chatserver/ChatData|,|java+interface:///org/quickserver/net/server/ClientData|> 
+<|java+class:///cmdserver/CmdData|,|java+interface:///org/quickserver/net/server/ClientData|> 
+<|java+class:///echoserver/Data|,|java+interface:///org/quickserver/net/server/ClientData|> 
+<|java+class:///echowebserver/EchoWSData|,|java+interface:///org/quickserver/net/server/ClientData|> 
+<|java+class:///filesrv/Data|,|java+interface:///org/quickserver/net/server/ClientData|> 
+<|java+class:///ftpserver/Data|,|java+interface:///org/quickserver/net/server/ClientData|> 
+<|java+class:///org/quickserver/net/qsadmin/Data|,|java+interface:///org/quickserver/net/server/ClientData|> 
+<|java+class:///org/quickserver/net/server/impl/BasicClientHandler|,|java+interface:///org/quickserver/net/server/ClientHandler|> 
+<|java+class:///org/quickserver/util/pool/BasicObjectPool|,|java+interface:///org/quickserver/util/pool/QSObjectPool|> 
+<|java+class:///org/quickserver/util/pool/MakeQSObjectPool|,|java+interface:///org/quickserver/util/pool/QSObjectPool|> 
+<|java+class:///pipeserver/Data|,|java+interface:///org/quickserver/net/server/ClientData|> 
+<|java+class:///xmladder/Data|,|java+interface:///org/quickserver/net/server/ClientData|> 
+
+DOWNCALL TOTAL: 0 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 0 
+
+SUBTYPE TOTAL: 0 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 0 
+
+DOWNCALL TOTAL: 0 
+
+
+
+

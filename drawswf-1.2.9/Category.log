@@ -1,0 +1,5 @@
+[
+  <<|java+class:///com/anotherbigidea/flash/writers/SWFActionsImpl|,|java+interface:///com/anotherbigidea/flash/interfaces/SWFActions|>,|java+class:///com/anotherbigidea/flash/writers/ActionTextWriter|>,
+  <<|java+class:///com/anotherbigidea/flash/writers/SWFTagTypesImpl|,|java+interface:///com/anotherbigidea/flash/interfaces/SWFTagTypes|>,|java+class:///com/anotherbigidea/flash/readers/MovieBuilder|>,
+  <<|java+class:///com/anotherbigidea/flash/writers/DummySWFWriter|,|java+interface:///com/anotherbigidea/flash/interfaces/SWFTags|>,|java+class:///com/anotherbigidea/flash/writers/TagWriter/SpriteTags|>
+]

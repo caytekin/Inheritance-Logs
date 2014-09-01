@@ -1,0 +1,95 @@
+RESULTS LOG: 
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 0 
+
+SUBTYPE TOTAL: 4 
+<|java+class:///edu/uva/analysis/samples/st/C|,|java+class:///edu/uva/analysis/samples/st/P|> 
+<|java+class:///edu/uva/analysis/samples/st/CastChild|,|java+class:///edu/uva/analysis/samples/st/CastParent|> 
+<|java+class:///edu/uva/analysis/samples/st/CastGrandChild|,|java+class:///edu/uva/analysis/samples/st/CastChild|> 
+<|java+class:///edu/uva/analysis/samples/st/NestedChild|,|java+class:///edu/uva/analysis/samples/st/NestedParent|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 1 
+<|java+class:///edu/uva/analysis/samples/st/ParamPassChild|,|java+class:///edu/uva/analysis/samples/st/ParamPassHolder|> 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 1 
+<|java+class:///edu/uva/analysis/samples/st/ParamPassChild/AnInnerClass|,|java+class:///edu/uva/analysis/samples/st/P|> 
+
+FRAMEWORK TOTAL: 1 
+<|java+class:///edu/uva/analysis/gensamples/st/ArrayListChild|,|java+class:///edu/uva/analysis/gensamples/st/ArrayListParent|> 
+
+DOWNCALL TOTAL: 0 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 0 
+
+SUBTYPE TOTAL: 0 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 4 
+<|java+class:///edu/uva/analysis/samples/st/SClass|,|java+interface:///edu/uva/analysis/samples/st/SInterface|> 
+<|java+class:///edu/uva/analysis/samples/st/STClass|,|java+interface:///edu/uva/analysis/samples/st/STInterface|> 
+<|java+class:///edu/uva/analysis/samples/st/SidewaysC|,|java+interface:///edu/uva/analysis/samples/st/SidewaysA|> 
+<|java+class:///edu/uva/analysis/samples/st/SidewaysC|,|java+interface:///edu/uva/analysis/samples/st/SidewaysB|> 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 0 
+
+DOWNCALL TOTAL: 0 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 0 
+
+SUBTYPE TOTAL: 0 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 2 
+<|java+interface:///edu/uva/analysis/gensamples/st/ChildInterface|,|java+interface:///edu/uva/analysis/gensamples/st/ParentInterface|> 
+<|java+interface:///edu/uva/analysis/gensamples/st/GrandChildInterface|,|java+interface:///edu/uva/analysis/gensamples/st/ChildInterface|> 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 0 
+
+DOWNCALL TOTAL: 0 
+
+
+
+

@@ -1,0 +1,10 @@
+[
+  <<|java+class:///freecs/external/WebadminRequestHandler|,|java+class:///freecs/external/AbstractRequestHandler|>,|project://FreeCS/src/freecs/external/WebadminRequestHandler.java|(1788,19,<65,2>,<65,21>)>,
+  <<|java+class:///freecs/external/AccessForbiddenException|,|java+class:///java/lang/RuntimeException|>,|project://FreeCS/src/freecs/external/AccessForbiddenException.java|(252,8,<9,2>,<9,10>)>,
+  <<|java+class:///freecs/external/UserlistRequestHandler|,|java+class:///freecs/external/AbstractRequestHandler|>,|project://FreeCS/src/freecs/external/UserlistRequestHandler.java|(788,19,<33,2>,<33,21>)>,
+  <<|java+class:///freecs/external/CmdConfirmHandler|,|java+class:///freecs/external/AbstractRequestHandler|>,|project://FreeCS/src/freecs/external/CmdConfirmHandler.java|(1020,19,<37,8>,<37,27>)>,
+  <<|java+class:///freecs/core/CanceledRequestException|,|java+class:///java/lang/Exception|>,|project://FreeCS/src/freecs/core/CanceledRequestException.java|(1336,11,<39,8>,<39,19>)>,
+  <<|java+class:///freecs/core/CanceledRequestException|,|java+class:///java/lang/Exception|>,|project://FreeCS/src/freecs/core/CanceledRequestException.java|(1217,11,<34,8>,<34,19>)>,
+  <<|java+class:///freecs/external/StaticRequestHandler|,|java+class:///freecs/external/AbstractRequestHandler|>,|project://FreeCS/src/freecs/external/StaticRequestHandler.java|(1014,19,<41,2>,<41,21>)>,
+  <<|java+class:///freecs/external/StateRequestHandler|,|java+class:///freecs/external/AbstractRequestHandler|>,|project://FreeCS/src/freecs/external/StateRequestHandler.java|(1044,19,<41,2>,<41,21>)>
+]

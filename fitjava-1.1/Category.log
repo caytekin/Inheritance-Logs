@@ -1,0 +1,4 @@
+[
+  <<|java+class:///eg/music/Browser|,|java+class:///fit/Fixture|>,|java+class:///fit/ColumnFixture|>,
+  <<|java+class:///fat/ExampleFixture|,|java+class:///fit/Fixture|>,|java+class:///fit/ColumnFixture|>
+]

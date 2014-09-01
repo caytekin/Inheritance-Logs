@@ -1,0 +1,11 @@
+[
+  <<|java+class:///org/displaytag/decorator/ModelDecorator|,|java+class:///org/displaytag/decorator/TableDecorator|>,|java+class:///org/displaytag/decorator/TableDecoratorThree|>,
+  <<|java+class:///org/displaytag/decorator/TableDecoratorDate|,|java+class:///org/displaytag/decorator/TableDecorator|>,|java+class:///org/displaytag/decorator/TableDecoratorThree|>,
+  <<|java+class:///org/displaytag/decorator/ListIndexTableDecorator|,|java+class:///org/displaytag/decorator/TableDecorator|>,|java+class:///org/displaytag/decorator/TableDecoratorThree|>,
+  <<|java+class:///org/displaytag/sample/LongDateWrapper|,|java+interface:///org/displaytag/decorator/DisplaytagColumnDecorator|>,|java+class:///org/displaytag/decorator/AutolinkColumnDecorator|>,
+  <<|java+class:///org/displaytag/decorator/PageContextPrefixColumnDecorator|,|java+interface:///org/displaytag/decorator/DisplaytagColumnDecorator|>,|java+class:///org/displaytag/decorator/AutolinkColumnDecorator|>,
+  <<|java+class:///org/displaytag/decorator/DateColumnDecorator|,|java+interface:///org/displaytag/decorator/DisplaytagColumnDecorator|>,|java+class:///org/displaytag/decorator/AutolinkColumnDecorator|>,
+  <<|java+class:///org/displaytag/portlet/PortletRequestHelperFactory|,|java+interface:///org/displaytag/util/RequestHelperFactory|>,|java+class:///org/displaytag/util/DefaultRequestHelperFactory|>,
+  <<|java+class:///org/displaytag/decorator/PrefixColumnDecorator|,|java+interface:///org/displaytag/decorator/DisplaytagColumnDecorator|>,|java+class:///org/displaytag/decorator/AutolinkColumnDecorator|>,
+  <<|java+class:///org/displaytag/decorator/MessageFormatColumnDecorator|,|java+interface:///org/displaytag/decorator/DisplaytagColumnDecorator|>,|java+class:///org/displaytag/decorator/AutolinkColumnDecorator|>
+]

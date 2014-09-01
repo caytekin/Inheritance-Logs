@@ -1,0 +1,154 @@
+RESULTS LOG: 
+INTERNAL REUSE TOTAL: 21 
+<|java+class:///eg/AllCombinations|,|java+class:///eg/AllFiles|> 
+<|java+class:///eg/AllFiles|,|java+class:///fit/Fixture|> 
+<|java+class:///eg/AllPairs|,|java+class:///eg/AllCombinations|> 
+<|java+class:///eg/AllPairs/Setup|,|java+class:///fit/Fixture|> 
+<|java+class:///eg/ArithmeticFixture|,|java+class:///fit/PrimitiveFixture|> 
+<|java+class:///eg/ColumnIndex|,|java+class:///fit/RowFixture|> 
+<|java+class:///eg/ExampleTests|,|java+class:///fit/ColumnFixture|> 
+<|java+class:///eg/net/Simulator|,|java+class:///fit/Fixture|> 
+<|java+class:///fat/Color|,|java+class:///fit/PrimitiveFixture|> 
+<|java+class:///fat/Equals|,|java+class:///fit/PrimitiveFixture|> 
+<|java+class:///fat/StandardAnnotationFixture|,|java+class:///fit/ColumnFixture|> 
+<|java+class:///fat/Table|,|java+class:///fit/Fixture|> 
+<|java+class:///fat/Tests|,|java+class:///fit/Fixture|> 
+<|java+class:///fit/ActionFixture|,|java+class:///fit/Fixture|> 
+<|java+class:///fit/ColumnFixture|,|java+class:///fit/Fixture|> 
+<|java+class:///fit/PrimitiveFixture|,|java+class:///fit/Fixture|> 
+<|java+class:///fit/RowFixture|,|java+class:///fit/ColumnFixture|> 
+<|java+class:///fit/Summary|,|java+class:///fit/Fixture|> 
+<|java+class:///fit/TimedActionFixture|,|java+class:///fit/ActionFixture|> 
+<|java+class:///fit/TypeAdapter/ArrayAdapter|,|java+class:///fit/TypeAdapter|> 
+<|java+class:///fit/WikiRunner|,|java+class:///fit/FileRunner|> 
+
+EXTERNAL REUSE TOTAL: 5 
+<|java+class:///fat/Color|,|java+class:///fit/PrimitiveFixture|> 
+<|java+class:///fit/ColumnFixture|,|java+class:///fit/Fixture|> 
+<|java+class:///fit/FrameworkTest/TestFixture|,|java+class:///fit/ColumnFixture|> 
+<|java+class:///fit/PrimitiveFixture|,|java+class:///fit/Fixture|> 
+<|java+class:///fit/RowFixture|,|java+class:///fit/ColumnFixture|> 
+
+SUBTYPE TOTAL: 25 
+<|java+class:///eg/music/Dialog|,|java+class:///fit/Fixture|> 
+<|java+class:///fat/Equals|,|java+class:///fit/PrimitiveFixture|> 
+<|java+class:///fat/Table|,|java+class:///fit/Fixture|> 
+<|java+class:///fit/ColumnFixture|,|java+class:///fit/Fixture|> 
+<|java+class:///fit/FrameworkTest/TestFixture|,|java+class:///fit/ColumnFixture|> 
+<|java+class:///fit/PrimitiveFixture|,|java+class:///fit/Fixture|> 
+<|java+class:///fit/RowFixture|,|java+class:///fit/ColumnFixture|> 
+<|java+class:///fit/RowFixtureTest/TestRowFixture|,|java+class:///fit/RowFixture|> 
+<|java+class:///fit/TypeAdapter/ArrayAdapter|,|java+class:///fit/TypeAdapter|> 
+<|java+class:///fit/TypeAdapter/BooleanAdapter|,|java+class:///fit/TypeAdapter/ClassBooleanAdapter|> 
+<|java+class:///fit/TypeAdapter/ByteAdapter|,|java+class:///fit/TypeAdapter/ClassByteAdapter|> 
+<|java+class:///fit/TypeAdapter/CharAdapter|,|java+class:///fit/TypeAdapter/ClassCharacterAdapter|> 
+<|java+class:///fit/TypeAdapter/ClassBooleanAdapter|,|java+class:///fit/TypeAdapter|> 
+<|java+class:///fit/TypeAdapter/ClassByteAdapter|,|java+class:///fit/TypeAdapter|> 
+<|java+class:///fit/TypeAdapter/ClassCharacterAdapter|,|java+class:///fit/TypeAdapter|> 
+<|java+class:///fit/TypeAdapter/ClassDoubleAdapter|,|java+class:///fit/TypeAdapter|> 
+<|java+class:///fit/TypeAdapter/ClassFloatAdapter|,|java+class:///fit/TypeAdapter|> 
+<|java+class:///fit/TypeAdapter/ClassIntegerAdapter|,|java+class:///fit/TypeAdapter|> 
+<|java+class:///fit/TypeAdapter/ClassLongAdapter|,|java+class:///fit/TypeAdapter|> 
+<|java+class:///fit/TypeAdapter/ClassShortAdapter|,|java+class:///fit/TypeAdapter|> 
+<|java+class:///fit/TypeAdapter/DoubleAdapter|,|java+class:///fit/TypeAdapter/ClassDoubleAdapter|> 
+<|java+class:///fit/TypeAdapter/FloatAdapter|,|java+class:///fit/TypeAdapter/ClassFloatAdapter|> 
+<|java+class:///fit/TypeAdapter/IntAdapter|,|java+class:///fit/TypeAdapter/ClassIntegerAdapter|> 
+<|java+class:///fit/TypeAdapter/LongAdapter|,|java+class:///fit/TypeAdapter/ClassLongAdapter|> 
+<|java+class:///fit/TypeAdapter/ShortAdapter|,|java+class:///fit/TypeAdapter/ClassShortAdapter|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 2 
+<|java+class:///eg/music/Browser|,|java+class:///fit/Fixture|> 
+<|java+class:///fat/ExampleFixture|,|java+class:///fit/Fixture|> 
+
+FRAMEWORK TOTAL: 0 
+
+DOWNCALL TOTAL: 19 
+<|java+class:///eg/AllCombinations|,|java+class:///eg/AllFiles|> 
+<|java+class:///eg/AllFiles|,|java+class:///fit/Fixture|> 
+<|java+class:///eg/AllPairs|,|java+class:///eg/AllCombinations|> 
+<|java+class:///eg/AllPairs/Cases|,|java+class:///fit/RowFixture|> 
+<|java+class:///eg/AllPairs/Pairs|,|java+class:///fit/RowFixture|> 
+<|java+class:///eg/AllPairs/Setup|,|java+class:///fit/Fixture|> 
+<|java+class:///eg/BinaryChop|,|java+class:///fit/ColumnFixture|> 
+<|java+class:///eg/Calculator|,|java+class:///fit/ColumnFixture|> 
+<|java+class:///eg/Page|,|java+class:///fit/RowFixture|> 
+<|java+class:///eg/music/Display|,|java+class:///fit/RowFixture|> 
+<|java+class:///eg/music/Realtime|,|java+class:///fit/TimedActionFixture|> 
+<|java+class:///fat/Frameworks|,|java+class:///fit/ColumnFixture|> 
+<|java+class:///fat/Table|,|java+class:///fit/Fixture|> 
+<|java+class:///fat/Tests|,|java+class:///fit/Fixture|> 
+<|java+class:///fit/ActionFixture|,|java+class:///fit/Fixture|> 
+<|java+class:///fit/ColumnFixture|,|java+class:///fit/Fixture|> 
+<|java+class:///fit/RowFixture|,|java+class:///fit/ColumnFixture|> 
+<|java+class:///fit/RowFixtureTest/TestRowFixture|,|java+class:///fit/RowFixture|> 
+<|java+class:///fit/Summary|,|java+class:///fit/Fixture|> 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 0 
+
+SUBTYPE TOTAL: 0 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 0 
+
+DOWNCALL TOTAL: 0 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 0 
+
+SUBTYPE TOTAL: 0 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 0 
+
+DOWNCALL TOTAL: 0 
+
+
+
+

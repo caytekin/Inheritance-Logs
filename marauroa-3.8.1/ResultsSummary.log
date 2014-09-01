@@ -1,0 +1,329 @@
+RESULTS LOG: 
+INTERNAL REUSE TOTAL: 57 
+<|java+class:///marauroa/common/crypto/RSAKey|,|java+class:///marauroa/common/crypto/RSAPublicKey|> 
+<|java+class:///marauroa/common/game/RPEvent|,|java+class:///marauroa/common/game/SlotOwner|> 
+<|java+class:///marauroa/common/game/RPObject|,|java+class:///marauroa/common/game/SlotOwner|> 
+<|java+class:///marauroa/common/game/SlotOwner|,|java+class:///marauroa/common/game/Attributes|> 
+<|java+class:///marauroa/common/net/message/MessageC2SAction|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageC2SChooseCharacter|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageC2SCreateAccount|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageC2SCreateCharacter|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageC2SKeepAlive|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageC2SLoginRequestKey|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageC2SLoginSendNonceNameAndPassword|,|java+class:///marauroa/common/net/message/MessageSendByteArray|> 
+<|java+class:///marauroa/common/net/message/MessageC2SLoginSendNonceNamePasswordAndSeed|,|java+class:///marauroa/common/net/message/MessageSendByteArray|> 
+<|java+class:///marauroa/common/net/message/MessageC2SLoginSendPromise|,|java+class:///marauroa/common/net/message/MessageSendByteArray|> 
+<|java+class:///marauroa/common/net/message/MessageC2SLogout|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageC2SOutOfSync|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageC2STransferACK|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CCharacterList|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CChooseCharacterACK|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CChooseCharacterNACK|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CConnectNACK|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CCreateAccountACK|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CCreateAccountNACK|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CCreateCharacterACK|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CCreateCharacterNACK|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CInvalidMessage|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CLoginACK|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CLoginMessageNACK|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CLoginNACK|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CLoginSendKey|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CLoginSendNonce|,|java+class:///marauroa/common/net/message/MessageSendByteArray|> 
+<|java+class:///marauroa/common/net/message/MessageS2CLogoutACK|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CLogoutNACK|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CPerception|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CServerInfo|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CTransfer|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CTransferREQ|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageSendByteArray|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/functional/basic/BareRPWorld|,|java+class:///marauroa/server/game/rp/RPWorld|> 
+<|java+class:///marauroa/server/db/adapter/H2DatabaseAdapter|,|java+class:///marauroa/server/db/adapter/AbstractDatabaseAdapter|> 
+<|java+class:///marauroa/server/db/adapter/MySQLDatabaseAdapter|,|java+class:///marauroa/server/db/adapter/AbstractDatabaseAdapter|> 
+<|java+class:///marauroa/server/game/dbcommand/LoadActiveCharacterCommand|,|java+class:///marauroa/server/game/dbcommand/LoadCharacterCommand|> 
+<|java+class:///marauroa/server/game/dbcommand/LoadAllActiveCharactersCommand|,|java+class:///marauroa/server/game/dbcommand/DBCommandWithCallback|> 
+<|java+class:///marauroa/server/game/dbcommand/LoadAllCharactersCommand|,|java+class:///marauroa/server/game/dbcommand/DBCommandWithCallback|> 
+<|java+class:///marauroa/server/game/dbcommand/LoadCharacterCommand|,|java+class:///marauroa/server/game/dbcommand/DBCommandWithCallback|> 
+<|java+class:///marauroa/server/game/dbcommand/LoginCommand|,|java+class:///marauroa/server/game/dbcommand/DBCommandWithCallback|> 
+<|java+class:///marauroa/server/game/messagehandler/ActionHandler|,|java+class:///marauroa/server/game/messagehandler/MessageHandler|> 
+<|java+class:///marauroa/server/game/messagehandler/ChooseCharacterHandler|,|java+class:///marauroa/server/game/messagehandler/MessageHandler|> 
+<|java+class:///marauroa/server/game/messagehandler/CreateAccountHandler|,|java+class:///marauroa/server/game/messagehandler/MessageHandler|> 
+<|java+class:///marauroa/server/game/messagehandler/CreateCharacterHandler|,|java+class:///marauroa/server/game/messagehandler/MessageHandler|> 
+<|java+class:///marauroa/server/game/messagehandler/KeepAliveHandler|,|java+class:///marauroa/server/game/messagehandler/MessageHandler|> 
+<|java+class:///marauroa/server/game/messagehandler/LoginRequestKeyHandler|,|java+class:///marauroa/server/game/messagehandler/MessageHandler|> 
+<|java+class:///marauroa/server/game/messagehandler/LoginSendPromiseHandler|,|java+class:///marauroa/server/game/messagehandler/MessageHandler|> 
+<|java+class:///marauroa/server/game/messagehandler/LogoutHandler|,|java+class:///marauroa/server/game/messagehandler/MessageHandler|> 
+<|java+class:///marauroa/server/game/messagehandler/OutOfSyncHandler|,|java+class:///marauroa/server/game/messagehandler/MessageHandler|> 
+<|java+class:///marauroa/server/game/messagehandler/SecuredLoginHandler|,|java+class:///marauroa/server/game/messagehandler/MessageHandler|> 
+<|java+class:///marauroa/server/game/messagehandler/TransferACKHandler|,|java+class:///marauroa/server/game/messagehandler/MessageHandler|> 
+<|java+class:///marauroa/server/game/python/PythonRPWorld|,|java+class:///marauroa/server/game/rp/RPWorld|> 
+
+EXTERNAL REUSE TOTAL: 44 
+<|java+class:///marauroa/common/crypto/RSAKey|,|java+class:///marauroa/common/crypto/RSAPublicKey|> 
+<|java+class:///marauroa/common/game/RPAction|,|java+class:///marauroa/common/game/Attributes|> 
+<|java+class:///marauroa/common/game/RPEvent|,|java+class:///marauroa/common/game/SlotOwner|> 
+<|java+class:///marauroa/common/game/RPObject|,|java+class:///marauroa/common/game/SlotOwner|> 
+<|java+class:///marauroa/common/game/SlotOwner|,|java+class:///marauroa/common/game/Attributes|> 
+<|java+class:///marauroa/common/net/message/MessageC2SAction|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageC2SChooseCharacter|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageC2SCreateAccount|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageC2SCreateCharacter|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageC2SKeepAlive|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageC2SLoginSendNonceNameAndPassword|,|java+class:///marauroa/common/net/message/MessageSendByteArray|> 
+<|java+class:///marauroa/common/net/message/MessageC2SLoginSendNonceNamePasswordAndSeed|,|java+class:///marauroa/common/net/message/MessageSendByteArray|> 
+<|java+class:///marauroa/common/net/message/MessageC2SLoginSendPromise|,|java+class:///marauroa/common/net/message/MessageSendByteArray|> 
+<|java+class:///marauroa/common/net/message/MessageC2SLogout|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageC2SOutOfSync|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageC2STransferACK|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CCharacterList|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CChooseCharacterACK|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CChooseCharacterNACK|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CConnectNACK|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CCreateAccountACK|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CCreateAccountNACK|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CCreateCharacterACK|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CCreateCharacterNACK|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CInvalidMessage|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CLoginACK|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CLoginMessageNACK|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CLoginNACK|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CLoginSendKey|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CLoginSendNonce|,|java+class:///marauroa/common/net/message/MessageSendByteArray|> 
+<|java+class:///marauroa/common/net/message/MessageS2CLogoutACK|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CLogoutNACK|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CPerception|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CServerInfo|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CTransfer|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CTransferREQ|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageSendByteArray|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageTest/MockMessage|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/functional/MarauroadLauncher|,|java+class:///marauroa/server/marauroad|> 
+<|java+class:///marauroa/functional/SimpleClient|,|java+class:///marauroa/client/ClientFramework|> 
+<|java+class:///marauroa/ping/PingClient|,|java+class:///marauroa/client/ClientFramework|> 
+<|java+class:///marauroa/server/game/dbcommand/LoadAllActiveCharactersCommand|,|java+class:///marauroa/server/game/dbcommand/DBCommandWithCallback|> 
+<|java+class:///marauroa/server/game/dbcommand/LoadCharacterCommand|,|java+class:///marauroa/server/game/dbcommand/DBCommandWithCallback|> 
+<|java+class:///marauroa/server/game/dbcommand/LoginCommand|,|java+class:///marauroa/server/game/dbcommand/DBCommandWithCallback|> 
+
+SUBTYPE TOTAL: 53 
+<|java+class:///marauroa/common/crypto/RSAKey|,|java+class:///marauroa/common/crypto/RSAPublicKey|> 
+<|java+class:///marauroa/common/game/DefaultRPClass|,|java+class:///marauroa/common/game/RPClass|> 
+<|java+class:///marauroa/common/game/RPAction|,|java+class:///marauroa/common/game/Attributes|> 
+<|java+class:///marauroa/common/game/RPEvent|,|java+class:///marauroa/common/game/SlotOwner|> 
+<|java+class:///marauroa/common/game/RPObject|,|java+class:///marauroa/common/game/SlotOwner|> 
+<|java+class:///marauroa/common/game/RPObjectTest/SubRPObject|,|java+class:///marauroa/common/game/RPObject|> 
+<|java+class:///marauroa/common/game/SlotOwner|,|java+class:///marauroa/common/game/Attributes|> 
+<|java+class:///marauroa/common/io/FileSystemPersistence|,|java+class:///marauroa/common/io/Persistence|> 
+<|java+class:///marauroa/common/net/message/MessageC2SAction|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageC2SChooseCharacter|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageC2SCreateAccount|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageC2SCreateCharacter|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageC2SKeepAlive|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageC2SLoginRequestKey|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageC2SLoginSendNonceNameAndPassword|,|java+class:///marauroa/common/net/message/MessageSendByteArray|> 
+<|java+class:///marauroa/common/net/message/MessageC2SLoginSendNonceNamePasswordAndSeed|,|java+class:///marauroa/common/net/message/MessageSendByteArray|> 
+<|java+class:///marauroa/common/net/message/MessageC2SLoginSendPromise|,|java+class:///marauroa/common/net/message/MessageSendByteArray|> 
+<|java+class:///marauroa/common/net/message/MessageC2SLogout|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageC2SOutOfSync|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageC2STransferACK|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CCharacterList|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CChooseCharacterACK|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CChooseCharacterNACK|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CConnectNACK|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CCreateAccountACK|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CCreateAccountNACK|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CCreateCharacterACK|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CCreateCharacterNACK|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CInvalidMessage|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CLoginACK|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CLoginMessageNACK|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CLoginNACK|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CLoginSendKey|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CLoginSendNonce|,|java+class:///marauroa/common/net/message/MessageSendByteArray|> 
+<|java+class:///marauroa/common/net/message/MessageS2CLogoutACK|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CLogoutNACK|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CPerception|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CServerInfo|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CTransfer|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CTransferREQ|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageSendByteArray|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/functional/basic/BareRPWorld|,|java+class:///marauroa/server/game/rp/RPWorld|> 
+<|java+class:///marauroa/server/db/adapter/MySQLDatabaseAdapter|,|java+class:///marauroa/server/db/adapter/AbstractDatabaseAdapter|> 
+<|java+class:///marauroa/server/game/dbcommand/DBCommandWithCallback|,|java+class:///marauroa/server/db/command/AbstractDBCommand|> 
+<|java+class:///marauroa/server/game/dbcommand/LoadActiveCharacterCommand|,|java+class:///marauroa/server/game/dbcommand/LoadCharacterCommand|> 
+<|java+class:///marauroa/server/game/dbcommand/LoadAllActiveCharactersCommand|,|java+class:///marauroa/server/game/dbcommand/DBCommandWithCallback|> 
+<|java+class:///marauroa/server/game/dbcommand/LoadAllCharactersCommand|,|java+class:///marauroa/server/game/dbcommand/DBCommandWithCallback|> 
+<|java+class:///marauroa/server/game/dbcommand/LoadCharacterCommand|,|java+class:///marauroa/server/game/dbcommand/DBCommandWithCallback|> 
+<|java+class:///marauroa/server/game/dbcommand/LogStatisticsCommand|,|java+class:///marauroa/server/db/command/AbstractDBCommand|> 
+<|java+class:///marauroa/server/game/dbcommand/LoginCommand|,|java+class:///marauroa/server/game/dbcommand/DBCommandWithCallback|> 
+<|java+class:///marauroa/server/game/dbcommand/StoreCharacterCommand|,|java+class:///marauroa/server/db/command/AbstractDBCommand|> 
+<|java+class:///marauroa/server/game/messagehandler/UnkownMessageHandler|,|java+class:///marauroa/server/game/messagehandler/MessageHandler|> 
+<|java+class:///marauroa/server/game/python/PythonRPWorld|,|java+class:///marauroa/server/game/rp/RPWorld|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 52 
+<|java+class:///marauroa/common/crypto/RSAKey|,|java+class:///marauroa/common/crypto/RSAPublicKey|> 
+<|java+class:///marauroa/common/game/DefaultRPClass|,|java+class:///marauroa/common/game/RPClass|> 
+<|java+class:///marauroa/common/game/RPAction|,|java+class:///marauroa/common/game/Attributes|> 
+<|java+class:///marauroa/common/game/RPEvent|,|java+class:///marauroa/common/game/SlotOwner|> 
+<|java+class:///marauroa/common/game/RPObject|,|java+class:///marauroa/common/game/SlotOwner|> 
+<|java+class:///marauroa/common/game/SlotOwner|,|java+class:///marauroa/common/game/Attributes|> 
+<|java+class:///marauroa/common/net/message/MessageC2SAction|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageC2SChooseCharacter|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageC2SCreateAccount|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageC2SCreateCharacter|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageC2SKeepAlive|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageC2SLoginRequestKey|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageC2SLoginSendNonceNameAndPassword|,|java+class:///marauroa/common/net/message/MessageSendByteArray|> 
+<|java+class:///marauroa/common/net/message/MessageC2SLoginSendNonceNamePasswordAndSeed|,|java+class:///marauroa/common/net/message/MessageSendByteArray|> 
+<|java+class:///marauroa/common/net/message/MessageC2SLoginSendPromise|,|java+class:///marauroa/common/net/message/MessageSendByteArray|> 
+<|java+class:///marauroa/common/net/message/MessageC2SLogout|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageC2SOutOfSync|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageC2STransferACK|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CCharacterList|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CChooseCharacterACK|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CChooseCharacterNACK|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CConnectNACK|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CCreateAccountACK|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CCreateAccountNACK|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CCreateCharacterACK|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CCreateCharacterNACK|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CInvalidMessage|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CLoginACK|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CLoginMessageNACK|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CLoginNACK|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CLoginSendKey|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CLoginSendNonce|,|java+class:///marauroa/common/net/message/MessageSendByteArray|> 
+<|java+class:///marauroa/common/net/message/MessageS2CLogoutACK|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CLogoutNACK|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CPerception|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CServerInfo|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CTransfer|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageS2CTransferREQ|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageSendByteArray|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/common/net/message/MessageTest/MockMessage|,|java+class:///marauroa/common/net/message/Message|> 
+<|java+class:///marauroa/functional/MarauroadLauncher|,|java+class:///marauroa/server/marauroad|> 
+<|java+class:///marauroa/functional/SimpleClient|,|java+class:///marauroa/client/ClientFramework|> 
+<|java+class:///marauroa/functional/basic/BareRPWorld|,|java+class:///marauroa/server/game/rp/RPWorld|> 
+<|java+class:///marauroa/ping/PingClient|,|java+class:///marauroa/client/ClientFramework|> 
+<|java+class:///marauroa/server/db/adapter/H2DatabaseAdapter|,|java+class:///marauroa/server/db/adapter/AbstractDatabaseAdapter|> 
+<|java+class:///marauroa/server/db/adapter/MySQLDatabaseAdapter|,|java+class:///marauroa/server/db/adapter/AbstractDatabaseAdapter|> 
+<|java+class:///marauroa/server/game/dbcommand/LoadActiveCharacterCommand|,|java+class:///marauroa/server/game/dbcommand/LoadCharacterCommand|> 
+<|java+class:///marauroa/server/game/dbcommand/LoadAllActiveCharactersCommand|,|java+class:///marauroa/server/game/dbcommand/DBCommandWithCallback|> 
+<|java+class:///marauroa/server/game/dbcommand/LoadAllCharactersCommand|,|java+class:///marauroa/server/game/dbcommand/DBCommandWithCallback|> 
+<|java+class:///marauroa/server/game/dbcommand/LoadCharacterCommand|,|java+class:///marauroa/server/game/dbcommand/DBCommandWithCallback|> 
+<|java+class:///marauroa/server/game/dbcommand/LoginCommand|,|java+class:///marauroa/server/game/dbcommand/DBCommandWithCallback|> 
+<|java+class:///marauroa/server/game/python/PythonRPWorld|,|java+class:///marauroa/server/game/rp/RPWorld|> 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 1 
+<|java+class:///marauroa/common/io/WebstartPersistence|,|java+class:///marauroa/common/io/Persistence|> 
+
+FRAMEWORK TOTAL: 5 
+<|java+class:///marauroa/common/game/RPAction|,|java+class:///marauroa/common/game/Attributes|> 
+<|java+class:///marauroa/common/game/SlotOwner|,|java+class:///marauroa/common/game/Attributes|> 
+<|java+class:///marauroa/functional/MarauroadLauncher|,|java+class:///marauroa/server/marauroad|> 
+<|java+class:///marauroa/functional/basic/BareRPWorld|,|java+class:///marauroa/server/game/rp/RPWorld|> 
+<|java+class:///marauroa/server/game/python/PythonRPWorld|,|java+class:///marauroa/server/game/rp/RPWorld|> 
+
+DOWNCALL TOTAL: 7 
+<|java+class:///marauroa/common/game/DefaultRPClass|,|java+class:///marauroa/common/game/RPClass|> 
+<|java+class:///marauroa/common/game/RPEvent|,|java+class:///marauroa/common/game/SlotOwner|> 
+<|java+class:///marauroa/common/game/RPObject|,|java+class:///marauroa/common/game/SlotOwner|> 
+<|java+class:///marauroa/functional/SimpleClient|,|java+class:///marauroa/client/ClientFramework|> 
+<|java+class:///marauroa/ping/PingClient|,|java+class:///marauroa/client/ClientFramework|> 
+<|java+class:///marauroa/server/db/adapter/H2DatabaseAdapter|,|java+class:///marauroa/server/db/adapter/AbstractDatabaseAdapter|> 
+<|java+class:///marauroa/server/db/adapter/MySQLDatabaseAdapter|,|java+class:///marauroa/server/db/adapter/AbstractDatabaseAdapter|> 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 1 
+<|java+class:///marauroa/common/net/message/Message|,|java+interface:///marauroa/common/net/Serializable|> 
+
+SUBTYPE TOTAL: 25 
+<|java+class:///marauroa/client/net/TCPNetworkClientManager|,|java+interface:///marauroa/client/net/INetworkClientManagerInterface|> 
+<|java+class:///marauroa/common/game/Attributes|,|java+interface:///marauroa/common/net/Serializable|> 
+<|java+class:///marauroa/common/game/Definition|,|java+interface:///marauroa/common/net/Serializable|> 
+<|java+class:///marauroa/common/game/IRPZone/ID|,|java+interface:///marauroa/common/net/Serializable|> 
+<|java+class:///marauroa/common/game/RPClass|,|java+interface:///marauroa/common/net/Serializable|> 
+<|java+class:///marauroa/common/game/RPLink|,|java+interface:///marauroa/common/net/Serializable|> 
+<|java+class:///marauroa/common/game/RPSlot|,|java+interface:///marauroa/common/net/Serializable|> 
+<|java+class:///marauroa/common/net/message/Message|,|java+interface:///marauroa/common/net/Serializable|> 
+<|java+class:///marauroa/functional/SimpleClient/MockPerceptionListener|,|java+interface:///marauroa/client/net/IPerceptionListener|> 
+<|java+class:///marauroa/functional/basic/BareRPRuleProcessor|,|java+interface:///marauroa/server/game/rp/IRPRuleProcessor|> 
+<|java+class:///marauroa/ping/PingClient/PingPerceptionListener|,|java+interface:///marauroa/client/net/IPerceptionListener|> 
+<|java+class:///marauroa/ping/server/PingRPRuleProcessor|,|java+interface:///marauroa/server/game/rp/IRPRuleProcessor|> 
+<|java+class:///marauroa/server/db/adapter/AbstractDatabaseAdapter|,|java+interface:///marauroa/server/db/adapter/DatabaseAdapter|> 
+<|java+class:///marauroa/server/db/command/AbstractDBCommand|,|java+interface:///marauroa/server/db/command/DBCommand|> 
+<|java+class:///marauroa/server/game/GameServerManager|,|java+interface:///marauroa/server/net/IDisconnectedListener|> 
+<|java+class:///marauroa/server/game/messagehandler/ChooseCharacterHandler|,|java+interface:///marauroa/server/game/messagehandler/DelayedEventHandler|> 
+<|java+class:///marauroa/server/game/messagehandler/DisconnectHandler|,|java+interface:///marauroa/server/game/messagehandler/DelayedEventHandler|> 
+<|java+class:///marauroa/server/game/messagehandler/SecuredLoginHandler|,|java+interface:///marauroa/server/game/messagehandler/DelayedEventHandler|> 
+<|java+class:///marauroa/server/game/messagehandler/SendCharacterListHandler|,|java+interface:///marauroa/server/game/messagehandler/DelayedEventHandler|> 
+<|java+class:///marauroa/server/game/rp/MarauroaRPZone|,|java+interface:///marauroa/common/game/IRPZone|> 
+<|java+class:///marauroa/server/net/flood/FloodValidator|,|java+interface:///marauroa/server/net/IDisconnectedListener|> 
+<|java+class:///marauroa/server/net/nio/FloodCheck|,|java+interface:///marauroa/server/net/flood/IFloodCheck|> 
+<|java+class:///marauroa/server/net/nio/NIONetworkServerManager|,|java+interface:///marauroa/server/net/IDisconnectedListener|> 
+<|java+class:///marauroa/server/net/nio/NIONetworkServerManager|,|java+interface:///marauroa/server/net/INetworkServerManager|> 
+<|java+class:///marauroa/server/net/nio/NIONetworkServerManager|,|java+interface:///marauroa/server/net/nio/IWorker|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 1 
+<|java+class:///marauroa/server/game/python/PythonRPRuleProcessor|,|java+interface:///marauroa/server/game/rp/IRPRuleProcessor|> 
+
+FRAMEWORK TOTAL: 1 
+<|java+class:///marauroa/server/game/rp/MarauroaRPZone|,|java+interface:///marauroa/common/game/IRPZone|> 
+
+DOWNCALL TOTAL: 0 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 0 
+
+SUBTYPE TOTAL: 0 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 0 
+
+DOWNCALL TOTAL: 0 
+
+
+
+

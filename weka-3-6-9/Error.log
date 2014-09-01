@@ -1,0 +1,3 @@
+Error log for weka-3-6-9
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///weka/classifiers/Classifier|,[]),class(|java+class:///weka/core/Instances|,[]),int(),class(|java+class:///java/util/Random|,[]),class(|java+class:///java/lang/StringBuffer|,[]),class(|java+class:///weka/core/Range|,[]),class(|java+class:///java/lang/Boolean|,[])], declared symbol list: [class(|java+class:///weka/classifiers/Classifier|,[]),class(|java+class:///weka/core/Instances|,[]),int(),class(|java+class:///java/util/Random|,[]),array(object(),1)] 
+

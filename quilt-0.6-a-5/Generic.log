@@ -1,0 +1,26 @@
+[
+  <<|java+class:///org/quilt/runner/Runner|,|java+interface:///junit/framework/TestListener|>,{
+    |java+interface:///org/quilt/runner/RunnerConst|,
+    |java+class:///org/quilt/framework/QuiltTest|
+  },|project://quilt-0.6-a-5/src/java/org/quilt/runner/BaseTestRunner.java|(6076,38,<187,28>,<187,66>)>,
+  <<|java+class:///org/quilt/runner/Runner|,|java+interface:///junit/framework/TestListener|>,{
+    |java+interface:///org/quilt/runner/RunnerConst|,
+    |java+class:///org/quilt/framework/QuiltTest|
+  },|project://quilt-0.6-a-5/src/java/org/quilt/runner/BaseTestRunner.java|(6355,38,<195,17>,<195,55>)>,
+  <<|java+class:///org/quilt/runner/Runner|,|java+class:///org/quilt/framework/QuiltTest|>,{
+    |java+interface:///org/quilt/runner/RunnerConst|,
+    |java+interface:///junit/framework/TestListener|
+  },|project://quilt-0.6-a-5/src/java/org/quilt/frontend/ant/Scheduler.java|(3075,42,<92,19>,<92,61>)>,
+  <<|java+class:///org/quilt/runner/Runner|,|java+class:///org/quilt/framework/QuiltTest|>,{
+    |java+interface:///org/quilt/runner/RunnerConst|,
+    |java+interface:///junit/framework/TestListener|
+  },|project://quilt-0.6-a-5/src/java/org/quilt/frontend/ant/CallTest.java|(1573,24,<52,23>,<52,47>)>,
+  <<|java+class:///org/quilt/runner/Runner|,|java+class:///org/quilt/framework/QuiltTest|>,{
+    |java+interface:///org/quilt/runner/RunnerConst|,
+    |java+interface:///junit/framework/TestListener|
+  },|project://quilt-0.6-a-5/src/java/org/quilt/frontend/ant/TestExec.java|(904,23,<34,25>,<34,48>)>,
+  <<|java+class:///org/quilt/runner/Runner|,|java+class:///org/quilt/framework/QuiltTest|>,{
+    |java+interface:///org/quilt/runner/RunnerConst|,
+    |java+interface:///junit/framework/TestListener|
+  },|project://quilt-0.6-a-5/src/java/org/quilt/frontend/ant/BatchTest.java|(3093,19,<85,39>,<85,58>)>
+]

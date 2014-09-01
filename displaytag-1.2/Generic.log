@@ -1,0 +1,30 @@
+[
+  <<|java+class:///org/displaytag/model/Cell|,|java+interface:///java/lang/Comparable|>,{|java+interface:///java/lang/Cloneable|},|project://displaytag-1.2/displaytag/src/main/java/org/displaytag/model/Cell.java|(2336,29,<95,20>,<95,49>)>,
+  <<|java+class:///org/displaytag/model/Cell|,|java+interface:///java/lang/Comparable|>,{|java+interface:///java/lang/Cloneable|},|project://displaytag-1.2/displaytag/src/main/java/org/displaytag/model/Cell.java|(2418,29,<98,16>,<98,45>)>,
+  <<|java+class:///org/displaytag/localization/I18nSpringAdapter|,|java+interface:///org/displaytag/localization/LocaleResolver|>,{|java+interface:///org/displaytag/localization/I18nResourceProvider|},|project://displaytag-1.2/displaytag/src/main/java/org/displaytag/properties/TableProperties.java|(19786,44,<520,37>,<520,81>)>,
+  <<|java+class:///org/displaytag/localization/I18nWebworkAdapter|,|java+interface:///org/displaytag/localization/I18nResourceProvider|>,{|java+interface:///org/displaytag/localization/LocaleResolver|},|project://displaytag-1.2/displaytag/src/main/java/org/displaytag/properties/TableProperties.java|(40483,50,<1194,39>,<1194,89>)>,
+  <<|java+class:///org/displaytag/sample/ReportableListObject|,|java+class:///java/lang/Object|>,{
+    |java+interface:///java/lang/Comparable|,
+    |java+interface:///java/io/Serializable|
+  },|project://displaytag-1.2/displaytag/src/main/java/org/displaytag/util/PostHref.java|(3960,16,<176,34>,<176,50>)>,
+  <<|java+class:///org/displaytag/sample/ReportableListObject|,|java+class:///java/lang/Object|>,{
+    |java+interface:///java/lang/Comparable|,
+    |java+interface:///java/io/Serializable|
+  },|project://displaytag-1.2/displaytag/src/main/java/org/displaytag/render/HtmlTableWriter.java|(6094,16,<198,31>,<198,47>)>,
+  <<|java+class:///org/displaytag/sample/ReportableListObject|,|java+class:///java/lang/Object|>,{
+    |java+interface:///java/lang/Comparable|,
+    |java+interface:///java/io/Serializable|
+  },|project://displaytag-1.2/displaytag/src/main/java/org/displaytag/util/DefaultHref.java|(4028,24,<138,45>,<138,69>)>,
+  <<|java+class:///org/displaytag/sample/ReportableListObject|,|java+class:///java/lang/Object|>,{
+    |java+interface:///java/lang/Comparable|,
+    |java+interface:///java/io/Serializable|
+  },|project://displaytag-1.2/displaytag/src/main/java/org/displaytag/util/DefaultHref.java|(9297,16,<321,38>,<321,54>)>,
+  <<|java+class:///org/displaytag/sample/ReportableListObject|,|java+interface:///java/lang/Comparable|>,{
+    |java+class:///java/lang/Object|,
+    |java+interface:///java/io/Serializable|
+  },|project://displaytag-1.2/displaytag/src/main/java/org/displaytag/model/DefaultComparator.java|(1900,20,<66,27>,<66,47>)>,
+  <<|java+class:///org/displaytag/sample/ReportableListObject|,|java+class:///java/lang/Object|>,{
+    |java+interface:///java/lang/Comparable|,
+    |java+interface:///java/io/Serializable|
+  },|project://displaytag-1.2/displaytag/src/main/java/org/displaytag/util/LookupUtil.java|(11480,15,<333,24>,<333,39>)>
+]

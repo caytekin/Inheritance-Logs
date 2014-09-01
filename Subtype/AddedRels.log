@@ -1,0 +1,4 @@
+{
+  <<|java+class:///edu/uva/analysis/samples/st/CastChild|,|java+class:///edu/uva/analysis/samples/st/CastParent|>,2,|java+class:///edu/uva/analysis/samples/st/CastParent|>,
+  <<|java+class:///edu/uva/analysis/samples/st/CastGrandChild|,|java+class:///edu/uva/analysis/samples/st/CastChild|>,2,|java+class:///edu/uva/analysis/samples/st/CastParent|>
+}

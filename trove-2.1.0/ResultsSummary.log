@@ -1,0 +1,159 @@
+RESULTS LOG: 
+INTERNAL REUSE TOTAL: 8 
+<|java+class:///gnu/trove/THashIterator|,|java+class:///gnu/trove/TIterator|> 
+<|java+class:///gnu/trove/THashMap|,|java+class:///gnu/trove/TObjectHash|> 
+<|java+class:///gnu/trove/THashSet|,|java+class:///gnu/trove/TObjectHash|> 
+<|java+class:///gnu/trove/TIdentityHashMapTest|,|java+class:///gnu/trove/THashMapTest|> 
+<|java+class:///gnu/trove/TIdentityHashSetTest|,|java+class:///gnu/trove/THashSetTest|> 
+<|java+class:///gnu/trove/TObjectHash|,|java+class:///gnu/trove/THash|> 
+<|java+class:///gnu/trove/TPrimitiveHash|,|java+class:///gnu/trove/THash|> 
+<|java+class:///gnu/trove/TPrimitiveIterator|,|java+class:///gnu/trove/TIterator|> 
+
+EXTERNAL REUSE TOTAL: 4 
+<|java+class:///gnu/trove/THashMap|,|java+class:///gnu/trove/TObjectHash|> 
+<|java+class:///gnu/trove/THashSet|,|java+class:///gnu/trove/TObjectHash|> 
+<|java+class:///gnu/trove/TObjectHash|,|java+class:///gnu/trove/THash|> 
+<|java+class:///gnu/trove/TPrimitiveHash|,|java+class:///gnu/trove/THash|> 
+
+SUBTYPE TOTAL: 10 
+<|java+class:///gnu/trove/SerializationTest/LinkedNode|,|java+class:///gnu/trove/TLinkableAdapter|> 
+<|java+class:///gnu/trove/THashMap|,|java+class:///gnu/trove/TObjectHash|> 
+<|java+class:///gnu/trove/THashMap/EntryView|,|java+class:///gnu/trove/THashMap/MapBackedView|> 
+<|java+class:///gnu/trove/THashMap/EntryView/EntryIterator|,|java+class:///gnu/trove/THashIterator|> 
+<|java+class:///gnu/trove/THashMap/KeyView|,|java+class:///gnu/trove/THashMap/MapBackedView|> 
+<|java+class:///gnu/trove/THashMap/ValueView|,|java+class:///gnu/trove/THashMap/MapBackedView|> 
+<|java+class:///gnu/trove/THashSet|,|java+class:///gnu/trove/TObjectHash|> 
+<|java+class:///gnu/trove/TObjectHash|,|java+class:///gnu/trove/THash|> 
+<|java+class:///gnu/trove/TObjectHashIterator|,|java+class:///gnu/trove/THashIterator|> 
+<|java+class:///gnu/trove/TPrimitiveHash|,|java+class:///gnu/trove/THash|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 10 
+<|java+class:///gnu/trove/THashIterator|,|java+class:///gnu/trove/TIterator|> 
+<|java+class:///gnu/trove/THashMap|,|java+class:///gnu/trove/TObjectHash|> 
+<|java+class:///gnu/trove/THashMap/EntryView/EntryIterator|,|java+class:///gnu/trove/THashIterator|> 
+<|java+class:///gnu/trove/THashSet|,|java+class:///gnu/trove/TObjectHash|> 
+<|java+class:///gnu/trove/TIdentityHashMapTest|,|java+class:///gnu/trove/THashMapTest|> 
+<|java+class:///gnu/trove/TIdentityHashSetTest|,|java+class:///gnu/trove/THashSetTest|> 
+<|java+class:///gnu/trove/TObjectHash|,|java+class:///gnu/trove/THash|> 
+<|java+class:///gnu/trove/TObjectHashIterator|,|java+class:///gnu/trove/THashIterator|> 
+<|java+class:///gnu/trove/TPrimitiveHash|,|java+class:///gnu/trove/THash|> 
+<|java+class:///gnu/trove/TPrimitiveIterator|,|java+class:///gnu/trove/TIterator|> 
+
+GENERIC TOTAL: 2 
+<|java+class:///gnu/trove/THashSet|,|java+class:///gnu/trove/TObjectHash|> 
+<|java+class:///gnu/trove/TObjectHash|,|java+class:///gnu/trove/THash|> 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 9 
+<|java+class:///gnu/trove/THashMap/EntryView|,|java+class:///gnu/trove/THashMap/MapBackedView|> 
+<|java+class:///gnu/trove/THashMap/EntryView/EntryIterator|,|java+class:///gnu/trove/THashIterator|> 
+<|java+class:///gnu/trove/THashMap/KeyView|,|java+class:///gnu/trove/THashMap/MapBackedView|> 
+<|java+class:///gnu/trove/THashMap/ValueView|,|java+class:///gnu/trove/THashMap/MapBackedView|> 
+<|java+class:///gnu/trove/TIdentityHashMapTest|,|java+class:///gnu/trove/THashMapTest|> 
+<|java+class:///gnu/trove/TIdentityHashSetTest|,|java+class:///gnu/trove/THashSetTest|> 
+<|java+class:///gnu/trove/TObjectHash|,|java+class:///gnu/trove/THash|> 
+<|java+class:///gnu/trove/TObjectHashIterator|,|java+class:///gnu/trove/THashIterator|> 
+<|java+class:///gnu/trove/TPrimitiveHash|,|java+class:///gnu/trove/THash|> 
+
+DOWNCALL TOTAL: 9 
+<|java+class:///gnu/trove/THashIterator|,|java+class:///gnu/trove/TIterator|> 
+<|java+class:///gnu/trove/THashMap/EntryView|,|java+class:///gnu/trove/THashMap/MapBackedView|> 
+<|java+class:///gnu/trove/THashMap/EntryView/EntryIterator|,|java+class:///gnu/trove/THashIterator|> 
+<|java+class:///gnu/trove/THashMap/KeyView|,|java+class:///gnu/trove/THashMap/MapBackedView|> 
+<|java+class:///gnu/trove/THashMap/ValueView|,|java+class:///gnu/trove/THashMap/MapBackedView|> 
+<|java+class:///gnu/trove/TObjectHash|,|java+class:///gnu/trove/THash|> 
+<|java+class:///gnu/trove/TObjectHashIterator|,|java+class:///gnu/trove/THashIterator|> 
+<|java+class:///gnu/trove/TPrimitiveHash|,|java+class:///gnu/trove/THash|> 
+<|java+class:///gnu/trove/TPrimitiveIterator|,|java+class:///gnu/trove/TIterator|> 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 0 
+
+SUBTYPE TOTAL: 18 
+<|java+class:///gnu/trove/SerializationProcedure|,|java+interface:///gnu/trove/TObjectObjectProcedure|> 
+<|java+class:///gnu/trove/SerializationProcedure|,|java+interface:///gnu/trove/TObjectProcedure|> 
+<|java+class:///gnu/trove/THashMap/EqProcedure|,|java+interface:///gnu/trove/TObjectObjectProcedure|> 
+<|java+class:///gnu/trove/THashMap/HashProcedure|,|java+interface:///gnu/trove/TObjectObjectProcedure|> 
+<|java+class:///gnu/trove/THashSet/HashProcedure|,|java+interface:///gnu/trove/TObjectProcedure|> 
+<|java+class:///gnu/trove/TLinkedListTest/Data|,|java+interface:///gnu/trove/TLinkable|> 
+<|java+class:///gnu/trove/TObjectHash|,|java+interface:///gnu/trove/TObjectHashingStrategy|> 
+<|java+class:///gnu/trove/ToObjectArrayProcedure|,|java+interface:///gnu/trove/TObjectProcedure|> 
+<|java+class:///gnu/trove/benchmark/MemoryUsage/JavasoftIntegerArrayListCreator|,|java+interface:///gnu/trove/benchmark/MemoryUsage/Creator|> 
+<|java+class:///gnu/trove/benchmark/MemoryUsage/JavasoftListCreator|,|java+interface:///gnu/trove/benchmark/MemoryUsage/Creator|> 
+<|java+class:///gnu/trove/benchmark/MemoryUsage/JavasoftMapCreator|,|java+interface:///gnu/trove/benchmark/MemoryUsage/Creator|> 
+<|java+class:///gnu/trove/benchmark/MemoryUsage/JavasoftSetCreator|,|java+interface:///gnu/trove/benchmark/MemoryUsage/Creator|> 
+<|java+class:///gnu/trove/benchmark/MemoryUsage/TroveIntArrayListCreator|,|java+interface:///gnu/trove/benchmark/MemoryUsage/Creator|> 
+<|java+class:///gnu/trove/benchmark/MemoryUsage/TroveListCreator|,|java+interface:///gnu/trove/benchmark/MemoryUsage/Creator|> 
+<|java+class:///gnu/trove/benchmark/MemoryUsage/TroveMapCreator|,|java+interface:///gnu/trove/benchmark/MemoryUsage/Creator|> 
+<|java+class:///gnu/trove/benchmark/MemoryUsage/TroveSetCreator|,|java+interface:///gnu/trove/benchmark/MemoryUsage/Creator|> 
+<|java+class:///gnu/trove/benchmark/Repeater|,|java+interface:///gnu/trove/benchmark/Timer|> 
+<|java+class:///gnu/trove/benchmark/TextReporter|,|java+interface:///gnu/trove/benchmark/Reporter|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 1 
+<|java+class:///gnu/trove/TObjectHash|,|java+interface:///gnu/trove/TObjectHashingStrategy|> 
+
+CATEGORY TOTAL: 1 
+<|java+class:///gnu/trove/benchmark/XMLReporter|,|java+interface:///gnu/trove/benchmark/Reporter|> 
+
+FRAMEWORK TOTAL: 5 
+<|java+class:///gnu/trove/SerializationTest/CaseInsensitiveHashingStrategy|,|java+interface:///gnu/trove/TObjectHashingStrategy|> 
+<|java+class:///gnu/trove/TLinkableAdapter|,|java+interface:///gnu/trove/TLinkable|> 
+<|java+class:///gnu/trove/TLinkedListTest/Data|,|java+interface:///gnu/trove/TLinkable|> 
+<|java+class:///gnu/trove/TObjectHash|,|java+interface:///gnu/trove/TObjectHashingStrategy|> 
+<|java+class:///gnu/trove/TObjectIdentityHashingStrategy|,|java+interface:///gnu/trove/TObjectHashingStrategy|> 
+
+DOWNCALL TOTAL: 0 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 0 
+
+SUBTYPE TOTAL: 0 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 0 
+
+DOWNCALL TOTAL: 0 
+
+
+
+

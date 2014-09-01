@@ -1,0 +1,195 @@
+RESULTS LOG: 
+INTERNAL REUSE TOTAL: 16 
+<|java+class:///IMAPAuthenticator|,|java+class:///net/wastl/webmail/server/Authenticator|> 
+<|java+class:///POPAuthenticator|,|java+class:///net/wastl/webmail/server/Authenticator|> 
+<|java+class:///SimpleAuthenticator|,|java+class:///net/wastl/webmail/server/Authenticator|> 
+<|java+class:///UnixAuthenticator|,|java+class:///net/wastl/webmail/server/Authenticator|> 
+<|java+class:///net/wastl/webmail/config/ChoiceConfigParameter|,|java+class:///net/wastl/webmail/config/ConfigParameter|> 
+<|java+class:///net/wastl/webmail/config/ConfigYesNoParameter|,|java+class:///net/wastl/webmail/config/ChoiceConfigParameter|> 
+<|java+class:///net/wastl/webmail/misc/AttributedExpireableCache|,|java+class:///net/wastl/webmail/misc/ExpireableCache|> 
+<|java+class:///net/wastl/webmail/server/WebMailServlet|,|java+class:///net/wastl/webmail/server/WebMailServer|> 
+<|java+class:///net/wastl/webmail/storage/FileStorage|,|java+class:///net/wastl/webmail/server/Storage|> 
+<|java+class:///net/wastl/webmail/storage/simple/SimpleStorage|,|java+class:///net/wastl/webmail/storage/FileStorage|> 
+<|java+class:///net/wastl/webmail/ui/xml/XHTMLDocument|,|java+class:///net/wastl/webmail/ui/html/HTMLDocument|> 
+<|java+class:///net/wastl/webmail/xml/XMLAdminModel|,|java+class:///net/wastl/webmail/xml/XMLGenericModel|> 
+<|java+class:///net/wastl/webmail/xml/XMLMessage|,|java+class:///net/wastl/webmail/xml/XMLMessagePart|> 
+<|java+class:///net/wastl/webmail/xml/XMLSystemData|,|java+class:///net/wastl/webmail/config/ConfigStore|> 
+<|java+class:///net/wastl/webmail/xml/XMLUserModel|,|java+class:///net/wastl/webmail/xml/XMLGenericModel|> 
+<|java+class:///org/webengruven/webmail/auth/OTPAuthDisplayMngr|,|java+class:///org/webengruven/webmail/auth/CRAuthDisplayMngr|> 
+
+EXTERNAL REUSE TOTAL: 9 
+<|java+class:///net/wastl/webmail/config/ChoiceConfigParameter|,|java+class:///net/wastl/webmail/config/ConfigParameter|> 
+<|java+class:///net/wastl/webmail/config/CryptedStringConfigParameter|,|java+class:///net/wastl/webmail/config/StringConfigParameter|> 
+<|java+class:///net/wastl/webmail/config/IntegerConfigParameter|,|java+class:///net/wastl/webmail/config/ConfigParameter|> 
+<|java+class:///net/wastl/webmail/config/StringConfigParameter|,|java+class:///net/wastl/webmail/config/ConfigParameter|> 
+<|java+class:///net/wastl/webmail/misc/AttributedExpireableCache|,|java+class:///net/wastl/webmail/misc/ExpireableCache|> 
+<|java+class:///net/wastl/webmail/xml/XMLAdminModel|,|java+class:///net/wastl/webmail/xml/XMLGenericModel|> 
+<|java+class:///net/wastl/webmail/xml/XMLMessage|,|java+class:///net/wastl/webmail/xml/XMLMessagePart|> 
+<|java+class:///net/wastl/webmail/xml/XMLSystemData|,|java+class:///net/wastl/webmail/config/ConfigStore|> 
+<|java+class:///net/wastl/webmail/xml/XMLUserModel|,|java+class:///net/wastl/webmail/xml/XMLGenericModel|> 
+
+SUBTYPE TOTAL: 18 
+<|java+class:///OTPAuthenticator|,|java+class:///org/webengruven/webmail/auth/OTPAuthenticatorIface|> 
+<|java+class:///net/wastl/webmail/config/ChoiceConfigParameter|,|java+class:///net/wastl/webmail/config/ConfigParameter|> 
+<|java+class:///net/wastl/webmail/config/ConfigYesNoParameter|,|java+class:///net/wastl/webmail/config/ChoiceConfigParameter|> 
+<|java+class:///net/wastl/webmail/config/CryptedStringConfigParameter|,|java+class:///net/wastl/webmail/config/StringConfigParameter|> 
+<|java+class:///net/wastl/webmail/config/IntegerConfigParameter|,|java+class:///net/wastl/webmail/config/ConfigParameter|> 
+<|java+class:///net/wastl/webmail/config/StringConfigParameter|,|java+class:///net/wastl/webmail/config/ConfigParameter|> 
+<|java+class:///net/wastl/webmail/misc/AttributedExpireableCache|,|java+class:///net/wastl/webmail/misc/ExpireableCache|> 
+<|java+class:///net/wastl/webmail/server/WebMailServlet|,|java+class:///net/wastl/webmail/server/WebMailServer|> 
+<|java+class:///net/wastl/webmail/storage/FileStorage|,|java+class:///net/wastl/webmail/server/Storage|> 
+<|java+class:///net/wastl/webmail/storage/simple/SimpleStorage|,|java+class:///net/wastl/webmail/storage/FileStorage|> 
+<|java+class:///net/wastl/webmail/ui/html/HTMLImage|,|java+class:///net/wastl/webmail/ui/html/HTMLDocument|> 
+<|java+class:///net/wastl/webmail/ui/xml/XHTMLDocument|,|java+class:///net/wastl/webmail/ui/html/HTMLDocument|> 
+<|java+class:///net/wastl/webmail/xml/XMLAdminModel|,|java+class:///net/wastl/webmail/xml/XMLGenericModel|> 
+<|java+class:///net/wastl/webmail/xml/XMLMessage|,|java+class:///net/wastl/webmail/xml/XMLMessagePart|> 
+<|java+class:///net/wastl/webmail/xml/XMLUserModel|,|java+class:///net/wastl/webmail/xml/XMLGenericModel|> 
+<|java+class:///org/webengruven/webmail/auth/CRAuthDisplayMngr|,|java+class:///org/webengruven/webmail/auth/AuthDisplayMngr|> 
+<|java+class:///org/webengruven/webmail/auth/OTPAuthDisplayMngr|,|java+class:///org/webengruven/webmail/auth/CRAuthDisplayMngr|> 
+<|java+class:///org/webengruven/webmail/auth/OTPAuthenticatorIface|,|java+class:///org/webengruven/webmail/auth/CRAuthenticator|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 20 
+<|java+class:///IMAPAuthenticator|,|java+class:///net/wastl/webmail/server/Authenticator|> 
+<|java+class:///OTPAuthenticator|,|java+class:///org/webengruven/webmail/auth/OTPAuthenticatorIface|> 
+<|java+class:///POPAuthenticator|,|java+class:///net/wastl/webmail/server/Authenticator|> 
+<|java+class:///SimpleAuthenticator|,|java+class:///net/wastl/webmail/server/Authenticator|> 
+<|java+class:///UnixAuthenticator|,|java+class:///net/wastl/webmail/server/Authenticator|> 
+<|java+class:///net/wastl/webmail/config/ChoiceConfigParameter|,|java+class:///net/wastl/webmail/config/ConfigParameter|> 
+<|java+class:///net/wastl/webmail/config/ConfigYesNoParameter|,|java+class:///net/wastl/webmail/config/ChoiceConfigParameter|> 
+<|java+class:///net/wastl/webmail/config/CryptedStringConfigParameter|,|java+class:///net/wastl/webmail/config/StringConfigParameter|> 
+<|java+class:///net/wastl/webmail/config/IntegerConfigParameter|,|java+class:///net/wastl/webmail/config/ConfigParameter|> 
+<|java+class:///net/wastl/webmail/config/StringConfigParameter|,|java+class:///net/wastl/webmail/config/ConfigParameter|> 
+<|java+class:///net/wastl/webmail/config/UnchangeableStringConfigParameter|,|java+class:///net/wastl/webmail/config/StringConfigParameter|> 
+<|java+class:///net/wastl/webmail/misc/AttributedExpireableCache|,|java+class:///net/wastl/webmail/misc/ExpireableCache|> 
+<|java+class:///net/wastl/webmail/storage/FileStorage|,|java+class:///net/wastl/webmail/server/Storage|> 
+<|java+class:///net/wastl/webmail/storage/simple/SimpleStorage|,|java+class:///net/wastl/webmail/storage/FileStorage|> 
+<|java+class:///net/wastl/webmail/xml/XMLAdminModel|,|java+class:///net/wastl/webmail/xml/XMLGenericModel|> 
+<|java+class:///net/wastl/webmail/xml/XMLMessage|,|java+class:///net/wastl/webmail/xml/XMLMessagePart|> 
+<|java+class:///net/wastl/webmail/xml/XMLSystemData|,|java+class:///net/wastl/webmail/config/ConfigStore|> 
+<|java+class:///net/wastl/webmail/xml/XMLUserModel|,|java+class:///net/wastl/webmail/xml/XMLGenericModel|> 
+<|java+class:///org/webengruven/webmail/auth/OTPAuthDisplayMngr|,|java+class:///org/webengruven/webmail/auth/CRAuthDisplayMngr|> 
+<|java+class:///org/webengruven/webmail/auth/OTPAuthenticatorIface|,|java+class:///org/webengruven/webmail/auth/CRAuthenticator|> 
+
+GENERIC TOTAL: 1 
+<|java+class:///net/wastl/webmail/storage/FileStorage|,|java+class:///net/wastl/webmail/server/Storage|> 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 5 
+<|java+class:///net/wastl/webmail/misc/AttributedExpireableCache|,|java+class:///net/wastl/webmail/misc/ExpireableCache|> 
+<|java+class:///org/bulbul/webmail/xmlresource/Resources|,|java+class:///org/bulbul/webmail/xmlresource/ResourceBase|> 
+<|java+class:///org/bulbul/webmail/xmlresource/Resources_en|,|java+class:///org/bulbul/webmail/xmlresource/ResourceBase|> 
+<|java+class:///org/bulbul/webmail/xmlresource/Resources_en_US|,|java+class:///org/bulbul/webmail/xmlresource/ResourceBase|> 
+<|java+class:///org/bulbul/webmail/xmlresource/Resources_zh_TW|,|java+class:///org/bulbul/webmail/xmlresource/ResourceBase|> 
+
+DOWNCALL TOTAL: 8 
+<|java+class:///net/wastl/webmail/server/WebMailServlet|,|java+class:///net/wastl/webmail/server/WebMailServer|> 
+<|java+class:///net/wastl/webmail/storage/FileStorage|,|java+class:///net/wastl/webmail/server/Storage|> 
+<|java+class:///net/wastl/webmail/xml/XMLSystemData|,|java+class:///net/wastl/webmail/config/ConfigStore|> 
+<|java+class:///net/wastl/webmail/xml/XMLUserModel|,|java+class:///net/wastl/webmail/xml/XMLGenericModel|> 
+<|java+class:///org/bulbul/webmail/xmlresource/Resources|,|java+class:///org/bulbul/webmail/xmlresource/ResourceBase|> 
+<|java+class:///org/bulbul/webmail/xmlresource/Resources_en|,|java+class:///org/bulbul/webmail/xmlresource/ResourceBase|> 
+<|java+class:///org/bulbul/webmail/xmlresource/Resources_en_US|,|java+class:///org/bulbul/webmail/xmlresource/ResourceBase|> 
+<|java+class:///org/bulbul/webmail/xmlresource/Resources_zh_TW|,|java+class:///org/bulbul/webmail/xmlresource/ResourceBase|> 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 0 
+
+SUBTYPE TOTAL: 29 
+<|java+class:///About|,|java+interface:///net/wastl/webmail/server/URLHandler|> 
+<|java+class:///AdminPlugin|,|java+interface:///net/wastl/webmail/server/URLHandler|> 
+<|java+class:///ChallengeHandler|,|java+interface:///net/wastl/webmail/server/URLHandler|> 
+<|java+class:///Composer|,|java+interface:///net/wastl/webmail/server/URLHandler|> 
+<|java+class:///ErrorHandler|,|java+interface:///net/wastl/webmail/server/URLHandler|> 
+<|java+class:///FileAttacher|,|java+interface:///net/wastl/webmail/server/URLHandler|> 
+<|java+class:///FolderList|,|java+interface:///net/wastl/webmail/server/URLHandler|> 
+<|java+class:///FolderSetup|,|java+interface:///net/wastl/webmail/server/URLHandler|> 
+<|java+class:///ImageHandler|,|java+interface:///net/wastl/webmail/server/URLHandler|> 
+<|java+class:///LogoutSession|,|java+interface:///net/wastl/webmail/server/URLHandler|> 
+<|java+class:///MailboxList|,|java+interface:///net/wastl/webmail/server/URLHandler|> 
+<|java+class:///NavBar|,|java+interface:///net/wastl/webmail/server/URLHandler|> 
+<|java+class:///PassThroughPlugin|,|java+interface:///net/wastl/webmail/server/URLHandler|> 
+<|java+class:///SendMessage|,|java+interface:///net/wastl/webmail/config/ConfigurationListener|> 
+<|java+class:///SendMessage|,|java+interface:///net/wastl/webmail/server/URLHandler|> 
+<|java+class:///ShowMIME|,|java+interface:///net/wastl/webmail/server/URLHandler|> 
+<|java+class:///ShowMessage|,|java+interface:///net/wastl/webmail/server/URLHandler|> 
+<|java+class:///UserSetup|,|java+interface:///net/wastl/webmail/server/URLHandler|> 
+<|java+class:///WebMailHelp|,|java+interface:///net/wastl/webmail/server/URLHandler|> 
+<|java+class:///WebMailTitle|,|java+interface:///net/wastl/webmail/server/URLHandler|> 
+<|java+class:///net/wastl/webmail/logger/FileLogger|,|java+interface:///net/wastl/webmail/config/ConfigurationListener|> 
+<|java+class:///net/wastl/webmail/logger/FileLogger|,|java+interface:///net/wastl/webmail/server/Logger|> 
+<|java+class:///net/wastl/webmail/logger/ServletLogger|,|java+interface:///net/wastl/webmail/config/ConfigurationListener|> 
+<|java+class:///net/wastl/webmail/logger/ServletLogger|,|java+interface:///net/wastl/webmail/server/Logger|> 
+<|java+class:///net/wastl/webmail/server/AdminSession|,|java+interface:///net/wastl/webmail/server/HTTPSession|> 
+<|java+class:///net/wastl/webmail/server/ToplevelURLHandler|,|java+interface:///net/wastl/webmail/server/URLHandler|> 
+<|java+class:///net/wastl/webmail/server/WebMailSession|,|java+interface:///net/wastl/webmail/server/HTTPSession|> 
+<|java+class:///net/wastl/webmail/storage/FileStorage|,|java+interface:///net/wastl/webmail/config/ConfigurationListener|> 
+<|java+class:///net/wastl/webmail/xml/XMLUserData|,|java+interface:///net/wastl/webmail/server/UserData|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 5 
+<|java+class:///FolderList|,|java+interface:///net/wastl/webmail/server/Plugin|> 
+<|java+class:///MailboxList|,|java+interface:///net/wastl/webmail/server/Plugin|> 
+<|java+class:///PassThroughPlugin|,|java+interface:///net/wastl/webmail/server/Plugin|> 
+<|java+class:///net/wastl/webmail/logger/ServletLogger|,|java+interface:///net/wastl/webmail/config/ConfigurationListener|> 
+<|java+class:///net/wastl/webmail/logger/ServletLogger|,|java+interface:///net/wastl/webmail/server/Logger|> 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 0 
+
+DOWNCALL TOTAL: 0 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 1 
+<|java+interface:///net/wastl/webmail/server/URLHandler|,|java+interface:///net/wastl/webmail/server/URLHandlerTreeNode|> 
+
+SUBTYPE TOTAL: 1 
+<|java+interface:///net/wastl/webmail/server/HTTPSession|,|java+interface:///net/wastl/webmail/server/TimeableConnection|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 0 
+
+DOWNCALL TOTAL: 0 
+
+
+
+

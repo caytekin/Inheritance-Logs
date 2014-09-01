@@ -1,0 +1,4 @@
+{
+  <<|java+class:///com/mvnforum/common/WatchSendTask|,|java+class:///net/myvietnam/mvncore/util/TimerTaskAbstract|>,<|project://mvnforum-1.2.2-ga/mvnforum/src/com/mvnforum/service/impl/MvnForumLifeCycleServiceImplDefault.java|(6404,68,<142,20>,<142,88>),|java+method:///net/myvietnam/mvncore/util/TimerTaskAbstract/schedule(long,long)|>>,
+  <<|java+class:///com/mvnforum/common/WatchSendTask|,|java+class:///net/myvietnam/mvncore/util/TimerTaskAbstract|>,<|project://mvnforum-1.2.2-ga/mvnforum/src/com/mvnforum/service/impl/MvnForumLifeCycleServiceImplDefault.java|(6211,74,<139,20>,<139,94>),|java+method:///net/myvietnam/mvncore/util/TimerTaskAbstract/schedule(long,long)|>>
+}

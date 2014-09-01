@@ -1,0 +1,13 @@
+{
+  <<|java+class:///org/quilt/cl/ControlFlowGraph|,|java+class:///org/quilt/graph/Directed|>,<|java+method:///org/quilt/graph/Directed/insertVertex(org.quilt.graph.Edge)|,|project://quilt-0.6-a-5/src/java/org/quilt/graph/Directed.java|(6560,16,<186,29>,<186,45>)>>,
+  <<|java+class:///org/quilt/graph/Entry|,|java+class:///org/quilt/graph/Vertex|>,<|java+method:///org/quilt/graph/Vertex/makeBinary()|,|project://quilt-0.6-a-5/src/java/org/quilt/graph/Vertex.java|(2218,31,<80,25>,<80,56>)>>,
+  <<|java+class:///org/quilt/cover/stmt/CounterVertex|,|java+class:///org/quilt/graph/Vertex|>,<|java+constructor:///org/quilt/graph/Vertex/Vertex(org.quilt.graph.Directed)|,|project://quilt-0.6-a-5/src/java/org/quilt/graph/Vertex.java|(932,21,<32,16>,<32,37>)>>,
+  <<|java+class:///org/quilt/cover/stmt/CounterVertex|,|java+class:///org/quilt/graph/Vertex|>,<|java+method:///org/quilt/graph/Vertex/makeBinary()|,|project://quilt-0.6-a-5/src/java/org/quilt/graph/Vertex.java|(2218,31,<80,25>,<80,56>)>>,
+  <<|java+class:///org/quilt/cl/ControlFlowGraph|,|java+class:///org/quilt/graph/Directed|>,<|java+constructor:///org/quilt/graph/Directed/Directed(org.quilt.graph.Directed)|,|project://quilt-0.6-a-5/src/java/org/quilt/graph/Directed.java|(2697,15,<78,16>,<78,31>)>>,
+  <<|java+class:///org/quilt/graph/Exit|,|java+class:///org/quilt/graph/Vertex|>,<|java+method:///org/quilt/graph/Vertex/makeBinary()|,|project://quilt-0.6-a-5/src/java/org/quilt/graph/Vertex.java|(2218,31,<80,25>,<80,56>)>>,
+  <<|java+class:///org/quilt/cover/stmt/CounterVertex|,|java+class:///org/quilt/cl/CodeVertex|>,<|java+method:///org/quilt/cl/CodeVertex/moveGoto(org.quilt.cl.CodeVertex)|,|project://quilt-0.6-a-5/src/java/org/quilt/cl/CodeVertex.java|(6609,21,<198,8>,<198,29>)>>,
+  <<|java+class:///org/quilt/cl/CodeVertex|,|java+class:///org/quilt/graph/Vertex|>,<|java+method:///org/quilt/graph/Vertex/makeBinary()|,|project://quilt-0.6-a-5/src/java/org/quilt/graph/Vertex.java|(2218,31,<80,25>,<80,56>)>>,
+  <<|java+class:///org/quilt/cl/CodeVertex|,|java+class:///org/quilt/graph/Vertex|>,<|java+constructor:///org/quilt/graph/Vertex/Vertex(org.quilt.graph.Directed)|,|project://quilt-0.6-a-5/src/java/org/quilt/graph/Vertex.java|(932,21,<32,16>,<32,37>)>>,
+  <<|java+class:///org/quilt/cl/ControlFlowGraph|,|java+class:///org/quilt/graph/Directed|>,<|java+method:///org/quilt/graph/Directed/size()|,|project://quilt-0.6-a-5/src/java/org/quilt/graph/Directed.java|(7931,28,<226,25>,<226,53>)>>,
+  <<|java+class:///org/quilt/graph/Exit|,|java+class:///org/quilt/graph/Vertex|>,<|java+constructor:///org/quilt/graph/Vertex/Vertex(org.quilt.graph.Directed)|,|project://quilt-0.6-a-5/src/java/org/quilt/graph/Vertex.java|(932,21,<32,16>,<32,37>)>>
+}

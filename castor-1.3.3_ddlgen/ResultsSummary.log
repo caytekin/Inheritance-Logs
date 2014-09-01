@@ -1,0 +1,315 @@
+RESULTS LOG: 
+INTERNAL REUSE TOTAL: 70 
+<|java+class:///org/castor/ddlgen/engine/db2/Db2Field|,|java+class:///org/castor/ddlgen/schemaobject/Field|> 
+<|java+class:///org/castor/ddlgen/engine/db2/Db2Generator|,|java+class:///org/castor/ddlgen/AbstractGenerator|> 
+<|java+class:///org/castor/ddlgen/engine/db2/Db2GeneratorTest|,|java+class:///org/castor/ddlgen/test/framework/AbstractGeneratorTest|> 
+<|java+class:///org/castor/ddlgen/engine/db2/Db2PrimaryKey|,|java+class:///org/castor/ddlgen/schemaobject/PrimaryKey|> 
+<|java+class:///org/castor/ddlgen/engine/db2/Db2SequenceKeyGeneratorFactory|,|java+class:///org/castor/ddlgen/keygenerator/SequenceKeyGeneratorFactory|> 
+<|java+class:///org/castor/ddlgen/engine/db2/Db2TypeMapper|,|java+class:///org/castor/ddlgen/AbstractTypeMapper|> 
+<|java+class:///org/castor/ddlgen/engine/derby/DerbyField|,|java+class:///org/castor/ddlgen/schemaobject/Field|> 
+<|java+class:///org/castor/ddlgen/engine/derby/DerbyGenerator|,|java+class:///org/castor/ddlgen/AbstractGenerator|> 
+<|java+class:///org/castor/ddlgen/engine/derby/DerbyGeneratorTest|,|java+class:///org/castor/ddlgen/test/framework/AbstractGeneratorTest|> 
+<|java+class:///org/castor/ddlgen/engine/derby/DerbyTypeMapper|,|java+class:///org/castor/ddlgen/AbstractTypeMapper|> 
+<|java+class:///org/castor/ddlgen/engine/hsql/HsqlField|,|java+class:///org/castor/ddlgen/schemaobject/Field|> 
+<|java+class:///org/castor/ddlgen/engine/hsql/HsqlGenerator|,|java+class:///org/castor/ddlgen/AbstractGenerator|> 
+<|java+class:///org/castor/ddlgen/engine/hsql/HsqlGeneratorTest|,|java+class:///org/castor/ddlgen/test/framework/AbstractGeneratorTest|> 
+<|java+class:///org/castor/ddlgen/engine/hsql/HsqlPrimaryKey|,|java+class:///org/castor/ddlgen/schemaobject/PrimaryKey|> 
+<|java+class:///org/castor/ddlgen/engine/hsql/HsqlSequenceKeyGeneratorFactory|,|java+class:///org/castor/ddlgen/keygenerator/SequenceKeyGeneratorFactory|> 
+<|java+class:///org/castor/ddlgen/engine/hsql/HsqlTable|,|java+class:///org/castor/ddlgen/schemaobject/Table|> 
+<|java+class:///org/castor/ddlgen/engine/hsql/HsqlTypeMapper|,|java+class:///org/castor/ddlgen/AbstractTypeMapper|> 
+<|java+class:///org/castor/ddlgen/engine/mssql/MssqlField|,|java+class:///org/castor/ddlgen/schemaobject/Field|> 
+<|java+class:///org/castor/ddlgen/engine/mssql/MssqlGenerator|,|java+class:///org/castor/ddlgen/AbstractGenerator|> 
+<|java+class:///org/castor/ddlgen/engine/mssql/MssqlGeneratorTest|,|java+class:///org/castor/ddlgen/test/framework/AbstractGeneratorTest|> 
+<|java+class:///org/castor/ddlgen/engine/mssql/MssqlPrimaryKey|,|java+class:///org/castor/ddlgen/schemaobject/PrimaryKey|> 
+<|java+class:///org/castor/ddlgen/engine/mssql/MssqlTypeMapper|,|java+class:///org/castor/ddlgen/AbstractTypeMapper|> 
+<|java+class:///org/castor/ddlgen/engine/mysql/MysqlField|,|java+class:///org/castor/ddlgen/schemaobject/Field|> 
+<|java+class:///org/castor/ddlgen/engine/mysql/MysqlForeignKey|,|java+class:///org/castor/ddlgen/schemaobject/ForeignKey|> 
+<|java+class:///org/castor/ddlgen/engine/mysql/MysqlGenerator|,|java+class:///org/castor/ddlgen/AbstractGenerator|> 
+<|java+class:///org/castor/ddlgen/engine/mysql/MysqlGeneratorTest|,|java+class:///org/castor/ddlgen/test/framework/AbstractGeneratorTest|> 
+<|java+class:///org/castor/ddlgen/engine/mysql/MysqlTable|,|java+class:///org/castor/ddlgen/schemaobject/Table|> 
+<|java+class:///org/castor/ddlgen/engine/mysql/MysqlTypeMapper|,|java+class:///org/castor/ddlgen/AbstractTypeMapper|> 
+<|java+class:///org/castor/ddlgen/engine/oracle/OracleGenerator|,|java+class:///org/castor/ddlgen/AbstractGenerator|> 
+<|java+class:///org/castor/ddlgen/engine/oracle/OracleGeneratorTest|,|java+class:///org/castor/ddlgen/test/framework/AbstractGeneratorTest|> 
+<|java+class:///org/castor/ddlgen/engine/oracle/OracleSequenceKeyGeneratorFactory|,|java+class:///org/castor/ddlgen/keygenerator/SequenceKeyGeneratorFactory|> 
+<|java+class:///org/castor/ddlgen/engine/oracle/OracleTypeMapper|,|java+class:///org/castor/ddlgen/AbstractTypeMapper|> 
+<|java+class:///org/castor/ddlgen/engine/pointbase/PointBaseField|,|java+class:///org/castor/ddlgen/schemaobject/Field|> 
+<|java+class:///org/castor/ddlgen/engine/pointbase/PointBaseGenerator|,|java+class:///org/castor/ddlgen/AbstractGenerator|> 
+<|java+class:///org/castor/ddlgen/engine/pointbase/PointBaseGeneratorTest|,|java+class:///org/castor/ddlgen/test/framework/AbstractGeneratorTest|> 
+<|java+class:///org/castor/ddlgen/engine/pointbase/PointBasePrimaryKey|,|java+class:///org/castor/ddlgen/schemaobject/PrimaryKey|> 
+<|java+class:///org/castor/ddlgen/engine/pointbase/PointBaseTypeMapper|,|java+class:///org/castor/ddlgen/AbstractTypeMapper|> 
+<|java+class:///org/castor/ddlgen/engine/postgresql/PostgresqlField|,|java+class:///org/castor/ddlgen/schemaobject/Field|> 
+<|java+class:///org/castor/ddlgen/engine/postgresql/PostgresqlGenerator|,|java+class:///org/castor/ddlgen/AbstractGenerator|> 
+<|java+class:///org/castor/ddlgen/engine/postgresql/PostgresqlGeneratorTest|,|java+class:///org/castor/ddlgen/test/framework/AbstractGeneratorTest|> 
+<|java+class:///org/castor/ddlgen/engine/postgresql/PostgresqlSequenceKeyGeneratorFactory|,|java+class:///org/castor/ddlgen/keygenerator/SequenceKeyGeneratorFactory|> 
+<|java+class:///org/castor/ddlgen/engine/postgresql/PostgresqlTypeMapper|,|java+class:///org/castor/ddlgen/AbstractTypeMapper|> 
+<|java+class:///org/castor/ddlgen/engine/sapdb/SapdbGenerator|,|java+class:///org/castor/ddlgen/AbstractGenerator|> 
+<|java+class:///org/castor/ddlgen/engine/sapdb/SapdbGeneratorTest|,|java+class:///org/castor/ddlgen/test/framework/AbstractGeneratorTest|> 
+<|java+class:///org/castor/ddlgen/engine/sapdb/SapdbSequenceKeyGeneratorFactory|,|java+class:///org/castor/ddlgen/keygenerator/SequenceKeyGeneratorFactory|> 
+<|java+class:///org/castor/ddlgen/engine/sapdb/SapdbTypeMapper|,|java+class:///org/castor/ddlgen/AbstractTypeMapper|> 
+<|java+class:///org/castor/ddlgen/engine/sybase/SybaseField|,|java+class:///org/castor/ddlgen/schemaobject/Field|> 
+<|java+class:///org/castor/ddlgen/engine/sybase/SybaseGenerator|,|java+class:///org/castor/ddlgen/AbstractGenerator|> 
+<|java+class:///org/castor/ddlgen/engine/sybase/SybaseGeneratorTest|,|java+class:///org/castor/ddlgen/test/framework/AbstractGeneratorTest|> 
+<|java+class:///org/castor/ddlgen/engine/sybase/SybaseTypeMapper|,|java+class:///org/castor/ddlgen/AbstractTypeMapper|> 
+<|java+class:///org/castor/ddlgen/schemaobject/DefaultField|,|java+class:///org/castor/ddlgen/schemaobject/Field|> 
+<|java+class:///org/castor/ddlgen/schemaobject/DefaultForeignKey|,|java+class:///org/castor/ddlgen/schemaobject/ForeignKey|> 
+<|java+class:///org/castor/ddlgen/schemaobject/DefaultIndex|,|java+class:///org/castor/ddlgen/schemaobject/Index|> 
+<|java+class:///org/castor/ddlgen/schemaobject/DefaultPrimaryKey|,|java+class:///org/castor/ddlgen/schemaobject/PrimaryKey|> 
+<|java+class:///org/castor/ddlgen/schemaobject/DefaultTable|,|java+class:///org/castor/ddlgen/schemaobject/Table|> 
+<|java+class:///org/castor/ddlgen/schemaobject/Field|,|java+class:///org/castor/ddlgen/schemaobject/AbstractSchemaObject|> 
+<|java+class:///org/castor/ddlgen/schemaobject/ForeignKey|,|java+class:///org/castor/ddlgen/schemaobject/AbstractSchemaObject|> 
+<|java+class:///org/castor/ddlgen/schemaobject/Index|,|java+class:///org/castor/ddlgen/schemaobject/AbstractSchemaObject|> 
+<|java+class:///org/castor/ddlgen/schemaobject/KeyGenerator|,|java+class:///org/castor/ddlgen/schemaobject/AbstractSchemaObject|> 
+<|java+class:///org/castor/ddlgen/schemaobject/PrimaryKey|,|java+class:///org/castor/ddlgen/schemaobject/AbstractSchemaObject|> 
+<|java+class:///org/castor/ddlgen/schemaobject/Schema|,|java+class:///org/castor/ddlgen/schemaobject/AbstractSchemaObject|> 
+<|java+class:///org/castor/ddlgen/schemaobject/Table|,|java+class:///org/castor/ddlgen/schemaobject/AbstractSchemaObject|> 
+<|java+class:///org/castor/ddlgen/typeinfo/LobType|,|java+class:///org/castor/ddlgen/typeinfo/AbstractType|> 
+<|java+class:///org/castor/ddlgen/typeinfo/NoParamType|,|java+class:///org/castor/ddlgen/typeinfo/AbstractType|> 
+<|java+class:///org/castor/ddlgen/typeinfo/NotSupportedType|,|java+class:///org/castor/ddlgen/typeinfo/AbstractType|> 
+<|java+class:///org/castor/ddlgen/typeinfo/OptionalLengthType|,|java+class:///org/castor/ddlgen/typeinfo/AbstractType|> 
+<|java+class:///org/castor/ddlgen/typeinfo/OptionalPrecisionDecimalsType|,|java+class:///org/castor/ddlgen/typeinfo/AbstractType|> 
+<|java+class:///org/castor/ddlgen/typeinfo/OptionalPrecisionType|,|java+class:///org/castor/ddlgen/typeinfo/AbstractType|> 
+<|java+class:///org/castor/ddlgen/typeinfo/RequiredLengthType|,|java+class:///org/castor/ddlgen/typeinfo/AbstractType|> 
+<|java+class:///org/castor/ddlgen/typeinfo/RequiredPrecisionType|,|java+class:///org/castor/ddlgen/typeinfo/AbstractType|> 
+
+EXTERNAL REUSE TOTAL: 10 
+<|java+class:///org/castor/ddlgen/DDLGenConfiguration|,|java+class:///org/castor/ddlgen/Configuration|> 
+<|java+class:///org/castor/ddlgen/engine/mysql/MysqlGenerator|,|java+class:///org/castor/ddlgen/AbstractGenerator|> 
+<|java+class:///org/castor/ddlgen/keygenerator/SequenceKeyGenerator|,|java+class:///org/castor/ddlgen/schemaobject/KeyGenerator|> 
+<|java+class:///org/castor/ddlgen/schemaobject/Field|,|java+class:///org/castor/ddlgen/schemaobject/AbstractSchemaObject|> 
+<|java+class:///org/castor/ddlgen/schemaobject/ForeignKey|,|java+class:///org/castor/ddlgen/schemaobject/AbstractSchemaObject|> 
+<|java+class:///org/castor/ddlgen/schemaobject/Index|,|java+class:///org/castor/ddlgen/schemaobject/AbstractSchemaObject|> 
+<|java+class:///org/castor/ddlgen/schemaobject/KeyGenerator|,|java+class:///org/castor/ddlgen/schemaobject/AbstractSchemaObject|> 
+<|java+class:///org/castor/ddlgen/schemaobject/PrimaryKey|,|java+class:///org/castor/ddlgen/schemaobject/AbstractSchemaObject|> 
+<|java+class:///org/castor/ddlgen/schemaobject/Schema|,|java+class:///org/castor/ddlgen/schemaobject/AbstractSchemaObject|> 
+<|java+class:///org/castor/ddlgen/schemaobject/Table|,|java+class:///org/castor/ddlgen/schemaobject/AbstractSchemaObject|> 
+
+SUBTYPE TOTAL: 73 
+<|java+class:///org/castor/ddlgen/DDLGenConfiguration|,|java+class:///org/castor/ddlgen/Configuration|> 
+<|java+class:///org/castor/ddlgen/engine/db2/Db2Field|,|java+class:///org/castor/ddlgen/schemaobject/Field|> 
+<|java+class:///org/castor/ddlgen/engine/db2/Db2Generator|,|java+class:///org/castor/ddlgen/AbstractGenerator|> 
+<|java+class:///org/castor/ddlgen/engine/db2/Db2GeneratorTest|,|java+class:///org/castor/ddlgen/test/framework/AbstractGeneratorTest|> 
+<|java+class:///org/castor/ddlgen/engine/db2/Db2PrimaryKey|,|java+class:///org/castor/ddlgen/schemaobject/PrimaryKey|> 
+<|java+class:///org/castor/ddlgen/engine/db2/Db2TypeMapper|,|java+class:///org/castor/ddlgen/AbstractTypeMapper|> 
+<|java+class:///org/castor/ddlgen/engine/derby/DerbyField|,|java+class:///org/castor/ddlgen/schemaobject/Field|> 
+<|java+class:///org/castor/ddlgen/engine/derby/DerbyGenerator|,|java+class:///org/castor/ddlgen/AbstractGenerator|> 
+<|java+class:///org/castor/ddlgen/engine/derby/DerbyGeneratorTest|,|java+class:///org/castor/ddlgen/test/framework/AbstractGeneratorTest|> 
+<|java+class:///org/castor/ddlgen/engine/derby/DerbyTypeMapper|,|java+class:///org/castor/ddlgen/AbstractTypeMapper|> 
+<|java+class:///org/castor/ddlgen/engine/hsql/HsqlField|,|java+class:///org/castor/ddlgen/schemaobject/Field|> 
+<|java+class:///org/castor/ddlgen/engine/hsql/HsqlGenerator|,|java+class:///org/castor/ddlgen/AbstractGenerator|> 
+<|java+class:///org/castor/ddlgen/engine/hsql/HsqlGeneratorTest|,|java+class:///org/castor/ddlgen/test/framework/AbstractGeneratorTest|> 
+<|java+class:///org/castor/ddlgen/engine/hsql/HsqlPrimaryKey|,|java+class:///org/castor/ddlgen/schemaobject/PrimaryKey|> 
+<|java+class:///org/castor/ddlgen/engine/hsql/HsqlTable|,|java+class:///org/castor/ddlgen/schemaobject/Table|> 
+<|java+class:///org/castor/ddlgen/engine/hsql/HsqlTypeMapper|,|java+class:///org/castor/ddlgen/AbstractTypeMapper|> 
+<|java+class:///org/castor/ddlgen/engine/mssql/MssqlField|,|java+class:///org/castor/ddlgen/schemaobject/Field|> 
+<|java+class:///org/castor/ddlgen/engine/mssql/MssqlGenerator|,|java+class:///org/castor/ddlgen/AbstractGenerator|> 
+<|java+class:///org/castor/ddlgen/engine/mssql/MssqlGeneratorTest|,|java+class:///org/castor/ddlgen/test/framework/AbstractGeneratorTest|> 
+<|java+class:///org/castor/ddlgen/engine/mssql/MssqlPrimaryKey|,|java+class:///org/castor/ddlgen/schemaobject/PrimaryKey|> 
+<|java+class:///org/castor/ddlgen/engine/mssql/MssqlTypeMapper|,|java+class:///org/castor/ddlgen/AbstractTypeMapper|> 
+<|java+class:///org/castor/ddlgen/engine/mysql/MysqlField|,|java+class:///org/castor/ddlgen/schemaobject/Field|> 
+<|java+class:///org/castor/ddlgen/engine/mysql/MysqlForeignKey|,|java+class:///org/castor/ddlgen/schemaobject/ForeignKey|> 
+<|java+class:///org/castor/ddlgen/engine/mysql/MysqlGenerator|,|java+class:///org/castor/ddlgen/AbstractGenerator|> 
+<|java+class:///org/castor/ddlgen/engine/mysql/MysqlGeneratorTest|,|java+class:///org/castor/ddlgen/test/framework/AbstractGeneratorTest|> 
+<|java+class:///org/castor/ddlgen/engine/mysql/MysqlSchema|,|java+class:///org/castor/ddlgen/schemaobject/Schema|> 
+<|java+class:///org/castor/ddlgen/engine/mysql/MysqlTable|,|java+class:///org/castor/ddlgen/schemaobject/Table|> 
+<|java+class:///org/castor/ddlgen/engine/mysql/MysqlTypeMapper|,|java+class:///org/castor/ddlgen/AbstractTypeMapper|> 
+<|java+class:///org/castor/ddlgen/engine/oracle/OracleGenerator|,|java+class:///org/castor/ddlgen/AbstractGenerator|> 
+<|java+class:///org/castor/ddlgen/engine/oracle/OracleGeneratorTest|,|java+class:///org/castor/ddlgen/test/framework/AbstractGeneratorTest|> 
+<|java+class:///org/castor/ddlgen/engine/oracle/OracleTypeMapper|,|java+class:///org/castor/ddlgen/AbstractTypeMapper|> 
+<|java+class:///org/castor/ddlgen/engine/pointbase/PointBaseField|,|java+class:///org/castor/ddlgen/schemaobject/Field|> 
+<|java+class:///org/castor/ddlgen/engine/pointbase/PointBaseGenerator|,|java+class:///org/castor/ddlgen/AbstractGenerator|> 
+<|java+class:///org/castor/ddlgen/engine/pointbase/PointBaseGeneratorTest|,|java+class:///org/castor/ddlgen/test/framework/AbstractGeneratorTest|> 
+<|java+class:///org/castor/ddlgen/engine/pointbase/PointBasePrimaryKey|,|java+class:///org/castor/ddlgen/schemaobject/PrimaryKey|> 
+<|java+class:///org/castor/ddlgen/engine/pointbase/PointBaseTypeMapper|,|java+class:///org/castor/ddlgen/AbstractTypeMapper|> 
+<|java+class:///org/castor/ddlgen/engine/postgresql/PostgresqlField|,|java+class:///org/castor/ddlgen/schemaobject/Field|> 
+<|java+class:///org/castor/ddlgen/engine/postgresql/PostgresqlGenerator|,|java+class:///org/castor/ddlgen/AbstractGenerator|> 
+<|java+class:///org/castor/ddlgen/engine/postgresql/PostgresqlGeneratorTest|,|java+class:///org/castor/ddlgen/test/framework/AbstractGeneratorTest|> 
+<|java+class:///org/castor/ddlgen/engine/postgresql/PostgresqlTypeMapper|,|java+class:///org/castor/ddlgen/AbstractTypeMapper|> 
+<|java+class:///org/castor/ddlgen/engine/sapdb/SapdbGenerator|,|java+class:///org/castor/ddlgen/AbstractGenerator|> 
+<|java+class:///org/castor/ddlgen/engine/sapdb/SapdbGeneratorTest|,|java+class:///org/castor/ddlgen/test/framework/AbstractGeneratorTest|> 
+<|java+class:///org/castor/ddlgen/engine/sapdb/SapdbTypeMapper|,|java+class:///org/castor/ddlgen/AbstractTypeMapper|> 
+<|java+class:///org/castor/ddlgen/engine/sybase/SybaseField|,|java+class:///org/castor/ddlgen/schemaobject/Field|> 
+<|java+class:///org/castor/ddlgen/engine/sybase/SybaseGenerator|,|java+class:///org/castor/ddlgen/AbstractGenerator|> 
+<|java+class:///org/castor/ddlgen/engine/sybase/SybaseGeneratorTest|,|java+class:///org/castor/ddlgen/test/framework/AbstractGeneratorTest|> 
+<|java+class:///org/castor/ddlgen/engine/sybase/SybaseTypeMapper|,|java+class:///org/castor/ddlgen/AbstractTypeMapper|> 
+<|java+class:///org/castor/ddlgen/keygenerator/HighLowKeyGenerator|,|java+class:///org/castor/ddlgen/schemaobject/KeyGenerator|> 
+<|java+class:///org/castor/ddlgen/keygenerator/IdentityKeyGenerator|,|java+class:///org/castor/ddlgen/schemaobject/KeyGenerator|> 
+<|java+class:///org/castor/ddlgen/keygenerator/MaxKeyGenerator|,|java+class:///org/castor/ddlgen/schemaobject/KeyGenerator|> 
+<|java+class:///org/castor/ddlgen/keygenerator/SequenceKeyGenerator|,|java+class:///org/castor/ddlgen/schemaobject/KeyGenerator|> 
+<|java+class:///org/castor/ddlgen/keygenerator/UUIDKeyGenerator|,|java+class:///org/castor/ddlgen/schemaobject/KeyGenerator|> 
+<|java+class:///org/castor/ddlgen/schemaobject/DefaultField|,|java+class:///org/castor/ddlgen/schemaobject/Field|> 
+<|java+class:///org/castor/ddlgen/schemaobject/DefaultForeignKey|,|java+class:///org/castor/ddlgen/schemaobject/ForeignKey|> 
+<|java+class:///org/castor/ddlgen/schemaobject/DefaultIndex|,|java+class:///org/castor/ddlgen/schemaobject/Index|> 
+<|java+class:///org/castor/ddlgen/schemaobject/DefaultPrimaryKey|,|java+class:///org/castor/ddlgen/schemaobject/PrimaryKey|> 
+<|java+class:///org/castor/ddlgen/schemaobject/DefaultSchema|,|java+class:///org/castor/ddlgen/schemaobject/Schema|> 
+<|java+class:///org/castor/ddlgen/schemaobject/DefaultTable|,|java+class:///org/castor/ddlgen/schemaobject/Table|> 
+<|java+class:///org/castor/ddlgen/schemaobject/Field|,|java+class:///org/castor/ddlgen/schemaobject/AbstractSchemaObject|> 
+<|java+class:///org/castor/ddlgen/schemaobject/ForeignKey|,|java+class:///org/castor/ddlgen/schemaobject/AbstractSchemaObject|> 
+<|java+class:///org/castor/ddlgen/schemaobject/Index|,|java+class:///org/castor/ddlgen/schemaobject/AbstractSchemaObject|> 
+<|java+class:///org/castor/ddlgen/schemaobject/KeyGenerator|,|java+class:///org/castor/ddlgen/schemaobject/AbstractSchemaObject|> 
+<|java+class:///org/castor/ddlgen/schemaobject/PrimaryKey|,|java+class:///org/castor/ddlgen/schemaobject/AbstractSchemaObject|> 
+<|java+class:///org/castor/ddlgen/schemaobject/Schema|,|java+class:///org/castor/ddlgen/schemaobject/AbstractSchemaObject|> 
+<|java+class:///org/castor/ddlgen/schemaobject/Table|,|java+class:///org/castor/ddlgen/schemaobject/AbstractSchemaObject|> 
+<|java+class:///org/castor/ddlgen/typeinfo/LobType|,|java+class:///org/castor/ddlgen/typeinfo/AbstractType|> 
+<|java+class:///org/castor/ddlgen/typeinfo/NoParamType|,|java+class:///org/castor/ddlgen/typeinfo/AbstractType|> 
+<|java+class:///org/castor/ddlgen/typeinfo/NotSupportedType|,|java+class:///org/castor/ddlgen/typeinfo/AbstractType|> 
+<|java+class:///org/castor/ddlgen/typeinfo/OptionalLengthType|,|java+class:///org/castor/ddlgen/typeinfo/AbstractType|> 
+<|java+class:///org/castor/ddlgen/typeinfo/OptionalPrecisionDecimalsType|,|java+class:///org/castor/ddlgen/typeinfo/AbstractType|> 
+<|java+class:///org/castor/ddlgen/typeinfo/OptionalPrecisionType|,|java+class:///org/castor/ddlgen/typeinfo/AbstractType|> 
+<|java+class:///org/castor/ddlgen/typeinfo/RequiredLengthType|,|java+class:///org/castor/ddlgen/typeinfo/AbstractType|> 
+<|java+class:///org/castor/ddlgen/typeinfo/RequiredPrecisionType|,|java+class:///org/castor/ddlgen/typeinfo/AbstractType|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 45 
+<|java+class:///org/castor/ddlgen/DDLGenConfiguration|,|java+class:///org/castor/ddlgen/Configuration|> 
+<|java+class:///org/castor/ddlgen/engine/db2/Db2Generator|,|java+class:///org/castor/ddlgen/AbstractGenerator|> 
+<|java+class:///org/castor/ddlgen/engine/db2/Db2GeneratorTest|,|java+class:///org/castor/ddlgen/test/framework/AbstractGeneratorTest|> 
+<|java+class:///org/castor/ddlgen/engine/db2/Db2TypeMapper|,|java+class:///org/castor/ddlgen/AbstractTypeMapper|> 
+<|java+class:///org/castor/ddlgen/engine/derby/DerbyGenerator|,|java+class:///org/castor/ddlgen/AbstractGenerator|> 
+<|java+class:///org/castor/ddlgen/engine/derby/DerbyGeneratorTest|,|java+class:///org/castor/ddlgen/test/framework/AbstractGeneratorTest|> 
+<|java+class:///org/castor/ddlgen/engine/derby/DerbyTypeMapper|,|java+class:///org/castor/ddlgen/AbstractTypeMapper|> 
+<|java+class:///org/castor/ddlgen/engine/hsql/HsqlGenerator|,|java+class:///org/castor/ddlgen/AbstractGenerator|> 
+<|java+class:///org/castor/ddlgen/engine/hsql/HsqlGeneratorTest|,|java+class:///org/castor/ddlgen/test/framework/AbstractGeneratorTest|> 
+<|java+class:///org/castor/ddlgen/engine/hsql/HsqlTypeMapper|,|java+class:///org/castor/ddlgen/AbstractTypeMapper|> 
+<|java+class:///org/castor/ddlgen/engine/mssql/MssqlGenerator|,|java+class:///org/castor/ddlgen/AbstractGenerator|> 
+<|java+class:///org/castor/ddlgen/engine/mssql/MssqlGeneratorTest|,|java+class:///org/castor/ddlgen/test/framework/AbstractGeneratorTest|> 
+<|java+class:///org/castor/ddlgen/engine/mssql/MssqlTypeMapper|,|java+class:///org/castor/ddlgen/AbstractTypeMapper|> 
+<|java+class:///org/castor/ddlgen/engine/mysql/MysqlGenerator|,|java+class:///org/castor/ddlgen/AbstractGenerator|> 
+<|java+class:///org/castor/ddlgen/engine/mysql/MysqlGeneratorTest|,|java+class:///org/castor/ddlgen/test/framework/AbstractGeneratorTest|> 
+<|java+class:///org/castor/ddlgen/engine/mysql/MysqlTypeMapper|,|java+class:///org/castor/ddlgen/AbstractTypeMapper|> 
+<|java+class:///org/castor/ddlgen/engine/oracle/OracleGenerator|,|java+class:///org/castor/ddlgen/AbstractGenerator|> 
+<|java+class:///org/castor/ddlgen/engine/oracle/OracleGeneratorTest|,|java+class:///org/castor/ddlgen/test/framework/AbstractGeneratorTest|> 
+<|java+class:///org/castor/ddlgen/engine/oracle/OracleTypeMapper|,|java+class:///org/castor/ddlgen/AbstractTypeMapper|> 
+<|java+class:///org/castor/ddlgen/engine/pointbase/PointBaseGenerator|,|java+class:///org/castor/ddlgen/AbstractGenerator|> 
+<|java+class:///org/castor/ddlgen/engine/pointbase/PointBaseGeneratorTest|,|java+class:///org/castor/ddlgen/test/framework/AbstractGeneratorTest|> 
+<|java+class:///org/castor/ddlgen/engine/pointbase/PointBaseTypeMapper|,|java+class:///org/castor/ddlgen/AbstractTypeMapper|> 
+<|java+class:///org/castor/ddlgen/engine/postgresql/PostgresqlGenerator|,|java+class:///org/castor/ddlgen/AbstractGenerator|> 
+<|java+class:///org/castor/ddlgen/engine/postgresql/PostgresqlGeneratorTest|,|java+class:///org/castor/ddlgen/test/framework/AbstractGeneratorTest|> 
+<|java+class:///org/castor/ddlgen/engine/postgresql/PostgresqlTypeMapper|,|java+class:///org/castor/ddlgen/AbstractTypeMapper|> 
+<|java+class:///org/castor/ddlgen/engine/sapdb/SapdbGenerator|,|java+class:///org/castor/ddlgen/AbstractGenerator|> 
+<|java+class:///org/castor/ddlgen/engine/sapdb/SapdbGeneratorTest|,|java+class:///org/castor/ddlgen/test/framework/AbstractGeneratorTest|> 
+<|java+class:///org/castor/ddlgen/engine/sapdb/SapdbTypeMapper|,|java+class:///org/castor/ddlgen/AbstractTypeMapper|> 
+<|java+class:///org/castor/ddlgen/engine/sybase/SybaseGenerator|,|java+class:///org/castor/ddlgen/AbstractGenerator|> 
+<|java+class:///org/castor/ddlgen/engine/sybase/SybaseGeneratorTest|,|java+class:///org/castor/ddlgen/test/framework/AbstractGeneratorTest|> 
+<|java+class:///org/castor/ddlgen/engine/sybase/SybaseTypeMapper|,|java+class:///org/castor/ddlgen/AbstractTypeMapper|> 
+<|java+class:///org/castor/ddlgen/keygenerator/HighLowKeyGenerator|,|java+class:///org/castor/ddlgen/schemaobject/KeyGenerator|> 
+<|java+class:///org/castor/ddlgen/keygenerator/IdentityKeyGenerator|,|java+class:///org/castor/ddlgen/schemaobject/KeyGenerator|> 
+<|java+class:///org/castor/ddlgen/keygenerator/MaxKeyGenerator|,|java+class:///org/castor/ddlgen/schemaobject/KeyGenerator|> 
+<|java+class:///org/castor/ddlgen/keygenerator/SequenceKeyGenerator|,|java+class:///org/castor/ddlgen/schemaobject/KeyGenerator|> 
+<|java+class:///org/castor/ddlgen/keygenerator/UUIDKeyGenerator|,|java+class:///org/castor/ddlgen/schemaobject/KeyGenerator|> 
+<|java+class:///org/castor/ddlgen/schemaobject/KeyGenerator|,|java+class:///org/castor/ddlgen/schemaobject/AbstractSchemaObject|> 
+<|java+class:///org/castor/ddlgen/typeinfo/LobType|,|java+class:///org/castor/ddlgen/typeinfo/AbstractType|> 
+<|java+class:///org/castor/ddlgen/typeinfo/NoParamType|,|java+class:///org/castor/ddlgen/typeinfo/AbstractType|> 
+<|java+class:///org/castor/ddlgen/typeinfo/NotSupportedType|,|java+class:///org/castor/ddlgen/typeinfo/AbstractType|> 
+<|java+class:///org/castor/ddlgen/typeinfo/OptionalLengthType|,|java+class:///org/castor/ddlgen/typeinfo/AbstractType|> 
+<|java+class:///org/castor/ddlgen/typeinfo/OptionalPrecisionDecimalsType|,|java+class:///org/castor/ddlgen/typeinfo/AbstractType|> 
+<|java+class:///org/castor/ddlgen/typeinfo/OptionalPrecisionType|,|java+class:///org/castor/ddlgen/typeinfo/AbstractType|> 
+<|java+class:///org/castor/ddlgen/typeinfo/RequiredLengthType|,|java+class:///org/castor/ddlgen/typeinfo/AbstractType|> 
+<|java+class:///org/castor/ddlgen/typeinfo/RequiredPrecisionType|,|java+class:///org/castor/ddlgen/typeinfo/AbstractType|> 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 10 
+<|java+class:///org/castor/ddlgen/engine/db2/Db2GeneratorTest|,|java+class:///org/castor/ddlgen/test/framework/AbstractGeneratorTest|> 
+<|java+class:///org/castor/ddlgen/engine/derby/DerbyGeneratorTest|,|java+class:///org/castor/ddlgen/test/framework/AbstractGeneratorTest|> 
+<|java+class:///org/castor/ddlgen/engine/hsql/HsqlGeneratorTest|,|java+class:///org/castor/ddlgen/test/framework/AbstractGeneratorTest|> 
+<|java+class:///org/castor/ddlgen/engine/mssql/MssqlGeneratorTest|,|java+class:///org/castor/ddlgen/test/framework/AbstractGeneratorTest|> 
+<|java+class:///org/castor/ddlgen/engine/mysql/MysqlGeneratorTest|,|java+class:///org/castor/ddlgen/test/framework/AbstractGeneratorTest|> 
+<|java+class:///org/castor/ddlgen/engine/oracle/OracleGeneratorTest|,|java+class:///org/castor/ddlgen/test/framework/AbstractGeneratorTest|> 
+<|java+class:///org/castor/ddlgen/engine/pointbase/PointBaseGeneratorTest|,|java+class:///org/castor/ddlgen/test/framework/AbstractGeneratorTest|> 
+<|java+class:///org/castor/ddlgen/engine/postgresql/PostgresqlGeneratorTest|,|java+class:///org/castor/ddlgen/test/framework/AbstractGeneratorTest|> 
+<|java+class:///org/castor/ddlgen/engine/sapdb/SapdbGeneratorTest|,|java+class:///org/castor/ddlgen/test/framework/AbstractGeneratorTest|> 
+<|java+class:///org/castor/ddlgen/engine/sybase/SybaseGeneratorTest|,|java+class:///org/castor/ddlgen/test/framework/AbstractGeneratorTest|> 
+
+DOWNCALL TOTAL: 10 
+<|java+class:///org/castor/ddlgen/engine/db2/Db2Generator|,|java+class:///org/castor/ddlgen/AbstractGenerator|> 
+<|java+class:///org/castor/ddlgen/engine/derby/DerbyGenerator|,|java+class:///org/castor/ddlgen/AbstractGenerator|> 
+<|java+class:///org/castor/ddlgen/engine/hsql/HsqlGenerator|,|java+class:///org/castor/ddlgen/AbstractGenerator|> 
+<|java+class:///org/castor/ddlgen/engine/mssql/MssqlGenerator|,|java+class:///org/castor/ddlgen/AbstractGenerator|> 
+<|java+class:///org/castor/ddlgen/engine/mysql/MysqlGenerator|,|java+class:///org/castor/ddlgen/AbstractGenerator|> 
+<|java+class:///org/castor/ddlgen/engine/oracle/OracleGenerator|,|java+class:///org/castor/ddlgen/AbstractGenerator|> 
+<|java+class:///org/castor/ddlgen/engine/pointbase/PointBaseGenerator|,|java+class:///org/castor/ddlgen/AbstractGenerator|> 
+<|java+class:///org/castor/ddlgen/engine/postgresql/PostgresqlGenerator|,|java+class:///org/castor/ddlgen/AbstractGenerator|> 
+<|java+class:///org/castor/ddlgen/engine/sapdb/SapdbGenerator|,|java+class:///org/castor/ddlgen/AbstractGenerator|> 
+<|java+class:///org/castor/ddlgen/engine/sybase/SybaseGenerator|,|java+class:///org/castor/ddlgen/AbstractGenerator|> 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 2 
+<|java+class:///org/castor/ddlgen/AbstractGenerator|,|java+interface:///org/castor/ddlgen/Generator|> 
+<|java+class:///org/castor/ddlgen/schemaobject/AbstractSchemaObject|,|java+interface:///org/castor/ddlgen/schemaobject/SchemaObject|> 
+
+SUBTYPE TOTAL: 13 
+<|java+class:///org/castor/ddlgen/AbstractGenerator|,|java+interface:///org/castor/ddlgen/Generator|> 
+<|java+class:///org/castor/ddlgen/AbstractTypeMapper|,|java+interface:///org/castor/ddlgen/TypeMapper|> 
+<|java+class:///org/castor/ddlgen/engine/db2/Db2SchemaFactory|,|java+interface:///org/castor/ddlgen/SchemaFactory|> 
+<|java+class:///org/castor/ddlgen/engine/derby/DerbySchemaFactory|,|java+interface:///org/castor/ddlgen/SchemaFactory|> 
+<|java+class:///org/castor/ddlgen/engine/hsql/HsqlSchemaFactory|,|java+interface:///org/castor/ddlgen/SchemaFactory|> 
+<|java+class:///org/castor/ddlgen/engine/mssql/MssqlSchemaFactory|,|java+interface:///org/castor/ddlgen/SchemaFactory|> 
+<|java+class:///org/castor/ddlgen/engine/mysql/MysqlSchemaFactory|,|java+interface:///org/castor/ddlgen/SchemaFactory|> 
+<|java+class:///org/castor/ddlgen/engine/oracle/OracleSchemaFactory|,|java+interface:///org/castor/ddlgen/SchemaFactory|> 
+<|java+class:///org/castor/ddlgen/engine/pointbase/PointBaseSchemaFactory|,|java+interface:///org/castor/ddlgen/SchemaFactory|> 
+<|java+class:///org/castor/ddlgen/engine/postgresql/PostgresqlSchemaFactory|,|java+interface:///org/castor/ddlgen/SchemaFactory|> 
+<|java+class:///org/castor/ddlgen/engine/sapdb/SapdbSchemaFactory|,|java+interface:///org/castor/ddlgen/SchemaFactory|> 
+<|java+class:///org/castor/ddlgen/engine/sybase/SybaseSchemaFactory|,|java+interface:///org/castor/ddlgen/SchemaFactory|> 
+<|java+class:///org/castor/ddlgen/typeinfo/AbstractType|,|java+interface:///org/castor/ddlgen/typeinfo/TypeInfo|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 0 
+
+DOWNCALL TOTAL: 0 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 0 
+
+SUBTYPE TOTAL: 0 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 0 
+
+DOWNCALL TOTAL: 0 
+
+
+
+

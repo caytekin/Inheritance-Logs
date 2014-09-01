@@ -1,0 +1,176 @@
+RESULTS LOG: 
+INTERNAL REUSE TOTAL: 14 
+<|java+class:///net/sf/jmoney/EntryComparator/AmountComparator|,|java+class:///net/sf/jmoney/EntryComparator|> 
+<|java+class:///net/sf/jmoney/EntryComparator/CategoryComparator|,|java+class:///net/sf/jmoney/EntryComparator|> 
+<|java+class:///net/sf/jmoney/EntryComparator/CheckComparator|,|java+class:///net/sf/jmoney/EntryComparator|> 
+<|java+class:///net/sf/jmoney/EntryComparator/DateComparator|,|java+class:///net/sf/jmoney/EntryComparator|> 
+<|java+class:///net/sf/jmoney/EntryComparator/DescriptionComparator|,|java+class:///net/sf/jmoney/EntryComparator|> 
+<|java+class:///net/sf/jmoney/EntryComparator/MemoComparator|,|java+class:///net/sf/jmoney/EntryComparator|> 
+<|java+class:///net/sf/jmoney/EntryComparator/StatusComparator|,|java+class:///net/sf/jmoney/EntryComparator|> 
+<|java+class:///net/sf/jmoney/EntryComparator/ValutaComparator|,|java+class:///net/sf/jmoney/EntryComparator|> 
+<|java+class:///net/sf/jmoney/gui/DateComboBox|,|java+class:///net/sf/jmoney/gui/SelectionComboBox|> 
+<|java+class:///net/sf/jmoney/gui/EntryListItemExtended|,|java+class:///net/sf/jmoney/gui/EntryListItem|> 
+<|java+class:///net/sf/jmoney/gui/EntryListItemLabelsExtended|,|java+class:///net/sf/jmoney/gui/EntryListItemLabels|> 
+<|java+class:///net/sf/jmoney/model/DoubleEntry|,|java+class:///net/sf/jmoney/model/Entry|> 
+<|java+class:///net/sf/jmoney/model/SimpleCategory|,|java+class:///net/sf/jmoney/model/AbstractCategory|> 
+<|java+class:///net/sf/jmoney/model/SplittedEntry|,|java+class:///net/sf/jmoney/model/Entry|> 
+
+EXTERNAL REUSE TOTAL: 10 
+<|java+class:///net/sf/jmoney/NavigationTreeModel|,|java+class:///net/sf/jmoney/SortedTreeModel|> 
+<|java+class:///net/sf/jmoney/gui/CategoryComboBox|,|java+class:///net/sf/jmoney/gui/SelectionComboBox|> 
+<|java+class:///net/sf/jmoney/model/CategoryNode|,|java+class:///net/sf/jmoney/SortedTreeNode|> 
+<|java+class:///net/sf/jmoney/model/CategoryTreeModel|,|java+class:///net/sf/jmoney/SortedTreeModel|> 
+<|java+class:///net/sf/jmoney/model/DoubleEntry|,|java+class:///net/sf/jmoney/model/Entry|> 
+<|java+class:///net/sf/jmoney/model/RootCategory|,|java+class:///net/sf/jmoney/model/AbstractCategory|> 
+<|java+class:///net/sf/jmoney/model/SimpleCategory|,|java+class:///net/sf/jmoney/model/AbstractCategory|> 
+<|java+class:///net/sf/jmoney/model/SplitCategory|,|java+class:///net/sf/jmoney/model/AbstractCategory|> 
+<|java+class:///net/sf/jmoney/model/SplittedEntry|,|java+class:///net/sf/jmoney/model/Entry|> 
+<|java+class:///net/sf/jmoney/model/TransferCategory|,|java+class:///net/sf/jmoney/model/AbstractCategory|> 
+
+SUBTYPE TOTAL: 20 
+<|java+class:///net/sf/jmoney/EntryComparator/AmountComparator|,|java+class:///net/sf/jmoney/EntryComparator|> 
+<|java+class:///net/sf/jmoney/EntryComparator/CategoryComparator|,|java+class:///net/sf/jmoney/EntryComparator|> 
+<|java+class:///net/sf/jmoney/EntryComparator/CheckComparator|,|java+class:///net/sf/jmoney/EntryComparator|> 
+<|java+class:///net/sf/jmoney/EntryComparator/DateComparator|,|java+class:///net/sf/jmoney/EntryComparator|> 
+<|java+class:///net/sf/jmoney/EntryComparator/DescriptionComparator|,|java+class:///net/sf/jmoney/EntryComparator|> 
+<|java+class:///net/sf/jmoney/EntryComparator/MemoComparator|,|java+class:///net/sf/jmoney/EntryComparator|> 
+<|java+class:///net/sf/jmoney/EntryComparator/StatusComparator|,|java+class:///net/sf/jmoney/EntryComparator|> 
+<|java+class:///net/sf/jmoney/EntryComparator/ValutaComparator|,|java+class:///net/sf/jmoney/EntryComparator|> 
+<|java+class:///net/sf/jmoney/NavigationTreeModel|,|java+class:///net/sf/jmoney/SortedTreeModel|> 
+<|java+class:///net/sf/jmoney/gui/CategoryComboBox|,|java+class:///net/sf/jmoney/gui/SelectionComboBox|> 
+<|java+class:///net/sf/jmoney/gui/EntryListItemExtended|,|java+class:///net/sf/jmoney/gui/EntryListItem|> 
+<|java+class:///net/sf/jmoney/gui/EntryListItemLabelsExtended|,|java+class:///net/sf/jmoney/gui/EntryListItemLabels|> 
+<|java+class:///net/sf/jmoney/model/CategoryNode|,|java+class:///net/sf/jmoney/SortedTreeNode|> 
+<|java+class:///net/sf/jmoney/model/CategoryTreeModel|,|java+class:///net/sf/jmoney/SortedTreeModel|> 
+<|java+class:///net/sf/jmoney/model/DoubleEntry|,|java+class:///net/sf/jmoney/model/Entry|> 
+<|java+class:///net/sf/jmoney/model/RootCategory|,|java+class:///net/sf/jmoney/model/AbstractCategory|> 
+<|java+class:///net/sf/jmoney/model/SimpleCategory|,|java+class:///net/sf/jmoney/model/AbstractCategory|> 
+<|java+class:///net/sf/jmoney/model/SplitCategory|,|java+class:///net/sf/jmoney/model/AbstractCategory|> 
+<|java+class:///net/sf/jmoney/model/SplittedEntry|,|java+class:///net/sf/jmoney/model/Entry|> 
+<|java+class:///net/sf/jmoney/model/TransferCategory|,|java+class:///net/sf/jmoney/model/AbstractCategory|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 5 
+<|java+class:///net/sf/jmoney/NavigationTreeModel|,|java+class:///net/sf/jmoney/SortedTreeModel|> 
+<|java+class:///net/sf/jmoney/model/CategoryNode|,|java+class:///net/sf/jmoney/SortedTreeNode|> 
+<|java+class:///net/sf/jmoney/model/CategoryTreeModel|,|java+class:///net/sf/jmoney/SortedTreeModel|> 
+<|java+class:///net/sf/jmoney/model/DoubleEntry|,|java+class:///net/sf/jmoney/model/Entry|> 
+<|java+class:///net/sf/jmoney/model/SplittedEntry|,|java+class:///net/sf/jmoney/model/Entry|> 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 17 
+<|java+class:///net/sf/jmoney/EntryComparator/AmountComparator|,|java+class:///net/sf/jmoney/EntryComparator|> 
+<|java+class:///net/sf/jmoney/EntryComparator/CategoryComparator|,|java+class:///net/sf/jmoney/EntryComparator|> 
+<|java+class:///net/sf/jmoney/EntryComparator/CheckComparator|,|java+class:///net/sf/jmoney/EntryComparator|> 
+<|java+class:///net/sf/jmoney/EntryComparator/DateComparator|,|java+class:///net/sf/jmoney/EntryComparator|> 
+<|java+class:///net/sf/jmoney/EntryComparator/DescriptionComparator|,|java+class:///net/sf/jmoney/EntryComparator|> 
+<|java+class:///net/sf/jmoney/EntryComparator/MemoComparator|,|java+class:///net/sf/jmoney/EntryComparator|> 
+<|java+class:///net/sf/jmoney/EntryComparator/StatusComparator|,|java+class:///net/sf/jmoney/EntryComparator|> 
+<|java+class:///net/sf/jmoney/EntryComparator/ValutaComparator|,|java+class:///net/sf/jmoney/EntryComparator|> 
+<|java+class:///net/sf/jmoney/NavigationTreeModel|,|java+class:///net/sf/jmoney/SortedTreeModel|> 
+<|java+class:///net/sf/jmoney/gui/CategoryComboBox|,|java+class:///net/sf/jmoney/gui/SelectionComboBox|> 
+<|java+class:///net/sf/jmoney/gui/DateComboBox|,|java+class:///net/sf/jmoney/gui/SelectionComboBox|> 
+<|java+class:///net/sf/jmoney/gui/EntryListItemExtended|,|java+class:///net/sf/jmoney/gui/EntryListItem|> 
+<|java+class:///net/sf/jmoney/gui/EntryListItemLabelsExtended|,|java+class:///net/sf/jmoney/gui/EntryListItemLabels|> 
+<|java+class:///net/sf/jmoney/model/CategoryNode|,|java+class:///net/sf/jmoney/SortedTreeNode|> 
+<|java+class:///net/sf/jmoney/model/CategoryTreeModel|,|java+class:///net/sf/jmoney/SortedTreeModel|> 
+<|java+class:///net/sf/jmoney/model/DoubleEntry|,|java+class:///net/sf/jmoney/model/Entry|> 
+<|java+class:///net/sf/jmoney/model/SplittedEntry|,|java+class:///net/sf/jmoney/model/Entry|> 
+
+DOWNCALL TOTAL: 9 
+<|java+class:///net/sf/jmoney/EntryComparator/AmountComparator|,|java+class:///net/sf/jmoney/EntryComparator|> 
+<|java+class:///net/sf/jmoney/EntryComparator/CategoryComparator|,|java+class:///net/sf/jmoney/EntryComparator|> 
+<|java+class:///net/sf/jmoney/EntryComparator/CheckComparator|,|java+class:///net/sf/jmoney/EntryComparator|> 
+<|java+class:///net/sf/jmoney/EntryComparator/DateComparator|,|java+class:///net/sf/jmoney/EntryComparator|> 
+<|java+class:///net/sf/jmoney/EntryComparator/DescriptionComparator|,|java+class:///net/sf/jmoney/EntryComparator|> 
+<|java+class:///net/sf/jmoney/EntryComparator/MemoComparator|,|java+class:///net/sf/jmoney/EntryComparator|> 
+<|java+class:///net/sf/jmoney/EntryComparator/StatusComparator|,|java+class:///net/sf/jmoney/EntryComparator|> 
+<|java+class:///net/sf/jmoney/EntryComparator/ValutaComparator|,|java+class:///net/sf/jmoney/EntryComparator|> 
+<|java+class:///net/sf/jmoney/gui/EntryListItemLabelsExtended|,|java+class:///net/sf/jmoney/gui/EntryListItemLabels|> 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 0 
+
+SUBTYPE TOTAL: 4 
+<|java+class:///net/sf/jmoney/io/MT940|,|java+interface:///net/sf/jmoney/io/FileFormat|> 
+<|java+class:///net/sf/jmoney/io/QIF|,|java+interface:///net/sf/jmoney/io/FileFormat|> 
+<|java+class:///net/sf/jmoney/model/AbstractCategory|,|java+interface:///net/sf/jmoney/model/Category|> 
+<|java+class:///net/sf/jmoney/model/Account|,|java+interface:///net/sf/jmoney/model/Category|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 12 
+<|java+class:///net/sf/jmoney/EntryFilter|,|java+interface:///net/sf/jmoney/Constants|> 
+<|java+class:///net/sf/jmoney/NavigationTreeModel|,|java+interface:///net/sf/jmoney/Constants|> 
+<|java+class:///net/sf/jmoney/gui/AboutDialog|,|java+interface:///net/sf/jmoney/Constants|> 
+<|java+class:///net/sf/jmoney/gui/AccountBalancesReportPanel|,|java+interface:///net/sf/jmoney/Constants|> 
+<|java+class:///net/sf/jmoney/gui/AccountEntriesPanel|,|java+interface:///net/sf/jmoney/Constants|> 
+<|java+class:///net/sf/jmoney/gui/EntryFilterPanel|,|java+interface:///net/sf/jmoney/Constants|> 
+<|java+class:///net/sf/jmoney/gui/EntryListItemLabels|,|java+interface:///net/sf/jmoney/Constants|> 
+<|java+class:///net/sf/jmoney/gui/IncomeExpenseReportPanel|,|java+interface:///net/sf/jmoney/Constants|> 
+<|java+class:///net/sf/jmoney/gui/MainFrame|,|java+interface:///net/sf/jmoney/Constants|> 
+<|java+class:///net/sf/jmoney/gui/PreferencesDialog|,|java+interface:///net/sf/jmoney/Constants|> 
+<|java+class:///net/sf/jmoney/gui/WaitDialog|,|java+interface:///net/sf/jmoney/Constants|> 
+<|java+class:///net/sf/jmoney/model/Account|,|java+interface:///net/sf/jmoney/Constants|> 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 1 
+<|java+class:///net/sf/jmoney/model/Account|,|java+interface:///net/sf/jmoney/model/Category|> 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 2 
+<|java+class:///net/sf/jmoney/model/AbstractCategory|,|java+interface:///net/sf/jmoney/model/Category|> 
+<|java+class:///net/sf/jmoney/model/Account|,|java+interface:///net/sf/jmoney/model/Category|> 
+
+DOWNCALL TOTAL: 0 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 0 
+
+SUBTYPE TOTAL: 0 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 0 
+
+DOWNCALL TOTAL: 0 
+
+
+
+

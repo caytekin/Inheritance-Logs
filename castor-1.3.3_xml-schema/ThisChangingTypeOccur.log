@@ -1,0 +1,1 @@
+{<<|java+class:///org/exolab/castor/xml/schema/ModelGroup|,|java+class:///org/exolab/castor/xml/schema/Group|>,<|project://castor-1.3.3_xml-schema/src/main/java/org/exolab/castor/xml/schema/reader/ModelGroupUnmarshaller.java|(10711,22,<302,12>,<302,34>),|java+method:///org/exolab/castor/xml/schema/Group/addGroup(org.exolab.castor.xml.schema.Group)|>>}

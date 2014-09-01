@@ -1,0 +1,32 @@
+[
+  <<|java+class:///org/castor/cpa/test/test201/SelfRelationFolderExtend|,|java+class:///org/castor/cpa/test/test201/SelfRelationFolderParent|>,{
+    |java+interface:///java/io/Serializable|,
+    |java+interface:///org/exolab/castor/jdo/TimeStampable|
+  },|project://castor-1.3.3_cpactf/src/test/java/org/castor/cpa/test/test201/TestSelfRelationExtend.java|(8938,41,<245,12>,<245,53>)>,
+  <<|java+class:///org/castor/cpa/test/test201/SelfRelationFolderExtend|,|java+class:///org/castor/cpa/test/test201/SelfRelationFolderParent|>,{
+    |java+interface:///java/io/Serializable|,
+    |java+interface:///org/exolab/castor/jdo/TimeStampable|
+  },|project://castor-1.3.3_cpactf/src/test/java/org/castor/cpa/test/test201/TestSelfRelationExtend.java|(9384,41,<256,12>,<256,53>)>,
+  <<|java+class:///org/castor/cpa/test/test201/SelfRelationFolderExtend|,|java+class:///org/castor/cpa/test/test201/SelfRelationFolderParent|>,{
+    |java+interface:///java/io/Serializable|,
+    |java+interface:///org/exolab/castor/jdo/TimeStampable|
+  },|project://castor-1.3.3_cpactf/src/test/java/org/castor/cpa/test/test201/TestSelfRelationExtend.java|(9781,41,<266,12>,<266,53>)>,
+  <<|java+class:///org/castor/cpa/test/test201/SelfRelationFolderExtend|,|java+class:///org/castor/cpa/test/test201/SelfRelationFolderParent|>,{
+    |java+interface:///java/io/Serializable|,
+    |java+interface:///org/exolab/castor/jdo/TimeStampable|
+  },|project://castor-1.3.3_cpactf/src/test/java/org/castor/cpa/test/test201/TestSelfRelationExtend.java|(10179,41,<276,12>,<276,53>)>,
+  <<|java+class:///org/castor/cpa/test/test201/SelfRelationFolderExtend|,|java+class:///org/castor/cpa/test/test201/SelfRelationFolderParent|>,{
+    |java+interface:///java/io/Serializable|,
+    |java+interface:///org/exolab/castor/jdo/TimeStampable|
+  },|project://castor-1.3.3_cpactf/src/test/java/org/castor/cpa/test/test201/TestSelfRelationExtend.java|(10576,41,<286,12>,<286,53>)>,
+  <<|java+class:///org/castor/cpa/test/test201/SelfRelationFolderExtend|,|java+class:///org/castor/cpa/test/test201/SelfRelationFolderParent|>,{
+    |java+interface:///java/io/Serializable|,
+    |java+interface:///org/exolab/castor/jdo/TimeStampable|
+  },|project://castor-1.3.3_cpactf/src/test/java/org/castor/cpa/test/test201/TestSelfRelationExtend.java|(10972,41,<296,12>,<296,53>)>,
+  <<|java+class:///org/castor/cpa/test/test201/SelfRelationFolderExtend|,|java+class:///org/castor/cpa/test/test201/SelfRelationFolderParent|>,{
+    |java+interface:///java/io/Serializable|,
+    |java+interface:///org/exolab/castor/jdo/TimeStampable|
+  },|project://castor-1.3.3_cpactf/src/test/java/org/castor/cpa/test/test201/TestSelfRelationExtend.java|(11373,41,<306,12>,<306,53>)>,
+  <<|java+class:///org/castor/cpa/test/test1379/Computer|,|java+class:///org/castor/cpa/test/test1379/Product|>,{|java+interface:///org/exolab/castor/jdo/TimeStampable|},|project://castor-1.3.3_cpactf/src/test/java/org/castor/cpa/test/test1379/Test1379.java|(5756,24,<155,26>,<155,50>)>,
+  <<|java+class:///org/castor/cpa/test/test1379/Computer|,|java+class:///org/castor/cpa/test/test1379/Product|>,{|java+interface:///org/exolab/castor/jdo/TimeStampable|},|project://castor-1.3.3_cpactf/src/test/java/org/castor/cpa/test/test1379/Test1379.java|(6047,24,<164,22>,<164,46>)>
+]

@@ -1,0 +1,7 @@
+Error log for pooka-3.0-080505
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+

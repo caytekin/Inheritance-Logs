@@ -1,0 +1,10 @@
+[
+  <<|java+class:///org/axiondb/engine/IntBTreeIndex|,|java+interface:///org/axiondb/event/TableModificationListener|>,|java+class:///org/axiondb/engine/DiskSystemTable|>,
+  <<|java+class:///org/axiondb/engine/ObjectBTreeIndex|,|java+interface:///org/axiondb/event/TableModificationListener|>,|java+class:///org/axiondb/engine/DiskSystemTable|>,
+  <<|java+class:///org/axiondb/event/BaseTableModificationListener|,|java+interface:///org/axiondb/event/TableModificationListener|>,|java+class:///org/axiondb/engine/DiskSystemTable|>,
+  <<|java+class:///org/axiondb/engine/rowiterators/DelegatingRowIterator|,|java+interface:///org/axiondb/RowIterator|>,|java+class:///org/axiondb/engine/rowiterators/SingleRowIterator|>,
+  <<|java+class:///org/axiondb/engine/BaseRow|,|java+interface:///org/axiondb/Row|>,|java+class:///org/axiondb/engine/LazyRow|>,
+  <<|java+class:///org/axiondb/event/BaseDatabaseModificationListener|,|java+interface:///org/axiondb/event/DatabaseModificationListener|>,|java+class:///org/axiondb/engine/AxionTablesMetaTableUpdater|>,
+  <<|java+class:///org/axiondb/engine/rowiterators/BaseRowIterator|,|java+interface:///org/axiondb/RowIterator|>,|java+class:///org/axiondb/engine/rowiterators/SingleRowIterator|>,
+  <<|java+interface:///org/axiondb/JoinedRowIterator|,|java+interface:///org/axiondb/RowIterator|>,|java+class:///org/axiondb/engine/rowiterators/SingleRowIterator|>
+]

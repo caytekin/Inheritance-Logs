@@ -1,0 +1,19 @@
+{
+  <<|java+class:///junit/framework/TestCase|,|java+class:///junit/framework/Assert|>,2,|java+class:///java/lang/Object|>,
+  <<|java+class:///org/junit/internal/AssumptionViolatedException|,|java+class:///java/lang/RuntimeException|>,2,|java+class:///java/lang/Throwable|>,
+  <<|java+class:///org/junit/internal/matchers/StringContains|,|java+class:///org/junit/internal/matchers/SubstringMatcher|>,2,|java+interface:///org/hamcrest/Matcher|>,
+  <<|java+class:///org/junit/internal/matchers/CombinableMatcher|,|java+class:///org/hamcrest/BaseMatcher|>,2,|java+interface:///org/hamcrest/Matcher|>,
+  <<|java+class:///org/junit/internal/runners/JUnit38ClassRunner|,|java+class:///org/junit/runner/Runner|>,2,|java+class:///org/junit/runner/Runner|>,
+  <<|java+class:///junit/framework/AssertionFailedError|,|java+class:///java/lang/AssertionError|>,2,|java+class:///java/lang/Throwable|>,
+  <<|java+class:///org/junit/internal/runners/ErrorReportingRunner|,|java+class:///org/junit/runner/Runner|>,2,|java+class:///org/junit/runner/Request|>,
+  <<|java+class:///org/junit/runners/Suite|,|java+class:///org/junit/runners/ParentRunner|>,2,|java+class:///org/junit/runner/Runner|>,
+  <<|java+class:///org/junit/runners/ParentRunner|,|java+class:///org/junit/runner/Runner|>,2,|java+class:///org/junit/runner/Runner|>,
+  <<|java+class:///org/junit/runners/model/FrameworkMethod|,|java+class:///org/junit/runners/model/FrameworkMember|>,2,|java+class:///java/lang/Object|>,
+  <<|java+class:///org/junit/runners/BlockJUnit4ClassRunner|,|java+class:///org/junit/runners/ParentRunner|>,2,|java+class:///org/junit/runner/Runner|>,
+  <<|java+class:///org/junit/internal/matchers/SubstringMatcher|,|java+class:///org/junit/internal/matchers/TypeSafeMatcher|>,2,|java+interface:///org/hamcrest/Matcher|>,
+  <<|java+class:///junit/extensions/TestSetup|,|java+class:///junit/extensions/TestDecorator|>,2,|java+interface:///junit/framework/Test|>,
+  <<|java+class:///org/junit/internal/matchers/TypeSafeMatcher|,|java+class:///org/hamcrest/BaseMatcher|>,2,|java+interface:///org/hamcrest/Matcher|>,
+  <<|java+class:///org/junit/internal/runners/SuiteMethod|,|java+class:///org/junit/internal/runners/JUnit38ClassRunner|>,2,|java+class:///org/junit/runner/Runner|>,
+  <<|java+class:///junit/extensions/TestDecorator|,|java+interface:///junit/framework/Test|>,2,|java+interface:///junit/framework/Test|>,
+  <<|java+class:///org/junit/internal/matchers/IsCollectionContaining|,|java+class:///org/junit/internal/matchers/TypeSafeMatcher|>,2,|java+interface:///org/hamcrest/Matcher|>
+}

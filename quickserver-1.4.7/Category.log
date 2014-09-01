@@ -1,0 +1,19 @@
+[
+  <<|java+class:///filesrv/Data|,|java+interface:///org/quickserver/util/pool/PoolableObject|>,|java+class:///chatserver/ChatData|>,
+  <<|java+class:///test/org/quickserver/net/server/TestCommandHandler|,|java+interface:///org/quickserver/net/server/ClientCommandHandler|>,|java+class:///echoserver/EchoCommandHandler|>,
+  <<|java+class:///echowebserver/EchoWSData|,|java+interface:///org/quickserver/util/pool/PoolableObject|>,|java+class:///chatserver/ChatData|>,
+  <<|java+class:///pipeserver/Data|,|java+interface:///org/quickserver/util/pool/PoolableObject|>,|java+class:///chatserver/ChatData|>,
+  <<|java+class:///org/quickserver/net/qsadmin/CommandHandler|,|java+interface:///org/quickserver/net/server/ClientEventHandler|>,|java+class:///org/quickserver/net/server/impl/DefaultClientEventHandler|>,
+  <<|java+class:///ftpserver/Data|,|java+interface:///org/quickserver/util/pool/PoolableObject|>,|java+class:///chatserver/ChatData|>,
+  <<|java+class:///chatserver/ChatCommandHandler|,|java+interface:///org/quickserver/net/server/ClientCommandHandler|>,|java+class:///echoserver/EchoCommandHandler|>,
+  <<|java+class:///echowebserver/PrepareHook|,|java+interface:///org/quickserver/net/ServerHook|>,|java+class:///org/quickserver/net/server/GhostSocketReaper|>,
+  <<|java+class:///ftpserver/CommandHandler|,|java+interface:///org/quickserver/net/server/ClientCommandHandler|>,|java+class:///echoserver/EchoCommandHandler|>,
+  <<|java+class:///cmdserver/CmdCommandHandler|,|java+interface:///org/quickserver/net/server/ClientCommandHandler|>,|java+class:///echoserver/EchoCommandHandler|>,
+  <<|java+class:///test/org/quickserver/net/server/TestEventHandler|,|java+interface:///org/quickserver/net/server/ClientEventHandler|>,|java+class:///org/quickserver/net/server/impl/DefaultClientEventHandler|>,
+  <<|java+class:///xmladder/CommandHandler|,|java+interface:///org/quickserver/net/server/ClientEventHandler|>,|java+class:///org/quickserver/net/server/impl/DefaultClientEventHandler|>,
+  <<|java+class:///xmladder/Data|,|java+interface:///org/quickserver/util/pool/PoolableObject|>,|java+class:///chatserver/ChatData|>,
+  <<|java+class:///dateserver/CommandHandler|,|java+interface:///org/quickserver/net/server/ClientCommandHandler|>,|java+class:///echoserver/EchoCommandHandler|>,
+  <<|java+class:///org/quickserver/net/qsadmin/CommandHandler|,|java+interface:///org/quickserver/net/server/ClientCommandHandler|>,|java+class:///echoserver/EchoCommandHandler|>,
+  <<|java+class:///echowebserver/EchoWSCommandHandler|,|java+interface:///org/quickserver/net/server/ClientCommandHandler|>,|java+class:///echoserver/EchoCommandHandler|>,
+  <<|java+class:///filesrv/PrepareHook|,|java+interface:///org/quickserver/net/ServerHook|>,|java+class:///org/quickserver/net/server/GhostSocketReaper|>
+]

@@ -1,0 +1,229 @@
+RESULTS LOG: 
+INTERNAL REUSE TOTAL: 19 
+<|java+class:///org/columba/addressbook/folder/AbstractFolder|,|java+class:///org/columba/addressbook/folder/AddressbookTreeNode|> 
+<|java+class:///org/columba/addressbook/folder/AddContactTest|,|java+class:///org/columba/addressbook/folder/AbstractFolderTstCase|> 
+<|java+class:///org/columba/addressbook/folder/AddressbookFolder|,|java+class:///org/columba/addressbook/folder/LocalFolder|> 
+<|java+class:///org/columba/addressbook/folder/GetContactTest|,|java+class:///org/columba/addressbook/folder/AbstractFolderTstCase|> 
+<|java+class:///org/columba/addressbook/folder/GetHeaderItemListTest|,|java+class:///org/columba/addressbook/folder/AbstractFolderTstCase|> 
+<|java+class:///org/columba/addressbook/folder/GroupFolder|,|java+class:///org/columba/addressbook/folder/AbstractFolder|> 
+<|java+class:///org/columba/addressbook/folder/LocalFolder|,|java+class:///org/columba/addressbook/folder/AbstractFolder|> 
+<|java+class:///org/columba/addressbook/folder/ModifyContactTest|,|java+class:///org/columba/addressbook/folder/AbstractFolderTstCase|> 
+<|java+class:///org/columba/addressbook/folder/RemoveContactTest|,|java+class:///org/columba/addressbook/folder/AbstractFolderTstCase|> 
+<|java+class:///org/columba/addressbook/folder/importfilter/MozillaCSVAddressbookImporter|,|java+class:///org/columba/addressbook/folder/importfilter/DefaultAddressbookImporter|> 
+<|java+class:///org/columba/addressbook/folder/importfilter/NetscapeLDIFAddressbookImporter|,|java+class:///org/columba/addressbook/folder/importfilter/DefaultAddressbookImporter|> 
+<|java+class:///org/columba/addressbook/folder/importfilter/VCardImporter|,|java+class:///org/columba/addressbook/folder/importfilter/DefaultAddressbookImporter|> 
+<|java+class:///org/columba/addressbook/gui/autocomplete/DefaultAddressComboBox|,|java+class:///org/columba/addressbook/gui/autocomplete/BasicAddressAutocompleteComboBox|> 
+<|java+class:///org/columba/addressbook/gui/list/AddressbookDNDListView|,|java+class:///org/columba/addressbook/gui/list/AddressbookListView|> 
+<|java+class:///org/columba/addressbook/gui/table/model/FilterDecorator|,|java+class:///org/columba/addressbook/gui/table/model/TableModelDecorator|> 
+<|java+class:///org/columba/addressbook/gui/table/model/SortDecorator|,|java+class:///org/columba/addressbook/gui/table/model/TableModelDecorator|> 
+<|java+class:///org/columba/addressbook/gui/table/renderer/TypeRenderer|,|java+class:///org/columba/addressbook/gui/table/renderer/DefaultLabelRenderer|> 
+<|java+class:///org/columba/addressbook/model/ContactItem|,|java+class:///org/columba/addressbook/model/HeaderItem|> 
+<|java+class:///org/columba/addressbook/model/GroupItem|,|java+class:///org/columba/addressbook/model/HeaderItem|> 
+
+EXTERNAL REUSE TOTAL: 9 
+<|java+class:///org/columba/addressbook/folder/AbstractFolder|,|java+class:///org/columba/addressbook/folder/AddressbookTreeNode|> 
+<|java+class:///org/columba/addressbook/folder/AddressbookFolder|,|java+class:///org/columba/addressbook/folder/LocalFolder|> 
+<|java+class:///org/columba/addressbook/folder/GroupFolder|,|java+class:///org/columba/addressbook/folder/AbstractFolder|> 
+<|java+class:///org/columba/addressbook/folder/LocalFolder|,|java+class:///org/columba/addressbook/folder/AbstractFolder|> 
+<|java+class:///org/columba/addressbook/gui/autocomplete/DefaultAddressComboBox|,|java+class:///org/columba/addressbook/gui/autocomplete/BasicAddressAutocompleteComboBox|> 
+<|java+class:///org/columba/addressbook/gui/list/AddressbookDNDListView|,|java+class:///org/columba/addressbook/gui/list/AddressbookListView|> 
+<|java+class:///org/columba/addressbook/gui/table/model/SortDecorator|,|java+class:///org/columba/addressbook/gui/table/model/TableModelDecorator|> 
+<|java+class:///org/columba/addressbook/model/ContactItem|,|java+class:///org/columba/addressbook/model/HeaderItem|> 
+<|java+class:///org/columba/addressbook/model/GroupItem|,|java+class:///org/columba/addressbook/model/HeaderItem|> 
+
+SUBTYPE TOTAL: 16 
+<|java+class:///org/columba/addressbook/folder/AbstractFolder|,|java+class:///org/columba/addressbook/folder/AddressbookTreeNode|> 
+<|java+class:///org/columba/addressbook/folder/AddressbookFolder|,|java+class:///org/columba/addressbook/folder/LocalFolder|> 
+<|java+class:///org/columba/addressbook/folder/GroupFolder|,|java+class:///org/columba/addressbook/folder/AbstractFolder|> 
+<|java+class:///org/columba/addressbook/folder/LocalFolder|,|java+class:///org/columba/addressbook/folder/AbstractFolder|> 
+<|java+class:///org/columba/addressbook/gui/action/AddContactCardAction|,|java+class:///org/columba/addressbook/gui/action/DefaultTreeAction|> 
+<|java+class:///org/columba/addressbook/gui/action/AddGroupCardAction|,|java+class:///org/columba/addressbook/gui/action/DefaultTreeAction|> 
+<|java+class:///org/columba/addressbook/gui/action/AddVCardAction|,|java+class:///org/columba/addressbook/gui/action/DefaultTreeAction|> 
+<|java+class:///org/columba/addressbook/gui/action/EditPropertiesAction|,|java+class:///org/columba/addressbook/gui/action/DefaultTableAction|> 
+<|java+class:///org/columba/addressbook/gui/action/ExportVCardAction|,|java+class:///org/columba/addressbook/gui/action/DefaultTableAction|> 
+<|java+class:///org/columba/addressbook/gui/action/RemoveCardAction|,|java+class:///org/columba/addressbook/gui/action/DefaultTableAction|> 
+<|java+class:///org/columba/addressbook/gui/autocomplete/DefaultAddressComboBox|,|java+class:///org/columba/addressbook/gui/autocomplete/BasicAddressAutocompleteComboBox|> 
+<|java+class:///org/columba/addressbook/gui/list/AddressbookDNDListView|,|java+class:///org/columba/addressbook/gui/list/AddressbookListView|> 
+<|java+class:///org/columba/addressbook/gui/table/model/FilterDecorator|,|java+class:///org/columba/addressbook/gui/table/model/TableModelDecorator|> 
+<|java+class:///org/columba/addressbook/gui/table/model/SortDecorator|,|java+class:///org/columba/addressbook/gui/table/model/TableModelDecorator|> 
+<|java+class:///org/columba/addressbook/model/ContactItem|,|java+class:///org/columba/addressbook/model/HeaderItem|> 
+<|java+class:///org/columba/addressbook/model/GroupItem|,|java+class:///org/columba/addressbook/model/HeaderItem|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 28 
+<|java+class:///org/columba/addressbook/folder/AbstractFolder|,|java+class:///org/columba/addressbook/folder/AddressbookTreeNode|> 
+<|java+class:///org/columba/addressbook/folder/AddContactTest|,|java+class:///org/columba/addressbook/folder/AbstractFolderTstCase|> 
+<|java+class:///org/columba/addressbook/folder/AddressbookFolder|,|java+class:///org/columba/addressbook/folder/LocalFolder|> 
+<|java+class:///org/columba/addressbook/folder/GetContactTest|,|java+class:///org/columba/addressbook/folder/AbstractFolderTstCase|> 
+<|java+class:///org/columba/addressbook/folder/GetHeaderItemListTest|,|java+class:///org/columba/addressbook/folder/AbstractFolderTstCase|> 
+<|java+class:///org/columba/addressbook/folder/GroupFolder|,|java+class:///org/columba/addressbook/folder/AbstractFolder|> 
+<|java+class:///org/columba/addressbook/folder/LocalFolder|,|java+class:///org/columba/addressbook/folder/AbstractFolder|> 
+<|java+class:///org/columba/addressbook/folder/LocalRootFolder|,|java+class:///org/columba/addressbook/folder/AddressbookTreeNode|> 
+<|java+class:///org/columba/addressbook/folder/ModifyContactTest|,|java+class:///org/columba/addressbook/folder/AbstractFolderTstCase|> 
+<|java+class:///org/columba/addressbook/folder/RemoteRootFolder|,|java+class:///org/columba/addressbook/folder/AddressbookTreeNode|> 
+<|java+class:///org/columba/addressbook/folder/RemoveContactTest|,|java+class:///org/columba/addressbook/folder/AbstractFolderTstCase|> 
+<|java+class:///org/columba/addressbook/folder/Root|,|java+class:///org/columba/addressbook/folder/AddressbookTreeNode|> 
+<|java+class:///org/columba/addressbook/folder/importfilter/MozillaCSVAddressbookImporter|,|java+class:///org/columba/addressbook/folder/importfilter/DefaultAddressbookImporter|> 
+<|java+class:///org/columba/addressbook/folder/importfilter/NetscapeLDIFAddressbookImporter|,|java+class:///org/columba/addressbook/folder/importfilter/DefaultAddressbookImporter|> 
+<|java+class:///org/columba/addressbook/folder/importfilter/VCardImporter|,|java+class:///org/columba/addressbook/folder/importfilter/DefaultAddressbookImporter|> 
+<|java+class:///org/columba/addressbook/gui/action/AddContactCardAction|,|java+class:///org/columba/addressbook/gui/action/DefaultTreeAction|> 
+<|java+class:///org/columba/addressbook/gui/action/AddGroupCardAction|,|java+class:///org/columba/addressbook/gui/action/DefaultTreeAction|> 
+<|java+class:///org/columba/addressbook/gui/action/AddVCardAction|,|java+class:///org/columba/addressbook/gui/action/DefaultTreeAction|> 
+<|java+class:///org/columba/addressbook/gui/action/EditPropertiesAction|,|java+class:///org/columba/addressbook/gui/action/DefaultTableAction|> 
+<|java+class:///org/columba/addressbook/gui/action/ExportVCardAction|,|java+class:///org/columba/addressbook/gui/action/DefaultTableAction|> 
+<|java+class:///org/columba/addressbook/gui/action/RemoveCardAction|,|java+class:///org/columba/addressbook/gui/action/DefaultTableAction|> 
+<|java+class:///org/columba/addressbook/gui/autocomplete/DefaultAddressComboBox|,|java+class:///org/columba/addressbook/gui/autocomplete/BasicAddressAutocompleteComboBox|> 
+<|java+class:///org/columba/addressbook/gui/list/AddressbookDNDListView|,|java+class:///org/columba/addressbook/gui/list/AddressbookListView|> 
+<|java+class:///org/columba/addressbook/gui/table/model/FilterDecorator|,|java+class:///org/columba/addressbook/gui/table/model/TableModelDecorator|> 
+<|java+class:///org/columba/addressbook/gui/table/model/SortDecorator|,|java+class:///org/columba/addressbook/gui/table/model/TableModelDecorator|> 
+<|java+class:///org/columba/addressbook/gui/table/renderer/TypeRenderer|,|java+class:///org/columba/addressbook/gui/table/renderer/DefaultLabelRenderer|> 
+<|java+class:///org/columba/addressbook/model/ContactItem|,|java+class:///org/columba/addressbook/model/HeaderItem|> 
+<|java+class:///org/columba/addressbook/model/GroupItem|,|java+class:///org/columba/addressbook/model/HeaderItem|> 
+
+GENERIC TOTAL: 4 
+<|java+class:///org/columba/addressbook/folder/AbstractFolder|,|java+class:///org/columba/addressbook/folder/AddressbookTreeNode|> 
+<|java+class:///org/columba/addressbook/folder/GroupFolder|,|java+class:///org/columba/addressbook/folder/AbstractFolder|> 
+<|java+class:///org/columba/addressbook/model/ContactItem|,|java+class:///org/columba/addressbook/model/HeaderItem|> 
+<|java+class:///org/columba/addressbook/model/GroupItem|,|java+class:///org/columba/addressbook/model/HeaderItem|> 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 23 
+<|java+class:///org/columba/addressbook/folder/AbstractFolder|,|java+class:///org/columba/addressbook/folder/AddressbookTreeNode|> 
+<|java+class:///org/columba/addressbook/folder/AddContactTest|,|java+class:///org/columba/addressbook/folder/AbstractFolderTstCase|> 
+<|java+class:///org/columba/addressbook/folder/GetContactTest|,|java+class:///org/columba/addressbook/folder/AbstractFolderTstCase|> 
+<|java+class:///org/columba/addressbook/folder/GetHeaderItemListTest|,|java+class:///org/columba/addressbook/folder/AbstractFolderTstCase|> 
+<|java+class:///org/columba/addressbook/folder/LocalRootFolder|,|java+class:///org/columba/addressbook/folder/AddressbookTreeNode|> 
+<|java+class:///org/columba/addressbook/folder/ModifyContactTest|,|java+class:///org/columba/addressbook/folder/AbstractFolderTstCase|> 
+<|java+class:///org/columba/addressbook/folder/RemoteRootFolder|,|java+class:///org/columba/addressbook/folder/AddressbookTreeNode|> 
+<|java+class:///org/columba/addressbook/folder/RemoveContactTest|,|java+class:///org/columba/addressbook/folder/AbstractFolderTstCase|> 
+<|java+class:///org/columba/addressbook/folder/Root|,|java+class:///org/columba/addressbook/folder/AddressbookTreeNode|> 
+<|java+class:///org/columba/addressbook/folder/importfilter/MozillaCSVAddressbookImporter|,|java+class:///org/columba/addressbook/folder/importfilter/DefaultAddressbookImporter|> 
+<|java+class:///org/columba/addressbook/folder/importfilter/NetscapeLDIFAddressbookImporter|,|java+class:///org/columba/addressbook/folder/importfilter/DefaultAddressbookImporter|> 
+<|java+class:///org/columba/addressbook/folder/importfilter/VCardImporter|,|java+class:///org/columba/addressbook/folder/importfilter/DefaultAddressbookImporter|> 
+<|java+class:///org/columba/addressbook/gui/action/AddContactCardAction|,|java+class:///org/columba/addressbook/gui/action/DefaultTreeAction|> 
+<|java+class:///org/columba/addressbook/gui/action/AddGroupCardAction|,|java+class:///org/columba/addressbook/gui/action/DefaultTreeAction|> 
+<|java+class:///org/columba/addressbook/gui/action/AddVCardAction|,|java+class:///org/columba/addressbook/gui/action/DefaultTreeAction|> 
+<|java+class:///org/columba/addressbook/gui/action/EditPropertiesAction|,|java+class:///org/columba/addressbook/gui/action/DefaultTableAction|> 
+<|java+class:///org/columba/addressbook/gui/action/ExportVCardAction|,|java+class:///org/columba/addressbook/gui/action/DefaultTableAction|> 
+<|java+class:///org/columba/addressbook/gui/action/RemoveCardAction|,|java+class:///org/columba/addressbook/gui/action/DefaultTableAction|> 
+<|java+class:///org/columba/addressbook/gui/autocomplete/DefaultAddressComboBox|,|java+class:///org/columba/addressbook/gui/autocomplete/BasicAddressAutocompleteComboBox|> 
+<|java+class:///org/columba/addressbook/gui/list/AddressbookDNDListView|,|java+class:///org/columba/addressbook/gui/list/AddressbookListView|> 
+<|java+class:///org/columba/addressbook/gui/table/model/FilterDecorator|,|java+class:///org/columba/addressbook/gui/table/model/TableModelDecorator|> 
+<|java+class:///org/columba/addressbook/gui/table/model/SortDecorator|,|java+class:///org/columba/addressbook/gui/table/model/TableModelDecorator|> 
+<|java+class:///org/columba/addressbook/gui/table/renderer/TypeRenderer|,|java+class:///org/columba/addressbook/gui/table/renderer/DefaultLabelRenderer|> 
+
+DOWNCALL TOTAL: 6 
+<|java+class:///org/columba/addressbook/folder/AddressbookFolder|,|java+class:///org/columba/addressbook/folder/LocalFolder|> 
+<|java+class:///org/columba/addressbook/folder/GroupFolder|,|java+class:///org/columba/addressbook/folder/AbstractFolder|> 
+<|java+class:///org/columba/addressbook/folder/Root|,|java+class:///org/columba/addressbook/folder/AddressbookTreeNode|> 
+<|java+class:///org/columba/addressbook/folder/importfilter/MozillaCSVAddressbookImporter|,|java+class:///org/columba/addressbook/folder/importfilter/DefaultAddressbookImporter|> 
+<|java+class:///org/columba/addressbook/folder/importfilter/NetscapeLDIFAddressbookImporter|,|java+class:///org/columba/addressbook/folder/importfilter/DefaultAddressbookImporter|> 
+<|java+class:///org/columba/addressbook/folder/importfilter/VCardImporter|,|java+class:///org/columba/addressbook/folder/importfilter/DefaultAddressbookImporter|> 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 3 
+<|java+class:///org/columba/addressbook/gui/table/TableController|,|java+interface:///org/columba/addressbook/folder/FolderListener|> 
+<|java+class:///org/columba/addressbook/gui/table/TableController|,|java+interface:///org/columba/addressbook/gui/focus/FocusOwner|> 
+<|java+class:///org/columba/addressbook/gui/tree/TreeController|,|java+interface:///org/columba/addressbook/gui/focus/FocusOwner|> 
+
+SUBTYPE TOTAL: 23 
+<|java+class:///org/columba/addressbook/folder/AbstractFolder|,|java+interface:///org/columba/addressbook/folder/IContactFolder|> 
+<|java+class:///org/columba/addressbook/folder/AbstractFolder|,|java+interface:///org/columba/addressbook/folder/IContactStorage|> 
+<|java+class:///org/columba/addressbook/folder/AddressbookTreeNode|,|java+interface:///org/columba/addressbook/folder/IFolder|> 
+<|java+class:///org/columba/addressbook/folder/ContactItemCacheStorageImpl|,|java+interface:///org/columba/addressbook/folder/ContactItemCacheStorage|> 
+<|java+class:///org/columba/addressbook/folder/FolderEvent|,|java+interface:///org/columba/addressbook/folder/IFolderEvent|> 
+<|java+class:///org/columba/addressbook/folder/GroupFolder|,|java+interface:///org/columba/addressbook/folder/IGroupFolder|> 
+<|java+class:///org/columba/addressbook/folder/XmlDataStorage|,|java+interface:///org/columba/addressbook/folder/DataStorage|> 
+<|java+class:///org/columba/addressbook/gui/SelectAddressDialog|,|java+interface:///org/columba/addressbook/gui/ISelectAddressDialog|> 
+<|java+class:///org/columba/addressbook/gui/autocomplete/AddressCollector|,|java+interface:///org/columba/addressbook/gui/autocomplete/IAddressCollector|> 
+<|java+class:///org/columba/addressbook/gui/frame/AddressbookFrameController|,|java+interface:///org/columba/addressbook/gui/frame/AddressbookFrameMediator|> 
+<|java+class:///org/columba/addressbook/gui/table/TableController|,|java+interface:///org/columba/addressbook/folder/FolderListener|> 
+<|java+class:///org/columba/addressbook/gui/table/TableController|,|java+interface:///org/columba/addressbook/gui/focus/FocusOwner|> 
+<|java+class:///org/columba/addressbook/gui/table/model/AddressbookTableModel|,|java+interface:///org/columba/addressbook/gui/table/model/ContactItemTableModel|> 
+<|java+class:///org/columba/addressbook/gui/table/model/TableModelDecorator|,|java+interface:///org/columba/addressbook/gui/table/model/ContactItemTableModel|> 
+<|java+class:///org/columba/addressbook/gui/tree/TreeController|,|java+interface:///org/columba/addressbook/gui/focus/FocusOwner|> 
+<|java+class:///org/columba/addressbook/gui/tree/util/SelectAddressbookFolderDialog|,|java+interface:///org/columba/addressbook/gui/tree/util/ISelectFolderDialog|> 
+<|java+class:///org/columba/addressbook/model/Contact|,|java+interface:///org/columba/addressbook/model/IContact|> 
+<|java+class:///org/columba/addressbook/model/ContactItem|,|java+interface:///org/columba/addressbook/model/IContactItem|> 
+<|java+class:///org/columba/addressbook/model/ContactItemMap|,|java+interface:///org/columba/addressbook/model/IContactItemMap|> 
+<|java+class:///org/columba/addressbook/model/Group|,|java+interface:///org/columba/addressbook/model/IGroup|> 
+<|java+class:///org/columba/addressbook/model/GroupItem|,|java+interface:///org/columba/addressbook/model/IGroupItem|> 
+<|java+class:///org/columba/addressbook/model/HeaderItem|,|java+interface:///org/columba/addressbook/model/IHeaderItem|> 
+<|java+class:///org/columba/addressbook/model/HeaderItemList|,|java+interface:///org/columba/addressbook/model/IHeaderItemList|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 3 
+<|java+class:///org/columba/addressbook/gui/table/TableController|,|java+interface:///org/columba/addressbook/folder/FolderListener|> 
+<|java+class:///org/columba/addressbook/gui/table/TableController|,|java+interface:///org/columba/addressbook/gui/focus/FocusOwner|> 
+<|java+class:///org/columba/addressbook/model/ContactItem|,|java+interface:///org/columba/addressbook/model/IContactItem|> 
+
+CATEGORY TOTAL: 2 
+<|java+class:///org/columba/addressbook/folder/GroupFolder|,|java+interface:///org/columba/addressbook/folder/IContactStorage|> 
+<|java+class:///org/columba/addressbook/gui/focus/AbstractFocusOwner|,|java+interface:///org/columba/addressbook/gui/focus/FocusOwner|> 
+
+FRAMEWORK TOTAL: 4 
+<|java+class:///org/columba/addressbook/gui/frame/AddressbookFrameController|,|java+interface:///org/columba/addressbook/gui/frame/AddressbookFrameMediator|> 
+<|java+class:///org/columba/addressbook/gui/table/TableController|,|java+interface:///org/columba/addressbook/folder/FolderListener|> 
+<|java+class:///org/columba/addressbook/gui/table/model/AddressbookTableModel|,|java+interface:///org/columba/addressbook/gui/table/model/ContactItemTableModel|> 
+<|java+class:///org/columba/addressbook/gui/table/model/TableModelDecorator|,|java+interface:///org/columba/addressbook/gui/table/model/ContactItemTableModel|> 
+
+DOWNCALL TOTAL: 0 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 2 
+<|java+interface:///org/columba/addressbook/folder/IContactFolder|,|java+interface:///org/columba/addressbook/folder/IContactStorage|> 
+<|java+interface:///org/columba/addressbook/folder/IContactStorage|,|java+interface:///org/columba/addressbook/folder/IFolder|> 
+
+SUBTYPE TOTAL: 4 
+<|java+interface:///org/columba/addressbook/folder/IContactFolder|,|java+interface:///org/columba/addressbook/folder/IContactStorage|> 
+<|java+interface:///org/columba/addressbook/folder/IContactStorage|,|java+interface:///org/columba/addressbook/folder/IFolder|> 
+<|java+interface:///org/columba/addressbook/model/IContactItem|,|java+interface:///org/columba/addressbook/model/IHeaderItem|> 
+<|java+interface:///org/columba/addressbook/model/IGroupItem|,|java+interface:///org/columba/addressbook/model/IHeaderItem|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 1 
+<|java+interface:///org/columba/addressbook/model/IGroupItem|,|java+interface:///org/columba/addressbook/model/IHeaderItem|> 
+
+FRAMEWORK TOTAL: 0 
+
+DOWNCALL TOTAL: 0 
+
+
+
+

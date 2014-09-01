@@ -1,0 +1,21 @@
+Error log for rssowl-2.0.5
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [int(),int(),int()], declared symbol list: [array(long(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [boolean(),boolean()], declared symbol list: [array(boolean(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [int(),int(),int()], declared symbol list: [array(int(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [interface(|java+interface:///com/db4o/config/Configuration|,[]),class(|java+class:///java/lang/Throwable|,[]),class(|java+class:///java/io/File|,[]),class(|java+class:///org/rssowl/core/internal/persist/service/BackupService|,[]),class(|java+class:///org/rssowl/core/internal/persist/service/BackupService|,[])], declared symbol list: [interface(|java+interface:///com/db4o/config/Configuration|,[]),class(|java+class:///java/lang/Throwable|,[]),class(|java+class:///java/io/File|,[]),array(class(|java+class:///org/rssowl/core/internal/persist/service/BackupService|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+

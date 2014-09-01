@@ -1,0 +1,233 @@
+RESULTS LOG: 
+INTERNAL REUSE TOTAL: 47 
+<|java+class:///org/javacc/jjdoc/HTMLGenerator|,|java+class:///org/javacc/jjdoc/TextGenerator|> 
+<|java+class:///org/javacc/jjdoc/JJDoc|,|java+class:///org/javacc/jjdoc/JJDocGlobals|> 
+<|java+class:///org/javacc/jjdoc/JJDocMain|,|java+class:///org/javacc/jjdoc/JJDocGlobals|> 
+<|java+class:///org/javacc/jjdoc/JJDocOptions|,|java+class:///org/javacc/parser/Options|> 
+<|java+class:///org/javacc/jjdoc/test/JJDocMainTest|,|java+class:///org/javacc/JavaCCTestCase|> 
+<|java+class:///org/javacc/jjtree/ASTBNF|,|java+class:///org/javacc/jjtree/ASTProduction|> 
+<|java+class:///org/javacc/jjtree/ASTBNFAction|,|java+class:///org/javacc/jjtree/JJTreeNode|> 
+<|java+class:///org/javacc/jjtree/ASTBNFDeclaration|,|java+class:///org/javacc/jjtree/JJTreeNode|> 
+<|java+class:///org/javacc/jjtree/ASTBNFNodeScope|,|java+class:///org/javacc/jjtree/JJTreeNode|> 
+<|java+class:///org/javacc/jjtree/ASTCompilationUnit|,|java+class:///org/javacc/jjtree/JJTreeNode|> 
+<|java+class:///org/javacc/jjtree/ASTExpansionNodeScope|,|java+class:///org/javacc/jjtree/JJTreeNode|> 
+<|java+class:///org/javacc/jjtree/ASTGrammar|,|java+class:///org/javacc/jjtree/JJTreeNode|> 
+<|java+class:///org/javacc/jjtree/ASTJavacodeBody|,|java+class:///org/javacc/jjtree/JJTreeNode|> 
+<|java+class:///org/javacc/jjtree/ASTLHS|,|java+class:///org/javacc/jjtree/JJTreeNode|> 
+<|java+class:///org/javacc/jjtree/ASTNodeDescriptor|,|java+class:///org/javacc/jjtree/JJTreeNode|> 
+<|java+class:///org/javacc/jjtree/ASTNodeDescriptorExpression|,|java+class:///org/javacc/jjtree/JJTreeNode|> 
+<|java+class:///org/javacc/jjtree/ASTOptionBinding|,|java+class:///org/javacc/jjtree/JJTreeNode|> 
+<|java+class:///org/javacc/jjtree/JJTreeOptions|,|java+class:///org/javacc/parser/Options|> 
+<|java+class:///org/javacc/parser/Action|,|java+class:///org/javacc/parser/Expansion|> 
+<|java+class:///org/javacc/parser/Choice|,|java+class:///org/javacc/parser/Expansion|> 
+<|java+class:///org/javacc/parser/JavaCCParserInternals|,|java+class:///org/javacc/parser/JavaCCGlobals|> 
+<|java+class:///org/javacc/parser/JavaFiles|,|java+class:///org/javacc/parser/JavaCCGlobals|> 
+<|java+class:///org/javacc/parser/LexGen|,|java+class:///org/javacc/parser/JavaCCGlobals|> 
+<|java+class:///org/javacc/parser/Lookahead|,|java+class:///org/javacc/parser/Expansion|> 
+<|java+class:///org/javacc/parser/LookaheadCalc|,|java+class:///org/javacc/parser/JavaCCGlobals|> 
+<|java+class:///org/javacc/parser/NonTerminal|,|java+class:///org/javacc/parser/Expansion|> 
+<|java+class:///org/javacc/parser/OneOrMore|,|java+class:///org/javacc/parser/Expansion|> 
+<|java+class:///org/javacc/parser/OtherFilesGen|,|java+class:///org/javacc/parser/JavaCCGlobals|> 
+<|java+class:///org/javacc/parser/ParseEngine|,|java+class:///org/javacc/parser/JavaCCGlobals|> 
+<|java+class:///org/javacc/parser/ParseGen|,|java+class:///org/javacc/parser/JavaCCGlobals|> 
+<|java+class:///org/javacc/parser/RCharacterList|,|java+class:///org/javacc/parser/RegularExpression|> 
+<|java+class:///org/javacc/parser/RChoice|,|java+class:///org/javacc/parser/RegularExpression|> 
+<|java+class:///org/javacc/parser/RJustName|,|java+class:///org/javacc/parser/RegularExpression|> 
+<|java+class:///org/javacc/parser/ROneOrMore|,|java+class:///org/javacc/parser/RegularExpression|> 
+<|java+class:///org/javacc/parser/RSequence|,|java+class:///org/javacc/parser/RegularExpression|> 
+<|java+class:///org/javacc/parser/RStringLiteral|,|java+class:///org/javacc/parser/RegularExpression|> 
+<|java+class:///org/javacc/parser/RZeroOrMore|,|java+class:///org/javacc/parser/RegularExpression|> 
+<|java+class:///org/javacc/parser/RZeroOrOne|,|java+class:///org/javacc/parser/RegularExpression|> 
+<|java+class:///org/javacc/parser/RegularExpression|,|java+class:///org/javacc/parser/Expansion|> 
+<|java+class:///org/javacc/parser/Semanticize|,|java+class:///org/javacc/parser/JavaCCGlobals|> 
+<|java+class:///org/javacc/parser/Semanticize/FixRJustNames|,|java+class:///org/javacc/parser/JavaCCGlobals|> 
+<|java+class:///org/javacc/parser/Semanticize/ProductionDefinedChecker|,|java+class:///org/javacc/parser/JavaCCGlobals|> 
+<|java+class:///org/javacc/parser/Sequence|,|java+class:///org/javacc/parser/Expansion|> 
+<|java+class:///org/javacc/parser/TryBlock|,|java+class:///org/javacc/parser/Expansion|> 
+<|java+class:///org/javacc/parser/ZeroOrMore|,|java+class:///org/javacc/parser/Expansion|> 
+<|java+class:///org/javacc/parser/ZeroOrOne|,|java+class:///org/javacc/parser/Expansion|> 
+<|java+class:///org/javacc/parser/test/NfaStateTest|,|java+class:///org/javacc/JavaCCTestCase|> 
+
+EXTERNAL REUSE TOTAL: 22 
+<|java+class:///org/javacc/jjdoc/JJDocOptions|,|java+class:///org/javacc/parser/Options|> 
+<|java+class:///org/javacc/jjtree/ASTBNFAction|,|java+class:///org/javacc/jjtree/JJTreeNode|> 
+<|java+class:///org/javacc/jjtree/ASTGrammar|,|java+class:///org/javacc/jjtree/JJTreeNode|> 
+<|java+class:///org/javacc/jjtree/ASTNodeDescriptor|,|java+class:///org/javacc/jjtree/JJTreeNode|> 
+<|java+class:///org/javacc/jjtree/ASTNodeDescriptorExpression|,|java+class:///org/javacc/jjtree/JJTreeNode|> 
+<|java+class:///org/javacc/jjtree/JJTreeOptions|,|java+class:///org/javacc/parser/Options|> 
+<|java+class:///org/javacc/parser/Action|,|java+class:///org/javacc/parser/Expansion|> 
+<|java+class:///org/javacc/parser/BNFProduction|,|java+class:///org/javacc/parser/NormalProduction|> 
+<|java+class:///org/javacc/parser/Choice|,|java+class:///org/javacc/parser/Expansion|> 
+<|java+class:///org/javacc/parser/JavaCCParserInternals|,|java+class:///org/javacc/parser/JavaCCGlobals|> 
+<|java+class:///org/javacc/parser/JavaCodeProduction|,|java+class:///org/javacc/parser/NormalProduction|> 
+<|java+class:///org/javacc/parser/Lookahead|,|java+class:///org/javacc/parser/Expansion|> 
+<|java+class:///org/javacc/parser/OneOrMore|,|java+class:///org/javacc/parser/Expansion|> 
+<|java+class:///org/javacc/parser/RJustName|,|java+class:///org/javacc/parser/RegularExpression|> 
+<|java+class:///org/javacc/parser/ROneOrMore|,|java+class:///org/javacc/parser/RegularExpression|> 
+<|java+class:///org/javacc/parser/RStringLiteral|,|java+class:///org/javacc/parser/RegularExpression|> 
+<|java+class:///org/javacc/parser/RZeroOrMore|,|java+class:///org/javacc/parser/RegularExpression|> 
+<|java+class:///org/javacc/parser/RegularExpression|,|java+class:///org/javacc/parser/Expansion|> 
+<|java+class:///org/javacc/parser/Sequence|,|java+class:///org/javacc/parser/Expansion|> 
+<|java+class:///org/javacc/parser/TryBlock|,|java+class:///org/javacc/parser/Expansion|> 
+<|java+class:///org/javacc/parser/ZeroOrMore|,|java+class:///org/javacc/parser/Expansion|> 
+<|java+class:///org/javacc/parser/ZeroOrOne|,|java+class:///org/javacc/parser/Expansion|> 
+
+SUBTYPE TOTAL: 33 
+<|java+class:///org/javacc/jjtree/ASTBNFAction|,|java+class:///org/javacc/jjtree/JJTreeNode|> 
+<|java+class:///org/javacc/jjtree/ASTBNFDeclaration|,|java+class:///org/javacc/jjtree/JJTreeNode|> 
+<|java+class:///org/javacc/jjtree/ASTBNFNodeScope|,|java+class:///org/javacc/jjtree/JJTreeNode|> 
+<|java+class:///org/javacc/jjtree/ASTCompilationUnit|,|java+class:///org/javacc/jjtree/JJTreeNode|> 
+<|java+class:///org/javacc/jjtree/ASTExpansionNodeScope|,|java+class:///org/javacc/jjtree/JJTreeNode|> 
+<|java+class:///org/javacc/jjtree/ASTGrammar|,|java+class:///org/javacc/jjtree/JJTreeNode|> 
+<|java+class:///org/javacc/jjtree/ASTLHS|,|java+class:///org/javacc/jjtree/JJTreeNode|> 
+<|java+class:///org/javacc/jjtree/ASTNodeDescriptor|,|java+class:///org/javacc/jjtree/JJTreeNode|> 
+<|java+class:///org/javacc/jjtree/ASTProduction|,|java+class:///org/javacc/jjtree/JJTreeNode|> 
+<|java+class:///org/javacc/jjtree/Token/GTToken|,|java+class:///org/javacc/jjtree/Token|> 
+<|java+class:///org/javacc/parser/Action|,|java+class:///org/javacc/parser/Expansion|> 
+<|java+class:///org/javacc/parser/BNFProduction|,|java+class:///org/javacc/parser/NormalProduction|> 
+<|java+class:///org/javacc/parser/Choice|,|java+class:///org/javacc/parser/Expansion|> 
+<|java+class:///org/javacc/parser/JavaCodeProduction|,|java+class:///org/javacc/parser/NormalProduction|> 
+<|java+class:///org/javacc/parser/Lookahead|,|java+class:///org/javacc/parser/Expansion|> 
+<|java+class:///org/javacc/parser/NonTerminal|,|java+class:///org/javacc/parser/Expansion|> 
+<|java+class:///org/javacc/parser/OneOrMore|,|java+class:///org/javacc/parser/Expansion|> 
+<|java+class:///org/javacc/parser/RCharacterList|,|java+class:///org/javacc/parser/RegularExpression|> 
+<|java+class:///org/javacc/parser/RChoice|,|java+class:///org/javacc/parser/RegularExpression|> 
+<|java+class:///org/javacc/parser/REndOfFile|,|java+class:///org/javacc/parser/RegularExpression|> 
+<|java+class:///org/javacc/parser/RJustName|,|java+class:///org/javacc/parser/RegularExpression|> 
+<|java+class:///org/javacc/parser/ROneOrMore|,|java+class:///org/javacc/parser/RegularExpression|> 
+<|java+class:///org/javacc/parser/RRepetitionRange|,|java+class:///org/javacc/parser/RegularExpression|> 
+<|java+class:///org/javacc/parser/RSequence|,|java+class:///org/javacc/parser/RegularExpression|> 
+<|java+class:///org/javacc/parser/RStringLiteral|,|java+class:///org/javacc/parser/RegularExpression|> 
+<|java+class:///org/javacc/parser/RZeroOrMore|,|java+class:///org/javacc/parser/RegularExpression|> 
+<|java+class:///org/javacc/parser/RZeroOrOne|,|java+class:///org/javacc/parser/RegularExpression|> 
+<|java+class:///org/javacc/parser/RegularExpression|,|java+class:///org/javacc/parser/Expansion|> 
+<|java+class:///org/javacc/parser/Sequence|,|java+class:///org/javacc/parser/Expansion|> 
+<|java+class:///org/javacc/parser/Token/GTToken|,|java+class:///org/javacc/parser/Token|> 
+<|java+class:///org/javacc/parser/TryBlock|,|java+class:///org/javacc/parser/Expansion|> 
+<|java+class:///org/javacc/parser/ZeroOrMore|,|java+class:///org/javacc/parser/Expansion|> 
+<|java+class:///org/javacc/parser/ZeroOrOne|,|java+class:///org/javacc/parser/Expansion|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 22 
+<|java+class:///org/javacc/jjdoc/HTMLGenerator|,|java+class:///org/javacc/jjdoc/TextGenerator|> 
+<|java+class:///org/javacc/jjdoc/JJDocOptions|,|java+class:///org/javacc/parser/Options|> 
+<|java+class:///org/javacc/jjdoc/test/JJDocMainTest|,|java+class:///org/javacc/JavaCCTestCase|> 
+<|java+class:///org/javacc/jjtree/ASTBNF|,|java+class:///org/javacc/jjtree/ASTProduction|> 
+<|java+class:///org/javacc/jjtree/ASTBNFAction|,|java+class:///org/javacc/jjtree/JJTreeNode|> 
+<|java+class:///org/javacc/jjtree/ASTBNFDeclaration|,|java+class:///org/javacc/jjtree/JJTreeNode|> 
+<|java+class:///org/javacc/jjtree/ASTBNFNodeScope|,|java+class:///org/javacc/jjtree/JJTreeNode|> 
+<|java+class:///org/javacc/jjtree/ASTCompilationUnit|,|java+class:///org/javacc/jjtree/JJTreeNode|> 
+<|java+class:///org/javacc/jjtree/ASTExpansionNodeScope|,|java+class:///org/javacc/jjtree/JJTreeNode|> 
+<|java+class:///org/javacc/jjtree/ASTGrammar|,|java+class:///org/javacc/jjtree/JJTreeNode|> 
+<|java+class:///org/javacc/jjtree/ASTJavacode|,|java+class:///org/javacc/jjtree/ASTProduction|> 
+<|java+class:///org/javacc/jjtree/ASTJavacodeBody|,|java+class:///org/javacc/jjtree/JJTreeNode|> 
+<|java+class:///org/javacc/jjtree/ASTLHS|,|java+class:///org/javacc/jjtree/JJTreeNode|> 
+<|java+class:///org/javacc/jjtree/ASTNodeDescriptor|,|java+class:///org/javacc/jjtree/JJTreeNode|> 
+<|java+class:///org/javacc/jjtree/ASTNodeDescriptorExpression|,|java+class:///org/javacc/jjtree/JJTreeNode|> 
+<|java+class:///org/javacc/jjtree/ASTOptionBinding|,|java+class:///org/javacc/jjtree/JJTreeNode|> 
+<|java+class:///org/javacc/jjtree/ASTOptions|,|java+class:///org/javacc/jjtree/JJTreeNode|> 
+<|java+class:///org/javacc/jjtree/ASTProduction|,|java+class:///org/javacc/jjtree/JJTreeNode|> 
+<|java+class:///org/javacc/jjtree/JJTreeOptions|,|java+class:///org/javacc/parser/Options|> 
+<|java+class:///org/javacc/jjtree/Token/GTToken|,|java+class:///org/javacc/jjtree/Token|> 
+<|java+class:///org/javacc/parser/Token/GTToken|,|java+class:///org/javacc/parser/Token|> 
+<|java+class:///org/javacc/parser/test/NfaStateTest|,|java+class:///org/javacc/JavaCCTestCase|> 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 1 
+<|java+class:///org/javacc/parser/REndOfFile|,|java+class:///org/javacc/parser/RegularExpression|> 
+
+FRAMEWORK TOTAL: 15 
+<|java+class:///org/javacc/jjdoc/test/JJDocMainTest|,|java+class:///org/javacc/JavaCCTestCase|> 
+<|java+class:///org/javacc/jjtree/ASTBNFAction|,|java+class:///org/javacc/jjtree/JJTreeNode|> 
+<|java+class:///org/javacc/jjtree/ASTBNFDeclaration|,|java+class:///org/javacc/jjtree/JJTreeNode|> 
+<|java+class:///org/javacc/jjtree/ASTBNFNodeScope|,|java+class:///org/javacc/jjtree/JJTreeNode|> 
+<|java+class:///org/javacc/jjtree/ASTCompilationUnit|,|java+class:///org/javacc/jjtree/JJTreeNode|> 
+<|java+class:///org/javacc/jjtree/ASTExpansionNodeScope|,|java+class:///org/javacc/jjtree/JJTreeNode|> 
+<|java+class:///org/javacc/jjtree/ASTGrammar|,|java+class:///org/javacc/jjtree/JJTreeNode|> 
+<|java+class:///org/javacc/jjtree/ASTJavacodeBody|,|java+class:///org/javacc/jjtree/JJTreeNode|> 
+<|java+class:///org/javacc/jjtree/ASTLHS|,|java+class:///org/javacc/jjtree/JJTreeNode|> 
+<|java+class:///org/javacc/jjtree/ASTNodeDescriptor|,|java+class:///org/javacc/jjtree/JJTreeNode|> 
+<|java+class:///org/javacc/jjtree/ASTNodeDescriptorExpression|,|java+class:///org/javacc/jjtree/JJTreeNode|> 
+<|java+class:///org/javacc/jjtree/ASTOptionBinding|,|java+class:///org/javacc/jjtree/JJTreeNode|> 
+<|java+class:///org/javacc/jjtree/ASTOptions|,|java+class:///org/javacc/jjtree/JJTreeNode|> 
+<|java+class:///org/javacc/jjtree/ASTProduction|,|java+class:///org/javacc/jjtree/JJTreeNode|> 
+<|java+class:///org/javacc/parser/test/NfaStateTest|,|java+class:///org/javacc/JavaCCTestCase|> 
+
+DOWNCALL TOTAL: 3 
+<|java+class:///org/javacc/jjtree/ASTNodeDescriptor|,|java+class:///org/javacc/jjtree/JJTreeNode|> 
+<|java+class:///org/javacc/jjtree/ASTNodeDescriptorExpression|,|java+class:///org/javacc/jjtree/JJTreeNode|> 
+<|java+class:///org/javacc/jjtree/ASTOptionBinding|,|java+class:///org/javacc/jjtree/JJTreeNode|> 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 0 
+
+SUBTYPE TOTAL: 8 
+<|java+class:///org/javacc/jjdoc/BNFGenerator|,|java+interface:///org/javacc/jjdoc/Generator|> 
+<|java+class:///org/javacc/jjdoc/HTMLGenerator|,|java+interface:///org/javacc/jjdoc/Generator|> 
+<|java+class:///org/javacc/jjdoc/TextGenerator|,|java+interface:///org/javacc/jjdoc/Generator|> 
+<|java+class:///org/javacc/parser/Semanticize/EmptyChecker|,|java+interface:///org/javacc/parser/TreeWalkerOp|> 
+<|java+class:///org/javacc/parser/Semanticize/FixRJustNames|,|java+interface:///org/javacc/parser/TreeWalkerOp|> 
+<|java+class:///org/javacc/parser/Semanticize/LookaheadChecker|,|java+interface:///org/javacc/parser/TreeWalkerOp|> 
+<|java+class:///org/javacc/parser/Semanticize/LookaheadFixer|,|java+interface:///org/javacc/parser/TreeWalkerOp|> 
+<|java+class:///org/javacc/parser/Semanticize/ProductionDefinedChecker|,|java+interface:///org/javacc/parser/TreeWalkerOp|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 0 
+
+DOWNCALL TOTAL: 0 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 0 
+
+SUBTYPE TOTAL: 0 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 0 
+
+DOWNCALL TOTAL: 0 
+
+
+
+

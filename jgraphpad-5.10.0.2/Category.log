@@ -1,0 +1,4 @@
+[
+  <<|java+class:///org/microplatform/web/webstart/JNLPFileService|,|java+class:///org/microplatform/io/FileService|>,|java+class:///org/microplatform/io/FileService/JFileChooserService|>,
+  <<|java+class:///org/microplatform/web/webstart/JNLPPreferencesService|,|java+class:///org/microplatform/io/PreferencesService|>,|java+class:///org/microplatform/io/DefaultPreferencesService|>
+]

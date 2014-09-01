@@ -1,0 +1,14 @@
+[
+  <<|java+class:///net/myvietnam/mvncore/service/impl/BinaryStorageServiceImplBase|,|java+interface:///net/myvietnam/mvncore/service/BinaryStorageService|>,|java+class:///net/myvietnam/mvncore/service/impl/BinaryStorageServiceImplEmpty|>,
+  <<|java+class:///com/mvnforum/service/impl/MvnCoreServiceImplMvnForumAds|,|java+interface:///net/myvietnam/mvncore/service/MvnCoreService|>,|java+class:///net/myvietnam/mvncore/service/impl/MvnCoreServiceImplDefault|>,
+  <<|java+class:///com/mvnsoft/mvnad/service/impl/MvnForumAdServiceImplDefault|,|java+interface:///com/mvnforum/service/MvnForumAdService|>,|java+class:///com/mvnforum/service/impl/MvnForumAdServiceImplStub|>,
+  <<|java+class:///net/myvietnam/mvncore/service/impl/EventLogServiceAbstract|,|java+interface:///net/myvietnam/mvncore/service/EventLogService|>,|java+class:///net/myvietnam/mvncore/service/impl/EventLogServiceImplDefault|>,
+  <<|java+class:///com/mvnforum/auth/AbstractLocalizableAction|,|java+interface:///com/mvnforum/auth/Action|>,|java+class:///com/mvnforum/admin/ActionInAdminModule|>,
+  <<|java+class:///com/mvnforum/jaxb/db/impl/runtime/UnmarshallingEventHandlerAdaptor|,|java+interface:///com/mvnforum/jaxb/db/impl/runtime/UnmarshallingEventHandler|>,|java+class:///com/mvnforum/jaxb/db/impl/runtime/Discarder|>,
+  <<|java+class:///org/mvnforum/phpbb2mvnforum/db/jdbc/MemberDAOImpl|,|java+interface:///org/mvnforum/phpbb2mvnforum/db/MemberDAO|>,|java+class:///org/mvnforum/phpbb2mvnforum/db/jdbc/MemberDAOImplJDBC|>,
+  <<|java+class:///com/mvnforum/jaxb/db/impl/runtime/AbstractUnmarshallingEventHandlerImpl|,|java+interface:///com/mvnforum/jaxb/db/impl/runtime/UnmarshallingEventHandler|>,|java+class:///com/mvnforum/jaxb/db/impl/runtime/Discarder|>,
+  <<|java+class:///com/mvnforum/auth/AbstractPermission|,|java+interface:///com/mvnforum/auth/MVNForumPermission|>,|java+class:///com/mvnforum/auth/MVNForumPermissionImpl|>,
+  <<|java+class:///net/myvietnam/mvncore/configuration/AbstractConfiguration|,|java+interface:///net/myvietnam/mvncore/configuration/Configuration|>,|java+class:///net/myvietnam/mvncore/configuration/PropertiesConfiguration|>,
+  <<|java+class:///com/mvnforum/db/common/MemberDAOExternalUserDatabaseAbstract|,|java+interface:///com/mvnforum/db/MemberDAO|>,|java+class:///com/mvnforum/db/jdbc/MemberDAOImplJDBC|>,
+  <<|java+class:///com/mvnforum/auth/AbstractAction|,|java+interface:///com/mvnforum/auth/Action|>,|java+class:///com/mvnforum/admin/ActionInAdminModule|>
+]

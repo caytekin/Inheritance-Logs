@@ -1,0 +1,23 @@
+[
+  <<|java+class:///org/apache/xerces/impl/dv/dtd/IDDatatypeValidator|,|java+interface:///org/apache/xerces/impl/dv/DatatypeValidator|>,|java+class:///org/apache/xerces/impl/dv/dtd/ENTITYDatatypeValidator|>,
+  <<|java+class:///org/apache/xerces/impl/dv/dtd/NOTATIONDatatypeValidator|,|java+interface:///org/apache/xerces/impl/dv/DatatypeValidator|>,|java+class:///org/apache/xerces/impl/dv/dtd/ENTITYDatatypeValidator|>,
+  <<|java+interface:///org/apache/xerces/impl/ExternalSubsetResolver|,|java+interface:///org/apache/xerces/xni/parser/XMLEntityResolver|>,|java+class:///org/apache/xerces/util/DOMEntityResolverWrapper|>,
+  <<|java+class:///org/apache/xerces/impl/xs/traversers/XSDHandler/XSAnnotationGrammarPool|,|java+interface:///org/apache/xerces/xni/grammars/XMLGrammarPool|>,|java+class:///org/apache/xerces/jaxp/validation/EmptyXMLSchema|>,
+  <<|java+class:///org/apache/xerces/impl/xs/opti/DefaultXMLDocumentHandler|,|java+interface:///org/apache/xerces/xni/XMLDTDContentModelHandler|>,|java+class:///org/apache/xerces/parsers/DOMParserImpl/AbortHandler|>,
+  <<|java+class:///org/apache/xerces/impl/dtd/DTDGrammar|,|java+interface:///org/apache/xerces/xni/XMLDTDContentModelHandler|>,|java+class:///org/apache/xerces/parsers/DOMParserImpl/AbortHandler|>,
+  <<|java+class:///org/apache/xerces/impl/dv/xs/XSSimpleTypeDelegate|,|java+interface:///org/apache/xerces/impl/dv/XSSimpleType|>,|java+class:///org/apache/xerces/impl/dv/xs/XSSimpleTypeDecl|>,
+  <<|java+class:///xni/PassThroughFilter|,|java+interface:///org/apache/xerces/xni/XMLDocumentHandler|>,|java+class:///org/apache/xerces/jaxp/validation/ValidatorHandlerImpl|>,
+  <<|java+class:///org/apache/xerces/impl/xs/opti/DefaultXMLDocumentHandler|,|java+interface:///org/apache/xerces/xni/XMLDocumentHandler|>,|java+class:///org/apache/xerces/jaxp/validation/ValidatorHandlerImpl|>,
+  <<|java+class:///org/apache/xerces/impl/dv/dtd/ListDatatypeValidator|,|java+interface:///org/apache/xerces/impl/dv/DatatypeValidator|>,|java+class:///org/apache/xerces/impl/dv/dtd/ENTITYDatatypeValidator|>,
+  <<|java+class:///org/apache/xerces/impl/XMLScanner|,|java+interface:///org/apache/xerces/xni/parser/XMLComponent|>,|java+class:///org/apache/xerces/impl/dtd/XMLDTDProcessor|>,
+  <<|java+class:///org/apache/xerces/parsers/DTDParser|,|java+interface:///org/apache/xerces/xni/XMLDTDHandler|>,|java+class:///org/apache/xerces/parsers/DOMParserImpl/AbortHandler|>,
+  <<|java+class:///org/apache/xerces/impl/dv/dtd/StringDatatypeValidator|,|java+interface:///org/apache/xerces/impl/dv/DatatypeValidator|>,|java+class:///org/apache/xerces/impl/dv/dtd/ENTITYDatatypeValidator|>,
+  <<|java+interface:///org/apache/xerces/jaxp/validation/DOMDocumentHandler|,|java+interface:///org/apache/xerces/xni/XMLDocumentHandler|>,|java+class:///org/apache/xerces/jaxp/validation/ValidatorHandlerImpl|>,
+  <<|java+class:///org/apache/xerces/impl/xs/XMLSchemaLoader|,|java+interface:///org/apache/xerces/xs/XSLoader|>,|java+class:///org/apache/xerces/impl/xs/XSLoaderImpl|>,
+  <<|java+class:///org/apache/xerces/impl/xs/opti/DefaultXMLDocumentHandler|,|java+interface:///org/apache/xerces/xni/XMLDTDHandler|>,|java+class:///org/apache/xerces/parsers/DOMParserImpl/AbortHandler|>,
+  <<|java+class:///org/apache/xerces/impl/dtd/DTDGrammar|,|java+interface:///org/apache/xerces/xni/XMLDTDHandler|>,|java+class:///org/apache/xerces/parsers/DOMParserImpl/AbortHandler|>,
+  <<|java+interface:///org/apache/xerces/xni/parser/XMLDTDFilter|,|java+interface:///org/apache/xerces/xni/XMLDTDHandler|>,|java+class:///org/apache/xerces/parsers/DOMParserImpl/AbortHandler|>,
+  <<|java+interface:///org/apache/xerces/xni/parser/XMLDTDContentModelFilter|,|java+interface:///org/apache/xerces/xni/XMLDTDContentModelHandler|>,|java+class:///org/apache/xerces/parsers/DOMParserImpl/AbortHandler|>,
+  <<|java+class:///org/apache/xerces/jaxp/validation/XMLSchemaFactory/XMLGrammarPoolWrapper|,|java+interface:///org/apache/xerces/xni/grammars/XMLGrammarPool|>,|java+class:///org/apache/xerces/jaxp/validation/EmptyXMLSchema|>,
+  <<|java+class:///org/apache/xerces/parsers/DTDParser|,|java+interface:///org/apache/xerces/xni/XMLDTDContentModelHandler|>,|java+class:///org/apache/xerces/parsers/DOMParserImpl/AbortHandler|>
+]

@@ -1,0 +1,4 @@
+[
+  <<|java+class:///org/cyberneko/html/filters/NamespaceBinder|,|java+class:///org/cyberneko/html/filters/DefaultFilter|>,<|java+project:///|,|java+method:///org/cyberneko/html/filters/DefaultFilter/startDocument(org.apache.xerces.xni.XMLLocator,java.lang.String,org.apache.xerces.xni.Augmentations)|,|java+method:///org/cyberneko/html/filters/NamespaceBinder/startDocument(org.apache.xerces.xni.XMLLocator,java.lang.String,org.apache.xerces.xni.NamespaceContext,org.apache.xerces.xni.Augmentations)|>>,
+  <<|java+class:///org/cyberneko/html/HTMLScannerTest/InfiniteLoopScanner/MyContentScanner|,|java+class:///org/cyberneko/html/HTMLScanner/ContentScanner|>,<|java+project:///|,|java+method:///org/cyberneko/html/HTMLScanner/ContentScanner/scan(boolean)|,|java+method:///org/cyberneko/html/HTMLScannerTest/InfiniteLoopScanner/MyContentScanner/scanComment()|>>
+]

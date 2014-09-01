@@ -1,0 +1,5 @@
+[
+  <<|java+class:///fit/ScientificDouble|,|java+class:///java/lang/Number|>,{|java+interface:///java/lang/Comparable|},|project://fitjava-1.1/src/fit/TypeAdapter.java|(5328,9,<159,36>,<159,45>)>,
+  <<|java+class:///fit/ScientificDouble|,|java+class:///java/lang/Number|>,{|java+interface:///java/lang/Comparable|},|project://fitjava-1.1/src/fit/TypeAdapter.java|(5815,9,<174,37>,<174,46>)>,
+  <<|java+class:///fit/ScientificDouble|,|java+class:///java/lang/Number|>,{|java+interface:///java/lang/Comparable|},|project://fitjava-1.1/src/fit/ScientificDouble.java|(1343,11,<47,24>,<47,35>)>
+]

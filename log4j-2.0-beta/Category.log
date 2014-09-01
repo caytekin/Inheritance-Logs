@@ -1,0 +1,13 @@
+[
+  <<|java+class:///org/apache/logging/slf4j/SLF4JLoggerContextFactory|,|java+interface:///org/apache/logging/log4j/spi/LoggerContextFactory|>,|java+class:///org/apache/logging/log4j/simple/SimpleLoggerContextFactory|>,
+  <<|java+class:///org/apache/logging/log4j/TestLoggerContextFactory|,|java+interface:///org/apache/logging/log4j/spi/LoggerContextFactory|>,|java+class:///org/apache/logging/log4j/simple/SimpleLoggerContextFactory|>,
+  <<|java+class:///org/apache/logging/log4j/core/appender/rolling/TimeBasedTriggeringPolicy|,|java+interface:///org/apache/logging/log4j/core/appender/rolling/TriggeringPolicy|>,|java+class:///org/apache/logging/log4j/core/appender/rolling/OnStartupTriggeringPolicy|>,
+  <<|java+class:///org/apache/logging/log4j/core/appender/rolling/SizeBasedTriggeringPolicy|,|java+interface:///org/apache/logging/log4j/core/appender/rolling/TriggeringPolicy|>,|java+class:///org/apache/logging/log4j/core/appender/rolling/OnStartupTriggeringPolicy|>,
+  <<|java+class:///org/apache/logging/log4j/core/pattern/IntegerPatternConverter|,|java+interface:///org/apache/logging/log4j/core/pattern/ArrayPatternConverter|>,|java+class:///org/apache/logging/log4j/core/pattern/DatePatternConverter|>,
+  <<|java+class:///org/apache/logging/log4j/core/pattern/LiteralPatternConverter|,|java+interface:///org/apache/logging/log4j/core/pattern/ArrayPatternConverter|>,|java+class:///org/apache/logging/log4j/core/pattern/DatePatternConverter|>,
+  <<|java+class:///org/apache/logging/log4j/core/appender/ConsoleAppender/ConsoleManagerFactory|,|java+interface:///org/apache/logging/log4j/core/appender/ManagerFactory|>,|java+class:///org/apache/logging/log4j/core/appender/rolling/RollingFileManager/RollingFileManagerFactory|>,
+  <<|java+class:///org/apache/logging/slf4j/MDCContextMap|,|java+interface:///org/apache/logging/log4j/spi/ThreadContextMap|>,|java+class:///org/apache/logging/log4j/spi/DefaultThreadContextMap|>,
+  <<|java+class:///org/apache/logging/log4j/core/appender/rolling/CompositeTriggeringPolicy|,|java+interface:///org/apache/logging/log4j/core/appender/rolling/TriggeringPolicy|>,|java+class:///org/apache/logging/log4j/core/appender/rolling/OnStartupTriggeringPolicy|>,
+  <<|java+class:///org/apache/logging/log4j/core/appender/rolling/AbstractRolloverStrategy|,|java+interface:///org/apache/logging/log4j/core/appender/rolling/RolloverStrategy|>,|java+class:///org/apache/logging/log4j/core/appender/rolling/DefaultRolloverStrategy|>,
+  <<|java+class:///org/apache/logging/log4j/core/selector/BasicContextSelector|,|java+interface:///org/apache/logging/log4j/core/selector/ContextSelector|>,|java+class:///org/apache/logging/log4j/core/selector/ClassLoaderContextSelector|>
+]

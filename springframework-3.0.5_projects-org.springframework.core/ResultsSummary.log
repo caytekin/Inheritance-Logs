@@ -1,0 +1,325 @@
+RESULTS LOG: 
+INTERNAL REUSE TOTAL: 28 
+<|java+class:///org/springframework/beans/DerivedTestBean|,|java+class:///org/springframework/beans/TestBean|> 
+<|java+class:///org/springframework/core/BridgeMethodResolverTests/DomainObject|,|java+class:///org/springframework/core/BridgeMethodResolverTests/AbstractDomainObject|> 
+<|java+class:///org/springframework/core/BridgeMethodResolverTests/ExtendsAbstractImplementsInterface|,|java+class:///org/springframework/core/BridgeMethodResolverTests/AbstractImplementsInterface|> 
+<|java+class:///org/springframework/core/BridgeMethodResolverTests/SettingsDaoImpl|,|java+class:///org/springframework/core/BridgeMethodResolverTests/AbstractDaoImpl|> 
+<|java+class:///org/springframework/core/GenericCollectionTypeResolverTests|,|java+class:///org/springframework/core/AbstractGenericsTests|> 
+<|java+class:///org/springframework/core/OverridingClassLoader|,|java+class:///org/springframework/core/DecoratingClassLoader|> 
+<|java+class:///org/springframework/core/convert/support/PropertyTypeDescriptor|,|java+class:///org/springframework/core/convert/TypeDescriptor|> 
+<|java+class:///org/springframework/core/enums/StaticLabeledEnum|,|java+class:///org/springframework/core/enums/AbstractLabeledEnum|> 
+<|java+class:///org/springframework/core/enums/StaticLabeledEnumResolver|,|java+class:///org/springframework/core/enums/AbstractCachingLabeledEnumResolver|> 
+<|java+class:///org/springframework/core/io/AbstractFileResolvingResource|,|java+class:///org/springframework/core/io/AbstractResource|> 
+<|java+class:///org/springframework/core/io/ClassRelativeResourceLoader|,|java+class:///org/springframework/core/io/DefaultResourceLoader|> 
+<|java+class:///org/springframework/core/io/ClassRelativeResourceLoader/ClassRelativeContextResource|,|java+class:///org/springframework/core/io/ClassPathResource|> 
+<|java+class:///org/springframework/core/io/DefaultResourceLoader/ClassPathContextResource|,|java+class:///org/springframework/core/io/ClassPathResource|> 
+<|java+class:///org/springframework/core/io/FileSystemResourceLoader/FileSystemContextResource|,|java+class:///org/springframework/core/io/FileSystemResource|> 
+<|java+class:///org/springframework/core/io/UrlResource|,|java+class:///org/springframework/core/io/AbstractFileResolvingResource|> 
+<|java+class:///org/springframework/core/io/support/VfsPatternUtils|,|java+class:///org/springframework/core/io/VfsUtils|> 
+<|java+class:///org/springframework/core/task/SimpleAsyncTaskExecutor|,|java+class:///org/springframework/util/CustomizableThreadCreator|> 
+<|java+class:///org/springframework/core/task/SimpleAsyncTaskExecutor/ConcurrencyThrottleAdapter|,|java+class:///org/springframework/util/ConcurrencyThrottleSupport|> 
+<|java+class:///org/springframework/core/type/StandardAnnotationMetadata|,|java+class:///org/springframework/core/type/StandardClassMetadata|> 
+<|java+class:///org/springframework/core/type/classreading/AnnotationMetadataReadingVisitor|,|java+class:///org/springframework/core/type/classreading/ClassMetadataReadingVisitor|> 
+<|java+class:///org/springframework/core/type/classreading/CachingMetadataReaderFactory|,|java+class:///org/springframework/core/type/classreading/SimpleMetadataReaderFactory|> 
+<|java+class:///org/springframework/util/xml/AbstractStaxXMLReader|,|java+class:///org/springframework/util/xml/AbstractXMLReader|> 
+<|java+class:///org/springframework/util/xml/StaxEventContentHandler|,|java+class:///org/springframework/util/xml/AbstractStaxContentHandler|> 
+<|java+class:///org/springframework/util/xml/StaxEventXMLReader|,|java+class:///org/springframework/util/xml/AbstractStaxXMLReader|> 
+<|java+class:///org/springframework/util/xml/StaxEventXMLReaderTests|,|java+class:///org/springframework/util/xml/AbstractStaxXMLReaderTestCase|> 
+<|java+class:///org/springframework/util/xml/StaxStreamContentHandler|,|java+class:///org/springframework/util/xml/AbstractStaxContentHandler|> 
+<|java+class:///org/springframework/util/xml/StaxStreamXMLReader|,|java+class:///org/springframework/util/xml/AbstractStaxXMLReader|> 
+<|java+class:///org/springframework/util/xml/StaxStreamXMLReaderTests|,|java+class:///org/springframework/util/xml/AbstractStaxXMLReaderTestCase|> 
+
+EXTERNAL REUSE TOTAL: 14 
+<|java+class:///org/springframework/core/enums/AbstractCachingLabeledEnumResolver/LabeledEnumCache|,|java+class:///org/springframework/util/CachingMapDecorator|> 
+<|java+class:///org/springframework/core/enums/LabeledEnumTests/Dog|,|java+class:///org/springframework/core/enums/StaticLabeledEnum|> 
+<|java+class:///org/springframework/core/enums/StaticLabeledEnum|,|java+class:///org/springframework/core/enums/AbstractLabeledEnum|> 
+<|java+class:///org/springframework/core/enums/StaticLabeledEnumResolver|,|java+class:///org/springframework/core/enums/AbstractCachingLabeledEnumResolver|> 
+<|java+class:///org/springframework/core/serializer/support/SerializationFailedException|,|java+class:///org/springframework/core/NestedRuntimeException|> 
+<|java+class:///org/springframework/core/task/SimpleAsyncTaskExecutor/ConcurrencyThrottleAdapter|,|java+class:///org/springframework/util/ConcurrencyThrottleSupport|> 
+<|java+class:///org/springframework/core/type/filter/AnnotationTypeFilter|,|java+class:///org/springframework/core/type/filter/AbstractTypeHierarchyTraversingFilter|> 
+<|java+class:///org/springframework/core/type/filter/AssignableTypeFilter|,|java+class:///org/springframework/core/type/filter/AbstractTypeHierarchyTraversingFilter|> 
+<|java+class:///org/springframework/util/CachingMapDecoratorTests/MyCachingMap|,|java+class:///org/springframework/util/CachingMapDecorator|> 
+<|java+class:///org/springframework/util/ReflectionUtilsTests/TestBeanSubclassWithNewField|,|java+class:///org/springframework/beans/TestBean|> 
+<|java+class:///org/springframework/util/xml/AbstractStaxXMLReader|,|java+class:///org/springframework/util/xml/AbstractXMLReader|> 
+<|java+class:///org/springframework/util/xml/StaxEventXMLReader|,|java+class:///org/springframework/util/xml/AbstractStaxXMLReader|> 
+<|java+class:///org/springframework/util/xml/StaxStreamXMLReader|,|java+class:///org/springframework/util/xml/AbstractStaxXMLReader|> 
+<|java+class:///org/springframework/util/xml/XMLEventStreamReader|,|java+class:///org/springframework/util/xml/AbstractXMLStreamReader|> 
+
+SUBTYPE TOTAL: 25 
+<|java+class:///org/springframework/beans/DerivedTestBean|,|java+class:///org/springframework/beans/TestBean|> 
+<|java+class:///org/springframework/core/convert/support/PropertyTypeDescriptor|,|java+class:///org/springframework/core/convert/TypeDescriptor|> 
+<|java+class:///org/springframework/core/enums/LabeledEnumTests/Dog|,|java+class:///org/springframework/core/enums/StaticLabeledEnum|> 
+<|java+class:///org/springframework/core/enums/LabeledEnumTests/Other|,|java+class:///org/springframework/core/enums/StaticLabeledEnum|> 
+<|java+class:///org/springframework/core/enums/LabeledEnumTests/ValuedEnum|,|java+class:///org/springframework/core/enums/StaticLabeledEnum|> 
+<|java+class:///org/springframework/core/enums/StandAloneStaticLabeledEnum|,|java+class:///org/springframework/core/enums/StaticLabeledEnum|> 
+<|java+class:///org/springframework/core/enums/StaticLabeledEnum|,|java+class:///org/springframework/core/enums/AbstractLabeledEnum|> 
+<|java+class:///org/springframework/core/io/AbstractFileResolvingResource|,|java+class:///org/springframework/core/io/AbstractResource|> 
+<|java+class:///org/springframework/core/io/ByteArrayResource|,|java+class:///org/springframework/core/io/AbstractResource|> 
+<|java+class:///org/springframework/core/io/ClassPathResource|,|java+class:///org/springframework/core/io/AbstractFileResolvingResource|> 
+<|java+class:///org/springframework/core/io/DescriptiveResource|,|java+class:///org/springframework/core/io/AbstractResource|> 
+<|java+class:///org/springframework/core/io/FileSystemResource|,|java+class:///org/springframework/core/io/AbstractResource|> 
+<|java+class:///org/springframework/core/io/InputStreamResource|,|java+class:///org/springframework/core/io/AbstractResource|> 
+<|java+class:///org/springframework/core/io/UrlResource|,|java+class:///org/springframework/core/io/AbstractFileResolvingResource|> 
+<|java+class:///org/springframework/core/io/VfsResource|,|java+class:///org/springframework/core/io/AbstractResource|> 
+<|java+class:///org/springframework/core/task/SimpleAsyncTaskExecutorTests/ThreadNameHarvester|,|java+class:///org/springframework/core/task/SimpleAsyncTaskExecutorTests/AbstractNotifyingRunnable|> 
+<|java+class:///org/springframework/core/type/classreading/CachingMetadataReaderFactory|,|java+class:///org/springframework/core/type/classreading/SimpleMetadataReaderFactory|> 
+<|java+class:///org/springframework/util/ReflectionUtilsTests/TestBeanSubclassWithFinalField|,|java+class:///org/springframework/beans/TestBean|> 
+<|java+class:///org/springframework/util/ReflectionUtilsTests/TestBeanSubclassWithNewField|,|java+class:///org/springframework/beans/TestBean|> 
+<|java+class:///org/springframework/util/xml/AbstractStaxXMLReader|,|java+class:///org/springframework/util/xml/AbstractXMLReader|> 
+<|java+class:///org/springframework/util/xml/StaxEventContentHandler|,|java+class:///org/springframework/util/xml/AbstractStaxContentHandler|> 
+<|java+class:///org/springframework/util/xml/StaxEventXMLReader|,|java+class:///org/springframework/util/xml/AbstractStaxXMLReader|> 
+<|java+class:///org/springframework/util/xml/StaxStreamContentHandler|,|java+class:///org/springframework/util/xml/AbstractStaxContentHandler|> 
+<|java+class:///org/springframework/util/xml/StaxStreamXMLReader|,|java+class:///org/springframework/util/xml/AbstractStaxXMLReader|> 
+<|java+class:///org/springframework/util/xml/XMLEventStreamReader|,|java+class:///org/springframework/util/xml/AbstractXMLStreamReader|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 28 
+<|java+class:///org/springframework/beans/Colour|,|java+class:///org/springframework/core/enums/ShortCodedLabeledEnum|> 
+<|java+class:///org/springframework/core/BridgeMethodResolverTests/MessageBroadcasterImpl|,|java+class:///org/springframework/core/BridgeMethodResolverTests/GenericEventBroadcasterImpl|> 
+<|java+class:///org/springframework/core/BridgeMethodResolverTests/SettingsDaoImpl|,|java+class:///org/springframework/core/BridgeMethodResolverTests/AbstractDaoImpl|> 
+<|java+class:///org/springframework/core/OverridingClassLoader|,|java+class:///org/springframework/core/DecoratingClassLoader|> 
+<|java+class:///org/springframework/core/convert/ConversionException|,|java+class:///org/springframework/core/NestedRuntimeException|> 
+<|java+class:///org/springframework/core/convert/ConversionFailedException|,|java+class:///org/springframework/core/convert/ConversionException|> 
+<|java+class:///org/springframework/core/convert/ConverterNotFoundException|,|java+class:///org/springframework/core/convert/ConversionException|> 
+<|java+class:///org/springframework/core/convert/support/PropertyTypeDescriptor|,|java+class:///org/springframework/core/convert/TypeDescriptor|> 
+<|java+class:///org/springframework/core/enums/AbstractCachingLabeledEnumResolver/LabeledEnumCache|,|java+class:///org/springframework/util/CachingMapDecorator|> 
+<|java+class:///org/springframework/core/enums/LabeledEnumTests/Dog|,|java+class:///org/springframework/core/enums/StaticLabeledEnum|> 
+<|java+class:///org/springframework/core/enums/LabeledEnumTests/Other|,|java+class:///org/springframework/core/enums/StaticLabeledEnum|> 
+<|java+class:///org/springframework/core/enums/LabeledEnumTests/ValuedEnum|,|java+class:///org/springframework/core/enums/StaticLabeledEnum|> 
+<|java+class:///org/springframework/core/enums/LetterCodedLabeledEnum|,|java+class:///org/springframework/core/enums/AbstractGenericLabeledEnum|> 
+<|java+class:///org/springframework/core/enums/ShortCodedLabeledEnum|,|java+class:///org/springframework/core/enums/AbstractGenericLabeledEnum|> 
+<|java+class:///org/springframework/core/enums/StandAloneStaticLabeledEnum|,|java+class:///org/springframework/core/enums/StaticLabeledEnum|> 
+<|java+class:///org/springframework/core/enums/StringCodedLabeledEnum|,|java+class:///org/springframework/core/enums/AbstractGenericLabeledEnum|> 
+<|java+class:///org/springframework/core/io/ClassRelativeResourceLoader/ClassRelativeContextResource|,|java+class:///org/springframework/core/io/ClassPathResource|> 
+<|java+class:///org/springframework/core/io/DefaultResourceLoader/ClassPathContextResource|,|java+class:///org/springframework/core/io/ClassPathResource|> 
+<|java+class:///org/springframework/core/io/FileSystemResourceLoader/FileSystemContextResource|,|java+class:///org/springframework/core/io/FileSystemResource|> 
+<|java+class:///org/springframework/core/serializer/support/SerializationFailedException|,|java+class:///org/springframework/core/NestedRuntimeException|> 
+<|java+class:///org/springframework/core/task/SimpleAsyncTaskExecutor|,|java+class:///org/springframework/util/CustomizableThreadCreator|> 
+<|java+class:///org/springframework/core/task/SimpleAsyncTaskExecutorTests/ThreadNameHarvester|,|java+class:///org/springframework/core/task/SimpleAsyncTaskExecutorTests/AbstractNotifyingRunnable|> 
+<|java+class:///org/springframework/core/task/TaskTimeoutException|,|java+class:///org/springframework/core/task/TaskRejectedException|> 
+<|java+class:///org/springframework/core/type/StandardAnnotationMetadata|,|java+class:///org/springframework/core/type/StandardClassMetadata|> 
+<|java+class:///org/springframework/core/type/classreading/CachingMetadataReaderFactory|,|java+class:///org/springframework/core/type/classreading/SimpleMetadataReaderFactory|> 
+<|java+class:///org/springframework/core/type/filter/AnnotationTypeFilter|,|java+class:///org/springframework/core/type/filter/AbstractTypeHierarchyTraversingFilter|> 
+<|java+class:///org/springframework/core/type/filter/AssignableTypeFilter|,|java+class:///org/springframework/core/type/filter/AbstractTypeHierarchyTraversingFilter|> 
+<|java+class:///org/springframework/util/MethodInvokerTests/VIP|,|java+class:///org/springframework/util/MethodInvokerTests/Regular|> 
+
+GENERIC TOTAL: 3 
+<|java+class:///org/springframework/beans/DerivedTestBean|,|java+class:///org/springframework/beans/TestBean|> 
+<|java+class:///org/springframework/core/io/ClassRelativeResourceLoader/ClassRelativeContextResource|,|java+class:///org/springframework/core/io/ClassPathResource|> 
+<|java+class:///org/springframework/core/io/FileSystemResourceLoader/FileSystemContextResource|,|java+class:///org/springframework/core/io/FileSystemResource|> 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 23 
+<|java+class:///org/springframework/beans/DerivedTestBean|,|java+class:///org/springframework/beans/TestBean|> 
+<|java+class:///org/springframework/core/DefaultControlFlowTests|,|java+class:///org/springframework/core/AbstractControlFlowTests|> 
+<|java+class:///org/springframework/core/GenericCollectionTypeResolverTests|,|java+class:///org/springframework/core/AbstractGenericsTests|> 
+<|java+class:///org/springframework/core/Jdk14ControlFlowTests|,|java+class:///org/springframework/core/AbstractControlFlowTests|> 
+<|java+class:///org/springframework/core/OverridingClassLoader|,|java+class:///org/springframework/core/DecoratingClassLoader|> 
+<|java+class:///org/springframework/core/annotation/AnnotationAwareOrderComparator|,|java+class:///org/springframework/core/OrderComparator|> 
+<|java+class:///org/springframework/core/convert/ConversionException|,|java+class:///org/springframework/core/NestedRuntimeException|> 
+<|java+class:///org/springframework/core/enums/AbstractCachingLabeledEnumResolver/LabeledEnumCache|,|java+class:///org/springframework/util/CachingMapDecorator|> 
+<|java+class:///org/springframework/core/serializer/support/SerializationFailedException|,|java+class:///org/springframework/core/NestedRuntimeException|> 
+<|java+class:///org/springframework/core/task/SimpleAsyncTaskExecutor|,|java+class:///org/springframework/util/CustomizableThreadCreator|> 
+<|java+class:///org/springframework/core/task/SimpleAsyncTaskExecutor/ConcurrencyThrottleAdapter|,|java+class:///org/springframework/util/ConcurrencyThrottleSupport|> 
+<|java+class:///org/springframework/core/task/SimpleAsyncTaskExecutorTests/ThreadNameHarvester|,|java+class:///org/springframework/core/task/SimpleAsyncTaskExecutorTests/AbstractNotifyingRunnable|> 
+<|java+class:///org/springframework/core/task/TaskTimeoutException|,|java+class:///org/springframework/core/task/TaskRejectedException|> 
+<|java+class:///org/springframework/core/type/classreading/AnnotationMetadataReadingVisitor|,|java+class:///org/springframework/core/type/classreading/ClassMetadataReadingVisitor|> 
+<|java+class:///org/springframework/util/CachingMapDecoratorTests/MyCachingMap|,|java+class:///org/springframework/util/CachingMapDecorator|> 
+<|java+class:///org/springframework/util/ReflectionUtilsTests/TestBeanSubclass|,|java+class:///org/springframework/beans/TestBean|> 
+<|java+class:///org/springframework/util/ReflectionUtilsTests/TestBeanSubclassWithFinalField|,|java+class:///org/springframework/beans/TestBean|> 
+<|java+class:///org/springframework/util/ReflectionUtilsTests/TestBeanSubclassWithNewField|,|java+class:///org/springframework/beans/TestBean|> 
+<|java+class:///org/springframework/util/ReflectionUtilsTests/TestBeanSubclassWithPublicField|,|java+class:///org/springframework/beans/TestBean|> 
+<|java+class:///org/springframework/util/xml/AbstractStaxXMLReader|,|java+class:///org/springframework/util/xml/AbstractXMLReader|> 
+<|java+class:///org/springframework/util/xml/StaxEventContentHandler|,|java+class:///org/springframework/util/xml/AbstractStaxContentHandler|> 
+<|java+class:///org/springframework/util/xml/StaxStreamContentHandler|,|java+class:///org/springframework/util/xml/AbstractStaxContentHandler|> 
+<|java+class:///org/springframework/util/xml/XMLEventStreamReader|,|java+class:///org/springframework/util/xml/AbstractXMLStreamReader|> 
+
+DOWNCALL TOTAL: 23 
+<|java+class:///org/springframework/core/GenericCollectionTypeResolverTests|,|java+class:///org/springframework/core/AbstractGenericsTests|> 
+<|java+class:///org/springframework/core/annotation/AnnotationAwareOrderComparator|,|java+class:///org/springframework/core/OrderComparator|> 
+<|java+class:///org/springframework/core/convert/support/PropertyTypeDescriptor|,|java+class:///org/springframework/core/convert/TypeDescriptor|> 
+<|java+class:///org/springframework/core/enums/AbstractCachingLabeledEnumResolver/LabeledEnumCache|,|java+class:///org/springframework/util/CachingMapDecorator|> 
+<|java+class:///org/springframework/core/io/ClassRelativeResourceLoader|,|java+class:///org/springframework/core/io/DefaultResourceLoader|> 
+<|java+class:///org/springframework/core/io/FileSystemResource|,|java+class:///org/springframework/core/io/AbstractResource|> 
+<|java+class:///org/springframework/core/io/FileSystemResourceLoader|,|java+class:///org/springframework/core/io/DefaultResourceLoader|> 
+<|java+class:///org/springframework/core/io/UrlResource|,|java+class:///org/springframework/core/io/AbstractFileResolvingResource|> 
+<|java+class:///org/springframework/core/io/VfsResource|,|java+class:///org/springframework/core/io/AbstractResource|> 
+<|java+class:///org/springframework/core/task/SimpleAsyncTaskExecutorTests/ThreadNameHarvester|,|java+class:///org/springframework/core/task/SimpleAsyncTaskExecutorTests/AbstractNotifyingRunnable|> 
+<|java+class:///org/springframework/core/type/classreading/CachingMetadataReaderFactory|,|java+class:///org/springframework/core/type/classreading/SimpleMetadataReaderFactory|> 
+<|java+class:///org/springframework/core/type/filter/AnnotationTypeFilter|,|java+class:///org/springframework/core/type/filter/AbstractTypeHierarchyTraversingFilter|> 
+<|java+class:///org/springframework/core/type/filter/AssignableTypeFilter|,|java+class:///org/springframework/core/type/filter/AbstractTypeHierarchyTraversingFilter|> 
+<|java+class:///org/springframework/core/type/filter/RegexPatternTypeFilter|,|java+class:///org/springframework/core/type/filter/AbstractClassTestingTypeFilter|> 
+<|java+class:///org/springframework/util/CachingMapDecoratorTests/MyCachingMap|,|java+class:///org/springframework/util/CachingMapDecorator|> 
+<|java+class:///org/springframework/util/xml/StaxEventContentHandler|,|java+class:///org/springframework/util/xml/AbstractStaxContentHandler|> 
+<|java+class:///org/springframework/util/xml/StaxEventContentHandlerTests|,|java+class:///org/springframework/util/xml/AbstractStaxContentHandlerTestCase|> 
+<|java+class:///org/springframework/util/xml/StaxEventXMLReader|,|java+class:///org/springframework/util/xml/AbstractStaxXMLReader|> 
+<|java+class:///org/springframework/util/xml/StaxEventXMLReaderTests|,|java+class:///org/springframework/util/xml/AbstractStaxXMLReaderTestCase|> 
+<|java+class:///org/springframework/util/xml/StaxStreamContentHandler|,|java+class:///org/springframework/util/xml/AbstractStaxContentHandler|> 
+<|java+class:///org/springframework/util/xml/StaxStreamContentHandlerTests|,|java+class:///org/springframework/util/xml/AbstractStaxContentHandlerTestCase|> 
+<|java+class:///org/springframework/util/xml/StaxStreamXMLReader|,|java+class:///org/springframework/util/xml/AbstractStaxXMLReader|> 
+<|java+class:///org/springframework/util/xml/StaxStreamXMLReaderTests|,|java+class:///org/springframework/util/xml/AbstractStaxXMLReaderTestCase|> 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 1 
+<|java+class:///org/springframework/core/enums/AbstractCachingLabeledEnumResolver|,|java+interface:///org/springframework/core/enums/LabeledEnumResolver|> 
+
+SUBTYPE TOTAL: 64 
+<|java+class:///org/springframework/beans/NestedTestBean|,|java+interface:///org/springframework/beans/INestedTestBean|> 
+<|java+class:///org/springframework/beans/TestBean|,|java+interface:///org/springframework/beans/ITestBean|> 
+<|java+class:///org/springframework/core/CollectionFactory/JdkConcurrentHashMap|,|java+interface:///org/springframework/core/ConcurrentMap|> 
+<|java+class:///org/springframework/core/ControlFlowFactory/Jdk14ControlFlow|,|java+interface:///org/springframework/core/ControlFlow|> 
+<|java+class:///org/springframework/core/PrioritizedParameterNameDiscoverer|,|java+interface:///org/springframework/core/ParameterNameDiscoverer|> 
+<|java+class:///org/springframework/core/convert/support/ArrayToArrayConverter|,|java+interface:///org/springframework/core/convert/converter/GenericConverter|> 
+<|java+class:///org/springframework/core/convert/support/ArrayToCollectionConverter|,|java+interface:///org/springframework/core/convert/converter/ConditionalGenericConverter|> 
+<|java+class:///org/springframework/core/convert/support/ArrayToObjectConverter|,|java+interface:///org/springframework/core/convert/converter/ConditionalGenericConverter|> 
+<|java+class:///org/springframework/core/convert/support/ArrayToStringConverter|,|java+interface:///org/springframework/core/convert/converter/ConditionalGenericConverter|> 
+<|java+class:///org/springframework/core/convert/support/CharacterToNumberFactory|,|java+interface:///org/springframework/core/convert/converter/ConverterFactory|> 
+<|java+class:///org/springframework/core/convert/support/CharacterToNumberFactory/CharacterToNumber|,|java+interface:///org/springframework/core/convert/converter/Converter|> 
+<|java+class:///org/springframework/core/convert/support/CollectionToArrayConverter|,|java+interface:///org/springframework/core/convert/converter/ConditionalGenericConverter|> 
+<|java+class:///org/springframework/core/convert/support/CollectionToCollectionConverter|,|java+interface:///org/springframework/core/convert/converter/ConditionalGenericConverter|> 
+<|java+class:///org/springframework/core/convert/support/CollectionToObjectConverter|,|java+interface:///org/springframework/core/convert/converter/ConditionalGenericConverter|> 
+<|java+class:///org/springframework/core/convert/support/CollectionToStringConverter|,|java+interface:///org/springframework/core/convert/converter/ConditionalGenericConverter|> 
+<|java+class:///org/springframework/core/convert/support/GenericConversionService|,|java+interface:///org/springframework/core/convert/ConversionService|> 
+<|java+class:///org/springframework/core/convert/support/GenericConversionService/ConverterAdapter|,|java+interface:///org/springframework/core/convert/converter/GenericConverter|> 
+<|java+class:///org/springframework/core/convert/support/GenericConversionService/ConverterFactoryAdapter|,|java+interface:///org/springframework/core/convert/converter/GenericConverter|> 
+<|java+class:///org/springframework/core/convert/support/GenericConversionServiceTests/MyBaseInterfaceConverter|,|java+interface:///org/springframework/core/convert/converter/Converter|> 
+<|java+class:///org/springframework/core/convert/support/GenericConversionServiceTests/MyStringArrayToIntegerArrayConverter|,|java+interface:///org/springframework/core/convert/converter/Converter|> 
+<|java+class:///org/springframework/core/convert/support/GenericConversionServiceTests/MyStringArrayToResourceArrayConverter|,|java+interface:///org/springframework/core/convert/converter/Converter|> 
+<|java+class:///org/springframework/core/convert/support/GenericConversionServiceTests/MyStringToIntegerArrayConverter|,|java+interface:///org/springframework/core/convert/converter/Converter|> 
+<|java+class:///org/springframework/core/convert/support/IdToEntityConverter|,|java+interface:///org/springframework/core/convert/converter/ConditionalGenericConverter|> 
+<|java+class:///org/springframework/core/convert/support/MapToMapConverter|,|java+interface:///org/springframework/core/convert/converter/ConditionalGenericConverter|> 
+<|java+class:///org/springframework/core/convert/support/NumberToCharacterConverter|,|java+interface:///org/springframework/core/convert/converter/Converter|> 
+<|java+class:///org/springframework/core/convert/support/NumberToNumberConverterFactory|,|java+interface:///org/springframework/core/convert/converter/ConverterFactory|> 
+<|java+class:///org/springframework/core/convert/support/NumberToNumberConverterFactory/NumberToNumber|,|java+interface:///org/springframework/core/convert/converter/Converter|> 
+<|java+class:///org/springframework/core/convert/support/ObjectToArrayConverter|,|java+interface:///org/springframework/core/convert/converter/ConditionalGenericConverter|> 
+<|java+class:///org/springframework/core/convert/support/ObjectToCollectionConverter|,|java+interface:///org/springframework/core/convert/converter/ConditionalGenericConverter|> 
+<|java+class:///org/springframework/core/convert/support/ObjectToObjectConverter|,|java+interface:///org/springframework/core/convert/converter/ConditionalGenericConverter|> 
+<|java+class:///org/springframework/core/convert/support/ObjectToStringConverter|,|java+interface:///org/springframework/core/convert/converter/ConditionalGenericConverter|> 
+<|java+class:///org/springframework/core/convert/support/PropertiesToStringConverter|,|java+interface:///org/springframework/core/convert/converter/Converter|> 
+<|java+class:///org/springframework/core/convert/support/StringToArrayConverter|,|java+interface:///org/springframework/core/convert/converter/ConditionalGenericConverter|> 
+<|java+class:///org/springframework/core/convert/support/StringToBooleanConverter|,|java+interface:///org/springframework/core/convert/converter/Converter|> 
+<|java+class:///org/springframework/core/convert/support/StringToCharacterConverter|,|java+interface:///org/springframework/core/convert/converter/Converter|> 
+<|java+class:///org/springframework/core/convert/support/StringToCollectionConverter|,|java+interface:///org/springframework/core/convert/converter/ConditionalGenericConverter|> 
+<|java+class:///org/springframework/core/convert/support/StringToEnumConverterFactory|,|java+interface:///org/springframework/core/convert/converter/ConverterFactory|> 
+<|java+class:///org/springframework/core/convert/support/StringToEnumConverterFactory/StringToEnum|,|java+interface:///org/springframework/core/convert/converter/Converter|> 
+<|java+class:///org/springframework/core/convert/support/StringToLocaleConverter|,|java+interface:///org/springframework/core/convert/converter/Converter|> 
+<|java+class:///org/springframework/core/convert/support/StringToNumberConverterFactory|,|java+interface:///org/springframework/core/convert/converter/ConverterFactory|> 
+<|java+class:///org/springframework/core/convert/support/StringToNumberConverterFactory/StringToNumber|,|java+interface:///org/springframework/core/convert/converter/Converter|> 
+<|java+class:///org/springframework/core/convert/support/StringToPropertiesConverter|,|java+interface:///org/springframework/core/convert/converter/Converter|> 
+<|java+class:///org/springframework/core/enums/AbstractLabeledEnum|,|java+interface:///org/springframework/core/enums/LabeledEnum|> 
+<|java+class:///org/springframework/core/io/AbstractResource|,|java+interface:///org/springframework/core/io/Resource|> 
+<|java+class:///org/springframework/core/io/ClassRelativeResourceLoader/ClassRelativeContextResource|,|java+interface:///org/springframework/core/io/ContextResource|> 
+<|java+class:///org/springframework/core/io/DefaultResourceLoader|,|java+interface:///org/springframework/core/io/ResourceLoader|> 
+<|java+class:///org/springframework/core/io/DefaultResourceLoader/ClassPathContextResource|,|java+interface:///org/springframework/core/io/ContextResource|> 
+<|java+class:///org/springframework/core/io/FileSystemResourceLoader/FileSystemContextResource|,|java+interface:///org/springframework/core/io/ContextResource|> 
+<|java+class:///org/springframework/core/io/support/PathMatchingResourcePatternResolver|,|java+interface:///org/springframework/core/io/support/ResourcePatternResolver|> 
+<|java+class:///org/springframework/core/serializer/DefaultDeserializer|,|java+interface:///org/springframework/core/serializer/Deserializer|> 
+<|java+class:///org/springframework/core/serializer/DefaultSerializer|,|java+interface:///org/springframework/core/serializer/Serializer|> 
+<|java+class:///org/springframework/core/style/DefaultToStringStyler|,|java+interface:///org/springframework/core/style/ToStringStyler|> 
+<|java+class:///org/springframework/core/style/DefaultValueStyler|,|java+interface:///org/springframework/core/style/ValueStyler|> 
+<|java+class:///org/springframework/core/type/StandardAnnotationMetadata|,|java+interface:///org/springframework/core/type/AnnotationMetadata|> 
+<|java+class:///org/springframework/core/type/classreading/AnnotationMetadataReadingVisitor|,|java+interface:///org/springframework/core/type/AnnotationMetadata|> 
+<|java+class:///org/springframework/core/type/classreading/MethodMetadataReadingVisitor|,|java+interface:///org/springframework/core/type/MethodMetadata|> 
+<|java+class:///org/springframework/core/type/classreading/SimpleMetadataReader|,|java+interface:///org/springframework/core/type/classreading/MetadataReader|> 
+<|java+class:///org/springframework/core/type/classreading/SimpleMetadataReaderFactory|,|java+interface:///org/springframework/core/type/classreading/MetadataReaderFactory|> 
+<|java+class:///org/springframework/util/AntPathMatcher|,|java+interface:///org/springframework/util/PathMatcher|> 
+<|java+class:///org/springframework/util/AutoPopulatingList/ReflectiveElementFactory|,|java+interface:///org/springframework/util/AutoPopulatingList/ElementFactory|> 
+<|java+class:///org/springframework/util/DefaultPropertiesPersister|,|java+interface:///org/springframework/util/PropertiesPersister|> 
+<|java+class:///org/springframework/util/LinkedMultiValueMap|,|java+interface:///org/springframework/util/MultiValueMap|> 
+<|java+class:///org/springframework/util/ReflectionUtilsTests/ListSavingMethodCallback|,|java+interface:///org/springframework/util/ReflectionUtils/MethodCallback|> 
+<|java+class:///org/springframework/util/SystemPropertyUtils/SystemPropertyPlaceholderResolver|,|java+interface:///org/springframework/util/PropertyPlaceholderHelper/PlaceholderResolver|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 11 
+<|java+class:///org/springframework/core/BridgeMethodResolverTests/BaseUserInitiatedEvent|,|java+interface:///org/springframework/core/BridgeMethodResolverTests/UserInitiatedEvent|> 
+<|java+class:///org/springframework/core/BridgeMethodResolverTests/GenericBroadcasterImpl|,|java+interface:///org/springframework/core/BridgeMethodResolverTests/Broadcaster|> 
+<|java+class:///org/springframework/core/GenericTypeResolverTests/MyCollectionInterfaceType|,|java+interface:///org/springframework/core/GenericTypeResolverTests/MyInterfaceType|> 
+<|java+class:///org/springframework/core/GenericTypeResolverTests/MySimpleInterfaceType|,|java+interface:///org/springframework/core/GenericTypeResolverTests/MyInterfaceType|> 
+<|java+class:///org/springframework/core/convert/support/GenericConversionServiceTests/MyInterfaceImplementer|,|java+interface:///org/springframework/core/convert/support/GenericConversionServiceTests/MyInterface|> 
+<|java+class:///org/springframework/core/type/AnnotationTypeFilterTests/SomeSubClassOfSomeComponentInterface|,|java+interface:///org/springframework/core/type/AnnotationTypeFilterTests/SomeComponentInterface|> 
+<|java+class:///org/springframework/core/type/AspectJTypeFilterTests/SomeClassExtendingSomeClassExtendingSomeClassAndImplemnentingSomeInterface|,|java+interface:///org/springframework/core/type/AspectJTypeFilterTests/SomeInterface|> 
+<|java+class:///org/springframework/core/type/AspectJTypeFilterTests/SomeClassImplementingSomeInterface|,|java+interface:///org/springframework/core/type/AspectJTypeFilterTests/SomeInterface|> 
+<|java+class:///org/springframework/core/type/AssignableTypeFilterTests/SimpleJdbcDaoSupport|,|java+interface:///org/springframework/core/type/AssignableTypeFilterTests/JdbcDaoSupport|> 
+<|java+class:///org/springframework/core/type/AssignableTypeFilterTests/SomeDaoLikeImpl|,|java+interface:///org/springframework/core/type/AssignableTypeFilterTests/SomeDaoLikeInterface|> 
+<|java+class:///org/springframework/core/type/AssignableTypeFilterTests/TestInterfaceImpl|,|java+interface:///org/springframework/core/type/AssignableTypeFilterTests/TestInterface|> 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 5 
+<|java+class:///org/springframework/core/LocalVariableTableParameterNameDiscoverer|,|java+interface:///org/springframework/core/ParameterNameDiscoverer|> 
+<|java+class:///org/springframework/core/serializer/support/DeserializingConverter|,|java+interface:///org/springframework/core/convert/converter/Converter|> 
+<|java+class:///org/springframework/core/serializer/support/SerializingConverter|,|java+interface:///org/springframework/core/convert/converter/Converter|> 
+<|java+class:///org/springframework/core/type/StandardMethodMetadata|,|java+interface:///org/springframework/core/type/MethodMetadata|> 
+<|java+class:///org/springframework/util/AutoPopulatingListTests/MockElementFactory|,|java+interface:///org/springframework/util/AutoPopulatingList/ElementFactory|> 
+
+FRAMEWORK TOTAL: 4 
+<|java+class:///org/springframework/core/CollectionFactory/JdkConcurrentHashMap|,|java+interface:///org/springframework/core/ConcurrentMap|> 
+<|java+class:///org/springframework/core/enums/AbstractLabeledEnum|,|java+interface:///org/springframework/core/enums/LabeledEnum|> 
+<|java+class:///org/springframework/core/task/SyncTaskExecutor|,|java+interface:///org/springframework/core/task/TaskExecutor|> 
+<|java+class:///org/springframework/util/LinkedMultiValueMap|,|java+interface:///org/springframework/util/MultiValueMap|> 
+
+DOWNCALL TOTAL: 0 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 2 
+<|java+interface:///org/springframework/core/io/Resource|,|java+interface:///org/springframework/core/io/InputStreamSource|> 
+<|java+interface:///org/springframework/core/type/AnnotationMetadata|,|java+interface:///org/springframework/core/type/ClassMetadata|> 
+
+SUBTYPE TOTAL: 6 
+<|java+interface:///org/springframework/core/convert/converter/ConditionalGenericConverter|,|java+interface:///org/springframework/core/convert/converter/GenericConverter|> 
+<|java+interface:///org/springframework/core/convert/support/GenericConversionServiceTests/MyInterface|,|java+interface:///org/springframework/core/convert/support/GenericConversionServiceTests/MyBaseInterface|> 
+<|java+interface:///org/springframework/core/io/ContextResource|,|java+interface:///org/springframework/core/io/Resource|> 
+<|java+interface:///org/springframework/core/io/Resource|,|java+interface:///org/springframework/core/io/InputStreamSource|> 
+<|java+interface:///org/springframework/core/io/support/ResourcePatternResolver|,|java+interface:///org/springframework/core/io/ResourceLoader|> 
+<|java+interface:///org/springframework/core/type/AnnotationMetadata|,|java+interface:///org/springframework/core/type/ClassMetadata|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 5 
+<|java+interface:///org/springframework/core/BridgeMethodResolverTests/ConcreteSettings|,|java+interface:///org/springframework/core/BridgeMethodResolverTests/Settings|> 
+<|java+interface:///org/springframework/core/BridgeMethodResolverTests/EventBroadcaster|,|java+interface:///org/springframework/core/BridgeMethodResolverTests/Broadcaster|> 
+<|java+interface:///org/springframework/core/annotation/AnnotationUtilsTests/SubInheritedAnnotationInterface|,|java+interface:///org/springframework/core/annotation/AnnotationUtilsTests/InheritedAnnotationInterface|> 
+<|java+interface:///org/springframework/core/annotation/AnnotationUtilsTests/SubNonInheritedAnnotationInterface|,|java+interface:///org/springframework/core/annotation/AnnotationUtilsTests/NonInheritedAnnotationInterface|> 
+<|java+interface:///org/springframework/core/convert/support/GenericConversionServiceTests/MyInterface|,|java+interface:///org/springframework/core/convert/support/GenericConversionServiceTests/MyBaseInterface|> 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 1 
+<|java+interface:///org/springframework/core/task/AsyncTaskExecutor|,|java+interface:///org/springframework/core/task/TaskExecutor|> 
+
+DOWNCALL TOTAL: 0 
+
+
+
+

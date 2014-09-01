@@ -1,0 +1,221 @@
+RESULTS LOG: 
+INTERNAL REUSE TOTAL: 8 
+<|java+class:///org/shiftone/jrat/core/criteria/AndMethodCriteria|,|java+class:///org/shiftone/jrat/core/criteria/CompositeMethodCriteria|> 
+<|java+class:///org/shiftone/jrat/core/criteria/OrMethodCriteria|,|java+class:///org/shiftone/jrat/core/criteria/CompositeMethodCriteria|> 
+<|java+class:///org/shiftone/jrat/core/output/FileOutputOutputStream|,|java+class:///org/shiftone/jrat/util/io/proxy/ProxyOutputStream|> 
+<|java+class:///org/shiftone/jrat/core/output/FileOutputWriter|,|java+class:///org/shiftone/jrat/util/io/proxy/ProxyWriter|> 
+<|java+class:///org/shiftone/jrat/provider/tree/TreeMethodHandlerFactory|,|java+class:///org/shiftone/jrat/core/spi/AbstractMethodHandlerFactory|> 
+<|java+class:///org/shiftone/jrat/provider/tree/ui/hierarchy/nodes/PackageHierarchyNode|,|java+class:///org/shiftone/jrat/provider/tree/ui/hierarchy/nodes/HierarchyNode|> 
+<|java+class:///org/shiftone/jrat/provider/tree/ui/trace/graph/TreeGraphComponent|,|java+class:///org/shiftone/jrat/provider/tree/ui/trace/graph/BufferedJComponent|> 
+<|java+class:///org/shiftone/jrat/provider/tree/ui/trace/pie/PieGraphComponent|,|java+class:///org/shiftone/jrat/provider/tree/ui/trace/graph/BufferedJComponent|> 
+
+EXTERNAL REUSE TOTAL: 6 
+<|java+class:///org/shiftone/jrat/core/criteria/AndMethodCriteria|,|java+class:///org/shiftone/jrat/core/criteria/CompositeMethodCriteria|> 
+<|java+class:///org/shiftone/jrat/core/criteria/OrMethodCriteria|,|java+class:///org/shiftone/jrat/core/criteria/CompositeMethodCriteria|> 
+<|java+class:///org/shiftone/jrat/inject/InjectorOptions|,|java+class:///org/shiftone/jrat/inject/bytecode/TransformerOptions|> 
+<|java+class:///org/shiftone/jrat/inject/process/ArchiveFileProcessor|,|java+class:///org/shiftone/jrat/inject/process/AbstractFileProcessor|> 
+<|java+class:///org/shiftone/jrat/inject/process/ClassFileProcessor|,|java+class:///org/shiftone/jrat/inject/process/AbstractFileProcessor|> 
+<|java+class:///org/shiftone/jrat/provider/tree/ui/hierarchy/nodes/ClassHierarchyNode|,|java+class:///org/shiftone/jrat/provider/tree/ui/hierarchy/nodes/HierarchyNode|> 
+
+SUBTYPE TOTAL: 10 
+<|java+class:///org/shiftone/jrat/core/criteria/OrMethodCriteria|,|java+class:///org/shiftone/jrat/core/criteria/CompositeMethodCriteria|> 
+<|java+class:///org/shiftone/jrat/desktop/action/inject/InjectDirectoryAction|,|java+class:///org/shiftone/jrat/desktop/action/inject/AbstractInjectAction|> 
+<|java+class:///org/shiftone/jrat/desktop/action/inject/InjectFileAction|,|java+class:///org/shiftone/jrat/desktop/action/inject/AbstractInjectAction|> 
+<|java+class:///org/shiftone/jrat/inject/InjectorOptions|,|java+class:///org/shiftone/jrat/inject/bytecode/TransformerOptions|> 
+<|java+class:///org/shiftone/jrat/provider/tree/TreeMethodHandlerFactory|,|java+class:///org/shiftone/jrat/core/spi/AbstractMethodHandlerFactory|> 
+<|java+class:///org/shiftone/jrat/provider/tree/ui/hierarchy/nodes/ClassHierarchyNode|,|java+class:///org/shiftone/jrat/provider/tree/ui/hierarchy/nodes/HierarchyNode|> 
+<|java+class:///org/shiftone/jrat/provider/tree/ui/hierarchy/nodes/MethodHierarchyNode|,|java+class:///org/shiftone/jrat/provider/tree/ui/hierarchy/nodes/HierarchyNode|> 
+<|java+class:///org/shiftone/jrat/provider/tree/ui/hierarchy/nodes/MethodSummaryHierarchyNode|,|java+class:///org/shiftone/jrat/provider/tree/ui/hierarchy/nodes/MethodHierarchyNode|> 
+<|java+class:///org/shiftone/jrat/provider/tree/ui/hierarchy/nodes/PackageHierarchyNode|,|java+class:///org/shiftone/jrat/provider/tree/ui/hierarchy/nodes/HierarchyNode|> 
+<|java+class:///org/shiftone/jrat/util/io/OpenInputStream|,|java+class:///org/shiftone/jrat/util/io/proxy/ProxyInputStream|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 10 
+<|java+class:///org/shiftone/jrat/core/JRatException|,|java+class:///org/shiftone/jrat/util/NestedRuntimeException|> 
+<|java+class:///org/shiftone/jrat/desktop/action/inject/InjectDirectoryAction|,|java+class:///org/shiftone/jrat/desktop/action/inject/AbstractInjectAction|> 
+<|java+class:///org/shiftone/jrat/desktop/action/inject/InjectFileAction|,|java+class:///org/shiftone/jrat/desktop/action/inject/AbstractInjectAction|> 
+<|java+class:///org/shiftone/jrat/inject/InjectionException|,|java+class:///org/shiftone/jrat/core/JRatException|> 
+<|java+class:///org/shiftone/jrat/inject/bytecode/InjectorException|,|java+class:///org/shiftone/jrat/core/JRatException|> 
+<|java+class:///org/shiftone/jrat/provider/tree/ui/hierarchy/nodes/ClassHierarchyNode|,|java+class:///org/shiftone/jrat/provider/tree/ui/hierarchy/nodes/HierarchyNode|> 
+<|java+class:///org/shiftone/jrat/provider/tree/ui/hierarchy/nodes/MethodHierarchyNode|,|java+class:///org/shiftone/jrat/provider/tree/ui/hierarchy/nodes/HierarchyNode|> 
+<|java+class:///org/shiftone/jrat/provider/tree/ui/hierarchy/nodes/MethodSummaryHierarchyNode|,|java+class:///org/shiftone/jrat/provider/tree/ui/hierarchy/nodes/MethodHierarchyNode|> 
+<|java+class:///org/shiftone/jrat/provider/tree/ui/hierarchy/nodes/PackageHierarchyNode|,|java+class:///org/shiftone/jrat/provider/tree/ui/hierarchy/nodes/HierarchyNode|> 
+<|java+class:///org/shiftone/jrat/util/AssertionFailedException|,|java+class:///org/shiftone/jrat/core/JRatException|> 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 9 
+<|java+class:///org/shiftone/jrat/core/JRatException|,|java+class:///org/shiftone/jrat/util/NestedRuntimeException|> 
+<|java+class:///org/shiftone/jrat/core/output/FileOutputOutputStream|,|java+class:///org/shiftone/jrat/util/io/proxy/ProxyOutputStream|> 
+<|java+class:///org/shiftone/jrat/core/output/FileOutputWriter|,|java+class:///org/shiftone/jrat/util/io/proxy/ProxyWriter|> 
+<|java+class:///org/shiftone/jrat/desktop/action/inject/InjectDirectoryAction|,|java+class:///org/shiftone/jrat/desktop/action/inject/AbstractInjectAction|> 
+<|java+class:///org/shiftone/jrat/desktop/action/inject/InjectFileAction|,|java+class:///org/shiftone/jrat/desktop/action/inject/AbstractInjectAction|> 
+<|java+class:///org/shiftone/jrat/inject/ant/InjectTask|,|java+class:///org/shiftone/jrat/inject/ant/AbstractFileTask|> 
+<|java+class:///org/shiftone/jrat/provider/tree/ui/trace/graph/TreeGraphComponent|,|java+class:///org/shiftone/jrat/provider/tree/ui/trace/graph/BufferedJComponent|> 
+<|java+class:///org/shiftone/jrat/provider/tree/ui/trace/pie/PieGraphComponent|,|java+class:///org/shiftone/jrat/provider/tree/ui/trace/graph/BufferedJComponent|> 
+<|java+class:///org/shiftone/jrat/util/io/OpenInputStream|,|java+class:///org/shiftone/jrat/util/io/proxy/ProxyInputStream|> 
+
+DOWNCALL TOTAL: 17 
+<|java+class:///org/shiftone/jrat/core/criteria/AndMethodCriteria|,|java+class:///org/shiftone/jrat/core/criteria/CompositeMethodCriteria|> 
+<|java+class:///org/shiftone/jrat/core/criteria/OrMethodCriteria|,|java+class:///org/shiftone/jrat/core/criteria/CompositeMethodCriteria|> 
+<|java+class:///org/shiftone/jrat/core/output/FileOutputOutputStream|,|java+class:///org/shiftone/jrat/util/io/proxy/ProxyOutputStream|> 
+<|java+class:///org/shiftone/jrat/core/output/FileOutputWriter|,|java+class:///org/shiftone/jrat/util/io/proxy/ProxyWriter|> 
+<|java+class:///org/shiftone/jrat/desktop/action/inject/InjectDirectoryAction|,|java+class:///org/shiftone/jrat/desktop/action/inject/AbstractInjectAction|> 
+<|java+class:///org/shiftone/jrat/desktop/action/inject/InjectFileAction|,|java+class:///org/shiftone/jrat/desktop/action/inject/AbstractInjectAction|> 
+<|java+class:///org/shiftone/jrat/inject/ant/InjectTask|,|java+class:///org/shiftone/jrat/inject/ant/AbstractFileTask|> 
+<|java+class:///org/shiftone/jrat/inject/process/ArchiveFileProcessor|,|java+class:///org/shiftone/jrat/inject/process/AbstractFileProcessor|> 
+<|java+class:///org/shiftone/jrat/inject/process/ClassFileProcessor|,|java+class:///org/shiftone/jrat/inject/process/AbstractFileProcessor|> 
+<|java+class:///org/shiftone/jrat/provider/tree/command/ResetCommandlet|,|java+class:///org/shiftone/jrat/util/log/AbstractLogCommandlet|> 
+<|java+class:///org/shiftone/jrat/provider/tree/command/WriteOutputCommandlet|,|java+class:///org/shiftone/jrat/util/log/AbstractLogCommandlet|> 
+<|java+class:///org/shiftone/jrat/provider/tree/ui/hierarchy/nodes/ClassHierarchyNode|,|java+class:///org/shiftone/jrat/provider/tree/ui/hierarchy/nodes/HierarchyNode|> 
+<|java+class:///org/shiftone/jrat/provider/tree/ui/hierarchy/nodes/MethodHierarchyNode|,|java+class:///org/shiftone/jrat/provider/tree/ui/hierarchy/nodes/HierarchyNode|> 
+<|java+class:///org/shiftone/jrat/provider/tree/ui/hierarchy/nodes/PackageHierarchyNode|,|java+class:///org/shiftone/jrat/provider/tree/ui/hierarchy/nodes/HierarchyNode|> 
+<|java+class:///org/shiftone/jrat/provider/tree/ui/trace/graph/TreeGraphComponent|,|java+class:///org/shiftone/jrat/provider/tree/ui/trace/graph/BufferedJComponent|> 
+<|java+class:///org/shiftone/jrat/provider/tree/ui/trace/pie/PieGraphComponent|,|java+class:///org/shiftone/jrat/provider/tree/ui/trace/graph/BufferedJComponent|> 
+<|java+class:///org/shiftone/jrat/util/io/OpenInputStream|,|java+class:///org/shiftone/jrat/util/io/proxy/ProxyInputStream|> 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 2 
+<|java+class:///org/shiftone/jrat/core/spi/AbstractMethodHandlerFactory|,|java+interface:///org/shiftone/jrat/core/spi/MethodHandlerFactory|> 
+<|java+class:///org/shiftone/jrat/util/log/Logger|,|java+interface:///org/shiftone/jrat/util/log/Constants|> 
+
+SUBTYPE TOTAL: 54 
+<|java+class:///org/shiftone/jrat/core/MemoryMonitor|,|java+interface:///org/shiftone/jrat/core/shutdown/ShutdownListener|> 
+<|java+class:///org/shiftone/jrat/core/RuntimeContextImpl|,|java+interface:///org/shiftone/jrat/core/spi/RuntimeContext|> 
+<|java+class:///org/shiftone/jrat/core/command/ListRegistryCommandlet|,|java+interface:///org/shiftone/jrat/core/spi/Commandlet|> 
+<|java+class:///org/shiftone/jrat/core/command/SystemPropertiesCommandlet|,|java+interface:///org/shiftone/jrat/core/spi/Commandlet|> 
+<|java+class:///org/shiftone/jrat/core/config/CacheMethodHandlerFactory|,|java+interface:///org/shiftone/jrat/core/spi/MethodHandlerFactory|> 
+<|java+class:///org/shiftone/jrat/core/config/CompositeMethodHandler|,|java+interface:///org/shiftone/jrat/core/spi/MethodHandler|> 
+<|java+class:///org/shiftone/jrat/core/config/ConfigMethodHandlerFactory|,|java+interface:///org/shiftone/jrat/core/spi/MethodHandlerFactory|> 
+<|java+class:///org/shiftone/jrat/core/config/Configuration|,|java+interface:///org/shiftone/jrat/core/criteria/MethodCriteria|> 
+<|java+class:///org/shiftone/jrat/core/config/Profile|,|java+interface:///org/shiftone/jrat/core/criteria/MethodCriteria|> 
+<|java+class:///org/shiftone/jrat/core/criteria/ClassMatcherMethodCriteria|,|java+interface:///org/shiftone/jrat/core/criteria/MethodCriteria|> 
+<|java+class:///org/shiftone/jrat/core/criteria/CompositeMethodCriteria|,|java+interface:///org/shiftone/jrat/core/criteria/MethodCriteria|> 
+<|java+class:///org/shiftone/jrat/core/criteria/ConstantMethodCriteria|,|java+interface:///org/shiftone/jrat/core/criteria/MethodCriteria|> 
+<|java+class:///org/shiftone/jrat/core/criteria/IncludeExcludeMethodCriteria|,|java+interface:///org/shiftone/jrat/core/criteria/MethodCriteria|> 
+<|java+class:///org/shiftone/jrat/core/criteria/MatcherMethodCriteria|,|java+interface:///org/shiftone/jrat/core/criteria/MethodCriteria|> 
+<|java+class:///org/shiftone/jrat/core/criteria/NotMethodCriteria|,|java+interface:///org/shiftone/jrat/core/criteria/MethodCriteria|> 
+<|java+class:///org/shiftone/jrat/core/jmx/NullJmxRegistry|,|java+interface:///org/shiftone/jrat/core/jmx/JmxRegistry|> 
+<|java+class:///org/shiftone/jrat/core/jmx/ServerJmxRegistry|,|java+interface:///org/shiftone/jrat/core/jmx/JmxRegistry|> 
+<|java+class:///org/shiftone/jrat/core/jmx/WaitingJmxRegistry|,|java+interface:///org/shiftone/jrat/core/jmx/JmxRegistry|> 
+<|java+class:///org/shiftone/jrat/core/output/FileOutputOutputStream|,|java+interface:///org/shiftone/jrat/core/output/FileOutput|> 
+<|java+class:///org/shiftone/jrat/core/output/FileOutputPrintWriter|,|java+interface:///org/shiftone/jrat/core/output/FileOutput|> 
+<|java+class:///org/shiftone/jrat/core/output/FileOutputRegistry|,|java+interface:///org/shiftone/jrat/core/shutdown/ShutdownListener|> 
+<|java+class:///org/shiftone/jrat/core/output/FileOutputWriter|,|java+interface:///org/shiftone/jrat/core/output/FileOutput|> 
+<|java+class:///org/shiftone/jrat/core/spi/AbstractMethodHandlerFactory|,|java+interface:///org/shiftone/jrat/core/shutdown/ShutdownListener|> 
+<|java+class:///org/shiftone/jrat/core/web/WebActionRegistry|,|java+interface:///org/shiftone/jrat/core/shutdown/ShutdownListener|> 
+<|java+class:///org/shiftone/jrat/core/web/http/TestWebActionFactory/TestWebAction|,|java+interface:///org/shiftone/jrat/core/spi/WebAction|> 
+<|java+class:///org/shiftone/jrat/core/web/http/WebActionHandler|,|java+interface:///org/shiftone/jrat/core/web/http/Handler|> 
+<|java+class:///org/shiftone/jrat/desktop/action/inject/RunnableLogPanel/GuiLogTarget|,|java+interface:///org/shiftone/jrat/util/log/target/LogTarget|> 
+<|java+class:///org/shiftone/jrat/inject/bytecode/Transformer|,|java+interface:///org/shiftone/jrat/core/shutdown/ShutdownListener|> 
+<|java+class:///org/shiftone/jrat/inject/bytecode/asm/AsmInjectorStrategy|,|java+interface:///org/shiftone/jrat/inject/bytecode/InjectorStrategy|> 
+<|java+class:///org/shiftone/jrat/inject/process/CompositeFileProcessor|,|java+interface:///org/shiftone/jrat/inject/process/FileProcessor|> 
+<|java+class:///org/shiftone/jrat/integration/aop/alliance/AllianceMethodInvocationCommand|,|java+interface:///org/shiftone/jrat/api/Command|> 
+<|java+class:///org/shiftone/jrat/integration/aop/aspectwerkz/AspectWerkzJoinPointCommand|,|java+interface:///org/shiftone/jrat/api/Command|> 
+<|java+class:///org/shiftone/jrat/integration/aop/cglib/CglibMethodInvocationCommand|,|java+interface:///org/shiftone/jrat/api/Command|> 
+<|java+class:///org/shiftone/jrat/integration/aop/dynaop/DynaopInvocationCommand|,|java+interface:///org/shiftone/jrat/api/Command|> 
+<|java+class:///org/shiftone/jrat/integration/aop/nanning/NanningInvocationCommand|,|java+interface:///org/shiftone/jrat/api/Command|> 
+<|java+class:///org/shiftone/jrat/integration/aop/proxy/ProxyCommand|,|java+interface:///org/shiftone/jrat/api/Command|> 
+<|java+class:///org/shiftone/jrat/provider/silent/SilentMethodHandler|,|java+interface:///org/shiftone/jrat/core/spi/MethodHandler|> 
+<|java+class:///org/shiftone/jrat/provider/silent/SilentMethodHandler|,|java+interface:///org/shiftone/jrat/core/spi/MethodHandlerFactory|> 
+<|java+class:///org/shiftone/jrat/provider/tree/TreeMethodHandler|,|java+interface:///org/shiftone/jrat/core/spi/MethodHandler|> 
+<|java+class:///org/shiftone/jrat/provider/tree/TreeWebActionFactory|,|java+interface:///org/shiftone/jrat/core/spi/WebActionFactory|> 
+<|java+class:///org/shiftone/jrat/provider/tree/TreeWebActionFactory/Action|,|java+interface:///org/shiftone/jrat/core/spi/WebAction|> 
+<|java+class:///org/shiftone/jrat/provider/tree/command/DumpOutputCommandlet|,|java+interface:///org/shiftone/jrat/core/spi/Commandlet|> 
+<|java+class:///org/shiftone/jrat/provider/tree/command/ResetCommandlet|,|java+interface:///org/shiftone/jrat/core/spi/Commandlet|> 
+<|java+class:///org/shiftone/jrat/provider/tree/command/WriteOutputCommandlet|,|java+interface:///org/shiftone/jrat/core/spi/Commandlet|> 
+<|java+class:///org/shiftone/jrat/provider/tree/ui/TraceViewBuilder|,|java+interface:///org/shiftone/jrat/core/spi/ViewBuilder|> 
+<|java+class:///org/shiftone/jrat/util/log/target/NullLogTarget|,|java+interface:///org/shiftone/jrat/util/log/target/LogTarget|> 
+<|java+class:///org/shiftone/jrat/util/log/target/ProxyLogTarget|,|java+interface:///org/shiftone/jrat/util/log/target/LogTarget|> 
+<|java+class:///org/shiftone/jrat/util/log/target/TandemTarget|,|java+interface:///org/shiftone/jrat/util/log/target/LogTarget|> 
+<|java+class:///org/shiftone/jrat/util/log/target/ThreadLocalLogTarget|,|java+interface:///org/shiftone/jrat/util/log/target/LogTarget|> 
+<|java+class:///org/shiftone/jrat/util/log/target/WriterLogTarget|,|java+interface:///org/shiftone/jrat/util/log/target/LogTarget|> 
+<|java+class:///org/shiftone/jrat/util/regex/CompositeMatcher|,|java+interface:///org/shiftone/jrat/util/regex/Matcher|> 
+<|java+class:///org/shiftone/jrat/util/regex/ConstantMatcher|,|java+interface:///org/shiftone/jrat/util/regex/Matcher|> 
+<|java+class:///org/shiftone/jrat/util/regex/GlobMatcher|,|java+interface:///org/shiftone/jrat/util/regex/Matcher|> 
+<|java+class:///org/shiftone/jrat/util/regex/ToLowerMatcher|,|java+interface:///org/shiftone/jrat/util/regex/Matcher|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 4 
+<|java+class:///org/shiftone/jrat/util/log/Logger|,|java+interface:///org/shiftone/jrat/util/log/Constants|> 
+<|java+class:///org/shiftone/jrat/util/log/LoggerFactory|,|java+interface:///org/shiftone/jrat/util/log/Constants|> 
+<|java+class:///org/shiftone/jrat/util/log/LoggingManager|,|java+interface:///org/shiftone/jrat/util/log/Constants|> 
+<|java+class:///org/shiftone/jrat/util/log/target/ProxyLogTarget|,|java+interface:///org/shiftone/jrat/util/log/Constants|> 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 8 
+<|java+class:///org/shiftone/jrat/core/output/FileOutputPrintWriter|,|java+interface:///org/shiftone/jrat/core/output/FileOutput|> 
+<|java+class:///org/shiftone/jrat/core/output/FileOutputWriter|,|java+interface:///org/shiftone/jrat/core/output/FileOutput|> 
+<|java+class:///org/shiftone/jrat/core/spi/AbstractMethodHandlerFactory|,|java+interface:///org/shiftone/jrat/core/shutdown/ShutdownListener|> 
+<|java+class:///org/shiftone/jrat/core/spi/AbstractMethodHandlerFactory|,|java+interface:///org/shiftone/jrat/core/spi/MethodHandlerFactory|> 
+<|java+class:///org/shiftone/jrat/provider/silent/SilentMethodHandler|,|java+interface:///org/shiftone/jrat/core/spi/MethodHandler|> 
+<|java+class:///org/shiftone/jrat/provider/tree/command/WriteOutputCommandlet|,|java+interface:///org/shiftone/jrat/core/spi/Commandlet|> 
+<|java+class:///org/shiftone/jrat/util/jmx/dynamic/RunnableOperation|,|java+interface:///org/shiftone/jrat/util/jmx/dynamic/Operation|> 
+<|java+class:///org/shiftone/jrat/util/log/target/ProxyLogTarget|,|java+interface:///org/shiftone/jrat/util/log/target/LogTarget|> 
+
+CATEGORY TOTAL: 10 
+<|java+class:///org/shiftone/jrat/api/Callable|,|java+interface:///org/shiftone/jrat/api/Command|> 
+<|java+class:///org/shiftone/jrat/core/criteria/DebugMethodCriteria|,|java+interface:///org/shiftone/jrat/core/criteria/MethodCriteria|> 
+<|java+class:///org/shiftone/jrat/core/proxy/ProxyCommand|,|java+interface:///org/shiftone/jrat/api/Command|> 
+<|java+class:///org/shiftone/jrat/core/web/http/FsBrowseHandler|,|java+interface:///org/shiftone/jrat/core/web/http/Handler|> 
+<|java+class:///org/shiftone/jrat/core/web/http/Server|,|java+interface:///org/shiftone/jrat/core/shutdown/ShutdownListener|> 
+<|java+class:///org/shiftone/jrat/core/web/http/TestWebActionFactory|,|java+interface:///org/shiftone/jrat/core/spi/WebActionFactory|> 
+<|java+class:///org/shiftone/jrat/inject/process/AbstractFileProcessor|,|java+interface:///org/shiftone/jrat/inject/process/FileProcessor|> 
+<|java+class:///org/shiftone/jrat/inject/process/DirectoryFileProcessor|,|java+interface:///org/shiftone/jrat/inject/process/FileProcessor|> 
+<|java+class:///org/shiftone/jrat/util/log/AbstractLogCommandlet|,|java+interface:///org/shiftone/jrat/core/spi/Commandlet|> 
+<|java+class:///org/shiftone/jrat/util/log/Logger|,|java+interface:///org/shiftone/jrat/util/log/target/LogTarget|> 
+
+FRAMEWORK TOTAL: 1 
+<|java+class:///org/shiftone/jrat/provider/tree/ui/TraceViewBuilder|,|java+interface:///org/shiftone/jrat/core/spi/ViewBuilder|> 
+
+DOWNCALL TOTAL: 0 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 0 
+
+SUBTYPE TOTAL: 0 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 0 
+
+DOWNCALL TOTAL: 0 
+
+
+
+

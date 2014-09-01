@@ -1,0 +1,8 @@
+[
+  <<|java+class:///org/sunflow/system/Parser/ParserException|,|java+class:///java/lang/Exception|>,|project://sunflow-0.07.2/src/org/sunflow/system/Parser.java|(4548,60,<152,12>,<152,72>)>,
+  <<|java+class:///org/sunflow/system/RenderGlobalsPanel|,|java+class:///javax/swing/JTabbedPane|>,|project://sunflow-0.07.2/src/org/sunflow/system/RenderGlobalsPanel.java|(2529,8,<75,8>,<75,16>)>,
+  <<|java+class:///org/sunflow/core/tesselatable/Gumbo|,|java+class:///org/sunflow/core/tesselatable/BezierMesh|>,|project://sunflow-0.07.2/src/org/sunflow/core/tesselatable/Gumbo.java|(86991,15,<1142,8>,<1142,23>)>,
+  <<|java+class:///org/sunflow/core/display/FrameDisplay/RenderFrame|,|java+class:///javax/swing/JFrame|>,|project://sunflow-0.07.2/src/org/sunflow/core/display/FrameDisplay.java|(2251,40,<71,12>,<71,52>)>,
+  <<|java+class:///org/sunflow/core/tesselatable/Teapot|,|java+class:///org/sunflow/core/tesselatable/BezierMesh|>,|project://sunflow-0.07.2/src/org/sunflow/core/tesselatable/Teapot.java|(17310,15,<234,8>,<234,23>)>,
+  <<|java+class:///SunflowGUI|,|java+class:///javax/swing/JFrame|>,|project://sunflow-0.07.2/src/SunflowGUI.java|(20582,8,<450,8>,<450,16>)>
+]

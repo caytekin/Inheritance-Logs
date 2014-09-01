@@ -1,0 +1,382 @@
+RESULTS LOG: 
+INTERNAL REUSE TOTAL: 71 
+<|java+class:///org/exolab/castor/builder/ExtendedSourceGenerator|,|java+class:///org/exolab/castor/builder/SourceGenerator|> 
+<|java+class:///org/exolab/castor/builder/SourceGenerator|,|java+class:///org/exolab/castor/builder/BuilderConfiguration|> 
+<|java+class:///org/exolab/castor/builder/binding/ExtendedBinding|,|java+class:///org/exolab/castor/builder/binding/xml/Binding|> 
+<|java+class:///org/exolab/castor/builder/conflict/strategy/TypeClassNameConflictResolver|,|java+class:///org/exolab/castor/builder/conflict/strategy/BaseClassNameConflictResolver|> 
+<|java+class:///org/exolab/castor/builder/conflict/strategy/XPATHClassNameConflictResolver|,|java+class:///org/exolab/castor/builder/conflict/strategy/BaseClassNameConflictResolver|> 
+<|java+class:///org/exolab/castor/builder/conflictresolution/WarningViaDialogClassNameCRStrategy|,|java+class:///org/exolab/castor/builder/conflictresolution/BaseClassNameCRStrategy|> 
+<|java+class:///org/exolab/castor/builder/descriptors/DescriptorJClass|,|java+class:///org/exolab/javasource/JClass|> 
+<|java+class:///org/exolab/castor/builder/descriptors/JDODescriptorJClass|,|java+class:///org/exolab/javasource/JClass|> 
+<|java+class:///org/exolab/castor/builder/factory/CollectionJ2MemberAndAccessorFactory|,|java+class:///org/exolab/castor/builder/factory/CollectionMemberAndAccessorFactory|> 
+<|java+class:///org/exolab/castor/builder/factory/EnumerationFactory|,|java+class:///org/exolab/castor/builder/factory/BaseFactory|> 
+<|java+class:///org/exolab/castor/builder/factory/MemberFactory|,|java+class:///org/exolab/castor/builder/factory/BaseFactory|> 
+<|java+class:///org/exolab/castor/builder/factory/SourceFactory|,|java+class:///org/exolab/castor/builder/factory/BaseFactory|> 
+<|java+class:///org/exolab/castor/builder/info/CollectionInfo|,|java+class:///org/exolab/castor/builder/info/FieldInfo|> 
+<|java+class:///org/exolab/castor/builder/info/IdentityInfo|,|java+class:///org/exolab/castor/builder/info/FieldInfo|> 
+<|java+class:///org/exolab/castor/builder/info/nature/ClassInfoNatureExtendableTest|,|java+class:///org/exolab/castor/builder/info/nature/BaseNatureExtendableTest|> 
+<|java+class:///org/exolab/castor/builder/info/nature/ClassInfoPropertyHolderTest|,|java+class:///org/exolab/castor/builder/info/nature/BasePropertyHolderTest|> 
+<|java+class:///org/exolab/castor/builder/info/nature/FieldInfoNatureExtendableTest|,|java+class:///org/exolab/castor/builder/info/nature/BaseNatureExtendableTest|> 
+<|java+class:///org/exolab/castor/builder/info/nature/FieldInfoPropertyHolderTest|,|java+class:///org/exolab/castor/builder/info/nature/BasePropertyHolderTest|> 
+<|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|,|java+class:///org/exolab/castor/builder/types/AbstractRangeFacet|> 
+<|java+class:///org/exolab/castor/builder/types/AbstractLengthFacet|,|java+class:///org/exolab/castor/builder/types/AbstractWhiteSpaceFacet|> 
+<|java+class:///org/exolab/castor/builder/types/AbstractRangeFacet|,|java+class:///org/exolab/castor/builder/types/AbstractWhiteSpaceFacet|> 
+<|java+class:///org/exolab/castor/builder/types/AbstractWhiteSpaceFacet|,|java+class:///org/exolab/castor/builder/types/AbstractPatternFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSBoolean|,|java+class:///org/exolab/castor/builder/types/AbstractWhiteSpaceFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSByte|,|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSClass|,|java+class:///org/exolab/castor/builder/types/XSType|> 
+<|java+class:///org/exolab/castor/builder/types/XSDate|,|java+class:///org/exolab/castor/builder/types/AbstractRangeFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSDateTime|,|java+class:///org/exolab/castor/builder/types/AbstractRangeFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSDecimal|,|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSDouble|,|java+class:///org/exolab/castor/builder/types/AbstractRangeFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSDuration|,|java+class:///org/exolab/castor/builder/types/AbstractRangeFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSFloat|,|java+class:///org/exolab/castor/builder/types/AbstractRangeFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSGDay|,|java+class:///org/exolab/castor/builder/types/AbstractRangeFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSGMonth|,|java+class:///org/exolab/castor/builder/types/AbstractRangeFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSGMonthDay|,|java+class:///org/exolab/castor/builder/types/AbstractRangeFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSGYear|,|java+class:///org/exolab/castor/builder/types/AbstractRangeFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSGYearMonth|,|java+class:///org/exolab/castor/builder/types/AbstractRangeFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSId|,|java+class:///org/exolab/castor/builder/types/AbstractLengthFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSInt|,|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSInteger|,|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSList|,|java+class:///org/exolab/castor/builder/types/XSListType|> 
+<|java+class:///org/exolab/castor/builder/types/XSListType|,|java+class:///org/exolab/castor/builder/types/XSType|> 
+<|java+class:///org/exolab/castor/builder/types/XSLong|,|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSNCName|,|java+class:///org/exolab/castor/builder/types/AbstractLengthFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSNMToken|,|java+class:///org/exolab/castor/builder/types/AbstractLengthFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSNegativeInteger|,|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSNonNegativeInteger|,|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSNonPositiveInteger|,|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSNormalizedString|,|java+class:///org/exolab/castor/builder/types/AbstractLengthFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSPositiveInteger|,|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSQName|,|java+class:///org/exolab/castor/builder/types/AbstractLengthFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSShort|,|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSString|,|java+class:///org/exolab/castor/builder/types/AbstractLengthFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSTime|,|java+class:///org/exolab/castor/builder/types/AbstractRangeFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSUnsignedByte|,|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSUnsignedInt|,|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSUnsignedLong|,|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSUnsignedShort|,|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|> 
+<|java+class:///org/exolab/javasource/AbstractJClass|,|java+class:///org/exolab/javasource/JStructure|> 
+<|java+class:///org/exolab/javasource/JAnnotationType|,|java+class:///org/exolab/javasource/JStructure|> 
+<|java+class:///org/exolab/javasource/JArrayType|,|java+class:///org/exolab/javasource/JComponentizedType|> 
+<|java+class:///org/exolab/javasource/JClass|,|java+class:///org/exolab/javasource/AbstractJClass|> 
+<|java+class:///org/exolab/javasource/JCollectionType|,|java+class:///org/exolab/javasource/JComponentizedType|> 
+<|java+class:///org/exolab/javasource/JConstant|,|java+class:///org/exolab/javasource/AbstractJField|> 
+<|java+class:///org/exolab/javasource/JConstructor|,|java+class:///org/exolab/javasource/JAnnotatedElementHelper|> 
+<|java+class:///org/exolab/javasource/JEnum|,|java+class:///org/exolab/javasource/JClass|> 
+<|java+class:///org/exolab/javasource/JEnumConstant|,|java+class:///org/exolab/javasource/JAnnotatedElementHelper|> 
+<|java+class:///org/exolab/javasource/JField|,|java+class:///org/exolab/javasource/AbstractJField|> 
+<|java+class:///org/exolab/javasource/JInterface|,|java+class:///org/exolab/javasource/JStructure|> 
+<|java+class:///org/exolab/javasource/JMethodSignature|,|java+class:///org/exolab/javasource/JAnnotatedElementHelper|> 
+<|java+class:///org/exolab/javasource/JPrimitiveType|,|java+class:///org/exolab/javasource/JType|> 
+<|java+class:///org/exolab/javasource/JStructure|,|java+class:///org/exolab/javasource/JType|> 
+
+EXTERNAL REUSE TOTAL: 58 
+<|java+class:///org/exolab/castor/builder/ExtendedSourceGenerator|,|java+class:///org/exolab/castor/builder/SourceGenerator|> 
+<|java+class:///org/exolab/castor/builder/SGStateInfo|,|java+class:///org/exolab/castor/builder/util/ClassInfoResolverImpl|> 
+<|java+class:///org/exolab/castor/builder/SourceGenerator|,|java+class:///org/exolab/castor/builder/BuilderConfiguration|> 
+<|java+class:///org/exolab/castor/builder/binding/ExtendedBinding|,|java+class:///org/exolab/castor/builder/binding/xml/Binding|> 
+<|java+class:///org/exolab/castor/builder/descriptors/DescriptorJClass|,|java+class:///org/exolab/javasource/JClass|> 
+<|java+class:///org/exolab/castor/builder/descriptors/JDODescriptorJClass|,|java+class:///org/exolab/javasource/JClass|> 
+<|java+class:///org/exolab/castor/builder/info/CollectionInfo|,|java+class:///org/exolab/castor/builder/info/FieldInfo|> 
+<|java+class:///org/exolab/castor/builder/info/IdentityInfo|,|java+class:///org/exolab/castor/builder/info/FieldInfo|> 
+<|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|,|java+class:///org/exolab/castor/builder/types/AbstractRangeFacet|> 
+<|java+class:///org/exolab/castor/builder/types/AbstractLengthFacet|,|java+class:///org/exolab/castor/builder/types/AbstractWhiteSpaceFacet|> 
+<|java+class:///org/exolab/castor/builder/types/AbstractPatternFacet|,|java+class:///org/exolab/castor/builder/types/XSType|> 
+<|java+class:///org/exolab/castor/builder/types/AbstractRangeFacet|,|java+class:///org/exolab/castor/builder/types/AbstractWhiteSpaceFacet|> 
+<|java+class:///org/exolab/castor/builder/types/AbstractWhiteSpaceFacet|,|java+class:///org/exolab/castor/builder/types/AbstractPatternFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSByte|,|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSClass|,|java+class:///org/exolab/castor/builder/types/XSType|> 
+<|java+class:///org/exolab/castor/builder/types/XSDate|,|java+class:///org/exolab/castor/builder/types/AbstractRangeFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSDateTime|,|java+class:///org/exolab/castor/builder/types/AbstractRangeFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSDecimal|,|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSDouble|,|java+class:///org/exolab/castor/builder/types/AbstractRangeFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSDuration|,|java+class:///org/exolab/castor/builder/types/AbstractRangeFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSFloat|,|java+class:///org/exolab/castor/builder/types/AbstractRangeFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSGDay|,|java+class:///org/exolab/castor/builder/types/AbstractRangeFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSGMonth|,|java+class:///org/exolab/castor/builder/types/AbstractRangeFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSGMonthDay|,|java+class:///org/exolab/castor/builder/types/AbstractRangeFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSGYear|,|java+class:///org/exolab/castor/builder/types/AbstractRangeFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSGYearMonth|,|java+class:///org/exolab/castor/builder/types/AbstractRangeFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSInt|,|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSInteger|,|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSList|,|java+class:///org/exolab/castor/builder/types/XSListType|> 
+<|java+class:///org/exolab/castor/builder/types/XSLong|,|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSNMToken|,|java+class:///org/exolab/castor/builder/types/AbstractLengthFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSNegativeInteger|,|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSNonNegativeInteger|,|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSNonPositiveInteger|,|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSNormalizedString|,|java+class:///org/exolab/castor/builder/types/AbstractLengthFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSPositiveInteger|,|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSQName|,|java+class:///org/exolab/castor/builder/types/AbstractLengthFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSShort|,|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSString|,|java+class:///org/exolab/castor/builder/types/AbstractLengthFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSTime|,|java+class:///org/exolab/castor/builder/types/AbstractRangeFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSUnsignedByte|,|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSUnsignedInt|,|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSUnsignedLong|,|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSUnsignedShort|,|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|> 
+<|java+class:///org/exolab/javasource/AbstractJClass|,|java+class:///org/exolab/javasource/JStructure|> 
+<|java+class:///org/exolab/javasource/AbstractJField|,|java+class:///org/exolab/javasource/JAnnotatedElementHelper|> 
+<|java+class:///org/exolab/javasource/JAnnotationType|,|java+class:///org/exolab/javasource/JStructure|> 
+<|java+class:///org/exolab/javasource/JArrayType|,|java+class:///org/exolab/javasource/JComponentizedType|> 
+<|java+class:///org/exolab/javasource/JClass|,|java+class:///org/exolab/javasource/AbstractJClass|> 
+<|java+class:///org/exolab/javasource/JCollectionType|,|java+class:///org/exolab/javasource/JComponentizedType|> 
+<|java+class:///org/exolab/javasource/JConstant|,|java+class:///org/exolab/javasource/AbstractJField|> 
+<|java+class:///org/exolab/javasource/JEnum|,|java+class:///org/exolab/javasource/JClass|> 
+<|java+class:///org/exolab/javasource/JField|,|java+class:///org/exolab/javasource/AbstractJField|> 
+<|java+class:///org/exolab/javasource/JInterface|,|java+class:///org/exolab/javasource/JStructure|> 
+<|java+class:///org/exolab/javasource/JMethodSignature|,|java+class:///org/exolab/javasource/JAnnotatedElementHelper|> 
+<|java+class:///org/exolab/javasource/JParameter|,|java+class:///org/exolab/javasource/JAnnotatedElementHelper|> 
+<|java+class:///org/exolab/javasource/JPrimitiveType|,|java+class:///org/exolab/javasource/JType|> 
+<|java+class:///org/exolab/javasource/JStructure|,|java+class:///org/exolab/javasource/JType|> 
+
+SUBTYPE TOTAL: 76 
+<|java+class:///org/exolab/castor/builder/SGStateInfo|,|java+class:///org/exolab/castor/builder/util/ClassInfoResolverImpl|> 
+<|java+class:///org/exolab/castor/builder/SourceGenerator|,|java+class:///org/exolab/castor/builder/BuilderConfiguration|> 
+<|java+class:///org/exolab/castor/builder/descriptors/DescriptorJClass|,|java+class:///org/exolab/javasource/JClass|> 
+<|java+class:///org/exolab/castor/builder/descriptors/JDODescriptorJClass|,|java+class:///org/exolab/javasource/JClass|> 
+<|java+class:///org/exolab/castor/builder/factory/CollectionJ2MemberAndAccessorFactory|,|java+class:///org/exolab/castor/builder/factory/CollectionMemberAndAccessorFactory|> 
+<|java+class:///org/exolab/castor/builder/factory/CollectionJ2NoIndexMemberAndAccessorFactory|,|java+class:///org/exolab/castor/builder/factory/CollectionJ2MemberAndAccessorFactory|> 
+<|java+class:///org/exolab/castor/builder/factory/CollectionMemberAndAccessorFactory|,|java+class:///org/exolab/castor/builder/factory/FieldMemberAndAccessorFactory|> 
+<|java+class:///org/exolab/castor/builder/factory/CollectionODMG30MemberAndAccessorFactory|,|java+class:///org/exolab/castor/builder/factory/CollectionMemberAndAccessorFactory|> 
+<|java+class:///org/exolab/castor/builder/factory/IdentityMemberAndAccessorFactory|,|java+class:///org/exolab/castor/builder/factory/FieldMemberAndAccessorFactory|> 
+<|java+class:///org/exolab/castor/builder/info/CollectionInfo|,|java+class:///org/exolab/castor/builder/info/FieldInfo|> 
+<|java+class:///org/exolab/castor/builder/info/CollectionInfoJ2|,|java+class:///org/exolab/castor/builder/info/CollectionInfo|> 
+<|java+class:///org/exolab/castor/builder/info/CollectionInfoJ2Collection|,|java+class:///org/exolab/castor/builder/info/CollectionInfoJ2|> 
+<|java+class:///org/exolab/castor/builder/info/CollectionInfoJ2Set|,|java+class:///org/exolab/castor/builder/info/CollectionInfoJ2|> 
+<|java+class:///org/exolab/castor/builder/info/CollectionInfoJ2SortedSet|,|java+class:///org/exolab/castor/builder/info/CollectionInfoJ2|> 
+<|java+class:///org/exolab/castor/builder/info/CollectionInfoODMG30|,|java+class:///org/exolab/castor/builder/info/CollectionInfo|> 
+<|java+class:///org/exolab/castor/builder/info/IdentityInfo|,|java+class:///org/exolab/castor/builder/info/FieldInfo|> 
+<|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|,|java+class:///org/exolab/castor/builder/types/AbstractRangeFacet|> 
+<|java+class:///org/exolab/castor/builder/types/AbstractLengthFacet|,|java+class:///org/exolab/castor/builder/types/AbstractWhiteSpaceFacet|> 
+<|java+class:///org/exolab/castor/builder/types/AbstractPatternFacet|,|java+class:///org/exolab/castor/builder/types/XSType|> 
+<|java+class:///org/exolab/castor/builder/types/AbstractRangeFacet|,|java+class:///org/exolab/castor/builder/types/AbstractWhiteSpaceFacet|> 
+<|java+class:///org/exolab/castor/builder/types/AbstractWhiteSpaceFacet|,|java+class:///org/exolab/castor/builder/types/AbstractPatternFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSAnyURI|,|java+class:///org/exolab/castor/builder/types/AbstractLengthFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSBase64Binary|,|java+class:///org/exolab/castor/builder/types/AbstractLengthFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSBoolean|,|java+class:///org/exolab/castor/builder/types/AbstractWhiteSpaceFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSByte|,|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSClass|,|java+class:///org/exolab/castor/builder/types/XSType|> 
+<|java+class:///org/exolab/castor/builder/types/XSDate|,|java+class:///org/exolab/castor/builder/types/AbstractRangeFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSDateTime|,|java+class:///org/exolab/castor/builder/types/AbstractRangeFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSDecimal|,|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSDouble|,|java+class:///org/exolab/castor/builder/types/AbstractRangeFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSDuration|,|java+class:///org/exolab/castor/builder/types/AbstractRangeFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSFloat|,|java+class:///org/exolab/castor/builder/types/AbstractRangeFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSGDay|,|java+class:///org/exolab/castor/builder/types/AbstractRangeFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSGMonth|,|java+class:///org/exolab/castor/builder/types/AbstractRangeFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSGMonthDay|,|java+class:///org/exolab/castor/builder/types/AbstractRangeFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSGYear|,|java+class:///org/exolab/castor/builder/types/AbstractRangeFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSGYearMonth|,|java+class:///org/exolab/castor/builder/types/AbstractRangeFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSHexBinary|,|java+class:///org/exolab/castor/builder/types/AbstractLengthFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSId|,|java+class:///org/exolab/castor/builder/types/AbstractLengthFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSIdRef|,|java+class:///org/exolab/castor/builder/types/AbstractLengthFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSIdRefs|,|java+class:///org/exolab/castor/builder/types/XSListType|> 
+<|java+class:///org/exolab/castor/builder/types/XSInt|,|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSInteger|,|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSList|,|java+class:///org/exolab/castor/builder/types/XSListType|> 
+<|java+class:///org/exolab/castor/builder/types/XSListType|,|java+class:///org/exolab/castor/builder/types/XSType|> 
+<|java+class:///org/exolab/castor/builder/types/XSLong|,|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSNCName|,|java+class:///org/exolab/castor/builder/types/AbstractLengthFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSNMToken|,|java+class:///org/exolab/castor/builder/types/AbstractLengthFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSNMTokens|,|java+class:///org/exolab/castor/builder/types/XSListType|> 
+<|java+class:///org/exolab/castor/builder/types/XSNegativeInteger|,|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSNonNegativeInteger|,|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSNonPositiveInteger|,|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSNormalizedString|,|java+class:///org/exolab/castor/builder/types/AbstractLengthFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSPositiveInteger|,|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSQName|,|java+class:///org/exolab/castor/builder/types/AbstractLengthFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSShort|,|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSString|,|java+class:///org/exolab/castor/builder/types/AbstractLengthFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSTime|,|java+class:///org/exolab/castor/builder/types/AbstractRangeFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSUnsignedByte|,|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSUnsignedInt|,|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSUnsignedLong|,|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSUnsignedShort|,|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|> 
+<|java+class:///org/exolab/javasource/AbstractJClass|,|java+class:///org/exolab/javasource/JStructure|> 
+<|java+class:///org/exolab/javasource/AbstractJField|,|java+class:///org/exolab/javasource/JAnnotatedElementHelper|> 
+<|java+class:///org/exolab/javasource/JArrayType|,|java+class:///org/exolab/javasource/JComponentizedType|> 
+<|java+class:///org/exolab/javasource/JClass|,|java+class:///org/exolab/javasource/AbstractJClass|> 
+<|java+class:///org/exolab/javasource/JCollectionType|,|java+class:///org/exolab/javasource/JComponentizedType|> 
+<|java+class:///org/exolab/javasource/JComponentizedType|,|java+class:///org/exolab/javasource/JType|> 
+<|java+class:///org/exolab/javasource/JConstant|,|java+class:///org/exolab/javasource/AbstractJField|> 
+<|java+class:///org/exolab/javasource/JConstructor|,|java+class:///org/exolab/javasource/JAnnotatedElementHelper|> 
+<|java+class:///org/exolab/javasource/JEnum|,|java+class:///org/exolab/javasource/JClass|> 
+<|java+class:///org/exolab/javasource/JField|,|java+class:///org/exolab/javasource/AbstractJField|> 
+<|java+class:///org/exolab/javasource/JInnerClass|,|java+class:///org/exolab/javasource/JClass|> 
+<|java+class:///org/exolab/javasource/JInterface|,|java+class:///org/exolab/javasource/JStructure|> 
+<|java+class:///org/exolab/javasource/JPrimitiveType|,|java+class:///org/exolab/javasource/JType|> 
+<|java+class:///org/exolab/javasource/JStructure|,|java+class:///org/exolab/javasource/JType|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 61 
+<|java+class:///org/exolab/castor/builder/SGStateInfo|,|java+class:///org/exolab/castor/builder/util/ClassInfoResolverImpl|> 
+<|java+class:///org/exolab/castor/builder/SourceGenerator|,|java+class:///org/exolab/castor/builder/BuilderConfiguration|> 
+<|java+class:///org/exolab/castor/builder/binding/ExtendedBinding|,|java+class:///org/exolab/castor/builder/binding/xml/Binding|> 
+<|java+class:///org/exolab/castor/builder/descriptors/DescriptorJClass|,|java+class:///org/exolab/javasource/JClass|> 
+<|java+class:///org/exolab/castor/builder/descriptors/JDODescriptorJClass|,|java+class:///org/exolab/javasource/JClass|> 
+<|java+class:///org/exolab/castor/builder/factory/CollectionJ2MemberAndAccessorFactory|,|java+class:///org/exolab/castor/builder/factory/CollectionMemberAndAccessorFactory|> 
+<|java+class:///org/exolab/castor/builder/factory/CollectionJ2NoIndexMemberAndAccessorFactory|,|java+class:///org/exolab/castor/builder/factory/CollectionJ2MemberAndAccessorFactory|> 
+<|java+class:///org/exolab/castor/builder/factory/CollectionMemberAndAccessorFactory|,|java+class:///org/exolab/castor/builder/factory/FieldMemberAndAccessorFactory|> 
+<|java+class:///org/exolab/castor/builder/factory/CollectionODMG30MemberAndAccessorFactory|,|java+class:///org/exolab/castor/builder/factory/CollectionMemberAndAccessorFactory|> 
+<|java+class:///org/exolab/castor/builder/factory/EnumerationFactory|,|java+class:///org/exolab/castor/builder/factory/BaseFactory|> 
+<|java+class:///org/exolab/castor/builder/factory/IdentityMemberAndAccessorFactory|,|java+class:///org/exolab/castor/builder/factory/FieldMemberAndAccessorFactory|> 
+<|java+class:///org/exolab/castor/builder/factory/MemberFactory|,|java+class:///org/exolab/castor/builder/factory/BaseFactory|> 
+<|java+class:///org/exolab/castor/builder/factory/SourceFactory|,|java+class:///org/exolab/castor/builder/factory/BaseFactory|> 
+<|java+class:///org/exolab/castor/builder/info/CollectionInfo|,|java+class:///org/exolab/castor/builder/info/FieldInfo|> 
+<|java+class:///org/exolab/castor/builder/info/CollectionInfoJ2|,|java+class:///org/exolab/castor/builder/info/CollectionInfo|> 
+<|java+class:///org/exolab/castor/builder/info/CollectionInfoJ2Collection|,|java+class:///org/exolab/castor/builder/info/CollectionInfoJ2|> 
+<|java+class:///org/exolab/castor/builder/info/CollectionInfoJ2Set|,|java+class:///org/exolab/castor/builder/info/CollectionInfoJ2|> 
+<|java+class:///org/exolab/castor/builder/info/CollectionInfoJ2SortedSet|,|java+class:///org/exolab/castor/builder/info/CollectionInfoJ2|> 
+<|java+class:///org/exolab/castor/builder/info/CollectionInfoODMG30|,|java+class:///org/exolab/castor/builder/info/CollectionInfo|> 
+<|java+class:///org/exolab/castor/builder/info/IdentityInfo|,|java+class:///org/exolab/castor/builder/info/FieldInfo|> 
+<|java+class:///org/exolab/castor/builder/types/AbstractLengthFacet|,|java+class:///org/exolab/castor/builder/types/AbstractWhiteSpaceFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSBase64Binary|,|java+class:///org/exolab/castor/builder/types/AbstractLengthFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSBoolean|,|java+class:///org/exolab/castor/builder/types/AbstractWhiteSpaceFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSByte|,|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSClass|,|java+class:///org/exolab/castor/builder/types/XSType|> 
+<|java+class:///org/exolab/castor/builder/types/XSDecimal|,|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSDouble|,|java+class:///org/exolab/castor/builder/types/AbstractRangeFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSFloat|,|java+class:///org/exolab/castor/builder/types/AbstractRangeFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSHexBinary|,|java+class:///org/exolab/castor/builder/types/AbstractLengthFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSIdRefs|,|java+class:///org/exolab/castor/builder/types/XSListType|> 
+<|java+class:///org/exolab/castor/builder/types/XSInt|,|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSInteger|,|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSList|,|java+class:///org/exolab/castor/builder/types/XSListType|> 
+<|java+class:///org/exolab/castor/builder/types/XSListType|,|java+class:///org/exolab/castor/builder/types/XSType|> 
+<|java+class:///org/exolab/castor/builder/types/XSLong|,|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSNMTokens|,|java+class:///org/exolab/castor/builder/types/XSListType|> 
+<|java+class:///org/exolab/castor/builder/types/XSNegativeInteger|,|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSNonNegativeInteger|,|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSNonPositiveInteger|,|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSNormalizedString|,|java+class:///org/exolab/castor/builder/types/AbstractLengthFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSPositiveInteger|,|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSShort|,|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSString|,|java+class:///org/exolab/castor/builder/types/AbstractLengthFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSUnsignedByte|,|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSUnsignedInt|,|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSUnsignedLong|,|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|> 
+<|java+class:///org/exolab/castor/builder/types/XSUnsignedShort|,|java+class:///org/exolab/castor/builder/types/AbstractDigitsFacet|> 
+<|java+class:///org/exolab/javasource/AbstractJClass|,|java+class:///org/exolab/javasource/JStructure|> 
+<|java+class:///org/exolab/javasource/JAnnotationType|,|java+class:///org/exolab/javasource/JStructure|> 
+<|java+class:///org/exolab/javasource/JArrayType|,|java+class:///org/exolab/javasource/JComponentizedType|> 
+<|java+class:///org/exolab/javasource/JClass|,|java+class:///org/exolab/javasource/AbstractJClass|> 
+<|java+class:///org/exolab/javasource/JCollectionType|,|java+class:///org/exolab/javasource/JComponentizedType|> 
+<|java+class:///org/exolab/javasource/JComponentizedType|,|java+class:///org/exolab/javasource/JType|> 
+<|java+class:///org/exolab/javasource/JConstant|,|java+class:///org/exolab/javasource/AbstractJField|> 
+<|java+class:///org/exolab/javasource/JEnum|,|java+class:///org/exolab/javasource/JClass|> 
+<|java+class:///org/exolab/javasource/JField|,|java+class:///org/exolab/javasource/AbstractJField|> 
+<|java+class:///org/exolab/javasource/JInnerClass|,|java+class:///org/exolab/javasource/JClass|> 
+<|java+class:///org/exolab/javasource/JInterface|,|java+class:///org/exolab/javasource/JStructure|> 
+<|java+class:///org/exolab/javasource/JParameter|,|java+class:///org/exolab/javasource/JAnnotatedElementHelper|> 
+<|java+class:///org/exolab/javasource/JPrimitiveType|,|java+class:///org/exolab/javasource/JType|> 
+<|java+class:///org/exolab/javasource/JStructure|,|java+class:///org/exolab/javasource/JType|> 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 7 
+<|java+class:///org/exolab/castor/builder/binding/ExtendedBinding|,|java+class:///org/exolab/castor/builder/binding/xml/Binding|> 
+<|java+class:///org/exolab/castor/builder/info/CollectionInfo|,|java+class:///org/exolab/castor/builder/info/FieldInfo|> 
+<|java+class:///org/exolab/castor/builder/info/IdentityInfo|,|java+class:///org/exolab/castor/builder/info/FieldInfo|> 
+<|java+class:///org/exolab/castor/builder/info/nature/ClassInfoNatureExtendableTest|,|java+class:///org/exolab/castor/builder/info/nature/BaseNatureExtendableTest|> 
+<|java+class:///org/exolab/castor/builder/info/nature/ClassInfoPropertyHolderTest|,|java+class:///org/exolab/castor/builder/info/nature/BasePropertyHolderTest|> 
+<|java+class:///org/exolab/castor/builder/info/nature/FieldInfoNatureExtendableTest|,|java+class:///org/exolab/castor/builder/info/nature/BaseNatureExtendableTest|> 
+<|java+class:///org/exolab/castor/builder/info/nature/FieldInfoPropertyHolderTest|,|java+class:///org/exolab/castor/builder/info/nature/BasePropertyHolderTest|> 
+
+DOWNCALL TOTAL: 10 
+<|java+class:///org/exolab/castor/builder/factory/CollectionJ2MemberAndAccessorFactory|,|java+class:///org/exolab/castor/builder/factory/CollectionMemberAndAccessorFactory|> 
+<|java+class:///org/exolab/castor/builder/factory/CollectionODMG30MemberAndAccessorFactory|,|java+class:///org/exolab/castor/builder/factory/CollectionMemberAndAccessorFactory|> 
+<|java+class:///org/exolab/castor/builder/info/CollectionInfo|,|java+class:///org/exolab/castor/builder/info/FieldInfo|> 
+<|java+class:///org/exolab/castor/builder/types/AbstractPatternFacet|,|java+class:///org/exolab/castor/builder/types/XSType|> 
+<|java+class:///org/exolab/castor/builder/types/XSClass|,|java+class:///org/exolab/castor/builder/types/XSType|> 
+<|java+class:///org/exolab/castor/builder/types/XSListType|,|java+class:///org/exolab/castor/builder/types/XSType|> 
+<|java+class:///org/exolab/javasource/AbstractJClass|,|java+class:///org/exolab/javasource/JStructure|> 
+<|java+class:///org/exolab/javasource/JAnnotationType|,|java+class:///org/exolab/javasource/JStructure|> 
+<|java+class:///org/exolab/javasource/JClass|,|java+class:///org/exolab/javasource/AbstractJClass|> 
+<|java+class:///org/exolab/javasource/JInterface|,|java+class:///org/exolab/javasource/JStructure|> 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 1 
+<|java+class:///org/exolab/castor/builder/binding/XMLBindingComponent|,|java+interface:///org/exolab/castor/builder/BindingComponent|> 
+
+SUBTYPE TOTAL: 10 
+<|java+class:///org/exolab/castor/builder/FactoryState|,|java+interface:///org/exolab/castor/builder/ClassInfoResolver|> 
+<|java+class:///org/exolab/castor/builder/conflict/strategy/TypeClassNameConflictResolver|,|java+interface:///org/exolab/castor/builder/conflict/strategy/ClassNameConflictResolver|> 
+<|java+class:///org/exolab/castor/builder/conflict/strategy/XPATHClassNameConflictResolver|,|java+interface:///org/exolab/castor/builder/conflict/strategy/ClassNameConflictResolver|> 
+<|java+class:///org/exolab/castor/builder/printing/TemplateJClassPrinter|,|java+interface:///org/exolab/castor/builder/printing/JClassPrinter|> 
+<|java+class:///org/exolab/castor/builder/printing/WriterJClassPrinter|,|java+interface:///org/exolab/castor/builder/printing/JClassPrinter|> 
+<|java+class:///org/exolab/castor/builder/util/ClassInfoResolverImpl|,|java+interface:///org/exolab/castor/builder/ClassInfoResolver|> 
+<|java+class:///org/exolab/javasource/AbstractJField|,|java+interface:///org/exolab/javasource/JMember|> 
+<|java+class:///org/exolab/javasource/JAnnotationTypeElement|,|java+interface:///org/exolab/javasource/JMember|> 
+<|java+class:///org/exolab/javasource/JEnumConstant|,|java+interface:///org/exolab/javasource/JMember|> 
+<|java+class:///org/exolab/javasource/JMethod|,|java+interface:///org/exolab/javasource/JMember|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 2 
+<|java+class:///org/exolab/castor/builder/info/ClassInfo|,|java+interface:///org/exolab/castor/builder/info/XMLInfo|> 
+<|java+class:///org/exolab/castor/builder/info/FieldInfo|,|java+interface:///org/exolab/castor/builder/info/XMLInfo|> 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 1 
+<|java+class:///org/exolab/castor/builder/conflictresolution/InformViaLogClassNameCRStrategy|,|java+interface:///org/exolab/castor/builder/conflictresolution/ClassNameCRStrategy|> 
+
+CATEGORY TOTAL: 3 
+<|java+class:///org/exolab/castor/builder/conflict/strategy/BaseClassNameConflictResolver|,|java+interface:///org/exolab/castor/builder/conflict/strategy/ClassNameConflictResolver|> 
+<|java+class:///org/exolab/castor/builder/util/ClassInfoResolverImpl|,|java+interface:///org/exolab/castor/builder/ClassInfoResolver|> 
+<|java+class:///org/exolab/javasource/AbstractJField|,|java+interface:///org/exolab/javasource/JMember|> 
+
+FRAMEWORK TOTAL: 0 
+
+DOWNCALL TOTAL: 0 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 0 
+
+SUBTYPE TOTAL: 0 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 0 
+
+DOWNCALL TOTAL: 0 
+
+
+
+

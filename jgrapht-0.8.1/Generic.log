@@ -1,0 +1,5 @@
+[
+  <<|java+class:///org/jgrapht/graph/SimpleWeightedGraph|,|java+class:///org/jgrapht/graph/SimpleGraph|>,{|java+interface:///org/jgrapht/WeightedGraph|},|project://jgrapht-0.8.1/testsrc/org/jgrapht/graph/CloneTest.java|(2472,45,<84,12>,<84,57>)>,
+  <<|java+class:///org/jgrapht/graph/DirectedWeightedMultigraph|,|java+class:///org/jgrapht/graph/DirectedMultigraph|>,{|java+interface:///org/jgrapht/WeightedGraph|},|project://jgrapht-0.8.1/testsrc/org/jgrapht/graph/SerializationTest.java|(2682,89,<91,12>,<92,22>)>,
+  <<|java+class:///org/jgrapht/graph/Multigraph|,|java+interface:///org/jgrapht/UndirectedGraph|>,{|java+class:///org/jgrapht/graph/AbstractBaseGraph|},|project://jgrapht-0.8.1/testsrc/org/jgrapht/alg/BlockCutpointGraphTest.java|(2538,29,<80,40>,<80,69>)>
+]

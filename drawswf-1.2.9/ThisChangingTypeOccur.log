@@ -1,0 +1,4 @@
+{
+  <<|java+class:///com/anotherbigidea/flash/movie/ImportedSymbol|,|java+class:///com/anotherbigidea/flash/movie/Symbol|>,<|project://drawswf-1.2.9/src/com/anotherbigidea/flash/movie/Movie.java|(10047,40,<311,31>,<311,71>),|java+method:///com/anotherbigidea/flash/movie/Symbol/define(com.anotherbigidea.flash.movie.Movie,com.anotherbigidea.flash.interfaces.SWFTagTypes,com.anotherbigidea.flash.interfaces.SWFTagTypes)|>>,
+  <<|java+class:///com/anotherbigidea/flash/movie/Sound|,|java+class:///com/anotherbigidea/flash/movie/Symbol|>,<|project://drawswf-1.2.9/src/com/anotherbigidea/flash/movie/Frame.java|(13897,63,<388,39>,<388,102>),|java+method:///com/anotherbigidea/flash/movie/Symbol/define(com.anotherbigidea.flash.movie.Movie,com.anotherbigidea.flash.interfaces.SWFTagTypes,com.anotherbigidea.flash.interfaces.SWFTagTypes)|>>
+}

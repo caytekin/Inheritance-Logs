@@ -1,0 +1,1 @@
+{<<|java+class:///org/apache/james/mailrepository/JDBCSpoolRepository|,|java+class:///org/apache/james/mailrepository/JDBCMailRepository|>,<|project://james-2.2.0_src-java/src/org/apache/james/mailrepository/JDBCSpoolRepository.java|(7990,18,<199,40>,<199,58>),|java+method:///org/apache/james/mailrepository/JDBCMailRepository/retrieve(java.lang.String)|>>}

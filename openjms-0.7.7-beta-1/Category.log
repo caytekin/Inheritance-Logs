@@ -1,0 +1,14 @@
+[
+  <<|java+class:///org/exolab/jms/client/net/JmsSessionStubImpl|,|java+interface:///org/exolab/jms/client/JmsMessageListener|>,|java+class:///org/exolab/jms/client/JmsSession|>,
+  <<|java+class:///org/exolab/jms/server/net/RemoteServerConnection|,|java+interface:///org/exolab/jms/server/ServerConnection|>,|java+class:///org/exolab/jms/server/ServerConnectionImpl|>,
+  <<|java+class:///org/exolab/jms/selector/Operator|,|java+interface:///org/exolab/jms/selector/Expression|>,|java+class:///org/exolab/jms/selector/Literal|>,
+  <<|java+class:///org/exolab/jms/net/socket/SocketManagedConnectionFactory|,|java+interface:///org/exolab/jms/net/connector/ManagedConnectionFactory|>,|java+class:///org/exolab/jms/net/vm/VMManagedConnectionFactory|>,
+  <<|java+class:///org/exolab/jms/authentication/AuthenticationMgr|,|java+interface:///org/exolab/jms/net/connector/Authenticator|>,|java+class:///org/exolab/jms/net/connector/TestAuthenticator|>,
+  <<|java+class:///org/exolab/jms/net/http/AbstractHTTPManagedConnectionFactory|,|java+interface:///org/exolab/jms/net/connector/ManagedConnectionFactory|>,|java+class:///org/exolab/jms/net/vm/VMManagedConnectionFactory|>,
+  <<|java+class:///org/exolab/jms/client/JmsMessageConsumer|,|java+interface:///org/exolab/jms/client/JmsMessageListener|>,|java+class:///org/exolab/jms/client/JmsSession|>,
+  <<|java+class:///org/exolab/jms/net/orb/AbstractORB|,|java+interface:///org/exolab/jms/net/orb/ORB|>,|java+class:///org/exolab/jms/client/net/SharedORB|>,
+  <<|java+class:///org/exolab/jms/server/net/RemoteServerSession|,|java+interface:///org/exolab/jms/server/ServerSession|>,|java+class:///org/exolab/jms/server/ServerSessionImpl|>,
+  <<|java+class:///org/exolab/jms/persistence/RDBMSAdapter|,|java+interface:///org/exolab/jms/events/EventHandler|>,|java+class:///org/exolab/jms/gc/GarbageCollectionService|>,
+  <<|java+class:///org/exolab/jms/net/connector/AbstractConnectionFactory|,|java+interface:///org/exolab/jms/net/connector/ConnectionFactory|>,|java+class:///org/exolab/jms/net/connector/AbstractConnectionManager|>,
+  <<|java+class:///org/exolab/jms/selector/IdentifierExpression|,|java+interface:///org/exolab/jms/selector/Expression|>,|java+class:///org/exolab/jms/selector/Literal|>
+]

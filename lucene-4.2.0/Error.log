@@ -1,0 +1,865 @@
+Error log for lucene-4.2.0
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/store/Directory|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///org/apache/lucene/store/Directory|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/index/IndexWriter|,[]),class(|java+class:///org/apache/lucene/facet/index/FacetFields|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///org/apache/lucene/index/IndexWriter|,[]),class(|java+class:///org/apache/lucene/facet/index/FacetFields|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/index/IndexWriter|,[]),class(|java+class:///org/apache/lucene/facet/index/FacetFields|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///org/apache/lucene/index/IndexWriter|,[]),class(|java+class:///org/apache/lucene/facet/index/FacetFields|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/index/IndexWriter|,[]),class(|java+class:///org/apache/lucene/facet/index/FacetFields|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///org/apache/lucene/index/IndexWriter|,[]),class(|java+class:///org/apache/lucene/facet/index/FacetFields|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/index/IndexWriter|,[]),class(|java+class:///org/apache/lucene/facet/index/FacetFields|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///org/apache/lucene/index/IndexWriter|,[]),class(|java+class:///org/apache/lucene/facet/index/FacetFields|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/index/IndexWriter|,[]),class(|java+class:///org/apache/lucene/facet/index/FacetFields|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///org/apache/lucene/index/IndexWriter|,[]),class(|java+class:///org/apache/lucene/facet/index/FacetFields|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/store/Directory|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///org/apache/lucene/store/Directory|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),interface(|java+interface:///java/lang/CharSequence|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),int(),int(),int(),int(),int()], declared symbol list: [class(|java+class:///java/lang/String|,[]),double(),int(),array(int(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),int(),int(),int(),int()], declared symbol list: [class(|java+class:///java/lang/String|,[]),double(),int(),array(int(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),int(),int(),int(),int()], declared symbol list: [class(|java+class:///java/lang/String|,[]),double(),int(),array(int(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),int(),int(),int(),int()], declared symbol list: [class(|java+class:///java/lang/String|,[]),double(),int(),array(int(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),int(),int(),int(),int(),int()], declared symbol list: [class(|java+class:///java/lang/String|,[]),double(),int(),array(int(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),int(),int(),int(),int()], declared symbol list: [class(|java+class:///java/lang/String|,[]),double(),int(),array(int(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),int(),int(),int(),int()], declared symbol list: [class(|java+class:///java/lang/String|,[]),double(),int(),array(int(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),int(),int(),int(),int(),int()], declared symbol list: [class(|java+class:///java/lang/String|,[]),double(),int(),array(int(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),int(),int(),int(),int(),int()], declared symbol list: [class(|java+class:///java/lang/String|,[]),double(),int(),array(int(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),double(),int(),int(),int(),int()], declared symbol list: [class(|java+class:///java/lang/String|,[]),double(),int(),array(int(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/store/Directory|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///org/apache/lucene/store/Directory|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),interface(|java+interface:///java/lang/CharSequence|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/store/Directory|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///org/apache/lucene/store/Directory|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/facet/params/FacetIndexingParams|,[]),class(|java+class:///org/apache/lucene/index/RandomIndexWriter|,[]),interface(|java+interface:///org/apache/lucene/facet/taxonomy/TaxonomyWriter|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///org/apache/lucene/facet/params/FacetIndexingParams|,[]),class(|java+class:///org/apache/lucene/index/RandomIndexWriter|,[]),interface(|java+interface:///org/apache/lucene/facet/taxonomy/TaxonomyWriter|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/facet/params/FacetIndexingParams|,[]),class(|java+class:///org/apache/lucene/index/RandomIndexWriter|,[]),interface(|java+interface:///org/apache/lucene/facet/taxonomy/TaxonomyWriter|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///org/apache/lucene/facet/params/FacetIndexingParams|,[]),class(|java+class:///org/apache/lucene/index/RandomIndexWriter|,[]),interface(|java+interface:///org/apache/lucene/facet/taxonomy/TaxonomyWriter|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/facet/params/FacetIndexingParams|,[]),class(|java+class:///org/apache/lucene/index/RandomIndexWriter|,[]),interface(|java+interface:///org/apache/lucene/facet/taxonomy/TaxonomyWriter|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///org/apache/lucene/facet/params/FacetIndexingParams|,[]),class(|java+class:///org/apache/lucene/index/RandomIndexWriter|,[]),interface(|java+interface:///org/apache/lucene/facet/taxonomy/TaxonomyWriter|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/facet/params/FacetIndexingParams|,[]),class(|java+class:///org/apache/lucene/index/RandomIndexWriter|,[]),interface(|java+interface:///org/apache/lucene/facet/taxonomy/TaxonomyWriter|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///org/apache/lucene/facet/params/FacetIndexingParams|,[]),class(|java+class:///org/apache/lucene/index/RandomIndexWriter|,[]),interface(|java+interface:///org/apache/lucene/facet/taxonomy/TaxonomyWriter|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/facet/params/FacetIndexingParams|,[]),class(|java+class:///org/apache/lucene/index/RandomIndexWriter|,[]),interface(|java+interface:///org/apache/lucene/facet/taxonomy/TaxonomyWriter|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///org/apache/lucene/facet/params/FacetIndexingParams|,[]),class(|java+class:///org/apache/lucene/index/RandomIndexWriter|,[]),interface(|java+interface:///org/apache/lucene/facet/taxonomy/TaxonomyWriter|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/facet/params/FacetIndexingParams|,[]),class(|java+class:///org/apache/lucene/index/RandomIndexWriter|,[]),interface(|java+interface:///org/apache/lucene/facet/taxonomy/TaxonomyWriter|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///org/apache/lucene/facet/params/FacetIndexingParams|,[]),class(|java+class:///org/apache/lucene/index/RandomIndexWriter|,[]),interface(|java+interface:///org/apache/lucene/facet/taxonomy/TaxonomyWriter|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/facet/params/FacetIndexingParams|,[]),class(|java+class:///org/apache/lucene/index/RandomIndexWriter|,[]),interface(|java+interface:///org/apache/lucene/facet/taxonomy/TaxonomyWriter|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///org/apache/lucene/facet/params/FacetIndexingParams|,[]),class(|java+class:///org/apache/lucene/index/RandomIndexWriter|,[]),interface(|java+interface:///org/apache/lucene/facet/taxonomy/TaxonomyWriter|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/facet/params/FacetIndexingParams|,[]),class(|java+class:///org/apache/lucene/index/RandomIndexWriter|,[]),interface(|java+interface:///org/apache/lucene/facet/taxonomy/TaxonomyWriter|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///org/apache/lucene/facet/params/FacetIndexingParams|,[]),class(|java+class:///org/apache/lucene/index/RandomIndexWriter|,[]),interface(|java+interface:///org/apache/lucene/facet/taxonomy/TaxonomyWriter|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/facet/params/FacetIndexingParams|,[]),class(|java+class:///org/apache/lucene/index/RandomIndexWriter|,[]),interface(|java+interface:///org/apache/lucene/facet/taxonomy/TaxonomyWriter|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///org/apache/lucene/facet/params/FacetIndexingParams|,[]),class(|java+class:///org/apache/lucene/index/RandomIndexWriter|,[]),interface(|java+interface:///org/apache/lucene/facet/taxonomy/TaxonomyWriter|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/facet/params/FacetIndexingParams|,[]),class(|java+class:///org/apache/lucene/index/RandomIndexWriter|,[]),interface(|java+interface:///org/apache/lucene/facet/taxonomy/TaxonomyWriter|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///org/apache/lucene/facet/params/FacetIndexingParams|,[]),class(|java+class:///org/apache/lucene/index/RandomIndexWriter|,[]),interface(|java+interface:///org/apache/lucene/facet/taxonomy/TaxonomyWriter|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/facet/params/FacetIndexingParams|,[]),class(|java+class:///org/apache/lucene/index/RandomIndexWriter|,[]),interface(|java+interface:///org/apache/lucene/facet/taxonomy/TaxonomyWriter|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///org/apache/lucene/facet/params/FacetIndexingParams|,[]),class(|java+class:///org/apache/lucene/index/RandomIndexWriter|,[]),interface(|java+interface:///org/apache/lucene/facet/taxonomy/TaxonomyWriter|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/facet/params/FacetIndexingParams|,[]),class(|java+class:///org/apache/lucene/index/RandomIndexWriter|,[]),interface(|java+interface:///org/apache/lucene/facet/taxonomy/TaxonomyWriter|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///org/apache/lucene/facet/params/FacetIndexingParams|,[]),class(|java+class:///org/apache/lucene/index/RandomIndexWriter|,[]),interface(|java+interface:///org/apache/lucene/facet/taxonomy/TaxonomyWriter|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/facet/params/FacetIndexingParams|,[]),class(|java+class:///org/apache/lucene/index/RandomIndexWriter|,[]),interface(|java+interface:///org/apache/lucene/facet/taxonomy/TaxonomyWriter|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///org/apache/lucene/facet/params/FacetIndexingParams|,[]),class(|java+class:///org/apache/lucene/index/RandomIndexWriter|,[]),interface(|java+interface:///org/apache/lucene/facet/taxonomy/TaxonomyWriter|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/facet/params/FacetIndexingParams|,[]),class(|java+class:///org/apache/lucene/index/RandomIndexWriter|,[]),interface(|java+interface:///org/apache/lucene/facet/taxonomy/TaxonomyWriter|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///org/apache/lucene/facet/params/FacetIndexingParams|,[]),class(|java+class:///org/apache/lucene/index/RandomIndexWriter|,[]),interface(|java+interface:///org/apache/lucene/facet/taxonomy/TaxonomyWriter|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/facet/params/FacetIndexingParams|,[]),class(|java+class:///org/apache/lucene/index/RandomIndexWriter|,[]),interface(|java+interface:///org/apache/lucene/facet/taxonomy/TaxonomyWriter|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///org/apache/lucene/facet/params/FacetIndexingParams|,[]),class(|java+class:///org/apache/lucene/index/RandomIndexWriter|,[]),interface(|java+interface:///org/apache/lucene/facet/taxonomy/TaxonomyWriter|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/facet/params/FacetIndexingParams|,[]),class(|java+class:///org/apache/lucene/index/RandomIndexWriter|,[]),interface(|java+interface:///org/apache/lucene/facet/taxonomy/TaxonomyWriter|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///org/apache/lucene/facet/params/FacetIndexingParams|,[]),class(|java+class:///org/apache/lucene/index/RandomIndexWriter|,[]),interface(|java+interface:///org/apache/lucene/facet/taxonomy/TaxonomyWriter|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/store/Directory|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///org/apache/lucene/store/Directory|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/store/Directory|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///org/apache/lucene/store/Directory|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///java/lang/String|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///java/lang/String|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///java/lang/String|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [int(),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [int(),class(|java+class:///java/lang/String|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(typeArgument(|java+typeVariable:///org/apache/lucene/util/LuceneTestCase/asSet(T%5B%5D)/T|),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/search/TermQuery|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///org/apache/lucene/search/Query|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [interface(|java+interface:///java/util/Iterator|,[class(|java+class:///org/apache/lucene/index/Term|,[])]),interface(|java+interface:///java/util/Iterator|,[class(|java+class:///org/apache/lucene/index/Term|,[])])], declared symbol list: [class(|java+class:///org/apache/lucene/index/Term|,[])] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [interface(|java+interface:///java/util/Iterator|,[class(|java+class:///org/apache/lucene/index/Term|,[])]),interface(|java+interface:///java/util/Iterator|,[class(|java+class:///org/apache/lucene/index/Term|,[])])], declared symbol list: [class(|java+class:///org/apache/lucene/index/Term|,[])] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),interface(|java+interface:///java/lang/CharSequence|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [int(),interface(|java+interface:///com/spatial4j/core/shape/Point|,[]),interface(|java+interface:///com/spatial4j/core/shape/Point|,[])], declared symbol list: [int(),array(interface(|java+interface:///com/spatial4j/core/shape/Shape|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/search/IndexSearcher|,[]),class(|java+class:///org/apache/lucene/search/TopDocs|,[]),int(),int(),int()], declared symbol list: [class(|java+class:///org/apache/lucene/search/IndexSearcher|,[]),class(|java+class:///org/apache/lucene/search/TopDocs|,[]),array(int(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/facet/params/FacetIndexingParams|,[]),class(|java+class:///org/apache/lucene/index/IndexWriter|,[]),interface(|java+interface:///org/apache/lucene/facet/taxonomy/TaxonomyWriter|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///org/apache/lucene/facet/params/FacetIndexingParams|,[]),class(|java+class:///org/apache/lucene/index/IndexWriter|,[]),interface(|java+interface:///org/apache/lucene/facet/taxonomy/TaxonomyWriter|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/facet/params/FacetIndexingParams|,[]),class(|java+class:///org/apache/lucene/index/IndexWriter|,[]),interface(|java+interface:///org/apache/lucene/facet/taxonomy/TaxonomyWriter|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///org/apache/lucene/facet/params/FacetIndexingParams|,[]),class(|java+class:///org/apache/lucene/index/IndexWriter|,[]),interface(|java+interface:///org/apache/lucene/facet/taxonomy/TaxonomyWriter|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/facet/params/FacetIndexingParams|,[]),class(|java+class:///org/apache/lucene/index/IndexWriter|,[]),interface(|java+interface:///org/apache/lucene/facet/taxonomy/TaxonomyWriter|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///org/apache/lucene/facet/params/FacetIndexingParams|,[]),class(|java+class:///org/apache/lucene/index/IndexWriter|,[]),interface(|java+interface:///org/apache/lucene/facet/taxonomy/TaxonomyWriter|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/facet/params/FacetIndexingParams|,[]),class(|java+class:///org/apache/lucene/index/IndexWriter|,[]),class(|java+class:///org/apache/lucene/facet/taxonomy/directory/DirectoryTaxonomyWriter|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///org/apache/lucene/facet/params/FacetIndexingParams|,[]),class(|java+class:///org/apache/lucene/index/IndexWriter|,[]),interface(|java+interface:///org/apache/lucene/facet/taxonomy/TaxonomyWriter|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/facet/params/FacetIndexingParams|,[]),class(|java+class:///org/apache/lucene/index/IndexWriter|,[]),interface(|java+interface:///org/apache/lucene/facet/taxonomy/TaxonomyWriter|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///org/apache/lucene/facet/params/FacetIndexingParams|,[]),class(|java+class:///org/apache/lucene/index/IndexWriter|,[]),interface(|java+interface:///org/apache/lucene/facet/taxonomy/TaxonomyWriter|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/facet/params/FacetIndexingParams|,[]),class(|java+class:///org/apache/lucene/index/IndexWriter|,[]),interface(|java+interface:///org/apache/lucene/facet/taxonomy/TaxonomyWriter|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///org/apache/lucene/facet/params/FacetIndexingParams|,[]),class(|java+class:///org/apache/lucene/index/IndexWriter|,[]),interface(|java+interface:///org/apache/lucene/facet/taxonomy/TaxonomyWriter|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/analysis/Token|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[])], declared symbol list: [array(class(|java+class:///org/apache/lucene/analysis/Token|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/analysis/Token|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[])], declared symbol list: [array(class(|java+class:///org/apache/lucene/analysis/Token|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/analysis/TokenStream|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///org/apache/lucene/analysis/TokenStream|,[]),class(|java+class:///java/lang/String|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/analysis/TokenStream|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///org/apache/lucene/analysis/TokenStream|,[]),class(|java+class:///java/lang/String|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/analysis/TokenStream|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///org/apache/lucene/analysis/TokenStream|,[]),class(|java+class:///java/lang/String|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/analysis/TokenStream|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///org/apache/lucene/analysis/TokenStream|,[]),class(|java+class:///java/lang/String|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(typeArgument(|java+typeVariable:///org/apache/lucene/util/LuceneTestCase/asSet(T%5B%5D)/T|),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(typeArgument(|java+typeVariable:///org/apache/lucene/util/LuceneTestCase/asSet(T%5B%5D)/T|),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/facet/taxonomy/CategoryPath|,[]),class(|java+class:///org/apache/lucene/facet/taxonomy/CategoryPath|,[])], declared symbol list: [array(class(|java+class:///org/apache/lucene/facet/taxonomy/CategoryPath|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/facet/taxonomy/CategoryPath|,[]),class(|java+class:///org/apache/lucene/facet/taxonomy/CategoryPath|,[])], declared symbol list: [array(class(|java+class:///org/apache/lucene/facet/taxonomy/CategoryPath|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/facet/taxonomy/CategoryPath|,[]),class(|java+class:///org/apache/lucene/facet/taxonomy/CategoryPath|,[])], declared symbol list: [array(class(|java+class:///org/apache/lucene/facet/taxonomy/CategoryPath|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(typeArgument(|java+typeVariable:///org/apache/lucene/util/LuceneTestCase/asSet(T%5B%5D)/T|),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(typeArgument(|java+typeVariable:///org/apache/lucene/util/LuceneTestCase/asSet(T%5B%5D)/T|),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),int(),interface(|java+interface:///java/lang/CharSequence|,[])], declared symbol list: [class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/index/IndexWriter|,[]),class(|java+class:///org/apache/lucene/facet/index/FacetFields|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///org/apache/lucene/index/IndexWriter|,[]),class(|java+class:///org/apache/lucene/facet/index/FacetFields|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/index/IndexWriter|,[]),class(|java+class:///org/apache/lucene/facet/index/FacetFields|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///org/apache/lucene/index/IndexWriter|,[]),class(|java+class:///org/apache/lucene/facet/index/FacetFields|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/index/IndexWriter|,[]),class(|java+class:///org/apache/lucene/facet/index/FacetFields|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///org/apache/lucene/index/IndexWriter|,[]),class(|java+class:///org/apache/lucene/facet/index/FacetFields|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/index/IndexWriter|,[]),class(|java+class:///org/apache/lucene/facet/index/FacetFields|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///org/apache/lucene/index/IndexWriter|,[]),class(|java+class:///org/apache/lucene/facet/index/FacetFields|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/index/IndexWriter|,[]),class(|java+class:///org/apache/lucene/facet/index/FacetFields|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///org/apache/lucene/index/IndexWriter|,[]),class(|java+class:///org/apache/lucene/facet/index/FacetFields|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/analysis/Token|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[])], declared symbol list: [array(class(|java+class:///org/apache/lucene/analysis/Token|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///java/lang/String|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///java/lang/String|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///java/lang/String|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///java/lang/String|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///java/lang/String|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [int(),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [float(),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [int(),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [float(),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///java/lang/String|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [float(),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [float(),class(|java+class:///java/lang/String|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [int(),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [float(),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [int(),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [float(),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [int(),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [float(),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [int(),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [float(),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [float(),int(),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [float(),int(),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),int(),interface(|java+interface:///java/lang/CharSequence|,[])], declared symbol list: [class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [interface(|java+interface:///java/util/List|,[class(|java+class:///org/apache/lucene/search/suggest/fst/FSTCompletion/Completion|,[])]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [interface(|java+interface:///java/util/List|,[class(|java+class:///org/apache/lucene/search/suggest/fst/FSTCompletion/Completion|,[])]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [interface(|java+interface:///java/util/List|,[class(|java+class:///org/apache/lucene/search/suggest/fst/FSTCompletion/Completion|,[])]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [interface(|java+interface:///java/util/List|,[class(|java+class:///org/apache/lucene/search/suggest/fst/FSTCompletion/Completion|,[])]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [interface(|java+interface:///java/util/List|,[class(|java+class:///org/apache/lucene/search/suggest/fst/FSTCompletion/Completion|,[])]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [interface(|java+interface:///java/util/List|,[class(|java+class:///org/apache/lucene/search/suggest/fst/FSTCompletion/Completion|,[])]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [interface(|java+interface:///java/util/List|,[class(|java+class:///org/apache/lucene/search/suggest/fst/FSTCompletion/Completion|,[])]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [interface(|java+interface:///java/util/List|,[class(|java+class:///org/apache/lucene/search/suggest/fst/FSTCompletion/Completion|,[])]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [interface(|java+interface:///java/util/List|,[class(|java+class:///org/apache/lucene/search/suggest/fst/FSTCompletion/Completion|,[])]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [interface(|java+interface:///java/util/List|,[class(|java+class:///org/apache/lucene/search/suggest/fst/FSTCompletion/Completion|,[])]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [interface(|java+interface:///java/util/List|,[class(|java+class:///org/apache/lucene/search/suggest/fst/FSTCompletion/Completion|,[])]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [interface(|java+interface:///java/util/List|,[class(|java+class:///org/apache/lucene/search/suggest/fst/FSTCompletion/Completion|,[])]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [interface(|java+interface:///java/util/List|,[class(|java+class:///org/apache/lucene/search/suggest/fst/FSTCompletion/Completion|,[])]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [interface(|java+interface:///java/util/List|,[class(|java+class:///org/apache/lucene/search/suggest/fst/FSTCompletion/Completion|,[])]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [interface(|java+interface:///java/util/List|,[class(|java+class:///org/apache/lucene/search/suggest/fst/FSTCompletion/Completion|,[])]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [interface(|java+interface:///java/util/List|,[class(|java+class:///org/apache/lucene/search/suggest/fst/FSTCompletion/Completion|,[])]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [interface(|java+interface:///java/util/List|,[class(|java+class:///org/apache/lucene/search/suggest/fst/FSTCompletion/Completion|,[])]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [interface(|java+interface:///java/util/List|,[class(|java+class:///org/apache/lucene/search/suggest/fst/FSTCompletion/Completion|,[])]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [boolean(),class(|java+class:///org/apache/lucene/index/Term|,[]),class(|java+class:///org/apache/lucene/index/Term|,[])], declared symbol list: [boolean(),array(class(|java+class:///org/apache/lucene/index/Term|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [boolean(),class(|java+class:///org/apache/lucene/index/Term|,[]),class(|java+class:///org/apache/lucene/index/Term|,[])], declared symbol list: [boolean(),array(class(|java+class:///org/apache/lucene/index/Term|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [boolean(),class(|java+class:///org/apache/lucene/index/Term|,[]),class(|java+class:///org/apache/lucene/index/Term|,[]),class(|java+class:///org/apache/lucene/index/Term|,[])], declared symbol list: [boolean(),array(class(|java+class:///org/apache/lucene/index/Term|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [boolean(),class(|java+class:///org/apache/lucene/index/Term|,[]),class(|java+class:///org/apache/lucene/index/Term|,[]),class(|java+class:///org/apache/lucene/index/Term|,[]),class(|java+class:///org/apache/lucene/index/Term|,[])], declared symbol list: [boolean(),array(class(|java+class:///org/apache/lucene/index/Term|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/index/Term|,[]),class(|java+class:///org/apache/lucene/index/Term|,[]),class(|java+class:///org/apache/lucene/index/Term|,[])], declared symbol list: [array(class(|java+class:///org/apache/lucene/index/Term|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),int()], declared symbol list: [class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),interface(|java+interface:///java/lang/CharSequence|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/io/FileInputStream|,[]),class(|java+class:///java/io/FileOutputStream|,[])], declared symbol list: [array(interface(|java+interface:///java/io/Closeable|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/index/AtomicReader|,[]),double(),double(),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///org/apache/lucene/index/AtomicReader|,[]),double(),double(),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/io/DataInputStream|,[]),class(|java+class:///java/io/DataInputStream|,[])], declared symbol list: [array(interface(|java+interface:///java/io/Closeable|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [float(),int(),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [float(),int(),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/io/IOException|,[]),class(|java+class:///java/io/InputStream|,[]),class(|java+class:///java/io/InputStream|,[]),class(|java+class:///java/io/InputStream|,[])], declared symbol list: [class(|java+class:///java/lang/Object|,[]),array(interface(|java+interface:///java/io/Closeable|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[])], declared symbol list: [class(|java+class:///java/lang/String|,[]),array(class(|java+class:///org/apache/lucene/analysis/Token|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[])], declared symbol list: [class(|java+class:///java/lang/String|,[]),array(class(|java+class:///org/apache/lucene/analysis/Token|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[])], declared symbol list: [class(|java+class:///java/lang/String|,[]),array(class(|java+class:///org/apache/lucene/analysis/Token|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[])], declared symbol list: [class(|java+class:///java/lang/String|,[]),array(class(|java+class:///org/apache/lucene/analysis/Token|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(typeArgument(|java+typeVariable:///org/apache/lucene/util/LuceneTestCase/asSet(T%5B%5D)/T|),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/facet/taxonomy/CategoryPath|,[]),class(|java+class:///org/apache/lucene/facet/taxonomy/CategoryPath|,[])], declared symbol list: [array(class(|java+class:///org/apache/lucene/facet/taxonomy/CategoryPath|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [null(),null()], declared symbol list: [array(class(|java+class:///org/apache/lucene/search/Collector|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/search/MultiCollectorTest/DummyCollector|,[]),null()], declared symbol list: [array(class(|java+class:///org/apache/lucene/search/Collector|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///java/lang/String|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///java/lang/String|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///java/lang/String|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///java/lang/String|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),null(),null(),null(),null(),null(),null(),class(|java+class:///java/lang/String|,[]),null(),null()], declared symbol list: [class(|java+class:///java/lang/String|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),null(),null(),null(),null(),null(),null(),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),null()], declared symbol list: [class(|java+class:///java/lang/String|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),null(),null(),null(),null(),null(),null(),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),null()], declared symbol list: [class(|java+class:///java/lang/String|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///java/lang/String|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/index/Terms|,[]),interface(|java+interface:///org/apache/lucene/util/Bits|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///org/apache/lucene/index/Terms|,[]),interface(|java+interface:///org/apache/lucene/util/Bits|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/index/Terms|,[]),interface(|java+interface:///org/apache/lucene/util/Bits|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///org/apache/lucene/index/Terms|,[]),interface(|java+interface:///org/apache/lucene/util/Bits|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/index/Terms|,[]),interface(|java+interface:///org/apache/lucene/util/Bits|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///org/apache/lucene/index/Terms|,[]),interface(|java+interface:///org/apache/lucene/util/Bits|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/search/IndexSearcher|,[]),class(|java+class:///org/apache/lucene/search/TermRangeQuery|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///org/apache/lucene/search/IndexSearcher|,[]),class(|java+class:///org/apache/lucene/search/TermRangeQuery|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/search/IndexSearcher|,[]),class(|java+class:///org/apache/lucene/search/TermRangeQuery|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///org/apache/lucene/search/IndexSearcher|,[]),class(|java+class:///org/apache/lucene/search/TermRangeQuery|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/io/InputStream|,[]),class(|java+class:///java/io/OutputStream|,[])], declared symbol list: [array(interface(|java+interface:///java/io/Closeable|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/util/automaton/Automaton|,[]),class(|java+class:///org/apache/lucene/util/automaton/Automaton|,[]),class(|java+class:///org/apache/lucene/util/automaton/Automaton|,[]),class(|java+class:///org/apache/lucene/util/automaton/Automaton|,[]),class(|java+class:///org/apache/lucene/util/automaton/Automaton|,[]),class(|java+class:///org/apache/lucene/util/automaton/Automaton|,[]),class(|java+class:///org/apache/lucene/util/automaton/Automaton|,[])], declared symbol list: [array(class(|java+class:///org/apache/lucene/util/automaton/Automaton|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/util/automaton/Automaton|,[]),class(|java+class:///org/apache/lucene/util/automaton/Automaton|,[]),class(|java+class:///org/apache/lucene/util/automaton/Automaton|,[]),class(|java+class:///org/apache/lucene/util/automaton/Automaton|,[]),class(|java+class:///org/apache/lucene/util/automaton/Automaton|,[]),class(|java+class:///org/apache/lucene/util/automaton/Automaton|,[]),class(|java+class:///org/apache/lucene/util/automaton/Automaton|,[])], declared symbol list: [array(class(|java+class:///org/apache/lucene/util/automaton/Automaton|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/util/automaton/Automaton|,[]),class(|java+class:///org/apache/lucene/util/automaton/Automaton|,[]),class(|java+class:///org/apache/lucene/util/automaton/Automaton|,[])], declared symbol list: [array(class(|java+class:///org/apache/lucene/util/automaton/Automaton|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/util/automaton/Automaton|,[]),class(|java+class:///org/apache/lucene/util/automaton/Automaton|,[]),class(|java+class:///org/apache/lucene/util/automaton/Automaton|,[]),class(|java+class:///org/apache/lucene/util/automaton/Automaton|,[]),class(|java+class:///org/apache/lucene/util/automaton/Automaton|,[])], declared symbol list: [array(class(|java+class:///org/apache/lucene/util/automaton/Automaton|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/util/automaton/Automaton|,[]),class(|java+class:///org/apache/lucene/util/automaton/Automaton|,[]),class(|java+class:///org/apache/lucene/util/automaton/Automaton|,[])], declared symbol list: [array(class(|java+class:///org/apache/lucene/util/automaton/Automaton|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/util/automaton/Automaton|,[]),class(|java+class:///org/apache/lucene/util/automaton/Automaton|,[])], declared symbol list: [array(class(|java+class:///org/apache/lucene/util/automaton/Automaton|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/util/automaton/Automaton|,[]),class(|java+class:///org/apache/lucene/util/automaton/Automaton|,[]),class(|java+class:///org/apache/lucene/util/automaton/Automaton|,[]),class(|java+class:///org/apache/lucene/util/automaton/Automaton|,[]),class(|java+class:///org/apache/lucene/util/automaton/Automaton|,[])], declared symbol list: [array(class(|java+class:///org/apache/lucene/util/automaton/Automaton|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/apache/lucene/util/automaton/Automaton|,[]),class(|java+class:///org/apache/lucene/util/automaton/Automaton|,[]),class(|java+class:///org/apache/lucene/util/automaton/Automaton|,[])], declared symbol list: [array(class(|java+class:///org/apache/lucene/util/automaton/Automaton|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),float(),float(),float()], declared symbol list: [class(|java+class:///java/lang/String|,[]),array(float(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),float(),float(),float()], declared symbol list: [class(|java+class:///java/lang/String|,[]),array(float(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/io/Reader|,[]),class(|java+class:///java/io/InputStream|,[])], declared symbol list: [array(interface(|java+interface:///java/io/Closeable|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),interface(|java+interface:///java/lang/CharSequence|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[])], declared symbol list: [class(|java+class:///java/lang/String|,[]),array(class(|java+class:///org/apache/lucene/analysis/Token|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[])], declared symbol list: [class(|java+class:///java/lang/String|,[]),array(class(|java+class:///org/apache/lucene/analysis/Token|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[]),class(|java+class:///org/apache/lucene/analysis/Token|,[])], declared symbol list: [class(|java+class:///java/lang/String|,[]),array(class(|java+class:///org/apache/lucene/analysis/Token|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(typeArgument(|java+typeVariable:///org/apache/lucene/util/LuceneTestCase/asSet(T%5B%5D)/T|),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(typeArgument(|java+typeVariable:///org/apache/lucene/util/LuceneTestCase/asSet(T%5B%5D)/T|),1)] 
+

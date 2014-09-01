@@ -1,0 +1,8 @@
+{
+  <<|java+class:///org/apache/myfaces/shared/util/StreamCharBuffer/StringChunkReader|,|java+class:///org/apache/myfaces/shared/util/StreamCharBuffer/AbstractChunkReader|>,2,|java+class:///org/apache/myfaces/shared/util/StreamCharBuffer/ChunkReader|>,
+  <<|java+class:///org/apache/myfaces/shared/context/flash/SubKeyMap|,|java+class:///java/util/AbstractMap|>,2,|java+interface:///java/util/Map|>,
+  <<|java+class:///org/apache/myfaces/shared/context/flash/SubKeyMap/Entries|,|java+class:///java/util/AbstractSet|>,2,|java+interface:///java/util/Set|>,
+  <<|java+class:///org/apache/myfaces/shared/util/StreamCharBuffer/AbstractChunkReader|,|java+class:///org/apache/myfaces/shared/util/StreamCharBuffer/ChunkReader|>,2,|java+class:///org/apache/myfaces/shared/util/StreamCharBuffer/ChunkReader|>,
+  <<|java+class:///org/apache/myfaces/shared/util/StreamCharBuffer/CharBufferChunkReader|,|java+class:///org/apache/myfaces/shared/util/StreamCharBuffer/AbstractChunkReader|>,2,|java+class:///org/apache/myfaces/shared/util/StreamCharBuffer/ChunkReader|>,
+  <<|java+class:///org/apache/myfaces/shared/util/StreamCharBuffer/StreamCharBufferSubChunkReader|,|java+class:///org/apache/myfaces/shared/util/StreamCharBuffer/AbstractChunkReader|>,2,|java+class:///org/apache/myfaces/shared/util/StreamCharBuffer/ChunkReader|>
+}

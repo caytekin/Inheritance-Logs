@@ -1,0 +1,19 @@
+{
+  <<|java+class:///gnu/trove/THashMap|,|java+class:///gnu/trove/TObjectHash|>,2,|java+class:///java/lang/Object|>,
+  <<|java+class:///gnu/trove/SerializationTest/LinkedNode|,|java+class:///gnu/trove/TLinkableAdapter|>,2,|java+class:///java/lang/Object|>,
+  <<|java+class:///gnu/trove/THashIterator|,|java+interface:///java/util/Iterator|>,2,|java+interface:///java/util/Iterator|>,
+  <<|java+class:///gnu/trove/TPrimitiveHash|,|java+class:///gnu/trove/THash|>,2,|java+class:///java/lang/Object|>,
+  <<|java+class:///gnu/trove/THashMap/EntryView/EntryIterator|,|java+class:///gnu/trove/THashIterator|>,2,|java+interface:///java/util/Iterator|>,
+  <<|java+class:///gnu/trove/THashMap/EntryView|,|java+class:///gnu/trove/THashMap/MapBackedView|>,2,|java+interface:///java/util/Set|>,
+  <<|java+class:///gnu/trove/TObjectHashIterator|,|java+class:///gnu/trove/THashIterator|>,2,|java+interface:///java/util/Iterator|>,
+  <<|java+interface:///gnu/trove/TObjectHashingStrategy|,|java+interface:///java/io/Serializable|>,2,|java+class:///java/lang/Object|>,
+  <<|java+interface:///gnu/trove/TLinkable|,|java+interface:///java/io/Serializable|>,2,|java+class:///java/lang/Object|>,
+  <<|java+class:///gnu/trove/THashSet|,|java+class:///gnu/trove/TObjectHash|>,2,|java+class:///java/lang/Object|>,
+  <<|java+class:///gnu/trove/TLinkedList|,|java+class:///java/util/AbstractSequentialList|>,2,|java+interface:///java/util/List|>,
+  <<|java+class:///gnu/trove/THashMap/MapBackedView|,|java+interface:///java/util/Set|>,2,|java+interface:///java/util/Set|>,
+  <<|java+class:///gnu/trove/THashMap/MapBackedView|,|java+class:///java/util/AbstractSet|>,2,|java+interface:///java/util/Collection|>,
+  <<|java+class:///gnu/trove/THashMap/ValueView|,|java+class:///gnu/trove/THashMap/MapBackedView|>,2,|java+interface:///java/util/Collection|>,
+  <<|java+class:///gnu/trove/TObjectHash|,|java+class:///gnu/trove/THash|>,2,|java+class:///java/lang/Object|>,
+  <<|java+class:///gnu/trove/TLinkedList|,|java+class:///java/util/AbstractSequentialList|>,2,|java+class:///java/lang/Object|>,
+  <<|java+class:///gnu/trove/THashMap/KeyView|,|java+class:///gnu/trove/THashMap/MapBackedView|>,2,|java+interface:///java/util/Set|>
+}

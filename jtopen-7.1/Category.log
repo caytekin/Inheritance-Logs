@@ -1,0 +1,19 @@
+[
+  <<|java+class:///com/ibm/as400/access/SignonInfoRep|,|java+class:///com/ibm/as400/access/ClientAccessDataStream|>,|java+class:///com/ibm/as400/access/IFSDataStream|>,
+  <<|java+class:///com/ibm/as400/access/DQExchangeAttributesNormalReplyDataStream|,|java+class:///com/ibm/as400/access/ClientAccessDataStream|>,|java+class:///com/ibm/as400/access/IFSDataStream|>,
+  <<|java+class:///com/ibm/as400/access/SignonGenAuthTokenReplyDS|,|java+class:///com/ibm/as400/access/ClientAccessDataStream|>,|java+class:///com/ibm/as400/access/IFSDataStream|>,
+  <<|java+class:///com/ibm/as400/access/ChangePasswordRep|,|java+class:///com/ibm/as400/access/ClientAccessDataStream|>,|java+class:///com/ibm/as400/access/IFSDataStream|>,
+  <<|java+class:///com/ibm/as400/access/RCCallProgramReplyDataStream|,|java+class:///com/ibm/as400/access/ClientAccessDataStream|>,|java+class:///com/ibm/as400/access/IFSDataStream|>,
+  <<|java+class:///com/ibm/as400/access/DQReadNormalReplyDataStream|,|java+class:///com/ibm/as400/access/ClientAccessDataStream|>,|java+class:///com/ibm/as400/access/IFSDataStream|>,
+  <<|java+class:///com/ibm/as400/access/RCExchangeAttributesReplyDataStream|,|java+class:///com/ibm/as400/access/ClientAccessDataStream|>,|java+class:///com/ibm/as400/access/IFSDataStream|>,
+  <<|java+class:///com/ibm/as400/access/AS400GenAuthTknReplyDS|,|java+class:///com/ibm/as400/access/ClientAccessDataStream|>,|java+class:///com/ibm/as400/access/IFSDataStream|>,
+  <<|java+class:///com/ibm/as400/access/RCRunCommandReplyDataStream|,|java+class:///com/ibm/as400/access/ClientAccessDataStream|>,|java+class:///com/ibm/as400/access/IFSDataStream|>,
+  <<|java+class:///com/ibm/as400/access/DQRequestAttributesNormalReplyDataStream|,|java+class:///com/ibm/as400/access/ClientAccessDataStream|>,|java+class:///com/ibm/as400/access/IFSDataStream|>,
+  <<|java+class:///com/ibm/as400/access/JDClassNameFieldMap|,|java+interface:///com/ibm/as400/access/JDFieldMap|>,|java+class:///com/ibm/as400/access/JDHardcodedFieldMap|>,
+  <<|java+class:///com/ibm/as400/resource/AbstractValueMap|,|java+interface:///com/ibm/as400/resource/ValueMap|>,|java+class:///com/ibm/as400/resource/IntegerValueMap|>,
+  <<|java+class:///com/ibm/as400/access/JDTypeInfoFieldMap|,|java+interface:///com/ibm/as400/access/JDFieldMap|>,|java+class:///com/ibm/as400/access/JDHardcodedFieldMap|>,
+  <<|java+class:///com/ibm/as400/access/EventLog|,|java+interface:///com/ibm/as400/access/Log|>,|java+class:///com/ibm/as400/util/servlet/ServletEventLog|>,
+  <<|java+class:///com/ibm/as400/access/AbstractProxyImpl|,|java+interface:///com/ibm/as400/access/ProxyFactoryImpl|>,|java+class:///com/ibm/as400/access/JDOutputStreamProxy|>,
+  <<|java+class:///com/ibm/as400/vaccess/AbstractVAction|,|java+interface:///com/ibm/as400/vaccess/VAction|>,|java+class:///com/ibm/as400/vaccess/IFSRenameAction|>,
+  <<|java+class:///com/ibm/as400/vaccess/JobLogMessagePropertiesPane|,|java+interface:///com/ibm/as400/vaccess/VPropertiesPane|>,|java+class:///com/ibm/as400/vaccess/UserPropertiesPane|>
+]

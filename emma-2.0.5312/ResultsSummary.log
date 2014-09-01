@@ -1,0 +1,366 @@
+RESULTS LOG: 
+INTERNAL REUSE TOTAL: 43 
+<|java+class:///com/vladium/emma/data/MergeProcessor|,|java+class:///com/vladium/emma/Processor|> 
+<|java+class:///com/vladium/emma/data/mergeCommand|,|java+class:///com/vladium/emma/Command|> 
+<|java+class:///com/vladium/emma/instr/InstrProcessor|,|java+class:///com/vladium/emma/Processor|> 
+<|java+class:///com/vladium/emma/instr/InstrProcessorST|,|java+class:///com/vladium/emma/instr/InstrProcessor|> 
+<|java+class:///com/vladium/emma/instr/InstrVisitor/IFJUMP2|,|java+class:///com/vladium/emma/instr/InstrVisitor/Branch|> 
+<|java+class:///com/vladium/emma/instr/InstrVisitor/JUMP2|,|java+class:///com/vladium/emma/instr/InstrVisitor/Branch|> 
+<|java+class:///com/vladium/emma/instr/InstrVisitor/JUMP4|,|java+class:///com/vladium/emma/instr/InstrVisitor/Branch|> 
+<|java+class:///com/vladium/emma/instr/InstrVisitor/LOOKUPSWITCH|,|java+class:///com/vladium/emma/instr/InstrVisitor/Branch|> 
+<|java+class:///com/vladium/emma/instr/InstrVisitor/RET|,|java+class:///com/vladium/emma/instr/InstrVisitor/Branch|> 
+<|java+class:///com/vladium/emma/instr/InstrVisitor/TABLESWITCH|,|java+class:///com/vladium/emma/instr/InstrVisitor/Branch|> 
+<|java+class:///com/vladium/emma/instr/InstrVisitor/TERMINATE|,|java+class:///com/vladium/emma/instr/InstrVisitor/Branch|> 
+<|java+class:///com/vladium/emma/instr/instrCommand|,|java+class:///com/vladium/emma/Command|> 
+<|java+class:///com/vladium/emma/report/ClassItem|,|java+class:///com/vladium/emma/report/Item|> 
+<|java+class:///com/vladium/emma/report/MethodItem|,|java+class:///com/vladium/emma/report/Item|> 
+<|java+class:///com/vladium/emma/report/ReportProcessor|,|java+class:///com/vladium/emma/Processor|> 
+<|java+class:///com/vladium/emma/report/SrcFileItem|,|java+class:///com/vladium/emma/report/Item|> 
+<|java+class:///com/vladium/emma/report/html/ReportGenerator|,|java+class:///com/vladium/emma/report/AbstractReportGenerator|> 
+<|java+class:///com/vladium/emma/report/html/doc/HTMLDocument|,|java+class:///com/vladium/emma/report/html/doc/IElement/Factory/ElementImpl|> 
+<|java+class:///com/vladium/emma/report/html/doc/HTMLTable|,|java+class:///com/vladium/emma/report/html/doc/IElement/Factory/ElementImpl|> 
+<|java+class:///com/vladium/emma/report/html/doc/HTMLTable/Row|,|java+class:///com/vladium/emma/report/html/doc/IElement/Factory/ElementImpl|> 
+<|java+class:///com/vladium/emma/report/html/doc/HyperRef|,|java+class:///com/vladium/emma/report/html/doc/IElement/Factory/ElementImpl|> 
+<|java+class:///com/vladium/emma/report/html/doc/IElement/Factory/ElementImpl|,|java+class:///com/vladium/emma/report/html/doc/ISimpleElement/Factory/SimpleElementImpl|> 
+<|java+class:///com/vladium/emma/report/reportCommand|,|java+class:///com/vladium/emma/Command|> 
+<|java+class:///com/vladium/emma/report/txt/ReportGenerator|,|java+class:///com/vladium/emma/report/AbstractReportGenerator|> 
+<|java+class:///com/vladium/emma/report/xml/ReportGenerator|,|java+class:///com/vladium/emma/report/AbstractReportGenerator|> 
+<|java+class:///com/vladium/emma/rt/AppRunner|,|java+class:///com/vladium/emma/Processor|> 
+<|java+class:///com/vladium/emma/runCommand|,|java+class:///com/vladium/emma/Command|> 
+<|java+class:///com/vladium/jcd/cls/attribute/BridgeAttribute_info|,|java+class:///com/vladium/jcd/cls/attribute/Attribute_info|> 
+<|java+class:///com/vladium/jcd/cls/attribute/CodeAttribute_info|,|java+class:///com/vladium/jcd/cls/attribute/Attribute_info|> 
+<|java+class:///com/vladium/jcd/cls/attribute/ConstantValueAttribute_info|,|java+class:///com/vladium/jcd/cls/attribute/Attribute_info|> 
+<|java+class:///com/vladium/jcd/cls/attribute/ExceptionsAttribute_info|,|java+class:///com/vladium/jcd/cls/attribute/Attribute_info|> 
+<|java+class:///com/vladium/jcd/cls/attribute/GenericAttribute_info|,|java+class:///com/vladium/jcd/cls/attribute/Attribute_info|> 
+<|java+class:///com/vladium/jcd/cls/attribute/InnerClassesAttribute_info|,|java+class:///com/vladium/jcd/cls/attribute/Attribute_info|> 
+<|java+class:///com/vladium/jcd/cls/attribute/LineNumberTableAttribute_info|,|java+class:///com/vladium/jcd/cls/attribute/Attribute_info|> 
+<|java+class:///com/vladium/jcd/cls/attribute/SourceFileAttribute_info|,|java+class:///com/vladium/jcd/cls/attribute/Attribute_info|> 
+<|java+class:///com/vladium/jcd/cls/attribute/SyntheticAttribute_info|,|java+class:///com/vladium/jcd/cls/attribute/Attribute_info|> 
+<|java+class:///com/vladium/jcd/cls/constant/CONSTANT_Class_info|,|java+class:///com/vladium/jcd/cls/constant/CONSTANT_info|> 
+<|java+class:///com/vladium/jcd/cls/constant/CONSTANT_Fieldref_info|,|java+class:///com/vladium/jcd/cls/constant/CONSTANT_ref_info|> 
+<|java+class:///com/vladium/jcd/cls/constant/CONSTANT_InterfaceMethodref_info|,|java+class:///com/vladium/jcd/cls/constant/CONSTANT_ref_info|> 
+<|java+class:///com/vladium/jcd/cls/constant/CONSTANT_Methodref_info|,|java+class:///com/vladium/jcd/cls/constant/CONSTANT_ref_info|> 
+<|java+class:///com/vladium/jcd/cls/constant/CONSTANT_NameAndType_info|,|java+class:///com/vladium/jcd/cls/constant/CONSTANT_info|> 
+<|java+class:///com/vladium/jcd/cls/constant/CONSTANT_Utf8_info|,|java+class:///com/vladium/jcd/cls/constant/CONSTANT_info|> 
+<|java+class:///com/vladium/jcd/cls/constant/CONSTANT_ref_info|,|java+class:///com/vladium/jcd/cls/constant/CONSTANT_info|> 
+
+EXTERNAL REUSE TOTAL: 12 
+<|java+class:///com/vladium/emma/EMMARuntimeException|,|java+class:///com/vladium/util/exception/AbstractRuntimeException|> 
+<|java+class:///com/vladium/emma/data/MergeProcessor|,|java+class:///com/vladium/emma/Processor|> 
+<|java+class:///com/vladium/emma/instr/InstrProcessor|,|java+class:///com/vladium/emma/Processor|> 
+<|java+class:///com/vladium/emma/report/AllItem|,|java+class:///com/vladium/emma/report/Item|> 
+<|java+class:///com/vladium/emma/report/ClassItem|,|java+class:///com/vladium/emma/report/Item|> 
+<|java+class:///com/vladium/emma/report/PackageItem|,|java+class:///com/vladium/emma/report/Item|> 
+<|java+class:///com/vladium/emma/report/ReportProcessor|,|java+class:///com/vladium/emma/Processor|> 
+<|java+class:///com/vladium/emma/report/SrcFileItem|,|java+class:///com/vladium/emma/report/Item|> 
+<|java+class:///com/vladium/emma/report/html/doc/HTMLTable|,|java+class:///com/vladium/emma/report/html/doc/IElement/Factory/ElementImpl|> 
+<|java+class:///com/vladium/emma/report/html/doc/IElement/Factory/ElementImpl|,|java+class:///com/vladium/emma/report/html/doc/ISimpleElement/Factory/SimpleElementImpl|> 
+<|java+class:///com/vladium/emma/rt/AppRunner|,|java+class:///com/vladium/emma/Processor|> 
+<|java+class:///com/vladium/jcd/cls/attribute/LineNumberTableAttribute_info|,|java+class:///com/vladium/jcd/cls/attribute/Attribute_info|> 
+
+SUBTYPE TOTAL: 65 
+<|java+class:///com/vladium/emma/EMMARuntimeException|,|java+class:///com/vladium/util/exception/AbstractRuntimeException|> 
+<|java+class:///com/vladium/emma/data/mergeCommand|,|java+class:///com/vladium/emma/Command|> 
+<|java+class:///com/vladium/emma/instr/InstrProcessorST|,|java+class:///com/vladium/emma/instr/InstrProcessor|> 
+<|java+class:///com/vladium/emma/instr/InstrProcessorST/EntryWriteJob|,|java+class:///com/vladium/emma/instr/InstrProcessorST/Job|> 
+<|java+class:///com/vladium/emma/instr/InstrProcessorST/FileWriteJob|,|java+class:///com/vladium/emma/instr/InstrProcessorST/Job|> 
+<|java+class:///com/vladium/emma/instr/InstrVisitor/BlockSegment|,|java+class:///com/vladium/emma/instr/InstrVisitor/CodeSegment|> 
+<|java+class:///com/vladium/emma/instr/InstrVisitor/IFJUMP2|,|java+class:///com/vladium/emma/instr/InstrVisitor/Branch|> 
+<|java+class:///com/vladium/emma/instr/InstrVisitor/JUMP2|,|java+class:///com/vladium/emma/instr/InstrVisitor/Branch|> 
+<|java+class:///com/vladium/emma/instr/InstrVisitor/JUMP4|,|java+class:///com/vladium/emma/instr/InstrVisitor/Branch|> 
+<|java+class:///com/vladium/emma/instr/InstrVisitor/LOOKUPSWITCH|,|java+class:///com/vladium/emma/instr/InstrVisitor/Branch|> 
+<|java+class:///com/vladium/emma/instr/InstrVisitor/RET|,|java+class:///com/vladium/emma/instr/InstrVisitor/Branch|> 
+<|java+class:///com/vladium/emma/instr/InstrVisitor/TABLESWITCH|,|java+class:///com/vladium/emma/instr/InstrVisitor/Branch|> 
+<|java+class:///com/vladium/emma/instr/InstrVisitor/TERMINATE|,|java+class:///com/vladium/emma/instr/InstrVisitor/Branch|> 
+<|java+class:///com/vladium/emma/instr/InstrVisitor/clinitHeader|,|java+class:///com/vladium/emma/instr/InstrVisitor/CodeSegment|> 
+<|java+class:///com/vladium/emma/instr/InstrVisitor/methodHeader|,|java+class:///com/vladium/emma/instr/InstrVisitor/CodeSegment|> 
+<|java+class:///com/vladium/emma/instr/instrCommand|,|java+class:///com/vladium/emma/Command|> 
+<|java+class:///com/vladium/emma/report/AbstractReportGenerator|,|java+class:///com/vladium/emma/report/AbstractItemVisitor|> 
+<|java+class:///com/vladium/emma/report/AllItem|,|java+class:///com/vladium/emma/report/Item|> 
+<|java+class:///com/vladium/emma/report/ClassItem|,|java+class:///com/vladium/emma/report/Item|> 
+<|java+class:///com/vladium/emma/report/MethodItem|,|java+class:///com/vladium/emma/report/Item|> 
+<|java+class:///com/vladium/emma/report/PackageItem|,|java+class:///com/vladium/emma/report/Item|> 
+<|java+class:///com/vladium/emma/report/SrcFileItem|,|java+class:///com/vladium/emma/report/Item|> 
+<|java+class:///com/vladium/emma/report/html/ReportGenerator|,|java+class:///com/vladium/emma/report/AbstractReportGenerator|> 
+<|java+class:///com/vladium/emma/report/html/doc/Attribute/AttributeImpl|,|java+class:///com/vladium/emma/report/html/doc/Attribute|> 
+<|java+class:///com/vladium/emma/report/html/doc/AttributeSet/AttributeSetImpl|,|java+class:///com/vladium/emma/report/html/doc/AttributeSet|> 
+<|java+class:///com/vladium/emma/report/html/doc/HTMLDocument|,|java+class:///com/vladium/emma/report/html/doc/IElement/Factory/ElementImpl|> 
+<|java+class:///com/vladium/emma/report/html/doc/HTMLTable|,|java+class:///com/vladium/emma/report/html/doc/IElement/Factory/ElementImpl|> 
+<|java+class:///com/vladium/emma/report/html/doc/HyperRef|,|java+class:///com/vladium/emma/report/html/doc/IElement/Factory/ElementImpl|> 
+<|java+class:///com/vladium/emma/report/html/doc/Tag/TagImpl|,|java+class:///com/vladium/emma/report/html/doc/Tag|> 
+<|java+class:///com/vladium/emma/report/reportCommand|,|java+class:///com/vladium/emma/Command|> 
+<|java+class:///com/vladium/emma/report/txt/ReportGenerator|,|java+class:///com/vladium/emma/report/AbstractReportGenerator|> 
+<|java+class:///com/vladium/emma/report/xml/ReportGenerator|,|java+class:///com/vladium/emma/report/AbstractReportGenerator|> 
+<|java+class:///com/vladium/emma/runCommand|,|java+class:///com/vladium/emma/Command|> 
+<|java+class:///com/vladium/jcd/cls/attribute/BridgeAttribute_info|,|java+class:///com/vladium/jcd/cls/attribute/Attribute_info|> 
+<|java+class:///com/vladium/jcd/cls/attribute/CodeAttribute_info|,|java+class:///com/vladium/jcd/cls/attribute/Attribute_info|> 
+<|java+class:///com/vladium/jcd/cls/attribute/ConstantValueAttribute_info|,|java+class:///com/vladium/jcd/cls/attribute/Attribute_info|> 
+<|java+class:///com/vladium/jcd/cls/attribute/ExceptionsAttribute_info|,|java+class:///com/vladium/jcd/cls/attribute/Attribute_info|> 
+<|java+class:///com/vladium/jcd/cls/attribute/GenericAttribute_info|,|java+class:///com/vladium/jcd/cls/attribute/Attribute_info|> 
+<|java+class:///com/vladium/jcd/cls/attribute/InnerClassesAttribute_info|,|java+class:///com/vladium/jcd/cls/attribute/Attribute_info|> 
+<|java+class:///com/vladium/jcd/cls/attribute/LineNumberTableAttribute_info|,|java+class:///com/vladium/jcd/cls/attribute/Attribute_info|> 
+<|java+class:///com/vladium/jcd/cls/attribute/SourceFileAttribute_info|,|java+class:///com/vladium/jcd/cls/attribute/Attribute_info|> 
+<|java+class:///com/vladium/jcd/cls/attribute/SyntheticAttribute_info|,|java+class:///com/vladium/jcd/cls/attribute/Attribute_info|> 
+<|java+class:///com/vladium/jcd/cls/constant/CONSTANT_Class_info|,|java+class:///com/vladium/jcd/cls/constant/CONSTANT_info|> 
+<|java+class:///com/vladium/jcd/cls/constant/CONSTANT_Double_info|,|java+class:///com/vladium/jcd/cls/constant/CONSTANT_literal_info|> 
+<|java+class:///com/vladium/jcd/cls/constant/CONSTANT_Fieldref_info|,|java+class:///com/vladium/jcd/cls/constant/CONSTANT_ref_info|> 
+<|java+class:///com/vladium/jcd/cls/constant/CONSTANT_Float_info|,|java+class:///com/vladium/jcd/cls/constant/CONSTANT_literal_info|> 
+<|java+class:///com/vladium/jcd/cls/constant/CONSTANT_Integer_info|,|java+class:///com/vladium/jcd/cls/constant/CONSTANT_literal_info|> 
+<|java+class:///com/vladium/jcd/cls/constant/CONSTANT_InterfaceMethodref_info|,|java+class:///com/vladium/jcd/cls/constant/CONSTANT_ref_info|> 
+<|java+class:///com/vladium/jcd/cls/constant/CONSTANT_Long_info|,|java+class:///com/vladium/jcd/cls/constant/CONSTANT_literal_info|> 
+<|java+class:///com/vladium/jcd/cls/constant/CONSTANT_Methodref_info|,|java+class:///com/vladium/jcd/cls/constant/CONSTANT_ref_info|> 
+<|java+class:///com/vladium/jcd/cls/constant/CONSTANT_NameAndType_info|,|java+class:///com/vladium/jcd/cls/constant/CONSTANT_info|> 
+<|java+class:///com/vladium/jcd/cls/constant/CONSTANT_String_info|,|java+class:///com/vladium/jcd/cls/constant/CONSTANT_literal_info|> 
+<|java+class:///com/vladium/jcd/cls/constant/CONSTANT_Utf8_info|,|java+class:///com/vladium/jcd/cls/constant/CONSTANT_info|> 
+<|java+class:///com/vladium/jcd/cls/constant/CONSTANT_literal_info|,|java+class:///com/vladium/jcd/cls/constant/CONSTANT_info|> 
+<|java+class:///com/vladium/jcd/cls/constant/CONSTANT_ref_info|,|java+class:///com/vladium/jcd/cls/constant/CONSTANT_info|> 
+<|java+class:///com/vladium/util/Property/FilePropertyLookup|,|java+class:///com/vladium/util/XProperties|> 
+<|java+class:///com/vladium/util/Property/SystemPropertyLookup|,|java+class:///com/vladium/util/XProperties|> 
+<|java+class:///com/vladium/util/Property/SystemRedirectsLookup|,|java+class:///com/vladium/util/XProperties|> 
+<|java+class:///com/vladium/util/WCMatcher/AllMatcher|,|java+class:///com/vladium/util/WCMatcher|> 
+<|java+class:///com/vladium/util/WCMatcher/EmptyMatcher|,|java+class:///com/vladium/util/WCMatcher|> 
+<|java+class:///com/vladium/util/WCMatcher/EndsWithMatcher|,|java+class:///com/vladium/util/WCMatcher|> 
+<|java+class:///com/vladium/util/WCMatcher/PatternMatcher|,|java+class:///com/vladium/util/WCMatcher|> 
+<|java+class:///com/vladium/util/WCMatcher/StartsWithMatcher|,|java+class:///com/vladium/util/WCMatcher|> 
+<|java+class:///com/vladium/util/exit/ExitHookManager/JRE13ExitHookManager|,|java+class:///com/vladium/util/exit/ExitHookManager|> 
+<|java+class:///com/vladium/util/exit/ExitHookManager/SunJREExitHookManager|,|java+class:///com/vladium/util/exit/ExitHookManager|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 40 
+<|java+class:///com/vladium/emma/EMMARuntimeException|,|java+class:///com/vladium/util/exception/AbstractRuntimeException|> 
+<|java+class:///com/vladium/emma/data/mergeCommand|,|java+class:///com/vladium/emma/Command|> 
+<|java+class:///com/vladium/emma/instr/InstrVisitor/BlockSegment|,|java+class:///com/vladium/emma/instr/InstrVisitor/CodeSegment|> 
+<|java+class:///com/vladium/emma/instr/InstrVisitor/IFJUMP2|,|java+class:///com/vladium/emma/instr/InstrVisitor/Branch|> 
+<|java+class:///com/vladium/emma/instr/InstrVisitor/JUMP2|,|java+class:///com/vladium/emma/instr/InstrVisitor/Branch|> 
+<|java+class:///com/vladium/emma/instr/InstrVisitor/JUMP4|,|java+class:///com/vladium/emma/instr/InstrVisitor/Branch|> 
+<|java+class:///com/vladium/emma/instr/InstrVisitor/LOOKUPSWITCH|,|java+class:///com/vladium/emma/instr/InstrVisitor/Branch|> 
+<|java+class:///com/vladium/emma/instr/InstrVisitor/RET|,|java+class:///com/vladium/emma/instr/InstrVisitor/Branch|> 
+<|java+class:///com/vladium/emma/instr/InstrVisitor/TABLESWITCH|,|java+class:///com/vladium/emma/instr/InstrVisitor/Branch|> 
+<|java+class:///com/vladium/emma/instr/InstrVisitor/TERMINATE|,|java+class:///com/vladium/emma/instr/InstrVisitor/Branch|> 
+<|java+class:///com/vladium/emma/instr/InstrVisitor/clinitHeader|,|java+class:///com/vladium/emma/instr/InstrVisitor/CodeSegment|> 
+<|java+class:///com/vladium/emma/instr/InstrVisitor/methodHeader|,|java+class:///com/vladium/emma/instr/InstrVisitor/CodeSegment|> 
+<|java+class:///com/vladium/emma/instr/instrCommand|,|java+class:///com/vladium/emma/Command|> 
+<|java+class:///com/vladium/emma/report/AllItem|,|java+class:///com/vladium/emma/report/Item|> 
+<|java+class:///com/vladium/emma/report/ClassItem|,|java+class:///com/vladium/emma/report/Item|> 
+<|java+class:///com/vladium/emma/report/IItemAttribute/Factory/FractionAttribute|,|java+class:///com/vladium/emma/report/IItemAttribute/Factory/Attribute|> 
+<|java+class:///com/vladium/emma/report/IItemAttribute/Factory/NameAttribute|,|java+class:///com/vladium/emma/report/IItemAttribute/Factory/Attribute|> 
+<|java+class:///com/vladium/emma/report/MethodItem|,|java+class:///com/vladium/emma/report/Item|> 
+<|java+class:///com/vladium/emma/report/PackageItem|,|java+class:///com/vladium/emma/report/Item|> 
+<|java+class:///com/vladium/emma/report/SrcFileItem|,|java+class:///com/vladium/emma/report/Item|> 
+<|java+class:///com/vladium/emma/report/html/doc/HTMLDocument|,|java+class:///com/vladium/emma/report/html/doc/IElement/Factory/ElementImpl|> 
+<|java+class:///com/vladium/emma/report/html/doc/HTMLTable|,|java+class:///com/vladium/emma/report/html/doc/IElement/Factory/ElementImpl|> 
+<|java+class:///com/vladium/emma/report/html/doc/HTMLTable/Cell|,|java+class:///com/vladium/emma/report/html/doc/IElement/Factory/ElementImpl|> 
+<|java+class:///com/vladium/emma/report/html/doc/HTMLTable/Row|,|java+class:///com/vladium/emma/report/html/doc/IElement/Factory/ElementImpl|> 
+<|java+class:///com/vladium/emma/report/html/doc/HyperRef|,|java+class:///com/vladium/emma/report/html/doc/IElement/Factory/ElementImpl|> 
+<|java+class:///com/vladium/emma/report/html/doc/IElement/Factory/ElementImpl|,|java+class:///com/vladium/emma/report/html/doc/ISimpleElement/Factory/SimpleElementImpl|> 
+<|java+class:///com/vladium/emma/report/reportCommand|,|java+class:///com/vladium/emma/Command|> 
+<|java+class:///com/vladium/emma/runCommand|,|java+class:///com/vladium/emma/Command|> 
+<|java+class:///com/vladium/jcd/cls/attribute/BridgeAttribute_info|,|java+class:///com/vladium/jcd/cls/attribute/Attribute_info|> 
+<|java+class:///com/vladium/jcd/cls/attribute/CodeAttribute_info|,|java+class:///com/vladium/jcd/cls/attribute/Attribute_info|> 
+<|java+class:///com/vladium/jcd/cls/attribute/ConstantValueAttribute_info|,|java+class:///com/vladium/jcd/cls/attribute/Attribute_info|> 
+<|java+class:///com/vladium/jcd/cls/attribute/ExceptionsAttribute_info|,|java+class:///com/vladium/jcd/cls/attribute/Attribute_info|> 
+<|java+class:///com/vladium/jcd/cls/attribute/GenericAttribute_info|,|java+class:///com/vladium/jcd/cls/attribute/Attribute_info|> 
+<|java+class:///com/vladium/jcd/cls/attribute/InnerClassesAttribute_info|,|java+class:///com/vladium/jcd/cls/attribute/Attribute_info|> 
+<|java+class:///com/vladium/jcd/cls/attribute/LineNumberTableAttribute_info|,|java+class:///com/vladium/jcd/cls/attribute/Attribute_info|> 
+<|java+class:///com/vladium/jcd/cls/attribute/SourceFileAttribute_info|,|java+class:///com/vladium/jcd/cls/attribute/Attribute_info|> 
+<|java+class:///com/vladium/jcd/cls/attribute/SyntheticAttribute_info|,|java+class:///com/vladium/jcd/cls/attribute/Attribute_info|> 
+<|java+class:///com/vladium/jcd/cls/constant/CONSTANT_Fieldref_info|,|java+class:///com/vladium/jcd/cls/constant/CONSTANT_ref_info|> 
+<|java+class:///com/vladium/jcd/cls/constant/CONSTANT_InterfaceMethodref_info|,|java+class:///com/vladium/jcd/cls/constant/CONSTANT_ref_info|> 
+<|java+class:///com/vladium/jcd/cls/constant/CONSTANT_Methodref_info|,|java+class:///com/vladium/jcd/cls/constant/CONSTANT_ref_info|> 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 4 
+<|java+class:///com/vladium/jcd/cls/constant/CONSTANT_Double_info|,|java+class:///com/vladium/jcd/cls/constant/CONSTANT_literal_info|> 
+<|java+class:///com/vladium/jcd/cls/constant/CONSTANT_Float_info|,|java+class:///com/vladium/jcd/cls/constant/CONSTANT_literal_info|> 
+<|java+class:///com/vladium/jcd/cls/constant/CONSTANT_Integer_info|,|java+class:///com/vladium/jcd/cls/constant/CONSTANT_literal_info|> 
+<|java+class:///com/vladium/jcd/cls/constant/CONSTANT_String_info|,|java+class:///com/vladium/jcd/cls/constant/CONSTANT_literal_info|> 
+
+FRAMEWORK TOTAL: 18 
+<|java+class:///com/vladium/emma/EMMARuntimeException|,|java+class:///com/vladium/util/exception/AbstractRuntimeException|> 
+<|java+class:///com/vladium/jcd/cls/attribute/BridgeAttribute_info|,|java+class:///com/vladium/jcd/cls/attribute/Attribute_info|> 
+<|java+class:///com/vladium/jcd/cls/attribute/CodeAttribute_info|,|java+class:///com/vladium/jcd/cls/attribute/Attribute_info|> 
+<|java+class:///com/vladium/jcd/cls/attribute/ConstantValueAttribute_info|,|java+class:///com/vladium/jcd/cls/attribute/Attribute_info|> 
+<|java+class:///com/vladium/jcd/cls/attribute/ExceptionsAttribute_info|,|java+class:///com/vladium/jcd/cls/attribute/Attribute_info|> 
+<|java+class:///com/vladium/jcd/cls/attribute/GenericAttribute_info|,|java+class:///com/vladium/jcd/cls/attribute/Attribute_info|> 
+<|java+class:///com/vladium/jcd/cls/attribute/InnerClassesAttribute_info|,|java+class:///com/vladium/jcd/cls/attribute/Attribute_info|> 
+<|java+class:///com/vladium/jcd/cls/attribute/LineNumberTableAttribute_info|,|java+class:///com/vladium/jcd/cls/attribute/Attribute_info|> 
+<|java+class:///com/vladium/jcd/cls/attribute/SourceFileAttribute_info|,|java+class:///com/vladium/jcd/cls/attribute/Attribute_info|> 
+<|java+class:///com/vladium/jcd/cls/attribute/SyntheticAttribute_info|,|java+class:///com/vladium/jcd/cls/attribute/Attribute_info|> 
+<|java+class:///com/vladium/jcd/cls/constant/CONSTANT_Class_info|,|java+class:///com/vladium/jcd/cls/constant/CONSTANT_info|> 
+<|java+class:///com/vladium/jcd/cls/constant/CONSTANT_NameAndType_info|,|java+class:///com/vladium/jcd/cls/constant/CONSTANT_info|> 
+<|java+class:///com/vladium/jcd/cls/constant/CONSTANT_Utf8_info|,|java+class:///com/vladium/jcd/cls/constant/CONSTANT_info|> 
+<|java+class:///com/vladium/jcd/cls/constant/CONSTANT_literal_info|,|java+class:///com/vladium/jcd/cls/constant/CONSTANT_info|> 
+<|java+class:///com/vladium/jcd/cls/constant/CONSTANT_ref_info|,|java+class:///com/vladium/jcd/cls/constant/CONSTANT_info|> 
+<|java+class:///com/vladium/util/Property/FilePropertyLookup|,|java+class:///com/vladium/util/XProperties|> 
+<|java+class:///com/vladium/util/Property/SystemPropertyLookup|,|java+class:///com/vladium/util/XProperties|> 
+<|java+class:///com/vladium/util/Property/SystemRedirectsLookup|,|java+class:///com/vladium/util/XProperties|> 
+
+DOWNCALL TOTAL: 7 
+<|java+class:///com/vladium/emma/data/MergeProcessor|,|java+class:///com/vladium/emma/Processor|> 
+<|java+class:///com/vladium/emma/data/mergeCommand|,|java+class:///com/vladium/emma/Command|> 
+<|java+class:///com/vladium/emma/instr/InstrProcessor|,|java+class:///com/vladium/emma/Processor|> 
+<|java+class:///com/vladium/emma/instr/instrCommand|,|java+class:///com/vladium/emma/Command|> 
+<|java+class:///com/vladium/emma/report/ReportProcessor|,|java+class:///com/vladium/emma/Processor|> 
+<|java+class:///com/vladium/emma/report/reportCommand|,|java+class:///com/vladium/emma/Command|> 
+<|java+class:///com/vladium/emma/runCommand|,|java+class:///com/vladium/emma/Command|> 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 2 
+<|java+class:///com/vladium/jcd/cls/constant/CONSTANT_info|,|java+interface:///com/vladium/jcd/compiler/IClassFormatOutput|> 
+<|java+class:///com/vladium/logging/Logger|,|java+interface:///com/vladium/logging/ILogLevels|> 
+
+SUBTYPE TOTAL: 35 
+<|java+class:///com/vladium/emma/data/CoverageData|,|java+interface:///com/vladium/emma/data/ICoverageData|> 
+<|java+class:///com/vladium/emma/data/MetaData|,|java+interface:///com/vladium/emma/data/IMetaData|> 
+<|java+class:///com/vladium/emma/data/SessionData|,|java+interface:///com/vladium/emma/data/ISessionData|> 
+<|java+class:///com/vladium/emma/filter/IInclExclFilter/Factory/WCInclExclFilter|,|java+interface:///com/vladium/emma/filter/IInclExclFilter|> 
+<|java+class:///com/vladium/emma/instr/InstrProcessor|,|java+interface:///com/vladium/util/IPathEnumerator/IPathHandler|> 
+<|java+class:///com/vladium/emma/instr/InstrVisitor|,|java+interface:///com/vladium/jcd/cls/attribute/IAttributeVisitor|> 
+<|java+class:///com/vladium/emma/report/AbstractItemVisitor|,|java+interface:///com/vladium/emma/report/IItemVisitor|> 
+<|java+class:///com/vladium/emma/report/AbstractReportGenerator|,|java+interface:///com/vladium/emma/report/IReportGenerator|> 
+<|java+class:///com/vladium/emma/report/Item|,|java+interface:///com/vladium/emma/report/IItem|> 
+<|java+class:///com/vladium/emma/report/Item/ItemMetadata|,|java+interface:///com/vladium/emma/report/IItemMetadata|> 
+<|java+class:///com/vladium/emma/report/ItemComparator/Factory/CompositeComparator|,|java+interface:///com/vladium/emma/report/ItemComparator|> 
+<|java+class:///com/vladium/emma/report/ReportDataModel|,|java+interface:///com/vladium/emma/report/IReportDataModel|> 
+<|java+class:///com/vladium/emma/report/ReportDataModel/ReportDataView|,|java+interface:///com/vladium/emma/report/IReportDataView|> 
+<|java+class:///com/vladium/emma/report/ReportProperties/ReportPropertyMapper|,|java+interface:///com/vladium/util/IProperties/IMapper|> 
+<|java+class:///com/vladium/emma/report/html/doc/ElementList|,|java+interface:///com/vladium/emma/report/html/doc/IElementList|> 
+<|java+class:///com/vladium/emma/report/html/doc/HTMLTable/Cell|,|java+interface:///com/vladium/emma/report/html/doc/HTMLTable/ICell|> 
+<|java+class:///com/vladium/emma/report/html/doc/HTMLTable/Row|,|java+interface:///com/vladium/emma/report/html/doc/HTMLTable/IRow|> 
+<|java+class:///com/vladium/emma/report/html/doc/IElement/Factory/ElementImpl|,|java+interface:///com/vladium/emma/report/html/doc/IElement|> 
+<|java+class:///com/vladium/emma/report/html/doc/ISimpleElement/Factory/SimpleElementImpl|,|java+interface:///com/vladium/emma/report/html/doc/ISimpleElement|> 
+<|java+class:///com/vladium/emma/report/html/doc/Text|,|java+interface:///com/vladium/emma/report/html/doc/IContent|> 
+<|java+class:///com/vladium/emma/rt/ClassPathProcessorST|,|java+interface:///com/vladium/util/IPathEnumerator/IPathHandler|> 
+<|java+class:///com/vladium/emma/rt/InstrClassLoadHook|,|java+interface:///com/vladium/emma/rt/IClassLoadHook|> 
+<|java+class:///com/vladium/jcd/cls/AttributeCollection|,|java+interface:///com/vladium/jcd/cls/IAttributeCollection|> 
+<|java+class:///com/vladium/jcd/cls/ConstantCollection|,|java+interface:///com/vladium/jcd/cls/IConstantCollection|> 
+<|java+class:///com/vladium/jcd/cls/ConstantCollection/ConstantIterator|,|java+interface:///com/vladium/jcd/cls/IConstantCollection/IConstantIterator|> 
+<|java+class:///com/vladium/jcd/cls/FieldCollection|,|java+interface:///com/vladium/jcd/cls/IFieldCollection|> 
+<|java+class:///com/vladium/jcd/cls/InterfaceCollection|,|java+interface:///com/vladium/jcd/cls/IInterfaceCollection|> 
+<|java+class:///com/vladium/jcd/cls/MethodCollection|,|java+interface:///com/vladium/jcd/cls/IMethodCollection|> 
+<|java+class:///com/vladium/jcd/cls/attribute/DeclaredExceptionTable|,|java+interface:///com/vladium/jcd/cls/attribute/IDeclaredExceptionTable|> 
+<|java+class:///com/vladium/jcd/cls/attribute/ExceptionHandlerTable|,|java+interface:///com/vladium/jcd/cls/attribute/IExceptionHandlerTable|> 
+<|java+class:///com/vladium/util/ClassLoaderResolver/DefaultClassLoadStrategy|,|java+interface:///com/vladium/util/IClassLoadStrategy|> 
+<|java+class:///com/vladium/util/IPathEnumerator/Factory/PathEnumerator|,|java+interface:///com/vladium/util/IPathEnumerator|> 
+<|java+class:///com/vladium/util/IProperties/Factory/PropertiesImpl|,|java+interface:///com/vladium/util/IProperties|> 
+<|java+class:///com/vladium/util/args/OptsParser|,|java+interface:///com/vladium/util/args/IOptsParser|> 
+<|java+class:///com/vladium/util/args/OptsParser/Opts|,|java+interface:///com/vladium/util/args/IOptsParser/IOpts|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 15 
+<|java+class:///com/vladium/emma/data/ClassDescriptor|,|java+interface:///com/vladium/util/IConstants|> 
+<|java+class:///com/vladium/emma/data/MergeProcessor|,|java+interface:///com/vladium/emma/IAppErrorCodes|> 
+<|java+class:///com/vladium/emma/data/MethodDescriptor|,|java+interface:///com/vladium/emma/data/IMetadataConstants|> 
+<|java+class:///com/vladium/emma/data/MethodDescriptor|,|java+interface:///com/vladium/util/IConstants|> 
+<|java+class:///com/vladium/emma/instr/InstrProcessorST|,|java+interface:///com/vladium/emma/IAppErrorCodes|> 
+<|java+class:///com/vladium/emma/instr/InstrVisitor|,|java+interface:///com/vladium/util/IConstants|> 
+<|java+class:///com/vladium/emma/report/ReportProcessor|,|java+interface:///com/vladium/emma/IAppErrorCodes|> 
+<|java+class:///com/vladium/emma/report/ReportProperties|,|java+interface:///com/vladium/emma/IAppErrorCodes|> 
+<|java+class:///com/vladium/emma/report/html/ReportGenerator|,|java+interface:///com/vladium/emma/IAppErrorCodes|> 
+<|java+class:///com/vladium/emma/report/txt/ReportGenerator|,|java+interface:///com/vladium/emma/IAppErrorCodes|> 
+<|java+class:///com/vladium/emma/report/xml/ReportGenerator|,|java+interface:///com/vladium/emma/IAppErrorCodes|> 
+<|java+class:///com/vladium/emma/rt/AppRunner|,|java+interface:///com/vladium/emma/IAppErrorCodes|> 
+<|java+class:///com/vladium/emma/rt/ClassPathProcessorST|,|java+interface:///com/vladium/emma/IAppErrorCodes|> 
+<|java+class:///com/vladium/emma/rt/RT|,|java+interface:///com/vladium/emma/IAppConstants|> 
+<|java+class:///com/vladium/logging/Logger|,|java+interface:///com/vladium/logging/ILogLevels|> 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 3 
+<|java+class:///com/vladium/emma/data/CoverageData|,|java+interface:///com/vladium/emma/data/ICoverageData|> 
+<|java+class:///com/vladium/emma/data/MetaData|,|java+interface:///com/vladium/emma/data/IMetaData|> 
+<|java+class:///com/vladium/util/IProperties/Factory/PropertiesImpl|,|java+interface:///com/vladium/util/IProperties|> 
+
+CATEGORY TOTAL: 5 
+<|java+class:///com/vladium/emma/instr/InstrProcessor|,|java+interface:///com/vladium/util/IPathEnumerator/IPathHandler|> 
+<|java+class:///com/vladium/emma/report/html/doc/Attribute|,|java+interface:///com/vladium/emma/report/html/doc/IContent|> 
+<|java+class:///com/vladium/emma/report/html/doc/AttributeSet|,|java+interface:///com/vladium/emma/report/html/doc/IContent|> 
+<|java+class:///com/vladium/emma/report/html/doc/Tag|,|java+interface:///com/vladium/emma/report/html/doc/IContent|> 
+<|java+class:///com/vladium/emma/report/html/doc/TextContent|,|java+interface:///com/vladium/emma/report/html/doc/IContent|> 
+
+FRAMEWORK TOTAL: 10 
+<|java+class:///com/vladium/emma/report/ItemComparator/Factory/CompositeComparator|,|java+interface:///com/vladium/emma/report/ItemComparator|> 
+<|java+class:///com/vladium/emma/report/ItemComparator/Factory/NullComparator|,|java+interface:///com/vladium/emma/report/ItemComparator|> 
+<|java+class:///com/vladium/emma/report/ItemComparator/Factory/ReverseComparator|,|java+interface:///com/vladium/emma/report/ItemComparator|> 
+<|java+class:///com/vladium/jcd/cls/AttributeCollection|,|java+interface:///com/vladium/jcd/cls/IAttributeCollection|> 
+<|java+class:///com/vladium/jcd/cls/ConstantCollection|,|java+interface:///com/vladium/jcd/cls/IConstantCollection|> 
+<|java+class:///com/vladium/jcd/cls/FieldCollection|,|java+interface:///com/vladium/jcd/cls/IFieldCollection|> 
+<|java+class:///com/vladium/jcd/cls/InterfaceCollection|,|java+interface:///com/vladium/jcd/cls/IInterfaceCollection|> 
+<|java+class:///com/vladium/jcd/cls/MethodCollection|,|java+interface:///com/vladium/jcd/cls/IMethodCollection|> 
+<|java+class:///com/vladium/jcd/cls/attribute/DeclaredExceptionTable|,|java+interface:///com/vladium/jcd/cls/attribute/IDeclaredExceptionTable|> 
+<|java+class:///com/vladium/jcd/cls/attribute/ExceptionHandlerTable|,|java+interface:///com/vladium/jcd/cls/attribute/IExceptionHandlerTable|> 
+
+DOWNCALL TOTAL: 0 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 14 
+<|java+interface:///com/vladium/emma/IAppConstants|,|java+interface:///com/vladium/app/IAppVersion|> 
+<|java+interface:///com/vladium/emma/data/ICoverageData|,|java+interface:///com/vladium/emma/data/IMergeable|> 
+<|java+interface:///com/vladium/emma/data/IMetaData|,|java+interface:///com/vladium/emma/data/IMergeable|> 
+<|java+interface:///com/vladium/emma/report/html/doc/HTMLTable/ICell|,|java+interface:///com/vladium/emma/report/html/doc/IElement|> 
+<|java+interface:///com/vladium/emma/report/html/doc/HTMLTable/IRow|,|java+interface:///com/vladium/emma/report/html/doc/IElement|> 
+<|java+interface:///com/vladium/emma/report/html/doc/IElement|,|java+interface:///com/vladium/emma/report/html/doc/IElementList|> 
+<|java+interface:///com/vladium/emma/report/html/doc/IElement|,|java+interface:///com/vladium/emma/report/html/doc/ISimpleElement|> 
+<|java+interface:///com/vladium/jcd/cls/IAttributeCollection|,|java+interface:///com/vladium/jcd/compiler/IClassFormatOutput|> 
+<|java+interface:///com/vladium/jcd/cls/IConstantCollection|,|java+interface:///com/vladium/jcd/compiler/IClassFormatOutput|> 
+<|java+interface:///com/vladium/jcd/cls/IFieldCollection|,|java+interface:///com/vladium/jcd/compiler/IClassFormatOutput|> 
+<|java+interface:///com/vladium/jcd/cls/IInterfaceCollection|,|java+interface:///com/vladium/jcd/compiler/IClassFormatOutput|> 
+<|java+interface:///com/vladium/jcd/cls/IMethodCollection|,|java+interface:///com/vladium/jcd/compiler/IClassFormatOutput|> 
+<|java+interface:///com/vladium/jcd/cls/attribute/IDeclaredExceptionTable|,|java+interface:///com/vladium/jcd/compiler/IClassFormatOutput|> 
+<|java+interface:///com/vladium/jcd/cls/attribute/IExceptionHandlerTable|,|java+interface:///com/vladium/jcd/compiler/IClassFormatOutput|> 
+
+SUBTYPE TOTAL: 8 
+<|java+interface:///com/vladium/emma/data/ICoverageData|,|java+interface:///com/vladium/emma/data/IMergeable|> 
+<|java+interface:///com/vladium/emma/data/IMetaData|,|java+interface:///com/vladium/emma/data/IMergeable|> 
+<|java+interface:///com/vladium/emma/report/html/doc/HTMLTable/ICell|,|java+interface:///com/vladium/emma/report/html/doc/IElement|> 
+<|java+interface:///com/vladium/emma/report/html/doc/HTMLTable/IRow|,|java+interface:///com/vladium/emma/report/html/doc/IElement|> 
+<|java+interface:///com/vladium/emma/report/html/doc/IElement|,|java+interface:///com/vladium/emma/report/html/doc/IElementList|> 
+<|java+interface:///com/vladium/emma/report/html/doc/IElement|,|java+interface:///com/vladium/emma/report/html/doc/ISimpleElement|> 
+<|java+interface:///com/vladium/emma/report/html/doc/IElementList|,|java+interface:///com/vladium/emma/report/html/doc/IContent|> 
+<|java+interface:///com/vladium/emma/report/html/doc/ISimpleElement|,|java+interface:///com/vladium/emma/report/html/doc/IContent|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 1 
+<|java+interface:///com/vladium/emma/IAppConstants|,|java+interface:///com/vladium/app/IAppVersion|> 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 2 
+<|java+interface:///com/vladium/emma/data/ICoverageData|,|java+interface:///com/vladium/emma/data/IMergeable|> 
+<|java+interface:///com/vladium/emma/data/IMetaData|,|java+interface:///com/vladium/emma/data/IMergeable|> 
+
+DOWNCALL TOTAL: 0 
+
+
+
+

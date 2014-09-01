@@ -1,0 +1,11 @@
+[
+  <<|java+class:///hep/aida/ref/AbstractHistogram3D|,|java+interface:///hep/aida/IHistogram3D|>,|java+class:///hep/aida/ref/Histogram3D|>,
+  <<|java+class:///hep/aida/ref/AbstractHistogram1D|,|java+interface:///hep/aida/IHistogram1D|>,|java+class:///hep/aida/ref/Histogram1D|>,
+  <<|java+class:///cern/colt/list/AbstractDoubleList|,|java+interface:///cern/colt/buffer/DoubleBufferConsumer|>,|java+class:///hep/aida/bin/AbstractBin1D|>,
+  <<|java+class:///hep/aida/ref/AbstractHistogram2D|,|java+interface:///hep/aida/IHistogram2D|>,|java+class:///hep/aida/ref/Histogram2D|>,
+  <<|java+class:///cern/jet/random/AbstractDistribution|,|java+interface:///cern/colt/function/DoubleFunction|>,|java+anonymousClass:///cern/jet/math/Functions/$anonymous10|>,
+  <<|java+class:///cern/jet/random/engine/RandomEngine|,|java+interface:///cern/colt/function/IntFunction|>,|java+anonymousClass:///cern/jet/math/IntFunctions/between(int,int)/$anonymous1|>,
+  <<|java+class:///cern/colt/buffer/DoubleBuffer|,|java+interface:///cern/colt/buffer/DoubleBufferConsumer|>,|java+class:///hep/aida/bin/AbstractBin1D|>,
+  <<|java+class:///cern/jet/random/engine/RandomEngine|,|java+interface:///cern/colt/function/DoubleFunction|>,|java+anonymousClass:///cern/jet/math/Functions/$anonymous10|>,
+  <<|java+class:///cern/jet/random/AbstractDistribution|,|java+interface:///cern/colt/function/IntFunction|>,|java+anonymousClass:///cern/jet/math/IntFunctions/between(int,int)/$anonymous1|>
+]

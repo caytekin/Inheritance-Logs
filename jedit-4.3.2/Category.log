@@ -1,0 +1,23 @@
+[
+  <<|java+class:///LatestVersionPlugin|,|java+class:///org/gjt/sp/jedit/EditPlugin|>,|java+class:///org/gjt/sp/jedit/EditPlugin/Deferred|>,
+  <<|java+class:///QuickNotepadPlugin|,|java+class:///org/gjt/sp/jedit/EditPlugin|>,|java+class:///org/gjt/sp/jedit/EditPlugin/Deferred|>,
+  <<|java+class:///org/gjt/sp/jedit/search/BufferListSet|,|java+interface:///org/gjt/sp/jedit/search/SearchFileSet|>,|java+class:///org/gjt/sp/jedit/search/CurrentBufferSet|>,
+  <<|java+class:///org/gjt/sp/jedit/indent/DeepIndentRule|,|java+interface:///org/gjt/sp/jedit/indent/IndentRule|>,|java+class:///org/gjt/sp/jedit/indent/RegexpIndentRule|>,
+  <<|java+class:///org/gjt/sp/jedit/indent/BracketIndentRule|,|java+interface:///org/gjt/sp/jedit/indent/IndentRule|>,|java+class:///org/gjt/sp/jedit/indent/RegexpIndentRule|>,
+  <<|java+class:///org/gjt/sp/jedit/indent/IndentAction/AlignOffset|,|java+interface:///org/gjt/sp/jedit/indent/IndentAction|>,|java+class:///org/gjt/sp/jedit/indent/IndentAction/Increase|>,
+  <<|java+class:///org/gjt/sp/jedit/JEditActionSet|,|java+interface:///org/gjt/sp/jedit/input/InputHandlerProvider|>,|java+class:///org/gjt/sp/jedit/View|>,
+  <<|java+class:///org/gjt/sp/jedit/search/HyperSearchResults/TreeNodeCallbackAdapter|,|java+interface:///org/gjt/sp/jedit/search/HyperSearchTreeNodeCallback|>,|java+class:///org/gjt/sp/jedit/search/HyperSearchResults/ToStringNodes|>,
+  <<|java+class:///org/gjt/sp/jedit/indent/WhitespaceRule|,|java+interface:///org/gjt/sp/jedit/indent/IndentRule|>,|java+class:///org/gjt/sp/jedit/indent/RegexpIndentRule|>,
+  <<|java+class:///org/gjt/sp/jedit/io/EncodingWithBOM|,|java+interface:///org/gjt/sp/jedit/io/Encoding|>,|java+class:///org/gjt/sp/jedit/io/CharsetEncoding|>,
+  <<|java+class:///org/gjt/sp/jedit/buffer/BufferAdapter|,|java+interface:///org/gjt/sp/jedit/buffer/BufferListener|>,|java+class:///org/gjt/sp/jedit/textarea/BufferHandler|>,
+  <<|java+class:///org/gjt/sp/jedit/indent/CloseBracketIndentRule/AlignBracket|,|java+interface:///org/gjt/sp/jedit/indent/IndentAction|>,|java+class:///org/gjt/sp/jedit/indent/IndentAction/Increase|>,
+  <<|java+class:///org/gjt/sp/jedit/indent/IndentAction/Collapse|,|java+interface:///org/gjt/sp/jedit/indent/IndentAction|>,|java+class:///org/gjt/sp/jedit/indent/IndentAction/Increase|>,
+  <<|java+class:///org/gjt/sp/jedit/indent/IndentAction/Reset|,|java+interface:///org/gjt/sp/jedit/indent/IndentAction|>,|java+class:///org/gjt/sp/jedit/indent/IndentAction/Increase|>,
+  <<|java+class:///org/gjt/sp/jedit/gui/statusbar/SelectionLengthWidgetFactory/SelectionLengthWidget|,|java+interface:///org/gjt/sp/jedit/EBComponent|>,|java+anonymousClass:///org/gjt/sp/jedit/io/VFS/$anonymous1|>,
+  <<|java+class:///org/gjt/sp/jedit/bsh/NameSpace|,|java+interface:///org/gjt/sp/jedit/bsh/NameSource|>,|java+class:///org/gjt/sp/jedit/bsh/classpath/BshClassPath|>,
+  <<|java+class:///org/gjt/sp/jedit/syntax/DummyTokenHandler|,|java+interface:///org/gjt/sp/jedit/syntax/TokenHandler|>,|java+class:///org/gjt/sp/jedit/indent/RegexpIndentRule/TokenFilter|>,
+  <<|java+class:///org/gjt/sp/jedit/textarea/ShapedFoldPainter|,|java+interface:///org/gjt/sp/jedit/textarea/FoldPainter|>,|java+class:///org/gjt/sp/jedit/textarea/TriangleFoldPainter|>,
+  <<|java+class:///org/gjt/sp/jedit/indent/IndentAction/AlignParameter|,|java+interface:///org/gjt/sp/jedit/indent/IndentAction|>,|java+class:///org/gjt/sp/jedit/indent/IndentAction/Increase|>,
+  <<|java+class:///org/gjt/sp/jedit/indent/IndentAction/NoIncrease|,|java+interface:///org/gjt/sp/jedit/indent/IndentAction|>,|java+class:///org/gjt/sp/jedit/indent/IndentAction/Increase|>,
+  <<|java+class:///org/gjt/sp/util/WorkRequest|,|java+interface:///org/gjt/sp/util/ProgressObserver|>,|java+class:///org/gjt/sp/jedit/pluginmgr/PluginManagerProgress|>
+]

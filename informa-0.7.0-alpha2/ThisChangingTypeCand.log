@@ -1,0 +1,5 @@
+{
+  <<|java+class:///de/nava/informa/utils/manager/memory/Channel|,|java+class:///de/nava/informa/impl/basic/Channel|>,<|java+method:///de/nava/informa/impl/basic/Channel/notifyObserversChannelUpdated()|,|project://informa-0.7.0-alpha2/src/de/nava/informa/impl/basic/Channel.java|(12866,24,<520,6>,<520,30>)>>,
+  <<|java+class:///de/nava/informa/utils/manager/memory/Channel|,|java+class:///de/nava/informa/impl/basic/Channel|>,<|java+method:///de/nava/informa/impl/basic/Channel/addItem(de.nava.informa.core.ItemIF)|,|project://informa-0.7.0-alpha2/src/de/nava/informa/impl/basic/Channel.java|(5822,21,<268,4>,<268,25>)>>,
+  <<|java+class:///de/nava/informa/utils/manager/memory/ChannelGroup|,|java+class:///de/nava/informa/impl/basic/ChannelGroup|>,<|java+method:///de/nava/informa/impl/basic/ChannelGroup/addChild(de.nava.informa.core.ChannelGroupIF)|,|project://informa-0.7.0-alpha2/src/de/nava/informa/impl/basic/ChannelGroup.java|(3294,21,<131,4>,<131,25>)>>
+}

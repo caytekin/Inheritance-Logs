@@ -1,0 +1,3 @@
+Error log for ant1.8.1
+In getExternalReuseViaMethodCall, methodcall decl unresolved for method call: |unresolved:///|, at |project://ant1.8.1/src/org/apache/tools/ant/taskdefs/optional/ssh/SSHBase.java|(5378,260,<202,9>,<209,11>). Receiver is: simpleName("JSch")[@src=|project://ant1.8.1/src/org/apache/tools/ant/taskdefs/optional/ssh/SSHBase.java|(5378,4,<202,9>,<202,13>),@decl=|java+class:///com/jcraft/jsch/JSch|,@typ=class(|java+class:///com/jcraft/jsch/JSch|,[])]
+

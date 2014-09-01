@@ -1,0 +1,91 @@
+Error log for sunflow-0.07.2
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),int(),class(|java+class:///org/sunflow/system/Timer|,[])], declared symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),int(),int(),int()], declared symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),int(),int(),int()], declared symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),int(),int()], declared symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),int(),int()], declared symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),int(),int()], declared symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),int(),int()], declared symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+
+More than one type parameter in class/interface collection def: class(|java+class:///org/sunflow/util/FastHashMap|,[class(|java+class:///java/lang/String|,[]),class(|java+class:///org/sunflow/RenderObjectMap/RenderObjectHandle|,[])]) at |project://sunflow-0.07.2/src/org/sunflow/RenderObjectMap.java|(1764,376,<52,16>,<58,17>). Type parameters: [class(|java+class:///java/lang/String|,[]),class(|java+class:///org/sunflow/RenderObjectMap/RenderObjectHandle|,[])]
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+
+More than one type parameter in class/interface collection def: class(|java+class:///org/sunflow/util/FastHashMap|,[class(|java+class:///java/lang/String|,[]),class(|java+class:///org/sunflow/RenderObjectMap/RenderObjectHandle|,[])]) at |project://sunflow-0.07.2/src/org/sunflow/RenderObjectMap.java|(2259,380,<62,16>,<68,17>). Type parameters: [class(|java+class:///java/lang/String|,[]),class(|java+class:///org/sunflow/RenderObjectMap/RenderObjectHandle|,[])]
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+
+More than one type parameter in class/interface collection def: class(|java+class:///org/sunflow/util/FastHashMap|,[class(|java+class:///java/lang/String|,[]),class(|java+class:///org/sunflow/RenderObjectMap/RenderObjectHandle|,[])]) at |project://sunflow-0.07.2/src/org/sunflow/RenderObjectMap.java|(2760,416,<72,16>,<78,17>). Type parameters: [class(|java+class:///java/lang/String|,[]),class(|java+class:///org/sunflow/RenderObjectMap/RenderObjectHandle|,[])]
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+
+More than one type parameter in class/interface collection def: class(|java+class:///org/sunflow/util/FastHashMap|,[class(|java+class:///java/lang/String|,[]),class(|java+class:///org/sunflow/RenderObjectMap/RenderObjectHandle|,[])]) at |project://sunflow-0.07.2/src/org/sunflow/RenderObjectMap.java|(4834,390,<126,12>,<135,13>). Type parameters: [class(|java+class:///java/lang/String|,[]),class(|java+class:///org/sunflow/RenderObjectMap/RenderObjectHandle|,[])]
+
+More than one type parameter in class/interface collection def: class(|java+class:///org/sunflow/util/FastHashMap|,[class(|java+class:///java/lang/String|,[]),class(|java+class:///org/sunflow/RenderObjectMap/RenderObjectHandle|,[])]) at |project://sunflow-0.07.2/src/org/sunflow/RenderObjectMap.java|(5406,484,<139,12>,<150,13>). Type parameters: [class(|java+class:///java/lang/String|,[]),class(|java+class:///org/sunflow/RenderObjectMap/RenderObjectHandle|,[])]
+
+More than one type parameter in class/interface collection def: class(|java+class:///org/sunflow/util/FastHashMap|,[class(|java+class:///java/lang/String|,[]),class(|java+class:///org/sunflow/RenderObjectMap/RenderObjectHandle|,[])]) at |project://sunflow-0.07.2/src/org/sunflow/RenderObjectMap.java|(6211,229,<157,12>,<162,13>). Type parameters: [class(|java+class:///java/lang/String|,[]),class(|java+class:///org/sunflow/RenderObjectMap/RenderObjectHandle|,[])]
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),int(),int()], declared symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),int(),int()], declared symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+
+More than one type parameter in class/interface collection def: class(|java+class:///org/sunflow/util/FastHashMap|,[class(|java+class:///java/lang/String|,[]),class(|java+class:///org/sunflow/core/ParameterList/Parameter|,[])]) at |project://sunflow-0.07.2/src/org/sunflow/core/Options.java|(312,221,<11,8>,<15,9>). Type parameters: [class(|java+class:///java/lang/String|,[]),class(|java+class:///org/sunflow/core/ParameterList/Parameter|,[])]
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),int(),int()], declared symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),int(),int()], declared symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),int(),int(),int(),int()], declared symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),int(),int()], declared symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),int(),int()], declared symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),int(),int()], declared symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),int(),int()], declared symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///org/sunflow/core/ParameterList/Parameter|,[])], declared symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+
+More than one type parameter in class/interface collection def: class(|java+class:///org/sunflow/util/FastHashMap|,[class(|java+class:///java/lang/String|,[]),class(|java+class:///org/sunflow/core/ParameterList/Parameter|,[])]) at |project://sunflow-0.07.2/src/org/sunflow/core/ParameterList.java|(1345,217,<43,12>,<46,13>). Type parameters: [class(|java+class:///java/lang/String|,[]),class(|java+class:///org/sunflow/core/ParameterList/Parameter|,[])]
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),int(),class(|java+class:///java/lang/String|,[]),int()], declared symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),int(),int(),int()], declared symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),int(),int(),int(),int()], declared symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),float(),float()], declared symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),long(),long()], declared symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [enum(|java+enum:///org/sunflow/system/UI/Module|),class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+

@@ -1,0 +1,5 @@
+[
+  <<|java+class:///com/jasml/compiler/SourceCodeParser/OpcodeWrapper|,|java+class:///com/jasml/classes/Attribute_Code/Opcode|>,220,<|java+field:///com/jasml/classes/Attribute_Code/Opcode/offset|,|java+constructor:///com/jasml/compiler/SourceCodeParser/OpcodeWrapper/OpcodeWrapper(com.jasml.classes.Attribute_Code.Opcode)|>>,
+  <<|java+class:///com/jasml/compiler/SourceCodeParser/OpcodeWrapper|,|java+class:///com/jasml/classes/Attribute_Code/Opcode|>,220,<|java+field:///com/jasml/classes/Attribute_Code/Opcode/operands|,|java+constructor:///com/jasml/compiler/SourceCodeParser/OpcodeWrapper/OpcodeWrapper(com.jasml.classes.Attribute_Code.Opcode)|>>,
+  <<|java+class:///com/jasml/compiler/SourceCodeParser/OpcodeWrapper|,|java+class:///com/jasml/classes/Attribute_Code/Opcode|>,220,<|java+field:///com/jasml/classes/Attribute_Code/Opcode/opcode|,|java+constructor:///com/jasml/compiler/SourceCodeParser/OpcodeWrapper/OpcodeWrapper(com.jasml.classes.Attribute_Code.Opcode)|>>
+]

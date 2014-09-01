@@ -1,0 +1,180 @@
+RESULTS LOG: 
+INTERNAL REUSE TOTAL: 14 
+<|java+class:///org/castor/xmlctf/MarshallingFrameworkTestCase|,|java+class:///org/castor/xmlctf/XMLTestCase|> 
+<|java+class:///org/castor/xmlctf/OnlySourceGenerationTestCase|,|java+class:///org/castor/xmlctf/XMLTestCase|> 
+<|java+class:///org/castor/xmlctf/SchemaTestCase|,|java+class:///org/castor/xmlctf/XMLTestCase|> 
+<|java+class:///org/castor/xmlctf/SourceGeneratorTestCase|,|java+class:///org/castor/xmlctf/XMLTestCase|> 
+<|java+class:///org/castor/xmlctf/TestSourceGenerator|,|java+class:///org/castor/xmlctf/XMLTestCase|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/CustomTestDescriptor|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/CustomTestTypeDescriptor|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/FailureDescriptor|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/FailureTypeDescriptor|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/ListenerDescriptor|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/ListenerTypeDescriptor|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/MarshalDescriptor|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/ConfigurationTypeDescriptor|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/MethodsDescriptor|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/ConfigurationTypeDescriptor|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/RootTypeDescriptor|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/StringTypeDescriptor|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/Root_ObjectDescriptor|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/RootTypeDescriptor|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/SchemaDifferencesDescriptor|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/SchemaDifferencesTypeDescriptor|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/UnmarshalDescriptor|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/ConfigurationTypeDescriptor|> 
+
+EXTERNAL REUSE TOTAL: 6 
+<|java+class:///org/castor/xmlctf/MarshallingFrameworkTestCase|,|java+class:///org/castor/xmlctf/XMLTestCase|> 
+<|java+class:///org/castor/xmlctf/OnlySourceGenerationTestCase|,|java+class:///org/castor/xmlctf/XMLTestCase|> 
+<|java+class:///org/castor/xmlctf/SourceGeneratorTestCase|,|java+class:///org/castor/xmlctf/XMLTestCase|> 
+<|java+class:///org/castor/xmlctf/TestSourceGenerator|,|java+class:///org/castor/xmlctf/XMLTestCase|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/CustomTest|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/CustomTestType|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/SchemaDifferences|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/SchemaDifferencesType|> 
+
+SUBTYPE TOTAL: 22 
+<|java+class:///org/castor/xmlctf/MarshallingFrameworkTestCase|,|java+class:///org/castor/xmlctf/XMLTestCase|> 
+<|java+class:///org/castor/xmlctf/OnlySourceGenerationTestCase|,|java+class:///org/castor/xmlctf/XMLTestCase|> 
+<|java+class:///org/castor/xmlctf/SchemaTestCase|,|java+class:///org/castor/xmlctf/XMLTestCase|> 
+<|java+class:///org/castor/xmlctf/SourceGeneratorTestCase|,|java+class:///org/castor/xmlctf/XMLTestCase|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/CustomTest|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/CustomTestType|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/Failure|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/FailureType|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/Listener|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/ListenerType|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/Marshal|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/ConfigurationType|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/Methods|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/ConfigurationType|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/RootType|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/StringType|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/Root_Object|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/RootType|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/SchemaDifferences|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/SchemaDifferencesType|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/Unmarshal|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/ConfigurationType|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/CustomTestDescriptor|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/CustomTestTypeDescriptor|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/FailureDescriptor|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/FailureTypeDescriptor|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/ListenerDescriptor|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/ListenerTypeDescriptor|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/MarshalDescriptor|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/ConfigurationTypeDescriptor|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/MethodsDescriptor|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/ConfigurationTypeDescriptor|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/RootTypeDescriptor|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/StringTypeDescriptor|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/Root_ObjectDescriptor|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/RootTypeDescriptor|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/SchemaDifferencesDescriptor|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/SchemaDifferencesTypeDescriptor|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/UnmarshalDescriptor|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/ConfigurationTypeDescriptor|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 23 
+<|java+class:///org/castor/xmlctf/MarshallingFrameworkTestCase|,|java+class:///org/castor/xmlctf/XMLTestCase|> 
+<|java+class:///org/castor/xmlctf/OnlySourceGenerationTestCase|,|java+class:///org/castor/xmlctf/XMLTestCase|> 
+<|java+class:///org/castor/xmlctf/SchemaTestCase|,|java+class:///org/castor/xmlctf/XMLTestCase|> 
+<|java+class:///org/castor/xmlctf/SourceGeneratorTestCase|,|java+class:///org/castor/xmlctf/XMLTestCase|> 
+<|java+class:///org/castor/xmlctf/TestSourceGenerator|,|java+class:///org/castor/xmlctf/XMLTestCase|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/CustomTest|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/CustomTestType|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/Failure|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/FailureType|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/Listener|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/ListenerType|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/Marshal|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/ConfigurationType|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/Methods|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/ConfigurationType|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/RootType|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/StringType|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/Root_Object|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/RootType|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/SchemaDifferences|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/SchemaDifferencesType|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/Unmarshal|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/ConfigurationType|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/CustomTestDescriptor|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/CustomTestTypeDescriptor|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/FailureDescriptor|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/FailureTypeDescriptor|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/ListenerDescriptor|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/ListenerTypeDescriptor|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/MarshalDescriptor|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/ConfigurationTypeDescriptor|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/MethodsDescriptor|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/ConfigurationTypeDescriptor|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/RootTypeDescriptor|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/StringTypeDescriptor|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/Root_ObjectDescriptor|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/RootTypeDescriptor|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/SchemaDifferencesDescriptor|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/SchemaDifferencesTypeDescriptor|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/UnmarshalDescriptor|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/ConfigurationTypeDescriptor|> 
+
+GENERIC TOTAL: 8 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/CustomTest|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/CustomTestType|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/Failure|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/FailureType|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/Listener|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/ListenerType|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/Marshal|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/ConfigurationType|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/RootType|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/StringType|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/Root_Object|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/RootType|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/SchemaDifferences|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/SchemaDifferencesType|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/Unmarshal|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/ConfigurationType|> 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 22 
+<|java+class:///org/castor/xmlctf/MarshallingFrameworkTestCase|,|java+class:///org/castor/xmlctf/XMLTestCase|> 
+<|java+class:///org/castor/xmlctf/OnlySourceGenerationTestCase|,|java+class:///org/castor/xmlctf/XMLTestCase|> 
+<|java+class:///org/castor/xmlctf/SchemaTestCase|,|java+class:///org/castor/xmlctf/XMLTestCase|> 
+<|java+class:///org/castor/xmlctf/SourceGeneratorTestCase|,|java+class:///org/castor/xmlctf/XMLTestCase|> 
+<|java+class:///org/castor/xmlctf/TestSourceGenerator|,|java+class:///org/castor/xmlctf/XMLTestCase|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/CustomTest|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/CustomTestType|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/Failure|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/FailureType|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/Listener|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/ListenerType|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/Marshal|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/ConfigurationType|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/Methods|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/ConfigurationType|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/RootType|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/StringType|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/Root_Object|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/RootType|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/SchemaDifferences|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/SchemaDifferencesType|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/Unmarshal|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/ConfigurationType|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/CustomTestDescriptor|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/CustomTestTypeDescriptor|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/FailureDescriptor|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/FailureTypeDescriptor|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/ListenerDescriptor|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/ListenerTypeDescriptor|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/MarshalDescriptor|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/ConfigurationTypeDescriptor|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/MethodsDescriptor|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/ConfigurationTypeDescriptor|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/RootTypeDescriptor|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/StringTypeDescriptor|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/SchemaDifferencesDescriptor|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/SchemaDifferencesTypeDescriptor|> 
+<|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/UnmarshalDescriptor|,|java+class:///org/exolab/castor/tests/framework/testDescriptor/descriptors/ConfigurationTypeDescriptor|> 
+
+DOWNCALL TOTAL: 0 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 1 
+<|java+class:///org/castor/xmlctf/compiler/SunJavaCompiler|,|java+interface:///org/castor/xmlctf/compiler/Compiler|> 
+
+SUBTYPE TOTAL: 1 
+<|java+class:///org/castor/xmlctf/compiler/SunJavaCompiler|,|java+interface:///org/castor/xmlctf/compiler/Compiler|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 1 
+<|java+class:///org/castor/xmlctf/compiler/AntJavaCompiler|,|java+interface:///org/castor/xmlctf/compiler/Compiler|> 
+
+FRAMEWORK TOTAL: 0 
+
+DOWNCALL TOTAL: 0 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 0 
+
+SUBTYPE TOTAL: 0 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 0 
+
+DOWNCALL TOTAL: 0 
+
+
+
+

@@ -1,0 +1,10 @@
+[
+  <<|java+class:///org/cyberneko/html/ObjectFactory/ConfigurationError|,|java+class:///java/lang/Error|>,|project://nekohtml-1.9.14/src/org/cyberneko/html/ObjectFactory.java|(18931,11,<494,12>,<494,23>)>,
+  <<|java+class:///org/cyberneko/html/parsers/DOMParser|,|java+class:///org/apache/xerces/parsers/DOMParser|>,|project://nekohtml-1.9.14/src/org/cyberneko/html/parsers/DOMParser.java|(1556,31,<49,8>,<49,39>)>,
+  <<|java+class:///org/cyberneko/html/CanonicalTest|,|java+class:///junit/framework/TestCase|>,|project://nekohtml-1.9.14/test/java/org/cyberneko/html/CanonicalTest.java|(2921,81,<86,8>,<86,89>)>,
+  <<|java+class:///org/cyberneko/html/UTF8BOMSkipper|,|java+class:///java/io/FilterInputStream|>,|project://nekohtml-1.9.14/test/java/org/cyberneko/html/UTF8BOMSkipper.java|(1356,14,<53,8>,<53,22>)>,
+  <<|java+class:///org/cyberneko/html/parsers/SAXParser|,|java+class:///org/apache/xerces/parsers/AbstractSAXParser|>,|project://nekohtml-1.9.14/src/org/cyberneko/html/parsers/SAXParser.java|(1051,31,<38,8>,<38,39>)>,
+  <<|java+class:///org/cyberneko/html/TestParser|,|java+class:///org/apache/xerces/parsers/AbstractSAXParser|>,|project://nekohtml-1.9.14/test/java/org/cyberneko/html/HTMLTagBalancingListenerTest.java|(1832,31,<56,2>,<56,33>)>,
+  <<|java+class:///org/cyberneko/html/HTMLScanner/PlaybackInputStream|,|java+class:///java/io/FilterInputStream|>,|project://nekohtml-1.9.14/src/org/cyberneko/html/HTMLScanner.java|(126701,10,<3297,12>,<3297,22>)>,
+  <<|java+class:///sample/HTMLSAXParser|,|java+class:///org/apache/xerces/parsers/AbstractSAXParser|>,|project://nekohtml-1.9.14/src/sample/HTMLSAXParser.java|(1146,31,<39,8>,<39,39>)>
+]

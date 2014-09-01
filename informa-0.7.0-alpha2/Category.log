@@ -1,0 +1,8 @@
+[
+  <<|java+class:///de/nava/informa/utils/manager/hibernate/SpringPersistenceManager|,|java+interface:///de/nava/informa/utils/manager/PersistenceManagerIF|>,|java+class:///de/nava/informa/utils/manager/memory/PersistenceManager|>,
+  <<|java+class:///de/nava/informa/exporters/RSS_2_0_Exporter|,|java+interface:///de/nava/informa/core/ChannelExporterIF|>,|java+class:///de/nava/informa/exporters/RSS_0_91_Exporter|>,
+  <<|java+class:///de/nava/informa/utils/manager/TestPersistenceManagerConfig/DummyPersistenceManager|,|java+interface:///de/nava/informa/utils/manager/PersistenceManagerIF|>,|java+class:///de/nava/informa/utils/manager/memory/PersistenceManager|>,
+  <<|java+class:///de/nava/informa/utils/cleaner/PersistenceObserver|,|java+interface:///de/nava/informa/utils/cleaner/CleanerObserverIF|>,|java+class:///de/nava/informa/utils/cleaner/CompositeObserver|>,
+  <<|java+class:///de/nava/informa/utils/poller/PersistenceObserver|,|java+interface:///de/nava/informa/utils/poller/PollerObserverIF|>,|java+class:///de/nava/informa/utils/poller/CompositeObserver|>,
+  <<|java+class:///de/nava/informa/utils/manager/hibernate/NonCachingPersistenceManager|,|java+interface:///de/nava/informa/utils/manager/PersistenceManagerIF|>,|java+class:///de/nava/informa/utils/manager/memory/PersistenceManager|>
+]

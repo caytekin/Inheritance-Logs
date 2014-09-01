@@ -1,0 +1,23 @@
+Error log for springframework-3.0.5_projects-org.springframework.jdbc
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),int(),class(|java+class:///java/lang/String|,[])], declared symbol list: [class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),double(),class(|java+class:///java/lang/String|,[]),object()], declared symbol list: [class(|java+class:///java/lang/String|,[]),array(object(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/Class|,[class(|java+class:///java/util/Date|,[])]),double(),class(|java+class:///java/lang/String|,[]),object()], declared symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/Object|,[]),array(object(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/Class|,[class(|java+class:///java/util/Date|,[])]),double(),class(|java+class:///java/lang/String|,[]),object()], declared symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/Object|,[]),array(object(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),interface(|java+interface:///org/springframework/jdbc/core/simple/ParameterizedRowMapper|,[class(|java+class:///java/util/Date|,[])]),double(),class(|java+class:///java/lang/String|,[]),object()], declared symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/Object|,[]),array(object(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),interface(|java+interface:///org/springframework/jdbc/core/simple/ParameterizedRowMapper|,[class(|java+class:///java/util/Date|,[])]),double(),class(|java+class:///java/lang/String|,[]),object()], declared symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/Object|,[]),array(object(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///org/springframework/context/support/ClassPathXmlApplicationContext|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [interface(|java+interface:///org/springframework/context/ConfigurableApplicationContext|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/Class|,[class(|java+class:///java/lang/Number|,[])]),int(),int()], declared symbol list: [class(|java+class:///java/lang/Object|,[]),array(object(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/Class|,[class(|java+class:///java/lang/Number|,[])]),int(),int()], declared symbol list: [class(|java+class:///java/lang/Object|,[]),array(object(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/Class|,[class(|java+class:///java/lang/Number|,[])]),int(),int()], declared symbol list: [class(|java+class:///java/lang/Object|,[]),array(object(),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/Class|,[class(|java+class:///java/lang/Number|,[])]),int(),int()], declared symbol list: [class(|java+class:///java/lang/Object|,[]),array(object(),1)] 
+

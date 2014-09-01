@@ -1,0 +1,5 @@
+[
+  <<|java+class:///org/javacc/jjtree/ASTNodeDescriptorExpression|,|java+class:///org/javacc/jjtree/JJTreeNode|>,<|java+project:///|,|java+method:///org/javacc/jjtree/JJTreeNode/print(org.javacc.jjtree.Token,org.javacc.jjtree.IO)|,|java+method:///org/javacc/jjtree/ASTNodeDescriptorExpression/translateImage(org.javacc.jjtree.Token)|>>,
+  <<|java+class:///org/javacc/jjtree/ASTNodeDescriptor|,|java+class:///org/javacc/jjtree/JJTreeNode|>,<|java+project:///|,|java+method:///org/javacc/jjtree/JJTreeNode/print(org.javacc.jjtree.Token,org.javacc.jjtree.IO)|,|java+method:///org/javacc/jjtree/ASTNodeDescriptor/translateImage(org.javacc.jjtree.Token)|>>,
+  <<|java+class:///org/javacc/jjtree/ASTOptionBinding|,|java+class:///org/javacc/jjtree/JJTreeNode|>,<|java+project:///|,|java+method:///org/javacc/jjtree/JJTreeNode/print(org.javacc.jjtree.Token,org.javacc.jjtree.IO)|,|java+method:///org/javacc/jjtree/ASTOptionBinding/translateImage(org.javacc.jjtree.Token)|>>
+]

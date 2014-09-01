@@ -1,0 +1,227 @@
+RESULTS LOG: 
+INTERNAL REUSE TOTAL: 48 
+<|java+class:///freecs/auth/SQLAuthenticator|,|java+class:///freecs/auth/AbstractAuthenticator|> 
+<|java+class:///freecs/auth/XmlRpcAuthenticator|,|java+class:///freecs/auth/AbstractAuthenticator|> 
+<|java+class:///freecs/commands/CmdAccept|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdAck|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdAct|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdAway|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdBan|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdCallMemberships|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdChangeBgcolor|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdChangeColor|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdFun|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdHitDice|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdIgnore|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdInvite|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdInviteAll|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdJoin|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdJoinClosed|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdJoinUser|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdKick|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdKickHard|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdKickToRoom|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdListBan|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdListUsers|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdLock|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdLockChangeForeignAction|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdMyCol|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdPrivateMessage|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdPunish|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdQuestion|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdRSu|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdRepeatedPrivateMessage|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdReplyMessage|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdResetQuestioncounter|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdRightChange|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdSepa|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdSetTheme|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdShout|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdShowIp|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdShowUserDetail|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdSu|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdSys|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdThink|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdUnBan|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdUnPunish|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdUnlock|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/external/StateRequestHandler|,|java+class:///freecs/external/AbstractRequestHandler|> 
+<|java+class:///freecs/external/UserlistRequestHandler|,|java+class:///freecs/external/AbstractRequestHandler|> 
+<|java+class:///freecs/external/WebadminRequestHandler|,|java+class:///freecs/external/AbstractRequestHandler|> 
+
+EXTERNAL REUSE TOTAL: 1 
+<|java+class:///freecs/auth/SQLAuthenticator|,|java+class:///freecs/auth/AbstractAuthenticator|> 
+
+SUBTYPE TOTAL: 60 
+<|java+class:///freecs/auth/SQLAuthenticator|,|java+class:///freecs/auth/AbstractAuthenticator|> 
+<|java+class:///freecs/auth/XmlRpcAuthenticator|,|java+class:///freecs/auth/AbstractAuthenticator|> 
+<|java+class:///freecs/commands/CmdAccept|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdAck|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdAct|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdAddFriend|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdAway|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdBan|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdCallMemberships|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdChangeBgcolor|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdChangeColor|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdClear|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdFriendsOnly|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdFun|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdHitDice|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdIgnore|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdInvite|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdInviteAll|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdJoin|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdJoinClosed|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdJoinUser|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdKick|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdKickHard|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdKickToRoom|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdListAllFriends|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdListBan|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdListOnlineFriends|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdListUsers|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdListVips|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdLock|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdLockChangeForeignAction|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdMyCol|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdPrivateMessage|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdPunish|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdQuestion|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdQuit|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdRSu|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdRemoveFriend|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdRepeatedPrivateMessage|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdReplyMessage|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdResetQuestioncounter|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdRespectUser|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdRightChange|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdSepa|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdSetTheme|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdShout|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdShowIp|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdShowTime|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdShowUserDetail|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdSu|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdSys|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdThink|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdUnBan|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdUnPunish|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdUnlock|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/external/CmdConfirmHandler|,|java+class:///freecs/external/AbstractRequestHandler|> 
+<|java+class:///freecs/external/StateRequestHandler|,|java+class:///freecs/external/AbstractRequestHandler|> 
+<|java+class:///freecs/external/StaticRequestHandler|,|java+class:///freecs/external/AbstractRequestHandler|> 
+<|java+class:///freecs/external/UserlistRequestHandler|,|java+class:///freecs/external/AbstractRequestHandler|> 
+<|java+class:///freecs/external/WebadminRequestHandler|,|java+class:///freecs/external/AbstractRequestHandler|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 5 
+<|java+class:///freecs/external/CmdConfirmHandler|,|java+class:///freecs/external/AbstractRequestHandler|> 
+<|java+class:///freecs/external/StateRequestHandler|,|java+class:///freecs/external/AbstractRequestHandler|> 
+<|java+class:///freecs/external/StaticRequestHandler|,|java+class:///freecs/external/AbstractRequestHandler|> 
+<|java+class:///freecs/external/UserlistRequestHandler|,|java+class:///freecs/external/AbstractRequestHandler|> 
+<|java+class:///freecs/external/WebadminRequestHandler|,|java+class:///freecs/external/AbstractRequestHandler|> 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 10 
+<|java+class:///freecs/commands/CmdAddFriend|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdClear|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdFriendsOnly|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdListAllFriends|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdListOnlineFriends|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdListVips|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdQuit|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdRemoveFriend|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdRespectUser|,|java+class:///freecs/commands/AbstractCommand|> 
+<|java+class:///freecs/commands/CmdShowTime|,|java+class:///freecs/commands/AbstractCommand|> 
+
+FRAMEWORK TOTAL: 0 
+
+DOWNCALL TOTAL: 0 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 1 
+<|java+class:///freecs/auth/AuthManager|,|java+interface:///freecs/interfaces/IReloadable|> 
+
+SUBTYPE TOTAL: 14 
+<|java+class:///freecs/Server|,|java+interface:///freecs/interfaces/IReloadable|> 
+<|java+class:///freecs/auth/AuthManager|,|java+interface:///freecs/interfaces/IReloadable|> 
+<|java+class:///freecs/commands/AbstractCommand|,|java+interface:///freecs/interfaces/ICommand|> 
+<|java+class:///freecs/commands/CommandSet|,|java+interface:///freecs/interfaces/IReloadable|> 
+<|java+class:///freecs/content/HTTPRequest|,|java+interface:///freecs/interfaces/IRequest|> 
+<|java+class:///freecs/content/PersonalizedMessage|,|java+interface:///freecs/interfaces/IContainer|> 
+<|java+class:///freecs/core/MembershipManager|,|java+interface:///freecs/interfaces/IReloadable|> 
+<|java+class:///freecs/core/MessageParser|,|java+interface:///freecs/interfaces/IContainer|> 
+<|java+class:///freecs/external/AbstractRequestHandler|,|java+interface:///freecs/external/IRequestHandler|> 
+<|java+class:///freecs/external/xmlrpc/freecsXmlRpcHandler|,|java+interface:///freecs/interfaces/IXmlRpcHandler|> 
+<|java+class:///freecs/layout/Template|,|java+interface:///freecs/interfaces/IReloadable|> 
+<|java+class:///freecs/layout/TemplateManager|,|java+interface:///freecs/interfaces/IReloadable|> 
+<|java+class:///freecs/layout/TemplateSet|,|java+interface:///freecs/interfaces/IReloadable|> 
+<|java+class:///freecs/util/logger/LogFile|,|java+interface:///freecs/util/logger/LogDestination|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 5 
+<|java+class:///freecs/content/ContentContainer|,|java+interface:///freecs/interfaces/IResponseHeaders|> 
+<|java+class:///freecs/core/Group|,|java+interface:///freecs/interfaces/IGroupState|> 
+<|java+class:///freecs/core/GroupManager|,|java+interface:///freecs/interfaces/IGroupState|> 
+<|java+class:///freecs/core/User|,|java+interface:///freecs/interfaces/IUserStates|> 
+<|java+class:///freecs/core/UserManager|,|java+interface:///freecs/interfaces/IUserStates|> 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 1 
+<|java+class:///freecs/content/ContentContainer|,|java+interface:///freecs/interfaces/IContainer|> 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 0 
+
+DOWNCALL TOTAL: 0 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 0 
+
+SUBTYPE TOTAL: 0 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 0 
+
+DOWNCALL TOTAL: 0 
+
+
+
+

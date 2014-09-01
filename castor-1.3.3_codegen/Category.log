@@ -1,0 +1,5 @@
+[
+  <<|java+class:///org/exolab/javasource/AbstractJField|,|java+interface:///org/exolab/javasource/JMember|>,|java+class:///org/exolab/javasource/JEnumConstant|>,
+  <<|java+class:///org/exolab/castor/builder/conflict/strategy/BaseClassNameConflictResolver|,|java+interface:///org/exolab/castor/builder/conflict/strategy/ClassNameConflictResolver|>,|java+class:///org/exolab/castor/builder/conflict/strategy/TypeClassNameConflictResolver|>,
+  <<|java+class:///org/exolab/castor/builder/util/ClassInfoResolverImpl|,|java+interface:///org/exolab/castor/builder/ClassInfoResolver|>,|java+class:///org/exolab/castor/builder/FactoryState|>
+]

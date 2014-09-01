@@ -1,0 +1,37 @@
+[
+  <<|java+class:///pipeserver/Data|,|java+class:///java/lang/Thread|>,{
+    |java+interface:///org/quickserver/util/pool/PoolableObject|,
+    |java+interface:///org/quickserver/net/server/ClientData|
+  },|project://quickserver-1.4.7/src/main/org/quickserver/util/pool/thread/ThreadObjectFactory.java|(1689,12,<58,18>,<58,30>)>,
+  <<|java+class:///pipeserver/Data|,|java+class:///java/lang/Thread|>,{
+    |java+interface:///org/quickserver/util/pool/PoolableObject|,
+    |java+interface:///org/quickserver/net/server/ClientData|
+  },|project://quickserver-1.4.7/src/main/org/quickserver/util/pool/thread/ThreadObjectFactory.java|(1913,11,<66,18>,<66,29>)>,
+  <<|java+class:///org/quickserver/util/pool/MakeQSObjectPool|,|java+interface:///org/quickserver/util/pool/QSObjectPoolMaker|>,{|java+interface:///org/quickserver/util/pool/QSObjectPool|},|project://quickserver-1.4.7/src/main/org/quickserver/net/server/QuickServer.java|(12710,56,<402,23>,<402,79>)>,
+  <<|java+class:///chatserver/ChatData|,|java+interface:///org/quickserver/net/server/ClientData|>,{
+    |java+interface:///org/quickserver/util/pool/PoolableObject|,
+    |java+interface:///org/quickserver/net/server/ClientIdentifiable|
+  },|project://quickserver-1.4.7/src/main/org/quickserver/net/server/QuickServer.java|(52484,41,<1733,17>,<1733,58>)>,
+  <<|java+class:///org/quickserver/net/server/GhostSocketReaper|,|java+interface:///org/quickserver/net/ServerHook|>,{|java+class:///java/lang/Thread|},|project://quickserver-1.4.7/src/main/org/quickserver/net/server/QuickServer.java|(67464,41,<2199,17>,<2199,58>)>,
+  <<|java+class:///org/quickserver/net/server/GhostSocketReaper|,|java+interface:///org/quickserver/net/ServerHook|>,{|java+class:///java/lang/Thread|},|project://quickserver-1.4.7/src/main/org/quickserver/net/server/QuickServer.java|(68578,27,<2232,16>,<2232,43>)>,
+  <<|java+class:///ftpserver/Data|,|java+interface:///org/quickserver/net/server/ClientData|>,{|java+interface:///org/quickserver/util/pool/PoolableObject|},|project://quickserver-1.4.7/src/main/org/quickserver/net/server/QuickServer.java|(80872,41,<2612,18>,<2612,59>)>,
+  <<|java+class:///pipeserver/Data|,|java+interface:///org/quickserver/net/server/ClientData|>,{
+    |java+interface:///org/quickserver/util/pool/PoolableObject|,
+    |java+class:///java/lang/Thread|
+  },|project://quickserver-1.4.7/src/main/org/quickserver/net/server/QuickServer.java|(80948,46,<2614,18>,<2614,64>)>,
+  <<|java+class:///xmladder/Data|,|java+interface:///org/quickserver/net/server/ClientData|>,{|java+interface:///org/quickserver/util/pool/PoolableObject|},|project://quickserver-1.4.7/src/main/org/quickserver/net/server/QuickServer.java|(84979,41,<2751,20>,<2751,61>)>,
+  <<|java+class:///xmladder/Data|,|java+interface:///org/quickserver/net/server/ClientData|>,{|java+interface:///org/quickserver/util/pool/PoolableObject|},|project://quickserver-1.4.7/src/main/org/quickserver/net/server/QuickServer.java|(85095,46,<2754,20>,<2754,66>)>,
+  <<|java+class:///xmladder/CommandHandler|,|java+interface:///org/quickserver/net/server/ClientCommandHandler|>,{|java+interface:///org/quickserver/net/server/ClientEventHandler|},|project://quickserver-1.4.7/src/main/org/quickserver/net/server/QuickServer.java|(94363,68,<3025,26>,<3026,43>)>,
+  <<|java+class:///chatserver/ChatCommandHandler|,|java+interface:///org/quickserver/net/server/ClientEventHandler|>,{|java+interface:///org/quickserver/net/server/ClientCommandHandler|},|project://quickserver-1.4.7/src/main/org/quickserver/net/server/QuickServer.java|(94996,81,<3040,24>,<3041,58>)>,
+  <<|java+class:///pipeserver/CommandHandler|,|java+interface:///org/quickserver/net/server/ClientBinaryHandler|>,{|java+interface:///org/quickserver/net/server/ClientEventHandler|},|project://quickserver-1.4.7/src/main/org/quickserver/net/server/QuickServer.java|(98108,83,<3099,26>,<3100,60>)>,
+  <<|java+class:///filesrv/CommandHandler|,|java+interface:///org/quickserver/net/server/ClientWriteHandler|>,{
+    |java+interface:///org/quickserver/net/server/ClientEventHandler|,
+    |java+interface:///org/quickserver/net/server/ClientCommandHandler|
+  },|project://quickserver-1.4.7/src/main/org/quickserver/net/server/QuickServer.java|(99460,81,<3123,25>,<3124,59>)>,
+  <<|java+class:///org/quickserver/net/server/GhostSocketReaper|,|java+class:///java/lang/Thread|>,{|java+interface:///org/quickserver/net/ServerHook|},|project://quickserver-1.4.7/src/main/org/quickserver/util/pool/thread/ClientPool.java|(2732,14,<95,4>,<95,18>)>,
+  <<|java+class:///org/quickserver/net/server/QuickServer|,|java+interface:///java/lang/Runnable|>,{
+    |java+interface:///java/lang/Cloneable|,
+    |java+interface:///java/io/Serializable|,
+    |java+interface:///org/quickserver/net/Service|
+  },|project://quickserver-1.4.7/src/main/org/quickserver/util/pool/thread/ClientPool.java|(2876,28,<103,9>,<103,37>)>
+]

@@ -1,0 +1,14 @@
+{
+  <<|java+class:///net/wastl/webmail/server/AdminSession|,|java+interface:///net/wastl/webmail/server/HTTPSession|>,2,|java+interface:///net/wastl/webmail/server/TimeableConnection|>,
+  <<|java+interface:///net/wastl/webmail/server/HTTPSession|,|java+interface:///net/wastl/webmail/server/TimeableConnection|>,2,|java+interface:///net/wastl/webmail/server/TimeableConnection|>,
+  <<|java+class:///net/wastl/webmail/storage/FileStorage|,|java+interface:///net/wastl/webmail/config/ConfigurationListener|>,2,|java+interface:///net/wastl/webmail/config/ConfigurationListener|>,
+  <<|java+class:///net/wastl/webmail/misc/ExpireableCache|,|java+class:///java/lang/Thread|>,2,|java+class:///java/lang/Object|>,
+  <<|java+class:///net/wastl/webmail/storage/simple/SimpleStorage|,|java+class:///net/wastl/webmail/storage/FileStorage|>,2,|java+interface:///net/wastl/webmail/config/ConfigurationListener|>,
+  <<|java+class:///net/wastl/webmail/misc/AttributedExpireableCache|,|java+class:///net/wastl/webmail/misc/ExpireableCache|>,2,|java+class:///java/lang/Object|>,
+  <<|java+class:///net/wastl/webmail/server/WebMailSession|,|java+interface:///net/wastl/webmail/server/HTTPSession|>,2,|java+interface:///net/wastl/webmail/server/TimeableConnection|>,
+  <<|java+class:///org/webengruven/webmail/auth/OTPAuthDisplayMngr|,|java+class:///org/webengruven/webmail/auth/CRAuthDisplayMngr|>,2,|java+class:///org/webengruven/webmail/auth/AuthDisplayMngr|>,
+  <<|java+class:///net/wastl/webmail/config/StringConfigParameter|,|java+class:///net/wastl/webmail/config/ConfigParameter|>,2,|java+class:///net/wastl/webmail/config/ConfigParameter|>,
+  <<|java+class:///org/webengruven/webmail/auth/CRAuthDisplayMngr|,|java+class:///org/webengruven/webmail/auth/AuthDisplayMngr|>,2,|java+class:///org/webengruven/webmail/auth/AuthDisplayMngr|>,
+  <<|java+class:///net/wastl/webmail/config/CryptedStringConfigParameter|,|java+class:///net/wastl/webmail/config/StringConfigParameter|>,2,|java+class:///net/wastl/webmail/config/ConfigParameter|>,
+  <<|java+interface:///net/wastl/webmail/server/HTTPSession|,|java+interface:///net/wastl/webmail/server/TimeableConnection|>,2,|java+class:///java/lang/Object|>
+}

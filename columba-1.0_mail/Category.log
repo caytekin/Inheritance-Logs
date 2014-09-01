@@ -1,0 +1,8 @@
+[
+  <<|java+class:///org/columba/mail/folder/IMAPTstFactory|,|java+interface:///org/columba/mail/folder/MailboxTstFactory|>,|java+class:///org/columba/mail/folder/TempFolderFactory|>,
+  <<|java+class:///org/columba/mail/gui/message/viewer/InlineAttachmentsViewer|,|java+interface:///org/columba/mail/gui/message/viewer/ICustomViewer|>,|java+class:///org/columba/mail/gui/message/viewer/Rfc822MessageViewer|>,
+  <<|java+class:///org/columba/mail/gui/message/viewer/AttachmentsViewer|,|java+interface:///org/columba/mail/gui/message/viewer/ICustomViewer|>,|java+class:///org/columba/mail/gui/message/viewer/Rfc822MessageViewer|>,
+  <<|java+class:///org/columba/mail/gui/message/viewer/SpamStatusViewer|,|java+interface:///org/columba/mail/gui/message/viewer/ICustomViewer|>,|java+class:///org/columba/mail/gui/message/viewer/Rfc822MessageViewer|>,
+  <<|java+class:///org/columba/mail/gui/message/viewer/EncryptionStatusViewer|,|java+interface:///org/columba/mail/gui/message/viewer/ICustomViewer|>,|java+class:///org/columba/mail/gui/message/viewer/Rfc822MessageViewer|>,
+  <<|java+class:///org/columba/mail/gui/message/viewer/HeaderViewer|,|java+interface:///org/columba/mail/gui/message/viewer/ICustomViewer|>,|java+class:///org/columba/mail/gui/message/viewer/Rfc822MessageViewer|>
+]

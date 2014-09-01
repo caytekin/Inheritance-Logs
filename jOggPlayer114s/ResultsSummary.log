@@ -1,0 +1,199 @@
+RESULTS LOG: 
+INTERNAL REUSE TOTAL: 20 
+<|java+class:///ca/bc/webarts/JOggPlayerAutoUpdating|,|java+class:///ca/bc/webarts/tools/AutoUpdateApp|> 
+<|java+class:///ca/bc/webarts/widgets/JCheckDropDown|,|java+class:///ca/bc/webarts/widgets/PopUpButton|> 
+<|java+class:///com/jcraft/jorbis/Residue1|,|java+class:///com/jcraft/jorbis/Residue0|> 
+<|java+class:///com/jcraft/jorbis/Residue2|,|java+class:///com/jcraft/jorbis/Residue0|> 
+<|java+class:///kiwi/ui/AboutFrame|,|java+class:///kiwi/ui/KFrame|> 
+<|java+class:///kiwi/ui/ConsoleFrame|,|java+class:///kiwi/ui/KFrame|> 
+<|java+class:///kiwi/ui/DateField|,|java+class:///kiwi/ui/DataField|> 
+<|java+class:///kiwi/ui/DocumentBrowserFrame|,|java+class:///kiwi/ui/KFrame|> 
+<|java+class:///kiwi/ui/KTable/_HeaderRenderer|,|java+class:///kiwi/ui/HeaderCellRenderer|> 
+<|java+class:///kiwi/ui/NumericField|,|java+class:///kiwi/ui/DataField|> 
+<|java+class:///kiwi/ui/PathEditor/PathListCellEditor|,|java+class:///kiwi/ui/AbstractCellEditor|> 
+<|java+class:///kiwi/ui/TextureViewer|,|java+class:///kiwi/ui/KPanel|> 
+<|java+class:///kiwi/util/Counter|,|java+class:///kiwi/util/IntegerHolder|> 
+<|java+class:///kiwi/util/TimerPool|,|java+class:///kiwi/util/ResourcePool|> 
+<|java+class:///net/roarsoftware/lastfm/Album|,|java+class:///net/roarsoftware/lastfm/MusicEntry|> 
+<|java+class:///net/roarsoftware/lastfm/Artist|,|java+class:///net/roarsoftware/lastfm/MusicEntry|> 
+<|java+class:///net/roarsoftware/lastfm/Event|,|java+class:///net/roarsoftware/lastfm/ImageHolder|> 
+<|java+class:///net/roarsoftware/lastfm/MusicEntry|,|java+class:///net/roarsoftware/lastfm/ImageHolder|> 
+<|java+class:///net/roarsoftware/lastfm/Track|,|java+class:///net/roarsoftware/lastfm/MusicEntry|> 
+<|java+class:///net/roarsoftware/lastfm/User|,|java+class:///net/roarsoftware/lastfm/ImageHolder|> 
+
+EXTERNAL REUSE TOTAL: 7 
+<|java+class:///ca/bc/webarts/widgets/JCheckDropDown|,|java+class:///ca/bc/webarts/widgets/PopUpButton|> 
+<|java+class:///kiwi/ui/DateChooser|,|java+class:///kiwi/ui/KPanel|> 
+<|java+class:///kiwi/ui/DateField|,|java+class:///kiwi/ui/DataField|> 
+<|java+class:///kiwi/ui/NumericField|,|java+class:///kiwi/ui/DataField|> 
+<|java+class:///kiwi/ui/Thermometer|,|java+class:///kiwi/ui/KPanel|> 
+<|java+class:///net/roarsoftware/lastfm/MusicEntry|,|java+class:///net/roarsoftware/lastfm/ImageHolder|> 
+<|java+class:///net/roarsoftware/lastfm/Track|,|java+class:///net/roarsoftware/lastfm/MusicEntry|> 
+
+SUBTYPE TOTAL: 27 
+<|java+class:///ca/bc/webarts/widgets/JCheckDropDown|,|java+class:///ca/bc/webarts/widgets/PopUpButton|> 
+<|java+class:///kiwi/ui/ArrowButtonView|,|java+class:///kiwi/ui/KPanel|> 
+<|java+class:///kiwi/ui/AudioClipViewer|,|java+class:///kiwi/ui/KPanel|> 
+<|java+class:///kiwi/ui/ButtonPanel|,|java+class:///kiwi/ui/KPanel|> 
+<|java+class:///kiwi/ui/DateChooser|,|java+class:///kiwi/ui/KPanel|> 
+<|java+class:///kiwi/ui/DateField|,|java+class:///kiwi/ui/DataField|> 
+<|java+class:///kiwi/ui/DocumentBrowserView|,|java+class:///kiwi/ui/KPanel|> 
+<|java+class:///kiwi/ui/ImageView|,|java+class:///kiwi/ui/KPanel|> 
+<|java+class:///kiwi/ui/KTable/_HeaderRenderer|,|java+class:///kiwi/ui/HeaderCellRenderer|> 
+<|java+class:///kiwi/ui/NumericField|,|java+class:///kiwi/ui/DataField|> 
+<|java+class:///kiwi/ui/StatusBar|,|java+class:///kiwi/ui/KPanel|> 
+<|java+class:///kiwi/ui/TextureViewer|,|java+class:///kiwi/ui/KPanel|> 
+<|java+class:///kiwi/ui/Thermometer|,|java+class:///kiwi/ui/KPanel|> 
+<|java+class:///kiwi/ui/WizardPanel|,|java+class:///kiwi/ui/KPanel|> 
+<|java+class:///kiwi/ui/WizardView|,|java+class:///kiwi/ui/KPanel|> 
+<|java+class:///kiwi/util/BooleanHolder|,|java+class:///kiwi/util/HolderObject|> 
+<|java+class:///kiwi/util/DateHolder|,|java+class:///kiwi/util/HolderObject|> 
+<|java+class:///kiwi/util/DoubleHolder|,|java+class:///kiwi/util/HolderObject|> 
+<|java+class:///kiwi/util/FloatHolder|,|java+class:///kiwi/util/HolderObject|> 
+<|java+class:///kiwi/util/IntegerHolder|,|java+class:///kiwi/util/HolderObject|> 
+<|java+class:///kiwi/util/StringHolder|,|java+class:///kiwi/util/HolderObject|> 
+<|java+class:///net/roarsoftware/lastfm/Album|,|java+class:///net/roarsoftware/lastfm/MusicEntry|> 
+<|java+class:///net/roarsoftware/lastfm/Artist|,|java+class:///net/roarsoftware/lastfm/MusicEntry|> 
+<|java+class:///net/roarsoftware/lastfm/Event|,|java+class:///net/roarsoftware/lastfm/ImageHolder|> 
+<|java+class:///net/roarsoftware/lastfm/MusicEntry|,|java+class:///net/roarsoftware/lastfm/ImageHolder|> 
+<|java+class:///net/roarsoftware/lastfm/Track|,|java+class:///net/roarsoftware/lastfm/MusicEntry|> 
+<|java+class:///net/roarsoftware/lastfm/User|,|java+class:///net/roarsoftware/lastfm/ImageHolder|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 18 
+<|java+class:///ca/bc/webarts/widgets/JCheckDropDown|,|java+class:///ca/bc/webarts/widgets/PopUpButton|> 
+<|java+class:///kiwi/ui/AboutFrame|,|java+class:///kiwi/ui/KFrame|> 
+<|java+class:///kiwi/ui/ArrowButtonView|,|java+class:///kiwi/ui/KPanel|> 
+<|java+class:///kiwi/ui/ConsoleFrame|,|java+class:///kiwi/ui/KFrame|> 
+<|java+class:///kiwi/ui/DateField|,|java+class:///kiwi/ui/DataField|> 
+<|java+class:///kiwi/ui/DocumentBrowserFrame|,|java+class:///kiwi/ui/KFrame|> 
+<|java+class:///kiwi/ui/NumericField|,|java+class:///kiwi/ui/DataField|> 
+<|java+class:///kiwi/util/BooleanHolder|,|java+class:///kiwi/util/HolderObject|> 
+<|java+class:///kiwi/util/Counter|,|java+class:///kiwi/util/IntegerHolder|> 
+<|java+class:///kiwi/util/DateHolder|,|java+class:///kiwi/util/HolderObject|> 
+<|java+class:///kiwi/util/DoubleHolder|,|java+class:///kiwi/util/HolderObject|> 
+<|java+class:///kiwi/util/FloatHolder|,|java+class:///kiwi/util/HolderObject|> 
+<|java+class:///kiwi/util/IntegerHolder|,|java+class:///kiwi/util/HolderObject|> 
+<|java+class:///kiwi/util/StringHolder|,|java+class:///kiwi/util/HolderObject|> 
+<|java+class:///kiwi/util/TimerPool|,|java+class:///kiwi/util/ResourcePool|> 
+<|java+class:///net/roarsoftware/lastfm/Album|,|java+class:///net/roarsoftware/lastfm/MusicEntry|> 
+<|java+class:///net/roarsoftware/lastfm/Artist|,|java+class:///net/roarsoftware/lastfm/MusicEntry|> 
+<|java+class:///net/roarsoftware/lastfm/Track|,|java+class:///net/roarsoftware/lastfm/MusicEntry|> 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 27 
+<|java+class:///ca/bc/webarts/widgets/JCheckDropDown|,|java+class:///ca/bc/webarts/widgets/PopUpButton|> 
+<|java+class:///kiwi/ui/AboutFrame|,|java+class:///kiwi/ui/KFrame|> 
+<|java+class:///kiwi/ui/ArrowButtonView|,|java+class:///kiwi/ui/KPanel|> 
+<|java+class:///kiwi/ui/AudioClipViewer|,|java+class:///kiwi/ui/KPanel|> 
+<|java+class:///kiwi/ui/ButtonPanel|,|java+class:///kiwi/ui/KPanel|> 
+<|java+class:///kiwi/ui/ConsoleFrame|,|java+class:///kiwi/ui/KFrame|> 
+<|java+class:///kiwi/ui/ContentPanel|,|java+class:///kiwi/ui/KPanel|> 
+<|java+class:///kiwi/ui/DateChooser|,|java+class:///kiwi/ui/KPanel|> 
+<|java+class:///kiwi/ui/DateChooserField|,|java+class:///kiwi/ui/KPanel|> 
+<|java+class:///kiwi/ui/DateField|,|java+class:///kiwi/ui/DataField|> 
+<|java+class:///kiwi/ui/DocumentBrowserFrame|,|java+class:///kiwi/ui/KFrame|> 
+<|java+class:///kiwi/ui/DocumentBrowserView|,|java+class:///kiwi/ui/KPanel|> 
+<|java+class:///kiwi/ui/FilesystemListView|,|java+class:///kiwi/ui/KPanel|> 
+<|java+class:///kiwi/ui/FilesystemTableView|,|java+class:///kiwi/ui/KPanel|> 
+<|java+class:///kiwi/ui/FilesystemTreeView|,|java+class:///kiwi/ui/KPanel|> 
+<|java+class:///kiwi/ui/ImageView|,|java+class:///kiwi/ui/KPanel|> 
+<|java+class:///kiwi/ui/KTable/_HeaderRenderer|,|java+class:///kiwi/ui/HeaderCellRenderer|> 
+<|java+class:///kiwi/ui/NumericField|,|java+class:///kiwi/ui/DataField|> 
+<|java+class:///kiwi/ui/PathEditor|,|java+class:///kiwi/ui/KPanel|> 
+<|java+class:///kiwi/ui/PathEditor/PathListCellEditor|,|java+class:///kiwi/ui/AbstractCellEditor|> 
+<|java+class:///kiwi/ui/SimpleEditor|,|java+class:///kiwi/ui/KPanel|> 
+<|java+class:///kiwi/ui/StatusBar|,|java+class:///kiwi/ui/KPanel|> 
+<|java+class:///kiwi/ui/TextureViewer|,|java+class:///kiwi/ui/KPanel|> 
+<|java+class:///kiwi/ui/Thermometer|,|java+class:///kiwi/ui/KPanel|> 
+<|java+class:///kiwi/ui/UIElementChooser|,|java+class:///kiwi/ui/KPanel|> 
+<|java+class:///kiwi/ui/WizardPanel|,|java+class:///kiwi/ui/KPanel|> 
+<|java+class:///kiwi/ui/WizardView|,|java+class:///kiwi/ui/KPanel|> 
+
+DOWNCALL TOTAL: 3 
+<|java+class:///ca/bc/webarts/widgets/JCheckDropDown|,|java+class:///ca/bc/webarts/widgets/PopUpButton|> 
+<|java+class:///kiwi/ui/DateField|,|java+class:///kiwi/ui/DataField|> 
+<|java+class:///kiwi/ui/NumericField|,|java+class:///kiwi/ui/DataField|> 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 2 
+<|java+class:///org/jconfig/ConfigurationFileHandler|,|java+interface:///org/jconfig/ConfigurationHandler|> 
+<|java+class:///org/jconfig/ConfigurationManager|,|java+interface:///org/jconfig/event/FileListener|> 
+
+SUBTYPE TOTAL: 6 
+<|java+class:///kiwi/util/HashCodeComparator|,|java+interface:///kiwi/util/Comparator|> 
+<|java+class:///kiwi/util/IntervalTimer|,|java+interface:///kiwi/util/Resource|> 
+<|java+class:///kiwi/util/StringComparator|,|java+interface:///kiwi/util/Comparator|> 
+<|java+class:///org/jconfig/ConfigurationManager|,|java+interface:///org/jconfig/event/FileListener|> 
+<|java+class:///org/jconfig/DoSomething|,|java+interface:///org/jconfig/event/FileListener|> 
+<|java+class:///org/jconfig/DoSomethingElse|,|java+interface:///org/jconfig/event/FileListener|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 2 
+<|java+class:///kiwi/ui/ConsoleFrame|,|java+interface:///kiwi/util/LoggingEndpoint|> 
+<|java+class:///kiwi/ui/StatusBar|,|java+interface:///kiwi/util/ProgressObserver|> 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 5 
+<|java+class:///kiwi/util/ArraySequence|,|java+interface:///kiwi/util/Sequence|> 
+<|java+class:///kiwi/util/VectorSequence|,|java+interface:///kiwi/util/Sequence|> 
+<|java+class:///org/jconfig/ConfigurationManager|,|java+interface:///org/jconfig/event/FileListener|> 
+<|java+class:///org/jconfig/DoSomething|,|java+interface:///org/jconfig/event/FileListener|> 
+<|java+class:///org/jconfig/DoSomethingElse|,|java+interface:///org/jconfig/event/FileListener|> 
+
+DOWNCALL TOTAL: 0 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 0 
+
+SUBTYPE TOTAL: 0 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 0 
+
+DOWNCALL TOTAL: 0 
+
+
+
+

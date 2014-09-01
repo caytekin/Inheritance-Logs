@@ -1,0 +1,20 @@
+{
+  <<|java+interface:///de/nava/informa/core/CloudIF|,|java+interface:///java/io/Serializable|>,2,|java+class:///java/lang/Object|>,
+  <<|java+class:///de/nava/informa/utils/manager/hibernate/PersistenceManager|,|java+class:///de/nava/informa/utils/manager/hibernate/NonCachingPersistenceManager|>,2,|java+interface:///de/nava/informa/utils/manager/PersistenceManagerIF|>,
+  <<|java+class:///de/nava/informa/utils/manager/memory/ChannelGroup|,|java+class:///de/nava/informa/impl/basic/ChannelGroup|>,2,|java+interface:///de/nava/informa/core/ChannelGroupIF|>,
+  <<|java+class:///de/nava/informa/utils/manager/memory/Item|,|java+class:///de/nava/informa/impl/basic/Item|>,2,|java+interface:///de/nava/informa/core/ItemIF|>,
+  <<|java+class:///de/nava/informa/parsers/TestFeedParser|,|java+class:///de/nava/informa/utils/InformaTestCase|>,2,|java+interface:///junit/framework/Test|>,
+  <<|java+class:///de/nava/informa/utils/toolkit/WorkerThread|,|java+class:///java/lang/Thread|>,2,|java+class:///java/lang/Object|>,
+  <<|java+interface:///de/nava/informa/core/WithIdMIF|,|java+interface:///java/io/Serializable|>,2,|java+class:///java/lang/Object|>,
+  <<|java+class:///de/nava/informa/impl/basic/Channel|,|java+interface:///de/nava/informa/core/ChannelIF|>,2,|java+interface:///de/nava/informa/core/ChannelIF|>,
+  <<|java+class:///de/nava/informa/utils/manager/hibernate/NonCachingPersistenceManager|,|java+interface:///de/nava/informa/utils/manager/PersistenceManagerIF|>,2,|java+interface:///de/nava/informa/utils/manager/PersistenceManagerIF|>,
+  <<|java+class:///de/nava/informa/impl/basic/ChannelGroup|,|java+interface:///de/nava/informa/core/ChannelGroupIF|>,2,|java+interface:///de/nava/informa/core/ChannelGroupIF|>,
+  <<|java+class:///de/nava/informa/parsers/RSS_2_0_Parser/RecursiveHashtable|,|java+class:///java/util/Hashtable|>,2,|java+class:///java/lang/String|>,
+  <<|java+class:///de/nava/informa/impl/basic/Item|,|java+interface:///de/nava/informa/core/ItemIF|>,2,|java+interface:///de/nava/informa/core/ItemIF|>,
+  <<|java+class:///de/nava/informa/utils/InformaTestCase|,|java+class:///junit/framework/TestCase|>,2,|java+interface:///junit/framework/Test|>,
+  <<|java+interface:///de/nava/informa/core/ItemGuidIF|,|java+interface:///de/nava/informa/core/WithIdMIF|>,2,|java+class:///java/lang/Object|>,
+  <<|java+interface:///de/nava/informa/core/ItemSourceIF|,|java+interface:///de/nava/informa/core/WithNameMIF|>,2,|java+class:///java/lang/Object|>,
+  <<|java+interface:///de/nava/informa/core/WithNameMIF|,|java+interface:///java/io/Serializable|>,2,|java+class:///java/lang/Object|>,
+  <<|java+class:///de/nava/informa/utils/manager/memory/Item|,|java+class:///de/nava/informa/impl/basic/Item|>,2,|java+class:///java/lang/Object|>,
+  <<|java+class:///de/nava/informa/utils/manager/memory/Channel|,|java+class:///de/nava/informa/impl/basic/Channel|>,2,|java+interface:///de/nava/informa/core/ChannelIF|>
+}

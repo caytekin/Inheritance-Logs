@@ -1,0 +1,5 @@
+Error log for derby-10.9.1.0
+In getExternalReuseViaMethodCall, methodcall decl unresolved for method call: |unresolved:///|, at |project://derby-10.9.1.0/db-derby-10.9.1.0-src/generated/java/nserverdemo/NsSample.java|(6815,42,<181,2>,<181,44>). Receiver is: simpleName("NsSampleWork")[@src=|project://derby-10.9.1.0/db-derby-10.9.1.0-src/generated/java/nserverdemo/NsSample.java|(6815,12,<181,2>,<181,14>),@decl=|unresolved:///|,@typ=unresolved()]
+
+In getExternalReuseViaMethodCall, methodcall decl unresolved for method call: |unresolved:///|, at |project://derby-10.9.1.0/db-derby-10.9.1.0-src/generated/java/nserverdemo/NsSample.java|(6925,41,<182,2>,<182,43>). Receiver is: simpleName("NsSampleWork")[@src=|project://derby-10.9.1.0/db-derby-10.9.1.0-src/generated/java/nserverdemo/NsSample.java|(6925,12,<182,2>,<182,14>),@decl=|unresolved:///|,@typ=unresolved()]
+

@@ -1,0 +1,21 @@
+[
+  <<|java+class:///jparse/MethAST|,|java+interface:///jparse/Method|>,{
+    |java+interface:///jparse/JavaTokenTypes|,
+    |java+class:///jparse/JavaAST|
+  },|project://jparse-0.96/src/jparse/SourceType.java|(8410,22,<321,26>,<321,48>)>,
+  <<|java+class:///jparse/MethAST|,|java+interface:///jparse/Method|>,{
+    |java+interface:///jparse/JavaTokenTypes|,
+    |java+class:///jparse/JavaAST|
+  },|project://jparse-0.96/src/jparse/SourceType.java|(9194,22,<341,32>,<341,54>)>,
+  <<|java+class:///jparse/stmt/EmptyAST|,|java+class:///jparse/stmt/StatementAST|>,{|java+interface:///jparse/JavaTokenTypes|},|project://jparse-0.96/src/jparse/SymbolTable.java|(8521,17,<288,7>,<288,24>)>,
+  <<|java+class:///jparse/stmt/CompoundAST|,|java+class:///jparse/stmt/StatementAST|>,{|java+interface:///jparse/JavaTokenTypes|},|project://jparse-0.96/src/jparse/CompileContext.java|(3306,36,<108,8>,<108,44>)>,
+  <<|java+class:///jparse/stmt/ClassAST|,|java+class:///jparse/stmt/StatementAST|>,{|java+interface:///jparse/JavaTokenTypes|},|project://jparse-0.96/src/jparse/CompileContext.java|(3933,39,<135,8>,<135,47>)>,
+  <<|java+class:///jparse/MethAST|,|java+interface:///jparse/Method|>,{
+    |java+interface:///jparse/JavaTokenTypes|,
+    |java+class:///jparse/JavaAST|
+  },|project://jparse-0.96/src/jparse/CompiledType.java|(9235,22,<286,26>,<286,48>)>,
+  <<|java+class:///jparse/MethAST|,|java+interface:///jparse/Method|>,{
+    |java+interface:///jparse/JavaTokenTypes|,
+    |java+class:///jparse/JavaAST|
+  },|project://jparse-0.96/src/jparse/CompiledType.java|(10019,22,<306,32>,<306,54>)>
+]

@@ -1,0 +1,17 @@
+[
+  <<|java+class:///org/jgroups/tests/CustomProtocolTest/MyProtocol|,|java+class:///org/jgroups/stack/Protocol|>,|java+class:///org/jgroups/protocols/UNICAST|>,
+  <<|java+class:///org/jgroups/blocks/MembershipListenerAdapter|,|java+interface:///org/jgroups/MembershipListener|>,|java+class:///org/jgroups/blocks/MessageDispatcher/PullPushHandler|>,
+  <<|java+class:///org/jgroups/ChannelListenerAdapter|,|java+interface:///org/jgroups/ChannelListener|>,|java+class:///org/jgroups/demos/Draw|>,
+  <<|java+class:///org/jgroups/conf/PropertyConverters/FlushInvoker|,|java+interface:///org/jgroups/conf/PropertyConverter|>,|java+class:///org/jgroups/conf/PropertyConverters/NetworkInterfaceList|>,
+  <<|java+class:///org/jgroups/demos/Draw2Channels/DataReceiver|,|java+interface:///org/jgroups/ChannelListener|>,|java+class:///org/jgroups/demos/Draw|>,
+  <<|java+class:///org/jgroups/blocks/ConnectionTableTest/DummyReceiverNIO|,|java+interface:///org/jgroups/blocks/BasicConnectionTable/Receiver|>,|java+anonymousClass:///org/jgroups/tests/ConnectionTableUnitTest/testSendEmptyData()/$anonymous1|>,
+  <<|java+class:///org/jgroups/conf/PropertyConverters/InitialHosts|,|java+interface:///org/jgroups/conf/PropertyConverter|>,|java+class:///org/jgroups/conf/PropertyConverters/NetworkInterfaceList|>,
+  <<|java+class:///org/jgroups/conf/PropertyConverters/InitialHosts2|,|java+interface:///org/jgroups/conf/PropertyConverter|>,|java+class:///org/jgroups/conf/PropertyConverters/NetworkInterfaceList|>,
+  <<|java+class:///org/jgroups/ReceiverAdapter|,|java+interface:///org/jgroups/Receiver|>,|java+class:///org/jgroups/blocks/NotificationBus|>,
+  <<|java+class:///org/jgroups/blocks/GridFile/Metadata|,|java+interface:///org/jgroups/util/Streamable|>,|java+class:///org/jgroups/View|>,
+  <<|java+class:///org/jgroups/tests/UnicastTest/Data|,|java+interface:///org/jgroups/util/Streamable|>,|java+class:///org/jgroups/View|>,
+  <<|java+class:///org/jgroups/conf/PropertyConverters/BindInterface|,|java+interface:///org/jgroups/conf/PropertyConverter|>,|java+class:///org/jgroups/conf/PropertyConverters/NetworkInterfaceList|>,
+  <<|java+class:///org/jgroups/blocks/MessageDispatcher/TransportAdapter|,|java+interface:///org/jgroups/Transport|>,|java+class:///org/jgroups/blocks/GroupRequestTest/MyTransport|>,
+  <<|java+class:///org/jgroups/tests/UnicastTestRpcDist/Results|,|java+interface:///org/jgroups/util/Streamable|>,|java+class:///org/jgroups/View|>,
+  <<|java+class:///org/jgroups/tests/UnicastTestRpcDist/ConfigOptions|,|java+interface:///org/jgroups/util/Streamable|>,|java+class:///org/jgroups/View|>
+]

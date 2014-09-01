@@ -1,0 +1,163 @@
+RESULTS LOG: 
+INTERNAL REUSE TOTAL: 26 
+<|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlBodyRendererBase|,|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlRenderer|> 
+<|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlButtonRendererBase|,|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlRenderer|> 
+<|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlCheckboxRendererBase|,|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlRenderer|> 
+<|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlFormRendererBase|,|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlRenderer|> 
+<|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlGridRendererBase|,|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlRenderer|> 
+<|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlGroupRendererBase|,|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlRenderer|> 
+<|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlImageRendererBase|,|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlRenderer|> 
+<|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlLinkRendererBase|,|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlRenderer|> 
+<|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlListboxRendererBase|,|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlSelectableRendererBase|> 
+<|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlMenuRendererBase|,|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlSelectableRendererBase|> 
+<|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlMessageRendererBase|,|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlRenderer|> 
+<|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlMessagesRendererBase|,|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlMessageRendererBase|> 
+<|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlOutcomeTargetButtonRendererBase|,|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlRenderer|> 
+<|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlRadioRendererBase|,|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlRenderer|> 
+<|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlSecretRendererBase|,|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlRenderer|> 
+<|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlSelectableRendererBase|,|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlRenderer|> 
+<|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlTableRendererBase|,|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlRenderer|> 
+<|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlTextRendererBase|,|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlRenderer|> 
+<|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlTextareaRendererBase|,|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlRenderer|> 
+<|java+class:///org/apache/myfaces/shared/resource/AliasResourceMetaImpl|,|java+class:///org/apache/myfaces/shared/resource/ResourceMetaImpl|> 
+<|java+class:///org/apache/myfaces/shared/resource/ClassLoaderResourceLoader|,|java+class:///org/apache/myfaces/shared/resource/ResourceLoader|> 
+<|java+class:///org/apache/myfaces/shared/resource/ExternalContextResourceLoader|,|java+class:///org/apache/myfaces/shared/resource/ResourceLoader|> 
+<|java+class:///org/apache/myfaces/shared/resource/ResourceLoaderWrapper|,|java+class:///org/apache/myfaces/shared/resource/ResourceLoader|> 
+<|java+class:///org/apache/myfaces/shared/taglib/core/SelectItemTagBase|,|java+class:///org/apache/myfaces/shared/taglib/UIComponentELTagBase|> 
+<|java+class:///org/apache/myfaces/shared/util/ConcurrentLRUCache/PQueue|,|java+class:///org/apache/myfaces/shared/util/PriorityQueue|> 
+<|java+class:///org/apache/myfaces/shared/view/JspViewDeclarationLanguageBase|,|java+class:///org/apache/myfaces/shared/view/ViewDeclarationLanguageBase|> 
+
+EXTERNAL REUSE TOTAL: 4 
+<|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlRendererUtils/ScriptContext|,|java+class:///org/apache/myfaces/shared/renderkit/html/JavascriptContext|> 
+<|java+class:///org/apache/myfaces/shared/resource/ClassLoaderResourceLoader|,|java+class:///org/apache/myfaces/shared/resource/ResourceLoader|> 
+<|java+class:///org/apache/myfaces/shared/util/ConcurrentLRUCache/PQueue|,|java+class:///org/apache/myfaces/shared/util/PriorityQueue|> 
+<|java+class:///org/apache/myfaces/shared/util/StreamCharBuffer/CharBufferChunk|,|java+class:///org/apache/myfaces/shared/util/StreamCharBuffer/AbstractChunk|> 
+
+SUBTYPE TOTAL: 9 
+<|java+class:///org/apache/myfaces/shared/resource/ResourceMetaImpl|,|java+class:///org/apache/myfaces/shared/resource/ResourceMeta|> 
+<|java+class:///org/apache/myfaces/shared/util/StreamCharBuffer/AbstractChunkReader|,|java+class:///org/apache/myfaces/shared/util/StreamCharBuffer/ChunkReader|> 
+<|java+class:///org/apache/myfaces/shared/util/StreamCharBuffer/AllocatedBufferReader|,|java+class:///org/apache/myfaces/shared/util/StreamCharBuffer/ChunkReader|> 
+<|java+class:///org/apache/myfaces/shared/util/StreamCharBuffer/CharBufferChunk|,|java+class:///org/apache/myfaces/shared/util/StreamCharBuffer/AbstractChunk|> 
+<|java+class:///org/apache/myfaces/shared/util/StreamCharBuffer/CharBufferChunkReader|,|java+class:///org/apache/myfaces/shared/util/StreamCharBuffer/AbstractChunkReader|> 
+<|java+class:///org/apache/myfaces/shared/util/StreamCharBuffer/StreamCharBufferSubChunk|,|java+class:///org/apache/myfaces/shared/util/StreamCharBuffer/AbstractChunk|> 
+<|java+class:///org/apache/myfaces/shared/util/StreamCharBuffer/StreamCharBufferSubChunkReader|,|java+class:///org/apache/myfaces/shared/util/StreamCharBuffer/AbstractChunkReader|> 
+<|java+class:///org/apache/myfaces/shared/util/StreamCharBuffer/StringChunk|,|java+class:///org/apache/myfaces/shared/util/StreamCharBuffer/AbstractChunk|> 
+<|java+class:///org/apache/myfaces/shared/util/StreamCharBuffer/StringChunkReader|,|java+class:///org/apache/myfaces/shared/util/StreamCharBuffer/AbstractChunkReader|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 10 
+<|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlRendererUtils/ScriptContext|,|java+class:///org/apache/myfaces/shared/renderkit/html/JavascriptContext|> 
+<|java+class:///org/apache/myfaces/shared/resource/AliasResourceMetaImpl|,|java+class:///org/apache/myfaces/shared/resource/ResourceMetaImpl|> 
+<|java+class:///org/apache/myfaces/shared/resource/ClassLoaderResourceLoader|,|java+class:///org/apache/myfaces/shared/resource/ResourceLoader|> 
+<|java+class:///org/apache/myfaces/shared/resource/ExternalContextResourceLoader|,|java+class:///org/apache/myfaces/shared/resource/ResourceLoader|> 
+<|java+class:///org/apache/myfaces/shared/resource/ResourceLoaderWrapper|,|java+class:///org/apache/myfaces/shared/resource/ResourceLoader|> 
+<|java+class:///org/apache/myfaces/shared/util/ConcurrentLRUCache/PQueue|,|java+class:///org/apache/myfaces/shared/util/PriorityQueue|> 
+<|java+class:///org/apache/myfaces/shared/util/StreamCharBuffer/CharBufferChunk|,|java+class:///org/apache/myfaces/shared/util/StreamCharBuffer/AbstractChunk|> 
+<|java+class:///org/apache/myfaces/shared/util/StreamCharBuffer/CharBufferChunkReader|,|java+class:///org/apache/myfaces/shared/util/StreamCharBuffer/AbstractChunkReader|> 
+<|java+class:///org/apache/myfaces/shared/util/StreamCharBuffer/StreamCharBufferSubChunkReader|,|java+class:///org/apache/myfaces/shared/util/StreamCharBuffer/AbstractChunkReader|> 
+<|java+class:///org/apache/myfaces/shared/util/StreamCharBuffer/StringChunkReader|,|java+class:///org/apache/myfaces/shared/util/StreamCharBuffer/AbstractChunkReader|> 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 1 
+<|java+class:///org/apache/myfaces/shared/util/StreamCharBuffer/AbstractChunkReader|,|java+class:///org/apache/myfaces/shared/util/StreamCharBuffer/ChunkReader|> 
+
+FRAMEWORK TOTAL: 20 
+<|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlBodyRendererBase|,|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlRenderer|> 
+<|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlButtonRendererBase|,|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlRenderer|> 
+<|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlCheckboxRendererBase|,|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlRenderer|> 
+<|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlFormRendererBase|,|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlRenderer|> 
+<|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlGridRendererBase|,|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlRenderer|> 
+<|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlGroupRendererBase|,|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlRenderer|> 
+<|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlImageRendererBase|,|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlRenderer|> 
+<|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlLinkRendererBase|,|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlRenderer|> 
+<|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlMessageRendererBase|,|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlRenderer|> 
+<|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlOutcomeTargetButtonRendererBase|,|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlRenderer|> 
+<|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlRadioRendererBase|,|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlRenderer|> 
+<|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlSecretRendererBase|,|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlRenderer|> 
+<|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlSelectableRendererBase|,|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlRenderer|> 
+<|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlTableRendererBase|,|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlRenderer|> 
+<|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlTextRendererBase|,|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlRenderer|> 
+<|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlTextareaRendererBase|,|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlRenderer|> 
+<|java+class:///org/apache/myfaces/shared/taglib/core/SelectItemTagBase|,|java+class:///org/apache/myfaces/shared/taglib/UIComponentELTagBase|> 
+<|java+class:///org/apache/myfaces/shared/util/el/StringMap|,|java+class:///org/apache/myfaces/shared/util/el/GenericMap|> 
+<|java+class:///org/apache/myfaces/shared/util/el/TestsMap|,|java+class:///org/apache/myfaces/shared/util/el/GenericMap|> 
+<|java+class:///org/apache/myfaces/shared/view/JspViewDeclarationLanguageBase|,|java+class:///org/apache/myfaces/shared/view/ViewDeclarationLanguageBase|> 
+
+DOWNCALL TOTAL: 7 
+<|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlMessagesRendererBase|,|java+class:///org/apache/myfaces/shared/renderkit/html/HtmlMessageRendererBase|> 
+<|java+class:///org/apache/myfaces/shared/resource/ClassLoaderResourceLoader|,|java+class:///org/apache/myfaces/shared/resource/ResourceLoader|> 
+<|java+class:///org/apache/myfaces/shared/resource/ExternalContextResourceLoader|,|java+class:///org/apache/myfaces/shared/resource/ResourceLoader|> 
+<|java+class:///org/apache/myfaces/shared/util/ConcurrentLRUCache/PQueue|,|java+class:///org/apache/myfaces/shared/util/PriorityQueue|> 
+<|java+class:///org/apache/myfaces/shared/util/StreamCharBuffer/CharBufferChunk|,|java+class:///org/apache/myfaces/shared/util/StreamCharBuffer/AbstractChunk|> 
+<|java+class:///org/apache/myfaces/shared/util/StreamCharBuffer/StringChunk|,|java+class:///org/apache/myfaces/shared/util/StreamCharBuffer/AbstractChunk|> 
+<|java+class:///org/apache/myfaces/shared/view/JspViewDeclarationLanguageBase|,|java+class:///org/apache/myfaces/shared/view/ViewDeclarationLanguageBase|> 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 0 
+
+SUBTYPE TOTAL: 3 
+<|java+class:///org/apache/myfaces/shared/application/DefaultViewHandlerSupport|,|java+interface:///org/apache/myfaces/shared/application/ViewHandlerSupport|> 
+<|java+class:///org/apache/myfaces/shared/view/HttpServletResponseSwitch|,|java+interface:///org/apache/myfaces/shared/view/ResponseSwitch|> 
+<|java+class:///org/apache/myfaces/shared/view/ServletResponseSwitch|,|java+interface:///org/apache/myfaces/shared/view/ResponseSwitch|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 1 
+<|java+class:///org/apache/myfaces/shared/view/ServletResponseSwitch|,|java+interface:///org/apache/myfaces/shared/view/ResponseSwitch|> 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 0 
+
+DOWNCALL TOTAL: 0 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 0 
+
+SUBTYPE TOTAL: 0 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 0 
+
+DOWNCALL TOTAL: 0 
+
+
+
+

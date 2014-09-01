@@ -1,0 +1,19 @@
+[
+  <<|java+class:///org/jhotdraw/samples/svg/io/ImageMapOutputFormat|,|java+interface:///org/jhotdraw/draw/io/OutputFormat|>,|java+class:///org/jhotdraw/draw/io/DOMStorableInputOutputFormat|>,
+  <<|java+class:///org/jhotdraw/samples/odg/figures/ODGAttributedFigure|,|java+interface:///org/jhotdraw/samples/odg/figures/ODGFigure|>,|java+class:///org/jhotdraw/samples/odg/figures/ODGPathFigure|>,
+  <<|java+class:///org/jhotdraw/samples/svg/figures/SVGGroupFigure|,|java+interface:///org/jhotdraw/samples/svg/figures/SVGFigure|>,|java+class:///org/jhotdraw/samples/svg/figures/SVGPathFigure|>,
+  <<|java+class:///org/jhotdraw/samples/svg/SVGDrawingPanel|,|java+interface:///org/jhotdraw/app/Disposable|>,|java+anonymousClass:///org/jhotdraw/samples/svg/action/ViewSourceAction/actionPerformed(java/awt/event/ActionEvent)/$anonymous3|>,
+  <<|java+class:///org/jhotdraw/samples/odg/io/ODGInputFormat|,|java+interface:///org/jhotdraw/draw/io/InputFormat|>,|java+class:///org/jhotdraw/samples/svg/io/SVGInputFormat|>,
+  <<|java+class:///org/jhotdraw/xml/NanoXMLDOMInput|,|java+interface:///org/jhotdraw/app/Disposable|>,|java+anonymousClass:///org/jhotdraw/samples/svg/action/ViewSourceAction/actionPerformed(java/awt/event/ActionEvent)/$anonymous3|>,
+  <<|java+class:///org/jhotdraw/xml/NanoXMLDOMOutput|,|java+interface:///org/jhotdraw/app/Disposable|>,|java+anonymousClass:///org/jhotdraw/samples/svg/action/ViewSourceAction/actionPerformed(java/awt/event/ActionEvent)/$anonymous3|>,
+  <<|java+class:///org/jhotdraw/draw/locator/AbstractLocator|,|java+interface:///org/jhotdraw/draw/locator/Locator|>,|java+class:///org/jhotdraw/draw/locator/FontSizeLocator|>,
+  <<|java+class:///org/jhotdraw/samples/svg/gui/AbstractToolBar|,|java+interface:///org/jhotdraw/app/Disposable|>,|java+anonymousClass:///org/jhotdraw/samples/svg/action/ViewSourceAction/actionPerformed(java/awt/event/ActionEvent)/$anonymous3|>,
+  <<|java+class:///org/jhotdraw/app/action/AbstractApplicationAction|,|java+interface:///org/jhotdraw/app/Disposable|>,|java+anonymousClass:///org/jhotdraw/samples/svg/action/ViewSourceAction/actionPerformed(java/awt/event/ActionEvent)/$anonymous3|>,
+  <<|java+class:///org/jhotdraw/draw/event/DrawingComponentRepainter|,|java+interface:///org/jhotdraw/app/Disposable|>,|java+anonymousClass:///org/jhotdraw/samples/svg/action/ViewSourceAction/actionPerformed(java/awt/event/ActionEvent)/$anonymous3|>,
+  <<|java+class:///net/n3/nanoxml/ValidatorPlugin|,|java+interface:///net/n3/nanoxml/IXMLValidator|>,|java+class:///net/n3/nanoxml/NonValidator|>,
+  <<|java+class:///org/jhotdraw/draw/layouter/AbstractLayouter|,|java+interface:///org/jhotdraw/draw/layouter/Layouter|>,|java+class:///org/jhotdraw/draw/layouter/LocatorLayouter|>,
+  <<|java+class:///org/jhotdraw/draw/action/AbstractDrawingViewAction|,|java+interface:///org/jhotdraw/app/Disposable|>,|java+anonymousClass:///org/jhotdraw/samples/svg/action/ViewSourceAction/actionPerformed(java/awt/event/ActionEvent)/$anonymous3|>,
+  <<|java+class:///org/jhotdraw/draw/DrawingEditorProxy|,|java+interface:///org/jhotdraw/draw/DrawingEditor|>,|java+class:///org/jhotdraw/draw/DefaultDrawingEditor|>,
+  <<|java+class:///org/jhotdraw/draw/event/AbstractAttributeEditorHandler|,|java+interface:///org/jhotdraw/app/Disposable|>,|java+anonymousClass:///org/jhotdraw/samples/svg/action/ViewSourceAction/actionPerformed(java/awt/event/ActionEvent)/$anonymous3|>,
+  <<|java+class:///org/jhotdraw/draw/event/SelectionComponentRepainter|,|java+interface:///org/jhotdraw/app/Disposable|>,|java+anonymousClass:///org/jhotdraw/samples/svg/action/ViewSourceAction/actionPerformed(java/awt/event/ActionEvent)/$anonymous3|>
+]

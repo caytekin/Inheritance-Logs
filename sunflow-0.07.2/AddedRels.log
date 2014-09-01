@@ -1,0 +1,22 @@
+{
+  <<|java+class:///org/sunflow/core/shader/TexturedShinyDiffuseShader|,|java+class:///org/sunflow/core/shader/ShinyDiffuseShader|>,2,|java+interface:///org/sunflow/core/Shader|>,
+  <<|java+class:///org/sunflow/core/light/TriangleMeshLight|,|java+class:///org/sunflow/core/primitive/TriangleMesh|>,2,|java+interface:///org/sunflow/core/PrimitiveList|>,
+  <<|java+class:///org/sunflow/core/shader/DiffuseShader|,|java+interface:///org/sunflow/core/Shader|>,2,|java+interface:///org/sunflow/core/Shader|>,
+  <<|java+class:///org/sunflow/core/shader/TexturedAmbientOcclusionShader|,|java+class:///org/sunflow/core/shader/AmbientOcclusionShader|>,2,|java+interface:///org/sunflow/core/Shader|>,
+  <<|java+class:///org/sunflow/core/tesselatable/BezierMesh|,|java+interface:///org/sunflow/core/PrimitiveList|>,2,|java+interface:///org/sunflow/core/PrimitiveList|>,
+  <<|java+class:///org/sunflow/core/tesselatable/Gumbo|,|java+class:///org/sunflow/core/tesselatable/BezierMesh|>,2,|java+interface:///org/sunflow/core/Tesselatable|>,
+  <<|java+class:///org/sunflow/core/tesselatable/Gumbo|,|java+class:///org/sunflow/core/tesselatable/BezierMesh|>,2,|java+interface:///org/sunflow/core/PrimitiveList|>,
+  <<|java+class:///org/sunflow/core/shader/PhongShader|,|java+interface:///org/sunflow/core/Shader|>,2,|java+interface:///org/sunflow/core/Shader|>,
+  <<|java+class:///org/sunflow/core/shader/TexturedPhongShader|,|java+class:///org/sunflow/core/shader/PhongShader|>,2,|java+interface:///org/sunflow/core/Shader|>,
+  <<|java+class:///org/sunflow/core/shader/ShinyDiffuseShader|,|java+interface:///org/sunflow/core/Shader|>,2,|java+interface:///org/sunflow/core/Shader|>,
+  <<|java+interface:///org/sunflow/core/Shader|,|java+interface:///org/sunflow/core/RenderObject|>,2,|java+class:///java/lang/Object|>,
+  <<|java+interface:///org/sunflow/core/Tesselatable|,|java+interface:///org/sunflow/core/RenderObject|>,2,|java+class:///java/lang/Object|>,
+  <<|java+class:///org/sunflow/core/tesselatable/Teapot|,|java+class:///org/sunflow/core/tesselatable/BezierMesh|>,2,|java+interface:///org/sunflow/core/PrimitiveList|>,
+  <<|java+class:///org/sunflow/core/shader/AmbientOcclusionShader|,|java+interface:///org/sunflow/core/Shader|>,2,|java+interface:///org/sunflow/core/Shader|>,
+  <<|java+class:///org/sunflow/core/shader/TexturedDiffuseShader|,|java+class:///org/sunflow/core/shader/DiffuseShader|>,2,|java+interface:///org/sunflow/core/Shader|>,
+  <<|java+class:///org/sunflow/core/tesselatable/Teapot|,|java+class:///org/sunflow/core/tesselatable/BezierMesh|>,2,|java+interface:///org/sunflow/core/Tesselatable|>,
+  <<|java+class:///org/sunflow/core/tesselatable/BezierMesh|,|java+interface:///org/sunflow/core/Tesselatable|>,2,|java+interface:///org/sunflow/core/Tesselatable|>,
+  <<|java+class:///org/sunflow/core/shader/AnisotropicWardShader|,|java+interface:///org/sunflow/core/Shader|>,2,|java+interface:///org/sunflow/core/Shader|>,
+  <<|java+class:///org/sunflow/core/primitive/TriangleMesh|,|java+interface:///org/sunflow/core/PrimitiveList|>,2,|java+interface:///org/sunflow/core/PrimitiveList|>,
+  <<|java+class:///org/sunflow/core/shader/TexturedWardShader|,|java+class:///org/sunflow/core/shader/AnisotropicWardShader|>,2,|java+interface:///org/sunflow/core/Shader|>
+}

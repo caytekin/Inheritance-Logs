@@ -1,0 +1,9 @@
+[
+  <<|java+class:///org/antlr/runtime/tree/CommonErrorNode|,|java+class:///org/antlr/runtime/tree/CommonTree|>,|java+class:///org/antlr/test/TestTrees/V|>,
+  <<|java+class:///org/antlr/runtime/BufferedTokenStream|,|java+interface:///org/antlr/runtime/TokenStream|>,|java+class:///org/antlr/runtime/debug/DebugTokenStream|>,
+  <<|java+class:///org/antlr/runtime/tree/TreeWizard/Visitor|,|java+interface:///org/antlr/runtime/tree/TreeWizard/ContextVisitor|>,|java+anonymousClass:///org/antlr/test/TestTreeWizard/testRepeatsVisitWithContext()/$anonymous1|>,
+  <<|java+class:///org/antlr/runtime/UnbufferedTokenStream|,|java+interface:///org/antlr/runtime/TokenStream|>,|java+class:///org/antlr/runtime/debug/DebugTokenStream|>,
+  <<|java+class:///org/antlr/runtime/ClassicToken|,|java+interface:///org/antlr/runtime/Token|>,|java+class:///org/antlr/runtime/CommonToken|>,
+  <<|java+class:///org/antlr/mojo/antlr3/Antlr3ErrorLog|,|java+interface:///org/antlr/tool/ANTLRErrorListener|>,|java+class:///org/antlr/test/ErrorQueue|>,
+  <<|java+class:///org/antlr/runtime/LegacyCommonTokenStream|,|java+interface:///org/antlr/runtime/TokenStream|>,|java+class:///org/antlr/runtime/debug/DebugTokenStream|>
+]

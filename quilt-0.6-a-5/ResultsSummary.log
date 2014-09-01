@@ -1,0 +1,151 @@
+RESULTS LOG: 
+INTERNAL REUSE TOTAL: 15 
+<|java+class:///ComplicatedConstructor|,|java+class:///SuperClass|> 
+<|java+class:///org/quilt/cl/CodeVertex|,|java+class:///org/quilt/graph/Vertex|> 
+<|java+class:///org/quilt/cl/ControlFlowGraph|,|java+class:///org/quilt/graph/Directed|> 
+<|java+class:///org/quilt/cover/stmt/CounterVertex|,|java+class:///org/quilt/cl/CodeVertex|> 
+<|java+class:///org/quilt/cover/stmt/StmtRegistry|,|java+class:///org/quilt/reg/QuiltRegistry|> 
+<|java+class:///org/quilt/frontend/ant/BatchTest|,|java+class:///org/quilt/framework/QuiltTest|> 
+<|java+class:///org/quilt/graph/BinaryConnector|,|java+class:///org/quilt/graph/Connector|> 
+<|java+class:///org/quilt/graph/ComplexConnector|,|java+class:///org/quilt/graph/Connector|> 
+<|java+class:///org/quilt/graph/Entry|,|java+class:///org/quilt/graph/Vertex|> 
+<|java+class:///org/quilt/graph/Exit|,|java+class:///org/quilt/graph/Vertex|> 
+<|java+class:///org/quilt/graph/MultiConnector|,|java+class:///org/quilt/graph/Connector|> 
+<|java+class:///org/quilt/reports/BriefFormatter|,|java+class:///org/quilt/reports/BaseFormatter|> 
+<|java+class:///org/quilt/reports/PlainFormatter|,|java+class:///org/quilt/reports/BaseFormatter|> 
+<|java+class:///org/quilt/textui/MockTestRunner|,|java+class:///org/quilt/textui/Textui|> 
+<|java+class:///org/quilt/textui/TestRunner|,|java+class:///org/quilt/textui/Textui|> 
+
+EXTERNAL REUSE TOTAL: 5 
+<|java+class:///org/quilt/cl/CodeVertex|,|java+class:///org/quilt/graph/Vertex|> 
+<|java+class:///org/quilt/cl/ControlFlowGraph|,|java+class:///org/quilt/graph/Directed|> 
+<|java+class:///org/quilt/cover/stmt/CounterVertex|,|java+class:///org/quilt/cl/CodeVertex|> 
+<|java+class:///org/quilt/graph/Entry|,|java+class:///org/quilt/graph/Vertex|> 
+<|java+class:///org/quilt/graph/Exit|,|java+class:///org/quilt/graph/Vertex|> 
+
+SUBTYPE TOTAL: 13 
+<|java+class:///org/quilt/cl/CodeVertex|,|java+class:///org/quilt/graph/Vertex|> 
+<|java+class:///org/quilt/cl/ControlFlowGraph|,|java+class:///org/quilt/graph/Directed|> 
+<|java+class:///org/quilt/cover/stmt/CounterVertex|,|java+class:///org/quilt/cl/CodeVertex|> 
+<|java+class:///org/quilt/cover/stmt/StmtRegistry|,|java+class:///org/quilt/reg/QuiltRegistry|> 
+<|java+class:///org/quilt/frontend/ant/BatchTest|,|java+class:///org/quilt/framework/QuiltTest|> 
+<|java+class:///org/quilt/graph/BinaryConnector|,|java+class:///org/quilt/graph/Connector|> 
+<|java+class:///org/quilt/graph/ComplexConnector|,|java+class:///org/quilt/graph/Connector|> 
+<|java+class:///org/quilt/graph/Entry|,|java+class:///org/quilt/graph/Vertex|> 
+<|java+class:///org/quilt/graph/Exit|,|java+class:///org/quilt/graph/Vertex|> 
+<|java+class:///org/quilt/graph/MultiConnector|,|java+class:///org/quilt/graph/Connector|> 
+<|java+class:///org/quilt/graph/UnaryConnector|,|java+class:///org/quilt/graph/Connector|> 
+<|java+class:///org/quilt/reg/QuiltRegistry|,|java+class:///org/quilt/reg/Registry|> 
+<|java+class:///org/quilt/runner/BaseTestRunner|,|java+class:///org/quilt/runner/Runner|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 6 
+<|java+class:///ComplicatedConstructor|,|java+class:///SuperClass|> 
+<|java+class:///org/quilt/cl/CodeVertex|,|java+class:///org/quilt/graph/Vertex|> 
+<|java+class:///org/quilt/cl/ControlFlowGraph|,|java+class:///org/quilt/graph/Directed|> 
+<|java+class:///org/quilt/cover/stmt/CounterVertex|,|java+class:///org/quilt/cl/CodeVertex|> 
+<|java+class:///org/quilt/cover/stmt/StmtRegistry|,|java+class:///org/quilt/reg/QuiltRegistry|> 
+<|java+class:///org/quilt/reg/QuiltRegistry|,|java+class:///org/quilt/reg/Registry|> 
+
+GENERIC TOTAL: 1 
+<|java+class:///org/quilt/runner/Runner|,|java+class:///org/quilt/framework/QuiltTest|> 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 4 
+<|java+class:///org/quilt/frontend/ant/BatchTest|,|java+class:///org/quilt/framework/QuiltTest|> 
+<|java+class:///org/quilt/runner/BaseTestRunner|,|java+class:///org/quilt/runner/Runner|> 
+<|java+class:///org/quilt/runner/MockTestRunner|,|java+class:///org/quilt/framework/QuiltTest|> 
+<|java+class:///org/quilt/runner/Runner|,|java+class:///org/quilt/framework/QuiltTest|> 
+
+DOWNCALL TOTAL: 5 
+<|java+class:///org/quilt/cl/CodeVertex|,|java+class:///org/quilt/graph/Vertex|> 
+<|java+class:///org/quilt/graph/Entry|,|java+class:///org/quilt/graph/Vertex|> 
+<|java+class:///org/quilt/graph/Exit|,|java+class:///org/quilt/graph/Vertex|> 
+<|java+class:///org/quilt/textui/MockTestRunner|,|java+class:///org/quilt/textui/Textui|> 
+<|java+class:///org/quilt/textui/TestRunner|,|java+class:///org/quilt/textui/Textui|> 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 4 
+<|java+class:///org/quilt/cover/stmt/ClassAction|,|java+interface:///org/quilt/cl/ClassXformer|> 
+<|java+class:///org/quilt/cover/stmt/GraphAction|,|java+interface:///org/quilt/cl/GraphXformer|> 
+<|java+class:///org/quilt/cover/stmt/MethodAction|,|java+interface:///org/quilt/cl/MethodXformer|> 
+<|java+class:///org/quilt/runner/Runner|,|java+interface:///org/quilt/runner/RunnerConst|> 
+
+SUBTYPE TOTAL: 9 
+<|java+class:///InnerClass/Inner|,|java+interface:///MyListener|> 
+<|java+class:///org/quilt/cl/BytecodeCollector|,|java+interface:///org/quilt/graph/Visitor|> 
+<|java+class:///org/quilt/cl/GraphSpy|,|java+interface:///org/quilt/cl/GraphXformer|> 
+<|java+class:///org/quilt/cl/GraphTalker|,|java+interface:///org/quilt/cl/GraphXformer|> 
+<|java+class:///org/quilt/cl/GraphTalker|,|java+interface:///org/quilt/graph/Visitor|> 
+<|java+class:///org/quilt/cover/stmt/GraphAction/LampLighter|,|java+interface:///org/quilt/graph/Visitor|> 
+<|java+class:///org/quilt/graph/Directed/Sizer|,|java+interface:///org/quilt/graph/Visitor|> 
+<|java+class:///org/quilt/graph/TestA2O/Hansel|,|java+interface:///org/quilt/graph/Visitor|> 
+<|java+class:///org/quilt/reports/SummaryFormatter|,|java+interface:///org/quilt/reports/Formatter|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 4 
+<|java+class:///org/quilt/runner/Runner|,|java+interface:///org/quilt/runner/RunnerConst|> 
+<|java+class:///org/quilt/textui/MockTestRunner|,|java+interface:///org/quilt/runner/RunnerConst|> 
+<|java+class:///org/quilt/textui/TestRunner|,|java+interface:///org/quilt/runner/RunnerConst|> 
+<|java+class:///org/quilt/textui/Textui|,|java+interface:///org/quilt/runner/RunnerConst|> 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 3 
+<|java+class:///org/quilt/reports/BaseFormatter|,|java+interface:///org/quilt/reports/Formatter|> 
+<|java+class:///org/quilt/reports/SummaryFormatter|,|java+interface:///org/quilt/reports/Formatter|> 
+<|java+class:///org/quilt/reports/XMLFormatter|,|java+interface:///org/quilt/reports/Formatter|> 
+
+DOWNCALL TOTAL: 0 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 0 
+
+SUBTYPE TOTAL: 0 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 0 
+
+DOWNCALL TOTAL: 0 
+
+
+
+

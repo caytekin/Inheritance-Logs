@@ -1,0 +1,182 @@
+RESULTS LOG: 
+INTERNAL REUSE TOTAL: 15 
+<|java+class:///net/sourceforge/cobertura/ant/CheckTask|,|java+class:///net/sourceforge/cobertura/ant/CommonMatchingTask|> 
+<|java+class:///net/sourceforge/cobertura/ant/InstrumentTask|,|java+class:///net/sourceforge/cobertura/ant/CommonMatchingTask|> 
+<|java+class:///net/sourceforge/cobertura/ant/MergeTask|,|java+class:///net/sourceforge/cobertura/ant/CommonMatchingTask|> 
+<|java+class:///net/sourceforge/cobertura/ant/ReportTask|,|java+class:///net/sourceforge/cobertura/ant/CommonMatchingTask|> 
+<|java+class:///net/sourceforge/cobertura/coveragedata/ClassData|,|java+class:///net/sourceforge/cobertura/coveragedata/CoverageDataContainer|> 
+<|java+class:///net/sourceforge/cobertura/coveragedata/PackageData|,|java+class:///net/sourceforge/cobertura/coveragedata/CoverageDataContainer|> 
+<|java+class:///net/sourceforge/cobertura/coveragedata/ProjectData|,|java+class:///net/sourceforge/cobertura/coveragedata/CoverageDataContainer|> 
+<|java+class:///net/sourceforge/cobertura/coveragedata/SourceFileData|,|java+class:///net/sourceforge/cobertura/coveragedata/CoverageDataContainer|> 
+<|java+class:///net/sourceforge/cobertura/coveragedata/TouchCollector/JumpTouchData|,|java+class:///net/sourceforge/cobertura/coveragedata/TouchCollector/LineTouchData|> 
+<|java+class:///net/sourceforge/cobertura/coveragedata/TouchCollector/SwitchTouchData|,|java+class:///net/sourceforge/cobertura/coveragedata/TouchCollector/LineTouchData|> 
+<|java+class:///net/sourceforge/cobertura/instrument/SecondPassMethodInstrumenter|,|java+class:///net/sourceforge/cobertura/instrument/NewLocalVariableMethodAdapter|> 
+<|java+class:///net/sourceforge/cobertura/instrument/SwitchHolder|,|java+class:///net/sourceforge/cobertura/instrument/JumpHolder|> 
+<|java+class:///net/sourceforge/cobertura/javancss/FunctionMetric|,|java+class:///net/sourceforge/cobertura/javancss/Metric|> 
+<|java+class:///net/sourceforge/cobertura/javancss/ObjectMetric|,|java+class:///net/sourceforge/cobertura/javancss/Metric|> 
+<|java+class:///net/sourceforge/cobertura/javancss/PackageMetric|,|java+class:///net/sourceforge/cobertura/javancss/Metric|> 
+
+EXTERNAL REUSE TOTAL: 10 
+<|java+class:///net/sourceforge/cobertura/coveragedata/ClassData|,|java+class:///net/sourceforge/cobertura/coveragedata/CoverageDataContainer|> 
+<|java+class:///net/sourceforge/cobertura/coveragedata/PackageData|,|java+class:///net/sourceforge/cobertura/coveragedata/CoverageDataContainer|> 
+<|java+class:///net/sourceforge/cobertura/coveragedata/ProjectData|,|java+class:///net/sourceforge/cobertura/coveragedata/CoverageDataContainer|> 
+<|java+class:///net/sourceforge/cobertura/coveragedata/SourceFileData|,|java+class:///net/sourceforge/cobertura/coveragedata/CoverageDataContainer|> 
+<|java+class:///net/sourceforge/cobertura/coveragedata/TouchCollector/JumpTouchData|,|java+class:///net/sourceforge/cobertura/coveragedata/TouchCollector/LineTouchData|> 
+<|java+class:///net/sourceforge/cobertura/coveragedata/TouchCollector/SwitchTouchData|,|java+class:///net/sourceforge/cobertura/coveragedata/TouchCollector/LineTouchData|> 
+<|java+class:///net/sourceforge/cobertura/instrument/SwitchHolder|,|java+class:///net/sourceforge/cobertura/instrument/JumpHolder|> 
+<|java+class:///net/sourceforge/cobertura/javancss/FunctionMetric|,|java+class:///net/sourceforge/cobertura/javancss/Metric|> 
+<|java+class:///net/sourceforge/cobertura/javancss/ObjectMetric|,|java+class:///net/sourceforge/cobertura/javancss/Metric|> 
+<|java+class:///net/sourceforge/cobertura/javancss/PackageMetric|,|java+class:///net/sourceforge/cobertura/javancss/Metric|> 
+
+SUBTYPE TOTAL: 12 
+<|java+class:///net/sourceforge/cobertura/coveragedata/ClassData|,|java+class:///net/sourceforge/cobertura/coveragedata/CoverageDataContainer|> 
+<|java+class:///net/sourceforge/cobertura/coveragedata/PackageData|,|java+class:///net/sourceforge/cobertura/coveragedata/CoverageDataContainer|> 
+<|java+class:///net/sourceforge/cobertura/coveragedata/ProjectData|,|java+class:///net/sourceforge/cobertura/coveragedata/CoverageDataContainer|> 
+<|java+class:///net/sourceforge/cobertura/coveragedata/SourceFileData|,|java+class:///net/sourceforge/cobertura/coveragedata/CoverageDataContainer|> 
+<|java+class:///net/sourceforge/cobertura/coveragedata/TouchCollector/JumpTouchData|,|java+class:///net/sourceforge/cobertura/coveragedata/TouchCollector/LineTouchData|> 
+<|java+class:///net/sourceforge/cobertura/coveragedata/TouchCollector/SwitchTouchData|,|java+class:///net/sourceforge/cobertura/coveragedata/TouchCollector/LineTouchData|> 
+<|java+class:///net/sourceforge/cobertura/instrument/SwitchHolder|,|java+class:///net/sourceforge/cobertura/instrument/JumpHolder|> 
+<|java+class:///net/sourceforge/cobertura/javancss/FunctionMetric|,|java+class:///net/sourceforge/cobertura/javancss/Metric|> 
+<|java+class:///net/sourceforge/cobertura/javancss/ObjectMetric|,|java+class:///net/sourceforge/cobertura/javancss/Metric|> 
+<|java+class:///net/sourceforge/cobertura/javancss/PackageMetric|,|java+class:///net/sourceforge/cobertura/javancss/Metric|> 
+<|java+class:///net/sourceforge/cobertura/javancss/parser/java15/Token/GTToken|,|java+class:///net/sourceforge/cobertura/javancss/parser/java15/Token|> 
+<|java+class:///net/sourceforge/cobertura/javancss/parser/java15/debug/Token/GTToken|,|java+class:///net/sourceforge/cobertura/javancss/parser/java15/debug/Token|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 11 
+<|java+class:///net/sourceforge/cobertura/ant/CheckTask|,|java+class:///net/sourceforge/cobertura/ant/CommonMatchingTask|> 
+<|java+class:///net/sourceforge/cobertura/ant/InstrumentTask|,|java+class:///net/sourceforge/cobertura/ant/CommonMatchingTask|> 
+<|java+class:///net/sourceforge/cobertura/ant/MergeTask|,|java+class:///net/sourceforge/cobertura/ant/CommonMatchingTask|> 
+<|java+class:///net/sourceforge/cobertura/ant/ReportTask|,|java+class:///net/sourceforge/cobertura/ant/CommonMatchingTask|> 
+<|java+class:///net/sourceforge/cobertura/coveragedata/TouchCollector/JumpTouchData|,|java+class:///net/sourceforge/cobertura/coveragedata/TouchCollector/LineTouchData|> 
+<|java+class:///net/sourceforge/cobertura/coveragedata/TouchCollector/SwitchTouchData|,|java+class:///net/sourceforge/cobertura/coveragedata/TouchCollector/LineTouchData|> 
+<|java+class:///net/sourceforge/cobertura/instrument/SecondPassMethodInstrumenter|,|java+class:///net/sourceforge/cobertura/instrument/NewLocalVariableMethodAdapter|> 
+<|java+class:///net/sourceforge/cobertura/instrument/SwitchHolder|,|java+class:///net/sourceforge/cobertura/instrument/JumpHolder|> 
+<|java+class:///net/sourceforge/cobertura/javancss/FunctionMetric|,|java+class:///net/sourceforge/cobertura/javancss/Metric|> 
+<|java+class:///net/sourceforge/cobertura/javancss/ObjectMetric|,|java+class:///net/sourceforge/cobertura/javancss/Metric|> 
+<|java+class:///net/sourceforge/cobertura/javancss/PackageMetric|,|java+class:///net/sourceforge/cobertura/javancss/Metric|> 
+
+GENERIC TOTAL: 2 
+<|java+class:///net/sourceforge/cobertura/coveragedata/SourceFileData|,|java+class:///net/sourceforge/cobertura/coveragedata/CoverageDataContainer|> 
+<|java+class:///net/sourceforge/cobertura/coveragedata/TouchCollector/SwitchTouchData|,|java+class:///net/sourceforge/cobertura/coveragedata/TouchCollector/LineTouchData|> 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 12 
+<|java+class:///net/sourceforge/cobertura/ant/CheckTask|,|java+class:///net/sourceforge/cobertura/ant/CommonMatchingTask|> 
+<|java+class:///net/sourceforge/cobertura/ant/InstrumentTask|,|java+class:///net/sourceforge/cobertura/ant/CommonMatchingTask|> 
+<|java+class:///net/sourceforge/cobertura/ant/MergeTask|,|java+class:///net/sourceforge/cobertura/ant/CommonMatchingTask|> 
+<|java+class:///net/sourceforge/cobertura/ant/ReportTask|,|java+class:///net/sourceforge/cobertura/ant/CommonMatchingTask|> 
+<|java+class:///net/sourceforge/cobertura/coveragedata/ClassData|,|java+class:///net/sourceforge/cobertura/coveragedata/CoverageDataContainer|> 
+<|java+class:///net/sourceforge/cobertura/coveragedata/PackageData|,|java+class:///net/sourceforge/cobertura/coveragedata/CoverageDataContainer|> 
+<|java+class:///net/sourceforge/cobertura/coveragedata/ProjectData|,|java+class:///net/sourceforge/cobertura/coveragedata/CoverageDataContainer|> 
+<|java+class:///net/sourceforge/cobertura/coveragedata/SourceFileData|,|java+class:///net/sourceforge/cobertura/coveragedata/CoverageDataContainer|> 
+<|java+class:///net/sourceforge/cobertura/instrument/SecondPassMethodInstrumenter|,|java+class:///net/sourceforge/cobertura/instrument/NewLocalVariableMethodAdapter|> 
+<|java+class:///net/sourceforge/cobertura/javancss/FunctionMetric|,|java+class:///net/sourceforge/cobertura/javancss/Metric|> 
+<|java+class:///net/sourceforge/cobertura/javancss/ObjectMetric|,|java+class:///net/sourceforge/cobertura/javancss/Metric|> 
+<|java+class:///net/sourceforge/cobertura/javancss/PackageMetric|,|java+class:///net/sourceforge/cobertura/javancss/Metric|> 
+
+DOWNCALL TOTAL: 0 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 4 
+<|java+class:///net/sourceforge/cobertura/coveragedata/CoverageDataContainer|,|java+interface:///net/sourceforge/cobertura/coveragedata/CoverageData|> 
+<|java+class:///net/sourceforge/cobertura/coveragedata/JumpData|,|java+interface:///net/sourceforge/cobertura/coveragedata/BranchCoverageData|> 
+<|java+class:///net/sourceforge/cobertura/coveragedata/LineData|,|java+interface:///net/sourceforge/cobertura/coveragedata/CoverageData|> 
+<|java+class:///net/sourceforge/cobertura/coveragedata/SwitchData|,|java+interface:///net/sourceforge/cobertura/coveragedata/BranchCoverageData|> 
+
+SUBTYPE TOTAL: 9 
+<|java+class:///net/sourceforge/cobertura/coveragedata/CoverageDataContainer|,|java+interface:///net/sourceforge/cobertura/coveragedata/CoverageData|> 
+<|java+class:///net/sourceforge/cobertura/coveragedata/JumpData|,|java+interface:///net/sourceforge/cobertura/coveragedata/BranchCoverageData|> 
+<|java+class:///net/sourceforge/cobertura/coveragedata/LineData|,|java+interface:///net/sourceforge/cobertura/coveragedata/CoverageData|> 
+<|java+class:///net/sourceforge/cobertura/coveragedata/SwitchData|,|java+interface:///net/sourceforge/cobertura/coveragedata/BranchCoverageData|> 
+<|java+class:///net/sourceforge/cobertura/coveragedata/countermaps/AtomicCounterMap|,|java+interface:///net/sourceforge/cobertura/coveragedata/countermaps/CounterMap|> 
+<|java+class:///net/sourceforge/cobertura/javancss/parser/JavaParser|,|java+interface:///net/sourceforge/cobertura/javancss/parser/JavaParserInterface|> 
+<|java+class:///net/sourceforge/cobertura/javancss/parser/debug/JavaParserDebug|,|java+interface:///net/sourceforge/cobertura/javancss/parser/JavaParserInterface|> 
+<|java+class:///net/sourceforge/cobertura/javancss/parser/java15/JavaParser15|,|java+interface:///net/sourceforge/cobertura/javancss/parser/JavaParserInterface|> 
+<|java+class:///net/sourceforge/cobertura/javancss/parser/java15/debug/JavaParser15Debug|,|java+interface:///net/sourceforge/cobertura/javancss/parser/JavaParserInterface|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 8 
+<|java+class:///net/sourceforge/cobertura/javancss/parser/JavaParser|,|java+interface:///net/sourceforge/cobertura/javancss/parser/JavaParserConstants|> 
+<|java+class:///net/sourceforge/cobertura/javancss/parser/JavaParserTokenManager|,|java+interface:///net/sourceforge/cobertura/javancss/parser/JavaParserConstants|> 
+<|java+class:///net/sourceforge/cobertura/javancss/parser/debug/JavaParserDebug|,|java+interface:///net/sourceforge/cobertura/javancss/parser/debug/JavaParserDebugConstants|> 
+<|java+class:///net/sourceforge/cobertura/javancss/parser/debug/JavaParserDebugTokenManager|,|java+interface:///net/sourceforge/cobertura/javancss/parser/debug/JavaParserDebugConstants|> 
+<|java+class:///net/sourceforge/cobertura/javancss/parser/java15/JavaParser15|,|java+interface:///net/sourceforge/cobertura/javancss/parser/java15/JavaParser15Constants|> 
+<|java+class:///net/sourceforge/cobertura/javancss/parser/java15/JavaParser15TokenManager|,|java+interface:///net/sourceforge/cobertura/javancss/parser/java15/JavaParser15Constants|> 
+<|java+class:///net/sourceforge/cobertura/javancss/parser/java15/debug/JavaParser15Debug|,|java+interface:///net/sourceforge/cobertura/javancss/parser/java15/debug/JavaParser15DebugConstants|> 
+<|java+class:///net/sourceforge/cobertura/javancss/parser/java15/debug/JavaParser15DebugTokenManager|,|java+interface:///net/sourceforge/cobertura/javancss/parser/java15/debug/JavaParser15DebugConstants|> 
+
+MARKER TOTAL: 16 
+<|java+class:///net/sourceforge/cobertura/coveragedata/ClassData|,|java+interface:///net/sourceforge/cobertura/coveragedata/HasBeenInstrumented|> 
+<|java+class:///net/sourceforge/cobertura/coveragedata/CoverageDataContainer|,|java+interface:///net/sourceforge/cobertura/coveragedata/HasBeenInstrumented|> 
+<|java+class:///net/sourceforge/cobertura/coveragedata/CoverageDataFileHandler|,|java+interface:///net/sourceforge/cobertura/coveragedata/HasBeenInstrumented|> 
+<|java+class:///net/sourceforge/cobertura/coveragedata/JumpData|,|java+interface:///net/sourceforge/cobertura/coveragedata/HasBeenInstrumented|> 
+<|java+class:///net/sourceforge/cobertura/coveragedata/LineData|,|java+interface:///net/sourceforge/cobertura/coveragedata/HasBeenInstrumented|> 
+<|java+class:///net/sourceforge/cobertura/coveragedata/PackageData|,|java+interface:///net/sourceforge/cobertura/coveragedata/HasBeenInstrumented|> 
+<|java+class:///net/sourceforge/cobertura/coveragedata/ProjectData|,|java+interface:///net/sourceforge/cobertura/coveragedata/HasBeenInstrumented|> 
+<|java+class:///net/sourceforge/cobertura/coveragedata/SaveTimer|,|java+interface:///net/sourceforge/cobertura/coveragedata/HasBeenInstrumented|> 
+<|java+class:///net/sourceforge/cobertura/coveragedata/SourceFileData|,|java+interface:///net/sourceforge/cobertura/coveragedata/HasBeenInstrumented|> 
+<|java+class:///net/sourceforge/cobertura/coveragedata/SwitchData|,|java+interface:///net/sourceforge/cobertura/coveragedata/HasBeenInstrumented|> 
+<|java+class:///net/sourceforge/cobertura/coveragedata/TouchCollector|,|java+interface:///net/sourceforge/cobertura/coveragedata/HasBeenInstrumented|> 
+<|java+class:///net/sourceforge/cobertura/coveragedata/TouchCollector/JumpTouchData|,|java+interface:///net/sourceforge/cobertura/coveragedata/HasBeenInstrumented|> 
+<|java+class:///net/sourceforge/cobertura/coveragedata/TouchCollector/LineTouchData|,|java+interface:///net/sourceforge/cobertura/coveragedata/HasBeenInstrumented|> 
+<|java+class:///net/sourceforge/cobertura/coveragedata/TouchCollector/SwitchTouchData|,|java+interface:///net/sourceforge/cobertura/coveragedata/HasBeenInstrumented|> 
+<|java+class:///net/sourceforge/cobertura/coveragedata/countermaps/AtomicCounterMap|,|java+interface:///net/sourceforge/cobertura/coveragedata/HasBeenInstrumented|> 
+<|java+class:///test/first/RemoteListener|,|java+interface:///test/first/RemoteInterface|> 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 1 
+<|java+class:///test/first/RemoteListener|,|java+interface:///test/first/RemoteInterface|> 
+
+DOWNCALL TOTAL: 0 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 0 
+
+SUBTYPE TOTAL: 0 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 0 
+
+DOWNCALL TOTAL: 0 
+
+
+
+

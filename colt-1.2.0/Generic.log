@@ -1,0 +1,8 @@
+[
+  <<|java+class:///hep/aida/bin/AbstractBin1D|,|java+class:///hep/aida/bin/AbstractBin|>,{|java+interface:///cern/colt/buffer/DoubleBufferConsumer|},|project://colt-1.2.0/src/hep/aida/bin/AbstractBin.java|(2076,22,<55,21>,<55,43>)>,
+  <<|java+class:///cern/colt/PersistentObject|,|java+class:///java/lang/Object|>,{
+    |java+interface:///java/lang/Cloneable|,
+    |java+interface:///java/io/Serializable|
+  },|project://colt-1.2.0/src/cern/colt/list/ObjectArrayList.java|(42023,88,<951,10>,<951,98>)>,
+  <<|java+class:///cern/jet/stat/quantile/DoubleQuantileEstimator|,|java+interface:///cern/jet/stat/quantile/DoubleQuantileFinder|>,{|java+class:///cern/colt/PersistentObject|},|project://colt-1.2.0/src/hep/aida/bin/QuantileBin1D.java|(44078,43,<657,41>,<657,84>)>
+]

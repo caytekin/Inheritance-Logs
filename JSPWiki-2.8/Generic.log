@@ -1,0 +1,31 @@
+[
+  <<|java+class:///com/ecyrd/jspwiki/ui/admin/beans/PlainEditorAdminBean|,|java+interface:///com/ecyrd/jspwiki/ui/admin/AdminBean|>,{|java+class:///com/ecyrd/management/SimpleMBean|},|project://JSPWiki-2.8/src/com/ecyrd/jspwiki/tags/AdminBeanIteratorTag.java|(1875,19,<64,27>,<64,46>)>,
+  <<|java+class:///com/ecyrd/jspwiki/plugin/TableOfContents|,|java+interface:///com/ecyrd/jspwiki/plugin/WikiPlugin|>,{|java+interface:///com/ecyrd/jspwiki/parser/HeadingListener|},|project://JSPWiki-2.8/src/com/ecyrd/jspwiki/plugin/PluginManager.java|(29349,34,<895,19>,<895,53>)>,
+  <<|java+class:///com/ecyrd/jspwiki/ui/admin/beans/PlainEditorAdminBean|,|java+interface:///com/ecyrd/jspwiki/ui/admin/AdminBean|>,{|java+class:///com/ecyrd/management/SimpleMBean|},|project://JSPWiki-2.8/src/com/ecyrd/jspwiki/ui/admin/AdminBeanManager.java|(5173,33,<171,35>,<171,68>)>,
+  <<|java+class:///com/ecyrd/jspwiki/ui/admin/beans/PlainEditorAdminBean|,|java+interface:///com/ecyrd/jspwiki/ui/admin/AdminBean|>,{|java+class:///com/ecyrd/management/SimpleMBean|},|project://JSPWiki-2.8/src/com/ecyrd/jspwiki/ui/admin/AdminBeanManager.java|(7099,20,<240,27>,<240,47>)>,
+  <<|java+class:///com/ecyrd/jspwiki/ui/admin/beans/PlainEditorAdminBean|,|java+interface:///com/ecyrd/jspwiki/ui/admin/AdminBean|>,{|java+class:///com/ecyrd/management/SimpleMBean|},|project://JSPWiki-2.8/src/com/ecyrd/jspwiki/ui/admin/AdminBeanManager.java|(8504,20,<295,39>,<295,59>)>,
+  <<|java+class:///com/ecyrd/jspwiki/auth/authorize/GroupManager|,|java+interface:///com/ecyrd/jspwiki/auth/Authorizer|>,{|java+interface:///com/ecyrd/jspwiki/event/WikiEventListener|},|project://JSPWiki-2.8/src/com/ecyrd/jspwiki/auth/AuthorizationManager.java|(20481,50,<460,15>,<460,65>)>,
+  <<|java+class:///com/ecyrd/jspwiki/auth/acl/AclEntryImpl|,|java+interface:///com/ecyrd/jspwiki/auth/acl/AclEntry|>,{|java+interface:///java/io/Serializable|},|project://JSPWiki-2.8/src/com/ecyrd/jspwiki/WikiPage.java|(9571,31,<341,29>,<341,60>)>,
+  <<|java+class:///com/ecyrd/jspwiki/PageTimeComparator|,|java+interface:///java/util/Comparator|>,{|java+interface:///java/io/Serializable|},|project://JSPWiki-2.8/src/com/ecyrd/jspwiki/util/PageSorter.java|(5227,126,<153,31>,<154,34>)>,
+  <<|java+class:///com/ecyrd/jspwiki/providers/CachingProvider|,|java+interface:///com/ecyrd/jspwiki/providers/WikiPageProvider|>,{|java+interface:///com/ecyrd/jspwiki/providers/VersioningProvider|},|project://JSPWiki-2.8/src/com/ecyrd/jspwiki/providers/CachingProvider.java|(6386,45,<177,25>,<177,70>)>,
+  <<|java+class:///com/ecyrd/jspwiki/providers/CachingProvider|,|java+interface:///com/ecyrd/jspwiki/providers/WikiPageProvider|>,{|java+interface:///com/ecyrd/jspwiki/providers/VersioningProvider|},|project://JSPWiki-2.8/src/com/ecyrd/jspwiki/PageManager.java|(6619,45,<163,25>,<163,70>)>,
+  <<|java+class:///com/ecyrd/jspwiki/auth/acl/AclEntryImpl|,|java+interface:///com/ecyrd/jspwiki/auth/acl/AclEntry|>,{|java+interface:///java/io/Serializable|},|project://JSPWiki-2.8/src/com/ecyrd/jspwiki/PageManager.java|(30272,31,<877,33>,<877,64>)>,
+  <<|java+class:///com/ecyrd/jspwiki/auth/permissions/PagePermission|,|java+class:///java/security/Permission|>,{|java+interface:///java/io/Serializable|},|project://JSPWiki-2.8/src/com/ecyrd/jspwiki/PageManager.java|(30761,37,<886,48>,<886,85>)>,
+  <<|java+class:///com/ecyrd/jspwiki/auth/acl/AclEntryImpl|,|java+interface:///com/ecyrd/jspwiki/auth/acl/AclEntry|>,{|java+interface:///java/io/Serializable|},|project://JSPWiki-2.8/src/com/ecyrd/jspwiki/PageManager.java|(31177,19,<896,33>,<896,52>)>,
+  <<|java+class:///com/ecyrd/jspwiki/auth/acl/AclEntryImpl|,|java+interface:///com/ecyrd/jspwiki/auth/acl/AclEntry|>,{|java+interface:///java/io/Serializable|},|project://JSPWiki-2.8/src/com/ecyrd/jspwiki/PageManager.java|(31374,19,<901,33>,<901,52>)>,
+  <<|java+class:///com/ecyrd/jspwiki/auth/authorize/Role|,|java+interface:///java/security/Principal|>,{|java+interface:///java/io/Serializable|},|project://JSPWiki-2.8/src/com/ecyrd/jspwiki/WikiSession.java|(19103,27,<484,44>,<484,71>)>,
+  <<|java+class:///com/ecyrd/jspwiki/auth/WikiPrincipal|,|java+interface:///java/security/Principal|>,{
+    |java+interface:///java/lang/Comparable|,
+    |java+interface:///java/io/Serializable|
+  },|project://JSPWiki-2.8/src/com/ecyrd/jspwiki/WikiSession.java|(19733,27,<497,47>,<497,74>)>,
+  <<|java+class:///com/ecyrd/jspwiki/auth/authorize/Role|,|java+interface:///java/security/Principal|>,{|java+interface:///java/io/Serializable|},|project://JSPWiki-2.8/src/com/ecyrd/jspwiki/WikiSession.java|(20781,27,<517,47>,<517,74>)>,
+  <<|java+class:///com/ecyrd/jspwiki/auth/authorize/Role|,|java+interface:///java/security/Principal|>,{|java+interface:///java/io/Serializable|},|project://JSPWiki-2.8/src/com/ecyrd/jspwiki/WikiSession.java|(21838,27,<537,47>,<537,74>)>,
+  <<|java+class:///com/ecyrd/jspwiki/auth/authorize/GroupManager|,|java+interface:///com/ecyrd/jspwiki/event/WikiEventListener|>,{|java+interface:///com/ecyrd/jspwiki/auth/Authorizer|},|project://JSPWiki-2.8/src/com/ecyrd/jspwiki/event/WikiEventManager.java|(18824,51,<481,42>,<481,93>)>,
+  <<|java+class:///com/ecyrd/jspwiki/auth/authorize/GroupManager|,|java+interface:///com/ecyrd/jspwiki/event/WikiEventListener|>,{|java+interface:///com/ecyrd/jspwiki/auth/Authorizer|},|project://JSPWiki-2.8/src/com/ecyrd/jspwiki/event/WikiEventManager.java|(20201,51,<521,42>,<521,93>)>,
+  <<|java+class:///com/ecyrd/jspwiki/ReferenceManager|,|java+interface:///com/ecyrd/jspwiki/event/WikiEventListener|>,{
+    |java+interface:///com/ecyrd/jspwiki/modules/InternalModule|,
+    |java+class:///com/ecyrd/jspwiki/filters/BasicPageFilter|
+  },|project://JSPWiki-2.8/src/com/ecyrd/jspwiki/event/WikiEventManager.java|(21273,64,<562,53>,<562,117>)>,
+  <<|java+class:///com/ecyrd/jspwiki/WikiContext|,|java+interface:///com/ecyrd/jspwiki/ui/Command|>,{|java+interface:///java/lang/Cloneable|},|project://JSPWiki-2.8/src/com/ecyrd/jspwiki/ui/CommandResolver.java|(15696,26,<402,37>,<402,63>)>,
+  <<|java+class:///com/ecyrd/jspwiki/plugin/TableOfContents|,|java+interface:///com/ecyrd/jspwiki/parser/HeadingListener|>,{|java+interface:///com/ecyrd/jspwiki/plugin/WikiPlugin|},|project://JSPWiki-2.8/src/com/ecyrd/jspwiki/parser/JSPWikiMarkupParser.java|(17878,26,<478,32>,<478,58>)>
+]

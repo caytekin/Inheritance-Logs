@@ -1,0 +1,18 @@
+{
+  <<|java+class:///net/sourceforge/cobertura/javancss/PackageMetric|,|java+class:///net/sourceforge/cobertura/javancss/Metric|>,2,|java+class:///java/lang/Object|>,
+  <<|java+class:///net/sourceforge/cobertura/coveragedata/TouchCollector/SwitchTouchData|,|java+class:///net/sourceforge/cobertura/coveragedata/TouchCollector/LineTouchData|>,2,|java+class:///java/lang/Object|>,
+  <<|java+class:///net/sourceforge/cobertura/instrument/SwitchHolder|,|java+class:///net/sourceforge/cobertura/instrument/JumpHolder|>,2,|java+class:///java/lang/Object|>,
+  <<|java+class:///net/sourceforge/cobertura/coveragedata/PackageData|,|java+class:///net/sourceforge/cobertura/coveragedata/CoverageDataContainer|>,2,|java+class:///java/lang/Object|>,
+  <<|java+class:///net/sourceforge/cobertura/instrument/FirstPassMethodInstrumenter|,|java+class:///org/objectweb/asm/MethodAdapter|>,2,|java+interface:///org/objectweb/asm/MethodVisitor|>,
+  <<|java+class:///net/sourceforge/cobertura/coveragedata/ClassData|,|java+class:///net/sourceforge/cobertura/coveragedata/CoverageDataContainer|>,2,|java+interface:///net/sourceforge/cobertura/coveragedata/CoverageData|>,
+  <<|java+class:///net/sourceforge/cobertura/coveragedata/ProjectData|,|java+class:///net/sourceforge/cobertura/coveragedata/CoverageDataContainer|>,2,|java+interface:///net/sourceforge/cobertura/coveragedata/CoverageData|>,
+  <<|java+class:///net/sourceforge/cobertura/instrument/CoberturaFile|,|java+class:///java/io/File|>,2,|java+class:///java/lang/Object|>,
+  <<|java+class:///net/sourceforge/cobertura/coveragedata/CoverageDataContainer|,|java+interface:///net/sourceforge/cobertura/coveragedata/CoverageData|>,2,|java+interface:///net/sourceforge/cobertura/coveragedata/CoverageData|>,
+  <<|java+class:///net/sourceforge/cobertura/coveragedata/ClassData|,|java+class:///net/sourceforge/cobertura/coveragedata/CoverageDataContainer|>,2,|java+class:///java/lang/Object|>,
+  <<|java+class:///net/sourceforge/cobertura/coveragedata/ProjectData|,|java+class:///net/sourceforge/cobertura/coveragedata/CoverageDataContainer|>,2,|java+class:///java/lang/Object|>,
+  <<|java+class:///net/sourceforge/cobertura/javancss/ObjectMetric|,|java+class:///net/sourceforge/cobertura/javancss/Metric|>,2,|java+class:///java/lang/Object|>,
+  <<|java+class:///net/sourceforge/cobertura/coveragedata/TouchCollector/JumpTouchData|,|java+class:///net/sourceforge/cobertura/coveragedata/TouchCollector/LineTouchData|>,2,|java+class:///java/lang/Object|>,
+  <<|java+class:///net/sourceforge/cobertura/coveragedata/SourceFileData|,|java+class:///net/sourceforge/cobertura/coveragedata/CoverageDataContainer|>,2,|java+class:///java/lang/Object|>,
+  <<|java+class:///net/sourceforge/cobertura/javancss/FunctionMetric|,|java+class:///net/sourceforge/cobertura/javancss/Metric|>,2,|java+class:///java/lang/Object|>,
+  <<|java+class:///net/sourceforge/cobertura/coveragedata/PackageData|,|java+class:///net/sourceforge/cobertura/coveragedata/CoverageDataContainer|>,2,|java+interface:///net/sourceforge/cobertura/coveragedata/CoverageData|>
+}

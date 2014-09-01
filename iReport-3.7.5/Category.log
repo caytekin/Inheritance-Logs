@@ -1,0 +1,9 @@
+[
+  <<|java+class:///com/jaspersoft/ireport/jasperserver/ui/nodes/ReportUnitInputControlsNode|,|java+interface:///com/jaspersoft/ireport/jasperserver/ui/nodes/ResourceNode|>,|java+class:///com/jaspersoft/ireport/jasperserver/ui/nodes/FolderNode|>,
+  <<|java+class:///com/jaspersoft/ireport/designer/errorhandler/ErrorsCollector|,|java+interface:///com/jaspersoft/ireport/designer/compiler/JasperReportErrorHandler|>,|java+class:///com/jaspersoft/ireport/designer/compiler/ErrorsCollector|>,
+  <<|java+class:///com/jaspersoft/ireport/jasperserver/ui/nodes/ReportUnitNode|,|java+interface:///com/jaspersoft/ireport/jasperserver/ui/nodes/ResourceNode|>,|java+class:///com/jaspersoft/ireport/jasperserver/ui/nodes/FolderNode|>,
+  <<|java+class:///com/jaspersoft/ireport/jasperserver/ui/nodes/ReportUnitResourcesNode|,|java+interface:///com/jaspersoft/ireport/jasperserver/ui/nodes/ResourceNode|>,|java+class:///com/jaspersoft/ireport/jasperserver/ui/nodes/FolderNode|>,
+  <<|java+class:///com/jaspersoft/ireport/jasperserver/ui/nodes/FileNode|,|java+interface:///com/jaspersoft/ireport/jasperserver/ui/nodes/ResourceNode|>,|java+class:///com/jaspersoft/ireport/jasperserver/ui/nodes/FolderNode|>,
+  <<|java+class:///com/jaspersoft/ireport/designer/connection/DefaultIReportConnectionFactory|,|java+interface:///com/jaspersoft/ireport/designer/connection/IReportConnectionFactory|>,|java+class:///com/jaspersoft/jrx/JRXMLDataSourceConnectionFactory|>,
+  <<|java+class:///com/jaspersoft/ireport/designer/fonts/FontLoaderDialog|,|java+interface:///com/jaspersoft/ireport/designer/fonts/TTFFontsLoaderMonitor|>,|java+anonymousClass:///com/jaspersoft/ireport/designer/IReportManager/initialize()/$anonymous1/run()/$anonymous1|>
+]

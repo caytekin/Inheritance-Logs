@@ -1,0 +1,4 @@
+{
+  <<|java+class:///proguard/shrink/ShortestUsageMarker|,|java+class:///proguard/shrink/UsageMarker|>,<|project://proguard-4.9/src/proguard/shrink/Shrinker.java|(2174,25,<68,12>,<68,37>),|java+class:///proguard/shrink/ShortestUsageMarker|>>,
+  <<|java+class:///proguard/evaluation/ClassConstantValueFactory|,|java+class:///proguard/evaluation/ConstantValueFactory|>,<|project://proguard-4.9/src/proguard/evaluation/Processor.java|(19886,61,<561,27>,<561,88>),|java+method:///proguard/evaluation/ConstantValueFactory/constantValue(proguard.classfile.Clazz,int)|>>
+}

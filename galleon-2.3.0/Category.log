@@ -1,0 +1,6 @@
+[
+  <<|java+class:///org/lnicholls/galleon/widget/DefaultPlayer|,|java+interface:///org/lnicholls/galleon/widget/DefaultApplication/ApplicationEventListener|>,|java+class:///org/lnicholls/galleon/apps/audioScrobbler/AudioScrobbler/AudioScrobblerFactory|>,
+  <<|java+class:///org/lnicholls/galleon/database/Movie|,|java+interface:///org/lnicholls/galleon/media/Media|>,|java+class:///org/lnicholls/galleon/database/Image|>,
+  <<|java+class:///org/lnicholls/galleon/apps/podcasting/PodcastingThread|,|java+interface:///org/lnicholls/galleon/util/ProgressListener|>,|java+class:///org/lnicholls/galleon/togo/ToGoThread|>,
+  <<|java+class:///org/lnicholls/galleon/apps/videocasting/VideocastingThread|,|java+interface:///org/lnicholls/galleon/util/ProgressListener|>,|java+class:///org/lnicholls/galleon/togo/ToGoThread|>
+]

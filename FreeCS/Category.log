@@ -1,0 +1,12 @@
+[
+  <<|java+class:///freecs/commands/CmdRemoveFriend|,|java+class:///freecs/commands/AbstractCommand|>,|java+class:///freecs/commands/CmdInviteAll|>,
+  <<|java+class:///freecs/commands/CmdRespectUser|,|java+class:///freecs/commands/AbstractCommand|>,|java+class:///freecs/commands/CmdInviteAll|>,
+  <<|java+class:///freecs/commands/CmdClear|,|java+class:///freecs/commands/AbstractCommand|>,|java+class:///freecs/commands/CmdInviteAll|>,
+  <<|java+class:///freecs/commands/CmdListVips|,|java+class:///freecs/commands/AbstractCommand|>,|java+class:///freecs/commands/CmdInviteAll|>,
+  <<|java+class:///freecs/commands/CmdListAllFriends|,|java+class:///freecs/commands/AbstractCommand|>,|java+class:///freecs/commands/CmdInviteAll|>,
+  <<|java+class:///freecs/commands/CmdFriendsOnly|,|java+class:///freecs/commands/AbstractCommand|>,|java+class:///freecs/commands/CmdInviteAll|>,
+  <<|java+class:///freecs/commands/CmdListOnlineFriends|,|java+class:///freecs/commands/AbstractCommand|>,|java+class:///freecs/commands/CmdInviteAll|>,
+  <<|java+class:///freecs/commands/CmdAddFriend|,|java+class:///freecs/commands/AbstractCommand|>,|java+class:///freecs/commands/CmdInviteAll|>,
+  <<|java+class:///freecs/commands/CmdQuit|,|java+class:///freecs/commands/AbstractCommand|>,|java+class:///freecs/commands/CmdInviteAll|>,
+  <<|java+class:///freecs/commands/CmdShowTime|,|java+class:///freecs/commands/AbstractCommand|>,|java+class:///freecs/commands/CmdInviteAll|>
+]

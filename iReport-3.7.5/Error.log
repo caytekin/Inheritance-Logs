@@ -1,0 +1,7 @@
+Error log for iReport-3.7.5
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///net/sf/jasperreports/crosstabs/design/JRDesignCrosstabRowGroup|,[]),class(|java+class:///net/sf/jasperreports/crosstabs/design/JRDesignCrosstabRowGroup|,[])], declared symbol list: [class(|java+class:///java/lang/String|,[]),array(interface(|java+interface:///net/sf/jasperreports/crosstabs/JRCrosstabGroup|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///net/sf/jasperreports/crosstabs/design/JRDesignCrosstabColumnGroup|,[]),class(|java+class:///net/sf/jasperreports/crosstabs/design/JRDesignCrosstabRowGroup|,[]),class(|java+class:///net/sf/jasperreports/crosstabs/design/JRDesignCrosstabRowGroup|,[])], declared symbol list: [class(|java+class:///java/lang/String|,[]),array(interface(|java+interface:///net/sf/jasperreports/crosstabs/JRCrosstabGroup|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///com/jaspersoft/ireport/designer/outline/nodes/StylesNode|,[]),int(),int()], declared symbol list: [class(|java+class:///org/openide/nodes/Node|,[]),array(int(),1)] 
+

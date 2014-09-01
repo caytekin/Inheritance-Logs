@@ -1,0 +1,9 @@
+[
+  <<|java+class:///com/itextpdf/text/pdf/parser/RegionTextRenderFilter|,|java+class:///com/itextpdf/text/pdf/parser/RenderFilter|>,|java+class:///com/itextpdf/text/pdf/parser/MarkedContentRenderFilter|>,
+  <<|java+class:///com/itextpdf/text/pdf/events/FieldPositioningEvents|,|java+interface:///com/itextpdf/text/pdf/PdfPCellEvent|>,|java+class:///com/itextpdf/text/pdf/events/PdfPCellEventForwarder|>,
+  <<|java+class:///com/itextpdf/text/DocWriter|,|java+interface:///com/itextpdf/text/DocListener|>,|java+class:///com/itextpdf/text/html/simpleparser/HTMLWorker|>,
+  <<|java+class:///com/itextpdf/text/pdf/PdfPageEventHelper|,|java+interface:///com/itextpdf/text/pdf/PdfPageEvent|>,|java+class:///com/itextpdf/text/pdf/events/PdfPageEventForwarder|>,
+  <<|java+class:///com/itextpdf/text/pdf/PdfLayerMembership|,|java+interface:///com/itextpdf/text/pdf/PdfOCG|>,|java+class:///com/itextpdf/text/pdf/PdfLayer|>,
+  <<|java+class:///com/itextpdf/text/Document|,|java+interface:///com/itextpdf/text/DocListener|>,|java+class:///com/itextpdf/text/html/simpleparser/HTMLWorker|>,
+  <<|java+class:///com/itextpdf/text/pdf/parser/FilteredTextRenderListener|,|java+interface:///com/itextpdf/text/pdf/parser/TextExtractionStrategy|>,|java+class:///com/itextpdf/text/pdf/parser/LocationTextExtractionStrategy|>
+]

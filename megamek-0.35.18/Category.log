@@ -1,0 +1,15 @@
+[
+  <<|java+class:///megamek/common/preference/PreferenceStoreProxy|,|java+interface:///megamek/common/preference/IPreferenceStore|>,|java+class:///megamek/common/preference/PreferenceStore|>,
+  <<|java+class:///megamek/client/ui/swing/widget/PilotMapSet|,|java+interface:///megamek/client/ui/swing/widget/DisplayMapSet|>,|java+class:///megamek/client/ui/swing/widget/GunEmplacementMapSet|>,
+  <<|java+class:///megamek/common/net/AbstractConnection/SendPacket|,|java+interface:///megamek/common/net/AbstractConnection/INetworkPacket|>,|java+class:///megamek/common/net/DataStreamConnection/NetworkPacket|>,
+  <<|java+class:///megamek/client/ui/AWT/boardview3d/BoardView3D|,|java+interface:///megamek/client/ui/IBoardView|>,|java+class:///megamek/client/ui/AWT/BoardView1|>,
+  <<|java+class:///megamek/server/victory/EnemyCmdrDestroyedVictory|,|java+interface:///megamek/server/victory/Victory|>,|java+class:///megamek/server/victory/LastManStandingVictory|>,
+  <<|java+class:///megamek/client/ui/AWT/widget/GeneralInfoMapSet|,|java+interface:///megamek/client/ui/AWT/widget/DisplayMapSet|>,|java+class:///megamek/client/ui/AWT/widget/MechMapSet|>,
+  <<|java+class:///megamek/server/victory/AbstractBVVictory|,|java+interface:///megamek/server/victory/Victory|>,|java+class:///megamek/server/victory/LastManStandingVictory|>,
+  <<|java+class:///megamek/common/verifier/TestEntity|,|java+interface:///megamek/common/verifier/TestEntityOption|>,|java+class:///megamek/common/verifier/TestXMLOption|>,
+  <<|java+class:///megamek/client/ui/AWT/TilesetManager|,|java+interface:///megamek/client/ui/ITilesetManager|>,|java+class:///megamek/client/ui/swing/TilesetManager|>,
+  <<|java+class:///megamek/common/Terrains|,|java+interface:///megamek/common/ITerrainFactory|>,|java+class:///megamek/common/TerrainFactory|>,
+  <<|java+class:///megamek/client/ui/swing/widget/GeneralInfoMapSet|,|java+interface:///megamek/client/ui/swing/widget/DisplayMapSet|>,|java+class:///megamek/client/ui/swing/widget/GunEmplacementMapSet|>,
+  <<|java+interface:///megamek/client/ui/AWT/widget/PMLabel|,|java+interface:///megamek/client/ui/AWT/widget/PMElement|>,|java+class:///megamek/client/ui/AWT/widget/PMAreasGroup|>,
+  <<|java+interface:///megamek/client/ui/swing/widget/PMLabel|,|java+interface:///megamek/client/ui/swing/widget/PMElement|>,|java+class:///megamek/client/ui/swing/widget/PMAreasGroup|>
+]

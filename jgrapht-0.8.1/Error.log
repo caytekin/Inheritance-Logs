@@ -1,0 +1,5 @@
+Error log for jgrapht-0.8.1
+More type parameters than type variables! Type variables: [|java+typeVariable:///org/jgrapht/event/VertexSetListener/V|], type parameters: [typeArgument(|java+typeVariable:///org/jgrapht/graph/DefaultListenableGraph/V|),typeArgument(|java+typeVariable:///org/jgrapht/graph/DefaultListenableGraph/E|)] at: |project://jgrapht-0.8.1/src/org/jgrapht/graph/DefaultListenableGraph.java|(10702,16,<361,12>,<361,28>)
+
+More type parameters than type variables! Type variables: [|java+typeVariable:///org/jgrapht/event/VertexSetListener/V|], type parameters: [typeArgument(|java+typeVariable:///org/jgrapht/graph/DefaultListenableGraph/V|),typeArgument(|java+typeVariable:///org/jgrapht/graph/DefaultListenableGraph/E|)] at: |project://jgrapht-0.8.1/src/org/jgrapht/graph/DefaultListenableGraph.java|(11387,18,<386,12>,<386,30>)
+

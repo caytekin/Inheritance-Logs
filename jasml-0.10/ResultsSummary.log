@@ -1,0 +1,132 @@
+RESULTS LOG: 
+INTERNAL REUSE TOTAL: 1 
+<|java+class:///com/jasml/compiler/SourceCodeParser/OpcodeWrapper|,|java+class:///com/jasml/classes/Attribute_Code/Opcode|> 
+
+EXTERNAL REUSE TOTAL: 5 
+<|java+class:///com/jasml/classes/Attribute_Code|,|java+class:///com/jasml/classes/Attribute|> 
+<|java+class:///com/jasml/classes/Attribute_ConstantValue|,|java+class:///com/jasml/classes/Attribute|> 
+<|java+class:///com/jasml/classes/Attribute_InnerClasses|,|java+class:///com/jasml/classes/Attribute|> 
+<|java+class:///com/jasml/classes/Attribute_LocalVariableTable|,|java+class:///com/jasml/classes/Attribute|> 
+<|java+class:///com/jasml/compiler/SourceCodeParser/OpcodeWrapper|,|java+class:///com/jasml/classes/Attribute_Code/Opcode|> 
+
+SUBTYPE TOTAL: 21 
+<|java+class:///com/jasml/classes/Attribute_Code|,|java+class:///com/jasml/classes/Attribute|> 
+<|java+class:///com/jasml/classes/Attribute_ConstantValue|,|java+class:///com/jasml/classes/Attribute|> 
+<|java+class:///com/jasml/classes/Attribute_Deprecated|,|java+class:///com/jasml/classes/Attribute|> 
+<|java+class:///com/jasml/classes/Attribute_Exceptions|,|java+class:///com/jasml/classes/Attribute|> 
+<|java+class:///com/jasml/classes/Attribute_InnerClasses|,|java+class:///com/jasml/classes/Attribute|> 
+<|java+class:///com/jasml/classes/Attribute_LineNumberTable|,|java+class:///com/jasml/classes/Attribute|> 
+<|java+class:///com/jasml/classes/Attribute_LocalVariableTable|,|java+class:///com/jasml/classes/Attribute|> 
+<|java+class:///com/jasml/classes/Attribute_SourceFile|,|java+class:///com/jasml/classes/Attribute|> 
+<|java+class:///com/jasml/classes/Attribute_Synthetic|,|java+class:///com/jasml/classes/Attribute|> 
+<|java+class:///com/jasml/classes/Constant_Class|,|java+class:///com/jasml/classes/ConstantPoolItem|> 
+<|java+class:///com/jasml/classes/Constant_Double|,|java+class:///com/jasml/classes/ConstantPoolItem|> 
+<|java+class:///com/jasml/classes/Constant_Fieldref|,|java+class:///com/jasml/classes/ConstantPoolItem|> 
+<|java+class:///com/jasml/classes/Constant_Float|,|java+class:///com/jasml/classes/ConstantPoolItem|> 
+<|java+class:///com/jasml/classes/Constant_Integer|,|java+class:///com/jasml/classes/ConstantPoolItem|> 
+<|java+class:///com/jasml/classes/Constant_InterfaceMethodref|,|java+class:///com/jasml/classes/ConstantPoolItem|> 
+<|java+class:///com/jasml/classes/Constant_Long|,|java+class:///com/jasml/classes/ConstantPoolItem|> 
+<|java+class:///com/jasml/classes/Constant_Methodref|,|java+class:///com/jasml/classes/ConstantPoolItem|> 
+<|java+class:///com/jasml/classes/Constant_NameAndType|,|java+class:///com/jasml/classes/ConstantPoolItem|> 
+<|java+class:///com/jasml/classes/Constant_String|,|java+class:///com/jasml/classes/ConstantPoolItem|> 
+<|java+class:///com/jasml/classes/Constant_Utf8|,|java+class:///com/jasml/classes/ConstantPoolItem|> 
+<|java+class:///com/jasml/compiler/SourceCodeParser/OpcodeWrapper|,|java+class:///com/jasml/classes/Attribute_Code/Opcode|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 21 
+<|java+class:///com/jasml/classes/Attribute_Code|,|java+class:///com/jasml/classes/Attribute|> 
+<|java+class:///com/jasml/classes/Attribute_ConstantValue|,|java+class:///com/jasml/classes/Attribute|> 
+<|java+class:///com/jasml/classes/Attribute_Deprecated|,|java+class:///com/jasml/classes/Attribute|> 
+<|java+class:///com/jasml/classes/Attribute_Exceptions|,|java+class:///com/jasml/classes/Attribute|> 
+<|java+class:///com/jasml/classes/Attribute_InnerClasses|,|java+class:///com/jasml/classes/Attribute|> 
+<|java+class:///com/jasml/classes/Attribute_LineNumberTable|,|java+class:///com/jasml/classes/Attribute|> 
+<|java+class:///com/jasml/classes/Attribute_LocalVariableTable|,|java+class:///com/jasml/classes/Attribute|> 
+<|java+class:///com/jasml/classes/Attribute_SourceFile|,|java+class:///com/jasml/classes/Attribute|> 
+<|java+class:///com/jasml/classes/Attribute_Synthetic|,|java+class:///com/jasml/classes/Attribute|> 
+<|java+class:///com/jasml/classes/Constant_Class|,|java+class:///com/jasml/classes/ConstantPoolItem|> 
+<|java+class:///com/jasml/classes/Constant_Double|,|java+class:///com/jasml/classes/ConstantPoolItem|> 
+<|java+class:///com/jasml/classes/Constant_Fieldref|,|java+class:///com/jasml/classes/ConstantPoolItem|> 
+<|java+class:///com/jasml/classes/Constant_Float|,|java+class:///com/jasml/classes/ConstantPoolItem|> 
+<|java+class:///com/jasml/classes/Constant_Integer|,|java+class:///com/jasml/classes/ConstantPoolItem|> 
+<|java+class:///com/jasml/classes/Constant_InterfaceMethodref|,|java+class:///com/jasml/classes/ConstantPoolItem|> 
+<|java+class:///com/jasml/classes/Constant_Long|,|java+class:///com/jasml/classes/ConstantPoolItem|> 
+<|java+class:///com/jasml/classes/Constant_Methodref|,|java+class:///com/jasml/classes/ConstantPoolItem|> 
+<|java+class:///com/jasml/classes/Constant_NameAndType|,|java+class:///com/jasml/classes/ConstantPoolItem|> 
+<|java+class:///com/jasml/classes/Constant_String|,|java+class:///com/jasml/classes/ConstantPoolItem|> 
+<|java+class:///com/jasml/classes/Constant_Utf8|,|java+class:///com/jasml/classes/ConstantPoolItem|> 
+<|java+class:///com/jasml/compiler/SourceCodeParser/OpcodeWrapper|,|java+class:///com/jasml/classes/Attribute_Code/Opcode|> 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 0 
+
+DOWNCALL TOTAL: 0 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 0 
+
+SUBTYPE TOTAL: 0 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 2 
+<|java+class:///com/jasml/compiler/Scanner|,|java+interface:///com/jasml/compiler/Scannable|> 
+<|java+class:///com/jasml/compiler/SourceCodeParser|,|java+interface:///com/jasml/compiler/Scannable|> 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 0 
+
+DOWNCALL TOTAL: 0 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 0 
+
+SUBTYPE TOTAL: 0 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 0 
+
+DOWNCALL TOTAL: 0 
+
+
+
+

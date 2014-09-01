@@ -1,0 +1,17 @@
+[
+  <<|java+class:///com/puppycrawl/tools/checkstyle/filters/SuppressionFilter|,|java+class:///com/puppycrawl/tools/checkstyle/api/AutomaticBean|>,|java+class:///com/puppycrawl/tools/checkstyle/api/AutomaticBeanTest/TestBean|>,
+  <<|java+class:///com/puppycrawl/tools/checkstyle/filters/SuppressionCommentFilter|,|java+class:///com/puppycrawl/tools/checkstyle/api/AutomaticBean|>,|java+class:///com/puppycrawl/tools/checkstyle/api/AutomaticBeanTest/TestBean|>,
+  <<|java+class:///com/puppycrawl/tools/checkstyle/XMLLogger|,|java+class:///com/puppycrawl/tools/checkstyle/api/AutomaticBean|>,|java+class:///com/puppycrawl/tools/checkstyle/api/AutomaticBeanTest/TestBean|>,
+  <<|java+class:///com/puppycrawl/tools/checkstyle/checks/coding/AbstractIllegalCheck|,|java+class:///com/puppycrawl/tools/checkstyle/api/Check|>,|java+anonymousClass:///com/puppycrawl/tools/checkstyle/api/AbstractViolationReporterTest/$anonymous1|>,
+  <<|java+class:///com/puppycrawl/tools/checkstyle/checks/coding/DefaultComesLastCheck|,|java+class:///com/puppycrawl/tools/checkstyle/api/Check|>,|java+anonymousClass:///com/puppycrawl/tools/checkstyle/api/AbstractViolationReporterTest/$anonymous1|>,
+  <<|java+class:///com/puppycrawl/tools/checkstyle/checks/AbstractOptionCheck|,|java+class:///com/puppycrawl/tools/checkstyle/api/Check|>,|java+anonymousClass:///com/puppycrawl/tools/checkstyle/api/AbstractViolationReporterTest/$anonymous1|>,
+  <<|java+class:///com/puppycrawl/tools/checkstyle/checks/DeclarationCollector|,|java+class:///com/puppycrawl/tools/checkstyle/api/Check|>,|java+anonymousClass:///com/puppycrawl/tools/checkstyle/api/AbstractViolationReporterTest/$anonymous1|>,
+  <<|java+class:///com/puppycrawl/tools/checkstyle/filters/SuppressWithNearbyCommentFilter|,|java+class:///com/puppycrawl/tools/checkstyle/api/AutomaticBean|>,|java+class:///com/puppycrawl/tools/checkstyle/api/AutomaticBeanTest/TestBean|>,
+  <<|java+class:///com/puppycrawl/tools/checkstyle/checks/metrics/AbstractComplexityCheck|,|java+class:///com/puppycrawl/tools/checkstyle/api/Check|>,|java+anonymousClass:///com/puppycrawl/tools/checkstyle/api/AbstractViolationReporterTest/$anonymous1|>,
+  <<|java+class:///com/puppycrawl/tools/checkstyle/checks/coding/HiddenFieldCheck|,|java+class:///com/puppycrawl/tools/checkstyle/api/Check|>,|java+anonymousClass:///com/puppycrawl/tools/checkstyle/api/AbstractViolationReporterTest/$anonymous1|>,
+  <<|java+class:///com/puppycrawl/tools/checkstyle/DefaultLogger|,|java+class:///com/puppycrawl/tools/checkstyle/api/AutomaticBean|>,|java+class:///com/puppycrawl/tools/checkstyle/api/AutomaticBeanTest/TestBean|>,
+  <<|java+class:///com/puppycrawl/tools/checkstyle/filters/SuppressionCommentFilter|,|java+interface:///com/puppycrawl/tools/checkstyle/api/Filter|>,|java+class:///com/puppycrawl/tools/checkstyle/filters/SuppressElement|>,
+  <<|java+class:///com/puppycrawl/tools/checkstyle/filters/SuppressionFilter|,|java+interface:///com/puppycrawl/tools/checkstyle/api/Filter|>,|java+class:///com/puppycrawl/tools/checkstyle/filters/SuppressElement|>,
+  <<|java+class:///com/puppycrawl/tools/checkstyle/api/FilterSet|,|java+interface:///com/puppycrawl/tools/checkstyle/api/Filter|>,|java+class:///com/puppycrawl/tools/checkstyle/filters/SuppressElement|>,
+  <<|java+class:///com/puppycrawl/tools/checkstyle/filters/SuppressWithNearbyCommentFilter|,|java+interface:///com/puppycrawl/tools/checkstyle/api/Filter|>,|java+class:///com/puppycrawl/tools/checkstyle/filters/SuppressElement|>
+]

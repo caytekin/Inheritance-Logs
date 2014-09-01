@@ -1,0 +1,13 @@
+[
+  <<|java+class:///com/jgraph/components/RichTextExample|,|java+class:///com/jgraph/example/GraphEdX|>,|java+class:///com/jgraph/example/groupeditor/EditableGroupDemo|>,
+  <<|java+class:///com/jgraph/layout/organic/JGraphOrganicLayout|,|java+interface:///com/jgraph/layout/JGraphLayout/Stoppable|>,|java+class:///com/jgraph/layout/hierarchical/JGraphHierarchicalLayout|>,
+  <<|java+class:///com/jgraph/layout/hierarchical/JGraphGreedyCycleRemover|,|java+interface:///com/jgraph/layout/hierarchical/JGraphHierarchicalLayoutStep|>,|java+class:///com/jgraph/layout/hierarchical/JGraphCoordinateAssignment|>,
+  <<|java+class:///com/jgraph/layout/JGraphCompoundLayout|,|java+interface:///com/jgraph/layout/JGraphLayout|>,|java+class:///com/jgraph/layout/organic/JGraphSelfOrganizingOrganicLayout|>,
+  <<|java+class:///com/jgraph/layout/simple/SimpleGridLayout|,|java+interface:///com/jgraph/layout/JGraphLayout|>,|java+class:///com/jgraph/layout/organic/JGraphSelfOrganizingOrganicLayout|>,
+  <<|java+class:///com/jgraph/layout/organic/JGraphFastOrganicLayout|,|java+interface:///com/jgraph/layout/JGraphLayout/Stoppable|>,|java+class:///com/jgraph/layout/hierarchical/JGraphHierarchicalLayout|>,
+  <<|java+class:///com/jgraph/layout/tree/JGraphAbstractTreeLayout|,|java+interface:///com/jgraph/layout/JGraphLayout|>,|java+class:///com/jgraph/layout/organic/JGraphSelfOrganizingOrganicLayout|>,
+  <<|java+class:///com/jgraph/layout/hierarchical/JGraphNetworkSimplexLayering|,|java+interface:///com/jgraph/layout/hierarchical/JGraphHierarchicalLayoutStep|>,|java+class:///com/jgraph/layout/hierarchical/JGraphCoordinateAssignment|>,
+  <<|java+class:///com/jgraph/layout/hierarchical/JGraphMedianHybridCrossingReduction|,|java+interface:///com/jgraph/layout/JGraphLayout/Stoppable|>,|java+class:///com/jgraph/layout/hierarchical/JGraphHierarchicalLayout|>,
+  <<|java+class:///com/jgraph/layout/graph/JGraphSpringLayout|,|java+interface:///com/jgraph/layout/JGraphLayout/Stoppable|>,|java+class:///com/jgraph/layout/hierarchical/JGraphHierarchicalLayout|>,
+  <<|java+class:///com/jgraph/algebra/cost/JGraphConstantCostFunction|,|java+interface:///com/jgraph/algebra/cost/JGraphCostFunction|>,|java+class:///com/jgraph/algebra/cost/JGraphDistanceCostFunction|>
+]

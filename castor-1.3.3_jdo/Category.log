@@ -1,0 +1,12 @@
+[
+  <<|java+class:///org/castor/cache/hashbelt/reaper/NotifyingReaper|,|java+class:///org/castor/cache/hashbelt/reaper/AbstractReaper|>,|java+class:///org/castor/cache/hashbelt/reaper/NullReaper|>,
+  <<|java+class:///org/castor/cpa/query/object/expression/MockExpression|,|java+class:///org/castor/cpa/query/object/expression/AbstractExpression|>,|java+class:///org/castor/cpa/query/object/function/MockExpression|>,
+  <<|java+class:///org/castor/cpa/persistence/sql/query/expression/FunctionMock|,|java+class:///org/castor/cpa/persistence/sql/query/expression/Expression|>,|java+class:///org/castor/cpa/persistence/sql/query/expression/ExpressionMock|>,
+  <<|java+class:///org/castor/cpa/query/object/condition/MockExpression|,|java+class:///org/castor/cpa/query/object/expression/AbstractExpression|>,|java+class:///org/castor/cpa/query/object/function/MockExpression|>,
+  <<|java+class:///org/castor/cpa/persistence/sql/query/expression/Function|,|java+class:///org/castor/cpa/persistence/sql/query/expression/Expression|>,|java+class:///org/castor/cpa/persistence/sql/query/expression/ExpressionMock|>,
+  <<|java+class:///org/castor/cpa/query/object/AbstractField|,|java+class:///org/castor/cpa/query/object/expression/AbstractExpression|>,|java+class:///org/castor/cpa/query/object/function/MockExpression|>,
+  <<|java+interface:///org/castor/cpa/query/Projection|,|java+interface:///org/castor/cpa/query/Field|>,|java+class:///org/castor/cpa/query/object/AbstractField|>,
+  <<|java+class:///org/castor/cache/AbstractCacheFactory|,|java+interface:///org/castor/cache/CacheFactory|>,|java+class:///org/castor/cache/distributed/OsCacheFactory|>,
+  <<|java+class:///org/castor/cpa/jpa/info/JPACallbackHandler|,|java+interface:///org/exolab/castor/persist/spi/CallbackInterceptor|>,|java+class:///org/exolab/castor/jdo/engine/JDOCallback|>,
+  <<|java+class:///org/exolab/castor/persist/spi/AbstractCallQuery|,|java+interface:///org/exolab/castor/persist/spi/PersistenceQuery|>,|java+class:///org/castor/cpa/persistence/sql/driver/PostgreSQLCallQuery|>
+]

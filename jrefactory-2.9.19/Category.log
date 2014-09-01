@@ -1,0 +1,15 @@
+[
+  <<|java+class:///org/acm/seguin/pmd/rules/StringConcatenationRule|,|java+class:///org/acm/seguin/pmd/AbstractRule|>,|java+class:///org/acm/seguin/pmd/rules/CyclomaticComplexityRule|>,
+  <<|java+class:///org/acm/seguin/pmd/rules/SymbolTableTestRule|,|java+class:///org/acm/seguin/pmd/AbstractRule|>,|java+class:///org/acm/seguin/pmd/rules/CyclomaticComplexityRule|>,
+  <<|java+class:///org/acm/seguin/refactor/type/AddImplementedInterfaceVisitor|,|java+class:///net/sourceforge/jrefactory/parser/ChildrenVisitor|>,|java+class:///org/acm/seguin/refactor/method/RenameMethodVisitor|>,
+  <<|java+class:///org/acm/seguin/refactor/method/AddMethodTypeVisitor|,|java+class:///org/acm/seguin/summary/TraversalVisitor|>,|java+class:///org/acm/seguin/summary/query/ChildClassSearcher|>,
+  <<|java+class:///org/acm/seguin/tools/international/StringListVisitor|,|java+class:///net/sourceforge/jrefactory/parser/ChildrenVisitor|>,|java+class:///org/acm/seguin/refactor/method/RenameMethodVisitor|>,
+  <<|java+class:///org/acm/seguin/refactor/type/RenameParentVisitor|,|java+class:///net/sourceforge/jrefactory/parser/ChildrenVisitor|>,|java+class:///org/acm/seguin/refactor/method/RenameMethodVisitor|>,
+  <<|java+class:///org/acm/seguin/pmd/JLS1_5|,|java+interface:///org/acm/seguin/pmd/JLSVersion|>,|java+class:///org/acm/seguin/pmd/JLS1_4|>,
+  <<|java+class:///org/acm/seguin/pmd/symboltable/AbstractScope|,|java+interface:///org/acm/seguin/pmd/symboltable/Scope|>,|java+class:///org/acm/seguin/pmd/symboltable/GlobalScope|>,
+  <<|java+class:///net/sourceforge/jrefactory/ast/ModifierAdapter|,|java+interface:///net/sourceforge/jrefactory/ast/ModifierHolder|>,|java+class:///org/acm/seguin/summary/Summary|>,
+  <<|java+class:///org/acm/seguin/pmd/symboltable/TypeSet/FullyQualifiedNameResolver|,|java+interface:///org/acm/seguin/pmd/symboltable/TypeSet/Resolver|>,|java+class:///org/acm/seguin/pmd/symboltable/TypeSet/ExplicitImportResolver|>,
+  <<|java+class:///org/acm/seguin/pmd/JLS1_1|,|java+interface:///org/acm/seguin/pmd/JLSVersion|>,|java+class:///org/acm/seguin/pmd/JLS1_4|>,
+  <<|java+class:///org/acm/seguin/pretty/jdi/BaseJDI|,|java+interface:///org/acm/seguin/pretty/JavaDocable|>,|java+class:///org/acm/seguin/pretty/JavaDocableImpl|>,
+  <<|java+class:///org/acm/seguin/pmd/renderers/VBHTMLRenderer|,|java+interface:///org/acm/seguin/pmd/renderers/Renderer|>,|java+class:///org/acm/seguin/pmd/renderers/IDEAJRenderer|>
+]

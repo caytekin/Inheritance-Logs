@@ -1,0 +1,357 @@
+RESULTS LOG: 
+INTERNAL REUSE TOTAL: 158 
+<|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionCheckBox|,|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionToggle|> 
+<|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionListCell|,|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionList|> 
+<|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionRadioButton|,|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionToggle|> 
+<|java+class:///org/jgraph/pad/actionsbase/eager/EditRedo|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/eager/EditUndo|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/eager/FormatBorderColorList|,|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionListCellColor|> 
+<|java+class:///org/jgraph/pad/actionsbase/eager/FormatFillColorList|,|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionListCellColor|> 
+<|java+class:///org/jgraph/pad/actionsbase/eager/FormatLineColorList|,|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionListCellColor|> 
+<|java+class:///org/jgraph/pad/actionsbase/eager/FormatLineEndList|,|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionListCell|> 
+<|java+class:///org/jgraph/pad/actionsbase/eager/FormatLinePatternList|,|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionListCell|> 
+<|java+class:///org/jgraph/pad/actionsbase/eager/FormatLineStartList|,|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionListCell|> 
+<|java+class:///org/jgraph/pad/actionsbase/eager/FormatLineWidthList|,|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionListCell|> 
+<|java+class:///org/jgraph/pad/actionsbase/eager/FormatTextFontColorList|,|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionListCellColor|> 
+<|java+class:///org/jgraph/pad/actionsbase/eager/FormatTextFontSizeList|,|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionList|> 
+<|java+class:///org/jgraph/pad/actionsbase/eager/ToolsLookAndFeel|,|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionRadioButton|> 
+<|java+class:///org/jgraph/pad/actionsbase/eager/ViewFit|,|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionRadioButton|> 
+<|java+class:///org/jgraph/pad/actionsbase/eager/ViewLayout|,|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionRadioButton|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/EditCell|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/EditCopy|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/EditCut|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/EditDelete|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/EditFind|,|java+class:///org/jgraph/pad/actionsbase/lazy/EditFindAgain|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/EditFindAgain|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/EditPaste|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FileExportPNG|,|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionFile|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FilePageFormat|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FilePrint|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FileUploadToServer|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FormatAlignBottom|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FormatAlignCenter|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FormatAlignLeft|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FormatAlignMiddle|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FormatAlignRight|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FormatAlignTop|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FormatBorderColor|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FormatBorderNo|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FormatFillColor|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FormatFillNo|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FormatGradientColor|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FormatLineBezier|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FormatLineColor|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FormatLineLabelEdge|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FormatLineLabelNormal|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FormatLineOrthogonal|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FormatLinePattern|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FormatLineSpline|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FormatLineWidth|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FormatLockNotBendable|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FormatLockNotConnectable|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FormatLockNotDisconnectable|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FormatLockPosition|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FormatLockSize|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FormatLockValue|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FormatReverse|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FormatRoutingNo|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FormatRoutingParallel|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FormatRoutingSimple|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FormatShapeImage|,|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionFile|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FormatShapeNoImage|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FormatSizeAuto|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FormatSizeManual|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FormatStyleEndSize|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FormatStyleNoStartEnd|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FormatStyleStartSize|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FormatTextFont|,|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionList|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FormatTextFontColor|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FormatTextFontSize|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FormatTextFontStyleBold|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FormatTextFontStyleItalic|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FormatTextFontStyleNormal|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FormatTextFontStyleUnderline|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FormatTextPositionBottom|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FormatTextPositionCenter|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FormatTextPositionLeft|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FormatTextPositionMiddle|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FormatTextPositionRight|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FormatTextPositionTop|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FormatUnlockBendable|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FormatUnlockConnectable|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FormatUnlockConnections|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FormatUnlockDisconnectable|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FormatUnlockPosition|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FormatUnlockSize|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FormatUnlockValue|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/GraphBackgroundColor|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/GraphBackgroundImage|,|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionFile|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/GraphBackgroundNoImage|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/SelectAll|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/SelectAllClear|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/ShapeAlignBottom|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/ShapeAlignCenter|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/ShapeAlignLeft|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/ShapeAlignMiddle|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/ShapeAlignRight|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/ShapeAlignTop|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/ShapeCloneAttributes|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/ShapeCloneLabel|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/ShapeCloneSize|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/ShapeGroup|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/ShapeToBack|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/ShapeToFront|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/ShapeUngroup|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/ToolsGridSize|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/ToolsSnapSize|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/ViewActualSize|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/ViewScaleCustom|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/ViewScaleZoomIn|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/ViewScaleZoomOut|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/WindowWindows|,|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionList|> 
+<|java+class:///org/jgraph/pad/jgraphpad/GPAction|,|java+class:///org/microplatform/ActionCommand|> 
+<|java+class:///org/jgraph/pad/jgraphpad/GPDocument|,|java+class:///org/microplatform/Document|> 
+<|java+class:///org/jgraph/pad/palettebase/AbstractDefaultEdgeCreator|,|java+class:///org/jgraph/pad/palettebase/AbstractCellCreator|> 
+<|java+class:///org/jgraph/pad/palettebase/AbstractDefaultVertexnPortsCreator|,|java+class:///org/jgraph/pad/palettebase/AbstractCellCreator|> 
+<|java+class:///org/jgraph/pad/palettebase/ToolBoxIcon|,|java+class:///org/jgraph/pad/palettebase/AbstractDefaultVertexnPortsCreator|> 
+<|java+class:///org/jgraph/plugins/codecs/FileExportGIF|,|java+class:///org/jgraph/pad/actionsbase/lazy/FileExportPNG|> 
+<|java+class:///org/jgraph/plugins/codecs/FileExportGXL|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/plugins/codecs/FileExportJPG|,|java+class:///org/jgraph/pad/actionsbase/lazy/FileExportPNG|> 
+<|java+class:///org/jgraph/plugins/codecs/FileImportGEO|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/plugins/codecs/FileImportGXL|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/plugins/codecs/FileImportSimple|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/plugins/gpgraph/GPGraphAction|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/plugins/gpgraph/GraphArrange|,|java+class:///org/jgraph/plugins/gpgraph/GPGraphAction|> 
+<|java+class:///org/jgraph/plugins/gpgraph/GraphTilt|,|java+class:///org/jgraph/plugins/gpgraph/GPGraphAction|> 
+<|java+class:///org/jgraph/plugins/gpgraph/SelectEdges|,|java+class:///org/jgraph/plugins/gpgraph/GPGraphAction|> 
+<|java+class:///org/jgraph/plugins/gpgraph/SelectEdgesClear|,|java+class:///org/jgraph/plugins/gpgraph/GPGraphAction|> 
+<|java+class:///org/jgraph/plugins/gpgraph/SelectInverse|,|java+class:///org/jgraph/plugins/gpgraph/GPGraphAction|> 
+<|java+class:///org/jgraph/plugins/gpgraph/SelectMinimalSpanTree|,|java+class:///org/jgraph/plugins/gpgraph/GPGraphAction|> 
+<|java+class:///org/jgraph/plugins/gpgraph/SelectShortestPath|,|java+class:///org/jgraph/plugins/gpgraph/GPGraphAction|> 
+<|java+class:///org/jgraph/plugins/gpgraph/SelectVertices|,|java+class:///org/jgraph/plugins/gpgraph/GPGraphAction|> 
+<|java+class:///org/jgraph/plugins/gpgraph/SelectVerticesClear|,|java+class:///org/jgraph/plugins/gpgraph/GPGraphAction|> 
+<|java+class:///org/jgraph/plugins/gpgraph/ShapeBestPorts|,|java+class:///org/jgraph/plugins/gpgraph/GPGraphAction|> 
+<|java+class:///org/jgraph/plugins/gpgraph/ShapeConnect|,|java+class:///org/jgraph/plugins/gpgraph/GPGraphAction|> 
+<|java+class:///org/jgraph/plugins/gpgraph/ShapeDefaultPorts|,|java+class:///org/jgraph/plugins/gpgraph/GPGraphAction|> 
+<|java+class:///org/jgraph/plugins/gpgraph/ShapeDisconnect|,|java+class:///org/jgraph/plugins/gpgraph/GPGraphAction|> 
+<|java+class:///org/jgraph/plugins/gpgraph/ToolsShowExplorer|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/plugins/layouts/AnnealingLayoutAlgorithm|,|java+class:///org/jgraph/plugins/layouts/JGraphLayoutAlgorithm|> 
+<|java+class:///org/jgraph/plugins/layouts/GraphApplyLayoutAlgorithm|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/plugins/layouts/OrderedTreeLayoutAlgorithm|,|java+class:///org/jgraph/plugins/layouts/TreeLayoutAlgorithm|> 
+<|java+class:///org/jgraph/plugins/library/EditDelete|,|java+class:///org/jgraph/plugins/library/LibraryAction|> 
+<|java+class:///org/jgraph/plugins/library/EditInsertIntoLibrary|,|java+class:///org/jgraph/plugins/library/LibraryAction|> 
+<|java+class:///org/jgraph/plugins/library/FileLibraryClose|,|java+class:///org/jgraph/plugins/library/LibraryAction|> 
+<|java+class:///org/jgraph/plugins/library/FileLibraryNew|,|java+class:///org/jgraph/plugins/library/LibraryAction|> 
+<|java+class:///org/jgraph/plugins/library/FileLibraryOpen|,|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionFile|> 
+<|java+class:///org/jgraph/plugins/library/FileLibraryRename|,|java+class:///org/jgraph/plugins/library/LibraryAction|> 
+<|java+class:///org/jgraph/plugins/library/FileLibrarySaveAs|,|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionFile|> 
+<|java+class:///org/jgraph/plugins/library/LibraryAction|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/plugins/library/ToolsShowOverview|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/microplatform/actions/FileNew|,|java+class:///org/microplatform/ActionCommand|> 
+<|java+class:///org/microplatform/actions/FileOpen|,|java+class:///org/microplatform/ActionCommand|> 
+<|java+class:///org/microplatform/actions/FileOpenURL|,|java+class:///org/microplatform/ActionCommand|> 
+<|java+class:///org/microplatform/actions/FileSave|,|java+class:///org/microplatform/ActionCommand|> 
+<|java+class:///org/microplatform/actions/FileSaveAs|,|java+class:///org/microplatform/ActionCommand|> 
+<|java+class:///org/microplatform/io/FileService/JFileChooserService|,|java+class:///org/microplatform/io/FileService|> 
+<|java+class:///org/microplatform/web/applet/AppletFriendlyXMLEncoder/java_awt_geom_Point2D$Double_PersistenceDelegate|,|java+class:///org/microplatform/web/applet/AppletFriendlyXMLEncoder/AppletFriendlyDefaultPersistenceDelegate|> 
+<|java+class:///org/microplatform/web/applet/AppletFriendlyXMLEncoder/java_util_Collection_PersistenceDelegate|,|java+class:///org/microplatform/web/applet/AppletFriendlyXMLEncoder/AppletFriendlyDefaultPersistenceDelegate|> 
+<|java+class:///org/microplatform/web/applet/AppletFriendlyXMLEncoder/java_util_List_PersistenceDelegate|,|java+class:///org/microplatform/web/applet/AppletFriendlyXMLEncoder/AppletFriendlyDefaultPersistenceDelegate|> 
+<|java+class:///org/microplatform/web/applet/AppletFriendlyXMLEncoder/java_util_Map_PersistenceDelegate|,|java+class:///org/microplatform/web/applet/AppletFriendlyXMLEncoder/AppletFriendlyDefaultPersistenceDelegate|> 
+<|java+class:///org/microplatform/web/applet/AppletFriendlyXMLEncoder/javax_swing_tree_DefaultMutableTreeNode_PersistenceDelegate|,|java+class:///org/microplatform/web/applet/AppletFriendlyXMLEncoder/AppletFriendlyDefaultPersistenceDelegate|> 
+
+EXTERNAL REUSE TOTAL: 5 
+<|java+class:///org/jgraph/pad/actionsbase/eager/ToolBoxSelect|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/eager/ToolBoxZoomArea|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/jgraphpad/GPAction|,|java+class:///org/microplatform/ActionCommand|> 
+<|java+class:///org/jgraph/pad/jgraphpad/GPDocument|,|java+class:///org/microplatform/Document|> 
+<|java+class:///org/microplatform/gui/DocFrame|,|java+class:///org/microplatform/gui/InternalFrame|> 
+
+SUBTYPE TOTAL: 33 
+<|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionCheckBox|,|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionToggle|> 
+<|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionList|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionListCell|,|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionList|> 
+<|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionRadioButton|,|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionToggle|> 
+<|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionToggle|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/eager/EditRedo|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/eager/EditUndo|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/eager/ViewFit|,|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionRadioButton|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/WindowWindows|,|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionList|> 
+<|java+class:///org/jgraph/pad/jgraphpad/GPAction|,|java+class:///org/microplatform/ActionCommand|> 
+<|java+class:///org/jgraph/pad/jgraphpad/GPDocument|,|java+class:///org/microplatform/Document|> 
+<|java+class:///org/jgraph/plugins/layouts/AnnealingLayoutAlgorithm|,|java+class:///org/jgraph/plugins/layouts/JGraphLayoutAlgorithm|> 
+<|java+class:///org/jgraph/plugins/layouts/CircleGraphLayout|,|java+class:///org/jgraph/plugins/layouts/JGraphLayoutAlgorithm|> 
+<|java+class:///org/jgraph/plugins/layouts/GEMLayoutAlgorithm|,|java+class:///org/jgraph/plugins/layouts/JGraphLayoutAlgorithm|> 
+<|java+class:///org/jgraph/plugins/layouts/MoenLayoutAlgorithm|,|java+class:///org/jgraph/plugins/layouts/JGraphLayoutAlgorithm|> 
+<|java+class:///org/jgraph/plugins/layouts/OrderedTreeLayoutAlgorithm|,|java+class:///org/jgraph/plugins/layouts/TreeLayoutAlgorithm|> 
+<|java+class:///org/jgraph/plugins/layouts/RadialTreeLayoutAlgorithm|,|java+class:///org/jgraph/plugins/layouts/JGraphLayoutAlgorithm|> 
+<|java+class:///org/jgraph/plugins/layouts/SpringEmbeddedLayoutAlgorithm|,|java+class:///org/jgraph/plugins/layouts/JGraphLayoutAlgorithm|> 
+<|java+class:///org/jgraph/plugins/layouts/SugiyamaLayoutAlgorithm|,|java+class:///org/jgraph/plugins/layouts/JGraphLayoutAlgorithm|> 
+<|java+class:///org/jgraph/plugins/layouts/TreeLayoutAlgorithm|,|java+class:///org/jgraph/plugins/layouts/JGraphLayoutAlgorithm|> 
+<|java+class:///org/microplatform/actions/FileOpenURL|,|java+class:///org/microplatform/ActionCommand|> 
+<|java+class:///org/microplatform/gui/DocFrame|,|java+class:///org/microplatform/gui/InternalFrame|> 
+<|java+class:///org/microplatform/io/DefaultPreferencesService|,|java+class:///org/microplatform/io/PreferencesService|> 
+<|java+class:///org/microplatform/io/FileService/JFileChooserService|,|java+class:///org/microplatform/io/FileService|> 
+<|java+class:///org/microplatform/io/NullPreferencesService|,|java+class:///org/microplatform/io/PreferencesService|> 
+<|java+class:///org/microplatform/web/applet/AppletFriendlyXMLEncoder/java_awt_Color_PersistenceDelegate|,|java+class:///org/microplatform/web/applet/AppletFriendlyXMLEncoder/AppletFriendlyDefaultPersistenceDelegate|> 
+<|java+class:///org/microplatform/web/applet/AppletFriendlyXMLEncoder/java_awt_Font_PersistenceDelegate|,|java+class:///org/microplatform/web/applet/AppletFriendlyXMLEncoder/AppletFriendlyDefaultPersistenceDelegate|> 
+<|java+class:///org/microplatform/web/applet/AppletFriendlyXMLEncoder/java_awt_geom_Point2D$Double_PersistenceDelegate|,|java+class:///org/microplatform/web/applet/AppletFriendlyXMLEncoder/AppletFriendlyDefaultPersistenceDelegate|> 
+<|java+class:///org/microplatform/web/applet/AppletFriendlyXMLEncoder/java_awt_geom_Rectangle2D_PersistenceDelegate|,|java+class:///org/microplatform/web/applet/AppletFriendlyXMLEncoder/AppletFriendlyDefaultPersistenceDelegate|> 
+<|java+class:///org/microplatform/web/applet/AppletFriendlyXMLEncoder/java_util_Collection_PersistenceDelegate|,|java+class:///org/microplatform/web/applet/AppletFriendlyXMLEncoder/AppletFriendlyDefaultPersistenceDelegate|> 
+<|java+class:///org/microplatform/web/applet/AppletFriendlyXMLEncoder/java_util_List_PersistenceDelegate|,|java+class:///org/microplatform/web/applet/AppletFriendlyXMLEncoder/AppletFriendlyDefaultPersistenceDelegate|> 
+<|java+class:///org/microplatform/web/applet/AppletFriendlyXMLEncoder/java_util_Map_PersistenceDelegate|,|java+class:///org/microplatform/web/applet/AppletFriendlyXMLEncoder/AppletFriendlyDefaultPersistenceDelegate|> 
+<|java+class:///org/microplatform/web/applet/AppletFriendlyXMLEncoder/javax_swing_tree_DefaultMutableTreeNode_PersistenceDelegate|,|java+class:///org/microplatform/web/applet/AppletFriendlyXMLEncoder/AppletFriendlyDefaultPersistenceDelegate|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 13 
+<|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionRadioButton|,|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionToggle|> 
+<|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionToggle|,|java+class:///org/jgraph/pad/jgraphpad/GPAction|> 
+<|java+class:///org/jgraph/pad/actionsbase/eager/FormatLinePatternList|,|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionListCell|> 
+<|java+class:///org/jgraph/pad/actionsbase/eager/FormatLineStartList|,|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionListCell|> 
+<|java+class:///org/jgraph/pad/actionsbase/eager/FormatLineWidthList|,|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionListCell|> 
+<|java+class:///org/jgraph/pad/actionsbase/eager/FormatTextFontSizeList|,|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionList|> 
+<|java+class:///org/jgraph/pad/actionsbase/eager/ToolsLookAndFeel|,|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionRadioButton|> 
+<|java+class:///org/jgraph/pad/actionsbase/eager/ViewFit|,|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionRadioButton|> 
+<|java+class:///org/jgraph/pad/actionsbase/eager/ViewLayout|,|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionRadioButton|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/WindowWindows|,|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionList|> 
+<|java+class:///org/jgraph/pad/jgraphpad/GPDocument|,|java+class:///org/microplatform/Document|> 
+<|java+class:///org/jgraph/plugins/layouts/OrderedTreeLayoutAlgorithm|,|java+class:///org/jgraph/plugins/layouts/TreeLayoutAlgorithm|> 
+<|java+class:///org/microplatform/gui/DocFrame|,|java+class:///org/microplatform/gui/InternalFrame|> 
+
+GENERIC TOTAL: 2 
+<|java+class:///org/jgraph/plugins/layouts/AnnealingLayoutAlgorithm|,|java+class:///org/jgraph/plugins/layouts/JGraphLayoutAlgorithm|> 
+<|java+class:///org/jgraph/plugins/layouts/GEMLayoutAlgorithm|,|java+class:///org/jgraph/plugins/layouts/JGraphLayoutAlgorithm|> 
+
+CATEGORY TOTAL: 2 
+<|java+class:///org/microplatform/web/webstart/JNLPFileService|,|java+class:///org/microplatform/io/FileService|> 
+<|java+class:///org/microplatform/web/webstart/JNLPPreferencesService|,|java+class:///org/microplatform/io/PreferencesService|> 
+
+FRAMEWORK TOTAL: 16 
+<|java+class:///org/jgraph/pad/jgraphpad/GPAction|,|java+class:///org/microplatform/ActionCommand|> 
+<|java+class:///org/jgraph/pad/jgraphpad/GPDocument|,|java+class:///org/microplatform/Document|> 
+<|java+class:///org/microplatform/actions/FileNew|,|java+class:///org/microplatform/ActionCommand|> 
+<|java+class:///org/microplatform/actions/FileOpen|,|java+class:///org/microplatform/ActionCommand|> 
+<|java+class:///org/microplatform/actions/FileOpenURL|,|java+class:///org/microplatform/ActionCommand|> 
+<|java+class:///org/microplatform/actions/FileSave|,|java+class:///org/microplatform/ActionCommand|> 
+<|java+class:///org/microplatform/actions/FileSaveAs|,|java+class:///org/microplatform/ActionCommand|> 
+<|java+class:///org/microplatform/gui/DocFrame|,|java+class:///org/microplatform/gui/InternalFrame|> 
+<|java+class:///org/microplatform/web/applet/AppletFriendlyXMLEncoder/java_awt_Color_PersistenceDelegate|,|java+class:///org/microplatform/web/applet/AppletFriendlyXMLEncoder/AppletFriendlyDefaultPersistenceDelegate|> 
+<|java+class:///org/microplatform/web/applet/AppletFriendlyXMLEncoder/java_awt_Font_PersistenceDelegate|,|java+class:///org/microplatform/web/applet/AppletFriendlyXMLEncoder/AppletFriendlyDefaultPersistenceDelegate|> 
+<|java+class:///org/microplatform/web/applet/AppletFriendlyXMLEncoder/java_awt_geom_Point2D$Double_PersistenceDelegate|,|java+class:///org/microplatform/web/applet/AppletFriendlyXMLEncoder/AppletFriendlyDefaultPersistenceDelegate|> 
+<|java+class:///org/microplatform/web/applet/AppletFriendlyXMLEncoder/java_awt_geom_Rectangle2D_PersistenceDelegate|,|java+class:///org/microplatform/web/applet/AppletFriendlyXMLEncoder/AppletFriendlyDefaultPersistenceDelegate|> 
+<|java+class:///org/microplatform/web/applet/AppletFriendlyXMLEncoder/java_util_Collection_PersistenceDelegate|,|java+class:///org/microplatform/web/applet/AppletFriendlyXMLEncoder/AppletFriendlyDefaultPersistenceDelegate|> 
+<|java+class:///org/microplatform/web/applet/AppletFriendlyXMLEncoder/java_util_List_PersistenceDelegate|,|java+class:///org/microplatform/web/applet/AppletFriendlyXMLEncoder/AppletFriendlyDefaultPersistenceDelegate|> 
+<|java+class:///org/microplatform/web/applet/AppletFriendlyXMLEncoder/java_util_Map_PersistenceDelegate|,|java+class:///org/microplatform/web/applet/AppletFriendlyXMLEncoder/AppletFriendlyDefaultPersistenceDelegate|> 
+<|java+class:///org/microplatform/web/applet/AppletFriendlyXMLEncoder/javax_swing_tree_DefaultMutableTreeNode_PersistenceDelegate|,|java+class:///org/microplatform/web/applet/AppletFriendlyXMLEncoder/AppletFriendlyDefaultPersistenceDelegate|> 
+
+DOWNCALL TOTAL: 24 
+<|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionListCell|,|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionList|> 
+<|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionRadioButton|,|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionToggle|> 
+<|java+class:///org/jgraph/pad/actionsbase/eager/FormatLineEndList|,|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionListCell|> 
+<|java+class:///org/jgraph/pad/actionsbase/eager/FormatLinePatternList|,|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionListCell|> 
+<|java+class:///org/jgraph/pad/actionsbase/eager/FormatLineStartList|,|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionListCell|> 
+<|java+class:///org/jgraph/pad/actionsbase/eager/FormatLineWidthList|,|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionListCell|> 
+<|java+class:///org/jgraph/pad/actionsbase/eager/FormatTextFontSizeList|,|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionList|> 
+<|java+class:///org/jgraph/pad/actionsbase/eager/ToolsLookAndFeel|,|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionRadioButton|> 
+<|java+class:///org/jgraph/pad/actionsbase/eager/ViewFit|,|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionRadioButton|> 
+<|java+class:///org/jgraph/pad/actionsbase/eager/ViewLayout|,|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionRadioButton|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/FormatTextFont|,|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionList|> 
+<|java+class:///org/jgraph/pad/actionsbase/lazy/WindowWindows|,|java+class:///org/jgraph/pad/actionsbase/eager/AbstractActionList|> 
+<|java+class:///org/jgraph/pad/jgraphpad/GPDocument|,|java+class:///org/microplatform/Document|> 
+<|java+class:///org/jgraph/pad/palettebase/ToolBoxDiamond|,|java+class:///org/jgraph/pad/palettebase/AbstractDefaultVertexnPortsCreator|> 
+<|java+class:///org/jgraph/pad/palettebase/ToolBoxIcon|,|java+class:///org/jgraph/pad/palettebase/AbstractDefaultVertexnPortsCreator|> 
+<|java+class:///org/jgraph/plugins/layouts/AnnealingLayoutAlgorithm|,|java+class:///org/jgraph/plugins/layouts/JGraphLayoutAlgorithm|> 
+<|java+class:///org/jgraph/plugins/layouts/CircleGraphLayout|,|java+class:///org/jgraph/plugins/layouts/JGraphLayoutAlgorithm|> 
+<|java+class:///org/jgraph/plugins/layouts/GEMLayoutAlgorithm|,|java+class:///org/jgraph/plugins/layouts/JGraphLayoutAlgorithm|> 
+<|java+class:///org/jgraph/plugins/layouts/MoenLayoutAlgorithm|,|java+class:///org/jgraph/plugins/layouts/JGraphLayoutAlgorithm|> 
+<|java+class:///org/jgraph/plugins/layouts/OrderedTreeLayoutAlgorithm|,|java+class:///org/jgraph/plugins/layouts/TreeLayoutAlgorithm|> 
+<|java+class:///org/jgraph/plugins/layouts/RadialTreeLayoutAlgorithm|,|java+class:///org/jgraph/plugins/layouts/JGraphLayoutAlgorithm|> 
+<|java+class:///org/jgraph/plugins/layouts/SpringEmbeddedLayoutAlgorithm|,|java+class:///org/jgraph/plugins/layouts/JGraphLayoutAlgorithm|> 
+<|java+class:///org/jgraph/plugins/layouts/SugiyamaLayoutAlgorithm|,|java+class:///org/jgraph/plugins/layouts/JGraphLayoutAlgorithm|> 
+<|java+class:///org/jgraph/plugins/layouts/TreeLayoutAlgorithm|,|java+class:///org/jgraph/plugins/layouts/JGraphLayoutAlgorithm|> 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 0 
+
+SUBTYPE TOTAL: 12 
+<|java+class:///org/jgraph/pad/jgraphpad/GPGraphpadFile|,|java+interface:///org/microplatform/io/IFile|> 
+<|java+class:///org/jgraph/plugins/gpgraph/GPGraphTools/DefaultCostFunction|,|java+interface:///org/jgraph/plugins/gpgraph/GPGraphTools/CostFunction|> 
+<|java+class:///org/jgraph/plugins/layouts/AnnealingLayoutSettings|,|java+interface:///org/jgraph/plugins/layouts/JGraphLayoutSettings|> 
+<|java+class:///org/jgraph/plugins/layouts/GEMLayoutSettings|,|java+interface:///org/jgraph/plugins/layouts/JGraphLayoutSettings|> 
+<|java+class:///org/jgraph/plugins/layouts/MoenLayoutSettings|,|java+interface:///org/jgraph/plugins/layouts/JGraphLayoutSettings|> 
+<|java+class:///org/jgraph/plugins/layouts/RadialTreeLayoutSettings|,|java+interface:///org/jgraph/plugins/layouts/JGraphLayoutSettings|> 
+<|java+class:///org/jgraph/plugins/layouts/SugiyamaLayoutSettings|,|java+interface:///org/jgraph/plugins/layouts/JGraphLayoutSettings|> 
+<|java+class:///org/jgraph/plugins/layouts/TreeLayoutSettings|,|java+interface:///org/jgraph/plugins/layouts/JGraphLayoutSettings|> 
+<|java+class:///org/microplatform/Document|,|java+interface:///org/microplatform/ICommandRegistery|> 
+<|java+class:///org/microplatform/gui/MDIContainer|,|java+interface:///org/microplatform/ICommandRegistery|> 
+<|java+class:///org/microplatform/io/FileService/JFileChooserService/Open|,|java+interface:///org/microplatform/io/FileService/Open|> 
+<|java+class:///org/microplatform/io/FileService/JFileChooserService/Save|,|java+interface:///org/microplatform/io/FileService/Save|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 3 
+<|java+class:///org/microplatform/ActionCommand|,|java+interface:///org/microplatform/loaders/TranslatorConstants|> 
+<|java+class:///org/microplatform/BarFactory|,|java+interface:///org/microplatform/loaders/TranslatorConstants|> 
+<|java+class:///org/microplatform/loaders/LocaleChangeAdapter|,|java+interface:///org/microplatform/loaders/TranslatorConstants|> 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 6 
+<|java+class:///org/jgraph/pad/palettebase/AbstractDefaultEdgeCreator|,|java+interface:///org/jgraph/pad/jgraphpad/IEdgeFactory|> 
+<|java+class:///org/jgraph/pad/palettebase/AbstractDefaultVertexnPortsCreator|,|java+interface:///org/jgraph/pad/jgraphpad/IVertexFactory|> 
+<|java+class:///org/jgraph/pad/subjgraph/GPGraphUI|,|java+interface:///org/microplatform/loaders/PluginInvoker/IDocAwarePlugin|> 
+<|java+class:///org/jgraph/plugins/console/GPLogConsole|,|java+interface:///org/microplatform/loaders/PluginInvoker/IPadAwarePlugin|> 
+<|java+class:///org/microplatform/actions/FileOpen|,|java+interface:///org/microplatform/loaders/PluginInvoker/NamedInputStreamProvider|> 
+<|java+class:///org/microplatform/actions/FileSaveAs|,|java+interface:///org/microplatform/loaders/PluginInvoker/NamedOutputStreamProvider|> 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 1 
+<|java+class:///org/jgraph/pad/jgraphpad/GPUserObject|,|java+interface:///org/jgraph/pad/jgraphpad/util/ICellBuisnessObject|> 
+
+DOWNCALL TOTAL: 0 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 0 
+
+SUBTYPE TOTAL: 0 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 0 
+
+DOWNCALL TOTAL: 0 
+
+
+
+

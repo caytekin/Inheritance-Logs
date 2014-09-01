@@ -1,0 +1,5 @@
+[
+  <<|java+class:///org/apache/maven/artifact/repository/DefaultArtifactRepository|,|java+interface:///org/apache/maven/artifact/repository/ArtifactRepository|>,{|java+class:///org/apache/maven/wagon/repository/Repository|},|project://maven-3.0.5/maven-core/src/main/java/org/apache/maven/artifact/repository/MavenArtifactRepository.java|(9835,24,<341,35>,<341,59>)>,
+  <<|java+class:///org/apache/maven/artifact/repository/DefaultArtifactRepository|,|java+interface:///org/apache/maven/artifact/repository/ArtifactRepository|>,{|java+class:///org/apache/maven/wagon/repository/Repository|},|project://maven-3.0.5/maven-compat/src/main/java/org/apache/maven/project/DefaultMavenProjectBuilder.java|(7294,31,<176,31>,<176,62>)>,
+  <<|java+class:///org/apache/maven/artifact/repository/DefaultArtifactRepository|,|java+interface:///org/apache/maven/artifact/repository/ArtifactRepository|>,{|java+class:///org/apache/maven/wagon/repository/Repository|},|project://maven-3.0.5/maven-core/src/test/java/org/apache/maven/plugin/PluginParameterExpressionEvaluatorTest.java|(11186,26,<334,33>,<334,59>)>
+]

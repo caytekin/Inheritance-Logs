@@ -1,0 +1,32 @@
+[
+  <<|java+class:///com/opensymphony/oscache/web/filter/CacheFilter|,|java+interface:///com/opensymphony/oscache/web/filter/ICacheKeyProvider|>,{
+    |java+interface:///com/opensymphony/oscache/web/filter/ICacheGroupsProvider|,
+    |java+interface:///javax/servlet/Filter|
+  },|project://oscache-2.3/src/java/com/opensymphony/oscache/web/filter/CacheFilter.java|(15158,116,<321,45>,<321,161>)>,
+  <<|java+class:///com/opensymphony/oscache/web/filter/CacheFilter|,|java+interface:///com/opensymphony/oscache/web/filter/ICacheGroupsProvider|>,{
+    |java+interface:///com/opensymphony/oscache/web/filter/ICacheKeyProvider|,
+    |java+interface:///javax/servlet/Filter|
+  },|project://oscache-2.3/src/java/com/opensymphony/oscache/web/filter/CacheFilter.java|(15487,125,<327,51>,<327,176>)>,
+  <<|java+class:///com/opensymphony/oscache/plugins/clustersupport/AbstractBroadcastingListener|,|java+interface:///com/opensymphony/oscache/base/events/CacheEntryEventListener|>,{|java+interface:///com/opensymphony/oscache/base/LifecycleAware|},|project://oscache-2.3/src/java/com/opensymphony/oscache/base/Cache.java|(33143,42,<816,21>,<816,63>)>,
+  <<|java+class:///com/opensymphony/oscache/plugins/clustersupport/AbstractBroadcastingListener|,|java+interface:///com/opensymphony/oscache/base/events/CacheEntryEventListener|>,{|java+interface:///com/opensymphony/oscache/base/LifecycleAware|},|project://oscache-2.3/src/java/com/opensymphony/oscache/base/Cache.java|(33316,42,<818,21>,<818,63>)>,
+  <<|java+class:///com/opensymphony/oscache/plugins/clustersupport/AbstractBroadcastingListener|,|java+interface:///com/opensymphony/oscache/base/events/CacheEntryEventListener|>,{|java+interface:///com/opensymphony/oscache/base/LifecycleAware|},|project://oscache-2.3/src/java/com/opensymphony/oscache/base/Cache.java|(33491,42,<820,21>,<820,63>)>,
+  <<|java+class:///com/opensymphony/oscache/plugins/clustersupport/AbstractBroadcastingListener|,|java+interface:///com/opensymphony/oscache/base/events/CacheEntryEventListener|>,{|java+interface:///com/opensymphony/oscache/base/LifecycleAware|},|project://oscache-2.3/src/java/com/opensymphony/oscache/base/Cache.java|(33666,42,<822,21>,<822,63>)>,
+  <<|java+class:///com/opensymphony/oscache/plugins/clustersupport/AbstractBroadcastingListener|,|java+interface:///com/opensymphony/oscache/base/events/CacheEntryEventListener|>,{|java+interface:///com/opensymphony/oscache/base/LifecycleAware|},|project://oscache-2.3/src/java/com/opensymphony/oscache/base/Cache.java|(34742,42,<846,21>,<846,63>)>,
+  <<|java+class:///com/opensymphony/oscache/plugins/clustersupport/AbstractBroadcastingListener|,|java+interface:///com/opensymphony/oscache/base/events/CacheEntryEventListener|>,{|java+interface:///com/opensymphony/oscache/base/LifecycleAware|},|project://oscache-2.3/src/java/com/opensymphony/oscache/base/Cache.java|(36784,42,<892,21>,<892,63>)>,
+  <<|java+class:///com/opensymphony/oscache/plugins/clustersupport/AbstractBroadcastingListener|,|java+interface:///com/opensymphony/oscache/base/events/CacheEntryEventListener|>,{|java+interface:///com/opensymphony/oscache/base/LifecycleAware|},|project://oscache-2.3/src/java/com/opensymphony/oscache/base/Cache.java|(37782,42,<915,21>,<915,63>)>,
+  <<|java+class:///com/opensymphony/oscache/plugins/diskpersistence/AbstractDiskPersistenceListener|,|java+interface:///com/opensymphony/oscache/base/persistence/PersistenceListener|>,{|java+interface:///java/io/Serializable|},|project://oscache-2.3/src/java/com/opensymphony/oscache/base/AbstractCacheAdministrator.java|(11980,41,<295,54>,<295,95>)>,
+  <<|java+class:///com/opensymphony/oscache/plugins/clustersupport/AbstractBroadcastingListener|,|java+interface:///com/opensymphony/oscache/base/LifecycleAware|>,{|java+interface:///com/opensymphony/oscache/base/events/CacheEntryEventListener|},|project://oscache-2.3/src/java/com/opensymphony/oscache/base/AbstractCacheAdministrator.java|(15052,33,<367,21>,<367,54>)>,
+  <<|java+class:///com/opensymphony/oscache/web/ServletCache|,|java+class:///com/opensymphony/oscache/base/Cache|>,{
+    |java+interface:///javax/servlet/http/HttpSessionBindingListener|,
+    |java+interface:///java/io/Serializable|
+  },|project://oscache-2.3/src/java/com/opensymphony/oscache/web/ServletCacheAdministrator.java|(7335,49,<196,26>,<196,75>)>,
+  <<|java+class:///com/opensymphony/oscache/web/ServletCache|,|java+class:///com/opensymphony/oscache/base/Cache|>,{
+    |java+interface:///javax/servlet/http/HttpSessionBindingListener|,
+    |java+interface:///java/io/Serializable|
+  },|project://oscache-2.3/src/java/com/opensymphony/oscache/web/ServletCacheAdministrator.java|(9369,11,<252,20>,<252,31>)>,
+  <<|java+class:///com/opensymphony/oscache/web/ServletCache|,|java+class:///com/opensymphony/oscache/base/Cache|>,{
+    |java+interface:///javax/servlet/http/HttpSessionBindingListener|,
+    |java+interface:///java/io/Serializable|
+  },|project://oscache-2.3/src/java/com/opensymphony/oscache/web/ServletCacheAdministrator.java|(10235,11,<277,20>,<277,31>)>,
+  <<|java+class:///com/opensymphony/oscache/plugins/clustersupport/JavaGroupsBroadcastingListener|,|java+class:///com/opensymphony/oscache/plugins/clustersupport/AbstractBroadcastingListener|>,{|java+interface:///org/jgroups/blocks/NotificationBus/Consumer|},|project://oscache-2.3/src/test/java/com/opensymphony/oscache/plugins/clustersupport/ListenForClusterTests.java|(3836,40,<107,21>,<107,61>)>
+]

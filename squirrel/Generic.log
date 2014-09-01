@@ -1,0 +1,13 @@
+[
+  <<|java+class:///net/sourceforge/squirrel_sql/fw/sql/SQLDriver|,|java+interface:///net/sourceforge/squirrel_sql/fw/sql/ISQLDriver|>,{
+    |java+interface:///java/lang/Cloneable|,
+    |java+interface:///java/io/Serializable|
+  },|project://squirrel/src/net/sourceforge/squirrel_sql/fw/sql/SQLDriverManager.java|(6757,16,<193,25>,<193,41>)>,
+  <<|java+interface:///net/sourceforge/squirrel_sql/fw/sql/ISQLDriver|,|java+interface:///java/lang/Comparable|>,{|java+interface:///net/sourceforge/squirrel_sql/fw/id/IHasIdentifier|},|project://squirrel/src/net/sourceforge/squirrel_sql/fw/gui/SortableTableModel.java|(10307,17,<380,28>,<380,45>)>,
+  <<|java+class:///net/sourceforge/squirrel_sql/fw/sql/TableInfo|,|java+class:///net/sourceforge/squirrel_sql/fw/sql/DatabaseObjectInfo|>,{|java+interface:///net/sourceforge/squirrel_sql/fw/sql/ITableInfo|},|project://squirrel/src/net/sourceforge/squirrel_sql/fw/sql/DatabaseObjectInfo.java|(10511,24,<361,35>,<361,59>)>,
+  <<|java+class:///net/sourceforge/squirrel_sql/fw/sql/SQLDriver|,|java+interface:///net/sourceforge/squirrel_sql/fw/sql/ISQLDriver|>,{
+    |java+interface:///java/lang/Cloneable|,
+    |java+interface:///java/io/Serializable|
+  },|project://squirrel/src/net/sourceforge/squirrel_sql/fw/sql/SQLDriver.java|(4185,16,<134,9>,<134,25>)>,
+  <<|java+class:///net/sourceforge/squirrel_sql/fw/gui/WindowState|,|java+interface:///net/sourceforge/squirrel_sql/fw/xml/IXMLAboutToBeWritten|>,{|java+interface:///java/io/Serializable|},|project://squirrel/src/net/sourceforge/squirrel_sql/fw/xml/XMLBeanWriter.java|(2824,27,<117,5>,<117,32>)>
+]

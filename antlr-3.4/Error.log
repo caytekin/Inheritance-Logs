@@ -1,0 +1,25 @@
+Error log for antlr-3.4
+In getCompilationUnitOfClassOrInterface(), the number of elements containing class |java+class:///SimpleCTP| is 2. Set is {|java+compilationUnit:///runtime/ObjC/Framework/examples/simplecTreeParser/output1/SimpleCTP.java|,|java+compilationUnit:///runtime/ObjC/Framework/examples/simplecTreeParser/SimpleCTP.java|}
+
+In getCompilationUnitOfClassOrInterface(), the number of elements containing class |java+class:///SimpleCParser| is 2. Set is {|java+compilationUnit:///runtime/ObjC/Framework/examples/simplecTreeParser/output1/SimpleCParser.java|,|java+compilationUnit:///runtime/ObjC/Framework/examples/simplecTreeParser/SimpleCParser.java|}
+
+In getCompilationUnitOfClassOrInterface(), the number of elements containing class |java+class:///SimpleCLexer| is 2. Set is {|java+compilationUnit:///runtime/ObjC/Framework/examples/simplecTreeParser/SimpleCLexer.java|,|java+compilationUnit:///runtime/ObjC/Framework/examples/simplecTreeParser/output1/SimpleCLexer.java|}
+
+In getCompilationUnitOfClassOrInterface(), the number of elements containing class |java+class:///SimpleCTP| is 2. Set is {|java+compilationUnit:///runtime/ObjC/Framework/examples/simplecTreeParser/output1/SimpleCTP.java|,|java+compilationUnit:///runtime/ObjC/Framework/examples/simplecTreeParser/SimpleCTP.java|}
+
+In getCompilationUnitOfClassOrInterface(), the number of elements containing class |java+class:///SimpleCParser| is 2. Set is {|java+compilationUnit:///runtime/ObjC/Framework/examples/simplecTreeParser/output1/SimpleCParser.java|,|java+compilationUnit:///runtime/ObjC/Framework/examples/simplecTreeParser/SimpleCParser.java|}
+
+In getCompilationUnitOfClassOrInterface(), the number of elements containing class |java+class:///SimpleCLexer| is 2. Set is {|java+compilationUnit:///runtime/ObjC/Framework/examples/simplecTreeParser/SimpleCLexer.java|,|java+compilationUnit:///runtime/ObjC/Framework/examples/simplecTreeParser/output1/SimpleCLexer.java|}
+
+In getCompilationUnitOfClassOrInterface(), the number of elements containing class |java+class:///SimpleCTP| is 2. Set is {|java+compilationUnit:///runtime/ObjC/Framework/examples/simplecTreeParser/output1/SimpleCTP.java|,|java+compilationUnit:///runtime/ObjC/Framework/examples/simplecTreeParser/SimpleCTP.java|}
+
+In getCompilationUnitOfClassOrInterface(), the number of elements containing class |java+class:///SimpleCParser| is 2. Set is {|java+compilationUnit:///runtime/ObjC/Framework/examples/simplecTreeParser/output1/SimpleCParser.java|,|java+compilationUnit:///runtime/ObjC/Framework/examples/simplecTreeParser/SimpleCParser.java|}
+
+In getCompilationUnitOfClassOrInterface(), the number of elements containing class |java+class:///SimpleCLexer| is 2. Set is {|java+compilationUnit:///runtime/ObjC/Framework/examples/simplecTreeParser/SimpleCLexer.java|,|java+compilationUnit:///runtime/ObjC/Framework/examples/simplecTreeParser/output1/SimpleCLexer.java|}
+
+In getCompilationUnitOfClassOrInterface(), the number of elements containing class |java+class:///SimpleCTP| is 2. Set is {|java+compilationUnit:///runtime/ObjC/Framework/examples/simplecTreeParser/output1/SimpleCTP.java|,|java+compilationUnit:///runtime/ObjC/Framework/examples/simplecTreeParser/SimpleCTP.java|}
+
+In getCompilationUnitOfClassOrInterface(), the number of elements containing class |java+class:///SimpleCParser| is 2. Set is {|java+compilationUnit:///runtime/ObjC/Framework/examples/simplecTreeParser/output1/SimpleCParser.java|,|java+compilationUnit:///runtime/ObjC/Framework/examples/simplecTreeParser/SimpleCParser.java|}
+
+In getCompilationUnitOfClassOrInterface(), the number of elements containing class |java+class:///SimpleCLexer| is 2. Set is {|java+compilationUnit:///runtime/ObjC/Framework/examples/simplecTreeParser/SimpleCLexer.java|,|java+compilationUnit:///runtime/ObjC/Framework/examples/simplecTreeParser/output1/SimpleCLexer.java|}
+

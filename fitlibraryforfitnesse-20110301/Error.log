@@ -1,0 +1,55 @@
+Error log for fitlibraryforfitnesse-20110301
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///fitlibrary/specify/eg/Colour|,[]),class(|java+class:///fitlibrary/specify/eg/Colour|,[])], declared symbol list: [class(|java+class:///java/lang/Object|,[])] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///fitlibrary/specify/eg/Colour|,[]),class(|java+class:///fitlibrary/specify/eg/Colour|,[])], declared symbol list: [class(|java+class:///java/lang/Object|,[])] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///fitlibrary/specify/eg/Colour|,[]),class(|java+class:///fitlibrary/specify/eg/Colour|,[])], declared symbol list: [class(|java+class:///java/lang/Object|,[])] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///fitlibrary/specify/eg/Colour|,[]),class(|java+class:///fitlibrary/specify/eg/Colour|,[])], declared symbol list: [class(|java+class:///java/lang/Object|,[])] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [interface(|java+interface:///java/util/List|,[class(|java+class:///fitlibrary/specify/eg/Colour|,[])]),interface(|java+interface:///java/util/List|,[class(|java+class:///fitlibrary/specify/eg/Colour|,[])])], declared symbol list: [class(|java+class:///java/lang/Object|,[])] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///fitlibrary/specify/eg/Colour|,[]),class(|java+class:///fitlibrary/specify/eg/Colour|,[])], declared symbol list: [class(|java+class:///java/lang/Object|,[])] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///fitlibrary/specify/eg/Colour|,[]),class(|java+class:///fitlibrary/specify/eg/Colour|,[])], declared symbol list: [class(|java+class:///java/lang/Object|,[])] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [interface(|java+interface:///java/util/Set|,[class(|java+class:///fitlibrary/specify/eg/Colour|,[])]),interface(|java+interface:///java/util/Set|,[class(|java+class:///fitlibrary/specify/eg/Colour|,[])])], declared symbol list: [class(|java+class:///java/lang/Object|,[])] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///fitlibrary/specify/eg/Colour|,[]),class(|java+class:///fitlibrary/specify/eg/Colour|,[])], declared symbol list: [class(|java+class:///java/lang/Object|,[])] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///fitlibrary/specify/eg/Colour|,[]),class(|java+class:///fitlibrary/specify/eg/Colour|,[])], declared symbol list: [class(|java+class:///java/lang/Object|,[])] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [interface(|java+interface:///java/util/Set|,[class(|java+class:///fitlibrary/specify/eg/Colour|,[])]),interface(|java+interface:///java/util/Set|,[class(|java+class:///fitlibrary/specify/eg/Colour|,[])])], declared symbol list: [class(|java+class:///java/lang/Object|,[])] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///fitlibrary/specify/eg/Colour|,[]),class(|java+class:///fitlibrary/specify/eg/Colour|,[])], declared symbol list: [class(|java+class:///java/lang/Object|,[])] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///fitlibrary/specify/eg/Colour|,[]),class(|java+class:///fitlibrary/specify/eg/Colour|,[])], declared symbol list: [class(|java+class:///java/lang/Object|,[])] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [interface(|java+interface:///java/util/List|,[class(|java+class:///fitlibrary/specify/eg/Colour|,[])]),interface(|java+interface:///java/util/List|,[class(|java+class:///fitlibrary/specify/eg/Colour|,[])])], declared symbol list: [class(|java+class:///java/lang/Object|,[])] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [array(class(|java+class:///java/lang/String|,[]),1)] 
+

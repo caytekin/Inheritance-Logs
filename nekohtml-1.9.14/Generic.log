@@ -1,0 +1,17 @@
+[
+  <<|java+class:///org/cyberneko/html/HTMLScanner/LocationItem|,|java+interface:///org/cyberneko/html/HTMLEventInfo|>,{|java+interface:///java/lang/Cloneable|},|project://nekohtml-1.9.14/test/java/org/cyberneko/html/Writer.java|(10946,96,<349,55>,<350,76>)>,
+  <<|java+class:///org/cyberneko/html/HTMLScanner/LocationItem|,|java+interface:///org/cyberneko/html/HTMLEventInfo|>,{|java+interface:///java/lang/Cloneable|},|project://nekohtml-1.9.14/test/java/org/cyberneko/html/Writer.java|(12144,96,<379,55>,<380,76>)>,
+  <<|java+class:///org/cyberneko/html/HTMLScanner/LocationItem|,|java+interface:///org/cyberneko/html/HTMLEventInfo|>,{|java+interface:///java/lang/Cloneable|},|project://nekohtml-1.9.14/test/java/org/cyberneko/html/Writer.java|(12870,96,<394,55>,<395,76>)>,
+  <<|java+class:///org/cyberneko/html/HTMLScanner|,|java+interface:///org/cyberneko/html/HTMLComponent|>,{
+    |java+interface:///org/apache/xerces/xni/XMLLocator|,
+    |java+interface:///org/apache/xerces/xni/parser/XMLDocumentScanner|
+  },|project://nekohtml-1.9.14/src/org/cyberneko/html/HTMLConfiguration.java|(12212,43,<354,38>,<354,81>)>,
+  <<|java+class:///org/cyberneko/html/filters/DefaultFilter|,|java+interface:///org/apache/xerces/xni/parser/XMLDocumentFilter|>,{|java+interface:///org/cyberneko/html/HTMLComponent|},|project://nekohtml-1.9.14/src/org/cyberneko/html/HTMLConfiguration.java|(12619,41,<365,42>,<365,83>)>,
+  <<|java+class:///org/cyberneko/html/filters/DefaultFilter|,|java+interface:///org/cyberneko/html/HTMLComponent|>,{|java+interface:///org/apache/xerces/xni/parser/XMLDocumentFilter|},|project://nekohtml-1.9.14/src/org/cyberneko/html/HTMLConfiguration.java|(13122,43,<378,38>,<378,81>)>,
+  <<|java+class:///org/cyberneko/html/HTMLScanner|,|java+interface:///org/cyberneko/html/HTMLComponent|>,{
+    |java+interface:///org/apache/xerces/xni/XMLLocator|,
+    |java+interface:///org/apache/xerces/xni/parser/XMLDocumentScanner|
+  },|project://nekohtml-1.9.14/src/org/cyberneko/html/HTMLConfiguration.java|(19460,43,<564,38>,<564,81>)>,
+  <<|java+class:///org/cyberneko/html/filters/DefaultFilter|,|java+interface:///org/apache/xerces/xni/parser/XMLDocumentFilter|>,{|java+interface:///org/cyberneko/html/HTMLComponent|},|project://nekohtml-1.9.14/src/org/cyberneko/html/HTMLConfiguration.java|(20098,41,<580,38>,<580,79>)>,
+  <<|java+class:///org/cyberneko/html/HTMLScanner/LocationItem|,|java+interface:///org/cyberneko/html/HTMLEventInfo|>,{|java+interface:///java/lang/Cloneable|},|project://nekohtml-1.9.14/src/org/cyberneko/html/filters/Identity.java|(3540,42,<99,29>,<99,71>)>
+]

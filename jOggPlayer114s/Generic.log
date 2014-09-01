@@ -1,0 +1,35 @@
+[
+  <<|java+class:///kiwi/ui/BooleanCellRenderer|,|java+class:///javax/swing/JCheckBox|>,{|java+interface:///javax/swing/table/TableCellRenderer|},|project://jOggPlayer114s/src/ca/bc/webarts/widgets/JCheckDropDown.java|(9516,72,<337,16>,<338,27>)>,
+  <<|java+class:///kiwi/ui/BooleanCellRenderer|,|java+class:///javax/swing/JCheckBox|>,{|java+interface:///javax/swing/table/TableCellRenderer|},|project://jOggPlayer114s/src/ca/bc/webarts/widgets/JCheckDropDown.java|(9896,72,<353,24>,<354,27>)>,
+  <<|java+class:///ca/bc/webarts/widgets/JCheckDropDown/CheckBoxRenderer|,|java+class:///javax/swing/JCheckBox|>,{|java+interface:///javax/swing/ListCellRenderer|},|project://jOggPlayer114s/src/ca/bc/webarts/widgets/JCheckDropDown.java|(13716,72,<519,16>,<520,27>)>,
+  <<|java+class:///ca/bc/webarts/widgets/JCheckDropDown/CheckBoxRenderer|,|java+class:///javax/swing/JCheckBox|>,{|java+interface:///javax/swing/ListCellRenderer|},|project://jOggPlayer114s/src/ca/bc/webarts/widgets/JCheckDropDown.java|(13850,68,<524,16>,<525,23>)>,
+  <<|java+class:///ca/bc/webarts/widgets/JCheckDropDown/CheckBoxRenderer|,|java+class:///javax/swing/JCheckBox|>,{|java+interface:///javax/swing/ListCellRenderer|},|project://jOggPlayer114s/src/ca/bc/webarts/widgets/JCheckDropDown.java|(14463,59,<548,21>,<548,80>)>,
+  <<|java+class:///kiwi/ui/ScrollbackView|,|java+class:///javax/swing/JList|>,{|java+interface:///kiwi/util/ListConsumer|},|project://jOggPlayer114s/src/ca/bc/webarts/widgets/JCheckDropDown.java|(18871,21,<718,34>,<718,55>)>,
+  <<|java+class:///ca/bc/webarts/widgets/dnd/DnDList|,|java+class:///javax/swing/JList|>,{
+    |java+interface:///java/awt/dnd/DropTargetListener|,
+    |java+interface:///java/awt/dnd/DragGestureListener|,
+    |java+interface:///java/awt/dnd/DragSourceListener|
+  },|project://jOggPlayer114s/src/ca/bc/webarts/widgets/JCheckDropDown.java|(18858,75,<718,21>,<719,38>)>,
+  <<|java+class:///ca/bc/webarts/widgets/JCheckDropDown/CheckBoxRenderer|,|java+class:///javax/swing/JCheckBox|>,{|java+interface:///javax/swing/ListCellRenderer|},|project://jOggPlayer114s/src/ca/bc/webarts/widgets/JCheckDropDown.java|(22946,17,<876,21>,<876,38>)>,
+  <<|java+class:///ca/bc/webarts/widgets/JCheckDropDown/CheckBoxRenderer|,|java+class:///javax/swing/JCheckBox|>,{|java+interface:///javax/swing/ListCellRenderer|},|project://jOggPlayer114s/src/ca/bc/webarts/jOggPlayer.java|(31129,46,<1126,20>,<1126,66>)>,
+  <<|java+class:///ca/bc/webarts/widgets/JCheckDropDown/CheckBoxRenderer|,|java+class:///javax/swing/JCheckBox|>,{|java+interface:///javax/swing/ListCellRenderer|},|project://jOggPlayer114s/src/ca/bc/webarts/jOggPlayer.java|(31119,67,<1126,10>,<1126,77>)>,
+  <<|java+class:///kiwi/ui/BooleanCellRenderer|,|java+class:///javax/swing/JCheckBox|>,{|java+interface:///javax/swing/table/TableCellRenderer|},|project://jOggPlayer114s/src/ca/bc/webarts/jOggPlayer.java|(42341,46,<1465,32>,<1465,78>)>,
+  <<|java+class:///ca/bc/webarts/widgets/JCheckDropDown/CheckBoxRenderer|,|java+class:///javax/swing/JCheckBox|>,{|java+interface:///javax/swing/ListCellRenderer|},|project://jOggPlayer114s/src/ca/bc/webarts/jOggPlayer.java|(42330,69,<1465,21>,<1465,90>)>,
+  <<|java+class:///ca/bc/webarts/widgets/JCheckDropDown/CheckBoxRenderer|,|java+class:///javax/swing/JCheckBox|>,{|java+interface:///javax/swing/ListCellRenderer|},|project://jOggPlayer114s/src/ca/bc/webarts/jOggPlayer.java|(116162,57,<3703,33>,<3704,27>)>,
+  <<|java+class:///ca/bc/webarts/widgets/JCheckDropDown/CheckBoxRenderer|,|java+class:///javax/swing/JCheckBox|>,{|java+interface:///javax/swing/ListCellRenderer|},|project://jOggPlayer114s/src/ca/bc/webarts/jOggPlayer.java|(116151,80,<3703,22>,<3704,39>)>,
+  <<|java+class:///kiwi/ui/BooleanCellRenderer|,|java+class:///javax/swing/JCheckBox|>,{|java+interface:///javax/swing/table/TableCellRenderer|},|project://jOggPlayer114s/src/ca/bc/webarts/jOggPlayer.java|(116510,45,<3712,37>,<3712,82>)>,
+  <<|java+class:///ca/bc/webarts/widgets/JCheckDropDown/CheckBoxRenderer|,|java+class:///javax/swing/JCheckBox|>,{|java+interface:///javax/swing/ListCellRenderer|},|project://jOggPlayer114s/src/ca/bc/webarts/jOggPlayer.java|(154841,59,<4820,35>,<4821,29>)>,
+  <<|java+class:///ca/bc/webarts/widgets/JCheckDropDown/CheckBoxRenderer|,|java+class:///javax/swing/JCheckBox|>,{|java+interface:///javax/swing/ListCellRenderer|},|project://jOggPlayer114s/src/ca/bc/webarts/jOggPlayer.java|(154830,82,<4820,24>,<4821,41>)>,
+  <<|java+class:///kiwi/ui/BooleanCellRenderer|,|java+class:///javax/swing/JCheckBox|>,{|java+interface:///javax/swing/table/TableCellRenderer|},|project://jOggPlayer114s/src/ca/bc/webarts/jOggPlayer.java|(155201,59,<4829,35>,<4830,29>)>,
+  <<|java+class:///ca/bc/webarts/widgets/JCheckDropDown/CheckBoxRenderer|,|java+class:///javax/swing/JCheckBox|>,{|java+interface:///javax/swing/ListCellRenderer|},|project://jOggPlayer114s/src/ca/bc/webarts/jOggPlayer.java|(155190,82,<4829,24>,<4830,41>)>,
+  <<|java+class:///kiwi/ui/BooleanCellRenderer|,|java+class:///javax/swing/JCheckBox|>,{|java+interface:///javax/swing/table/TableCellRenderer|},|project://jOggPlayer114s/src/ca/bc/webarts/jOggPlayer.java|(157487,46,<4895,35>,<4895,81>)>,
+  <<|java+class:///ca/bc/webarts/widgets/JCheckDropDown/CheckBoxRenderer|,|java+class:///javax/swing/JCheckBox|>,{|java+interface:///javax/swing/ListCellRenderer|},|project://jOggPlayer114s/src/ca/bc/webarts/jOggPlayer.java|(157476,69,<4895,24>,<4895,93>)>,
+  <<|java+class:///ca/bc/webarts/widgets/JCheckDropDown/CheckBoxRenderer|,|java+class:///javax/swing/JCheckBox|>,{|java+interface:///javax/swing/ListCellRenderer|},|project://jOggPlayer114s/src/ca/bc/webarts/jOggPlayer.java|(158571,59,<4928,35>,<4929,29>)>,
+  <<|java+class:///kiwi/ui/BooleanCellRenderer|,|java+class:///javax/swing/JCheckBox|>,{|java+interface:///javax/swing/table/TableCellRenderer|},|project://jOggPlayer114s/src/ca/bc/webarts/jOggPlayer.java|(158560,82,<4928,24>,<4929,41>)>,
+  <<|java+class:///kiwi/ui/ConsoleFrame|,|java+interface:///kiwi/util/LoggingEndpoint|>,{|java+class:///kiwi/ui/KFrame|},|project://jOggPlayer114s/src/kiwi/util/LoggingMux.java|(2247,32,<74,7>,<74,39>)>,
+  <<|java+class:///kiwi/ui/ConsoleFrame|,|java+interface:///kiwi/util/LoggingEndpoint|>,{|java+class:///kiwi/ui/KFrame|},|project://jOggPlayer114s/src/kiwi/util/LoggingMux.java|(2935,32,<99,9>,<99,41>)>,
+  <<|java+class:///kiwi/ui/StatusBar|,|java+interface:///kiwi/util/ProgressObserver|>,{
+    |java+class:///kiwi/ui/KPanel|,
+    |java+interface:///java/awt/event/ActionListener|
+  },|project://jOggPlayer114s/src/kiwi/util/Task.java|(3002,33,<101,7>,<101,40>)>
+]

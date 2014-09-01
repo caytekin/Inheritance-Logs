@@ -1,0 +1,7 @@
+[
+  <<|java+class:///org/sunflow/core/primitive/CubeGrid|,|java+interface:///org/sunflow/core/PrimitiveList|>,|java+class:///org/sunflow/core/light/ImageBasedLight|>,
+  <<|java+class:///org/sunflow/core/primitive/Box|,|java+interface:///org/sunflow/core/PrimitiveList|>,|java+class:///org/sunflow/core/light/ImageBasedLight|>,
+  <<|java+class:///org/sunflow/core/tesselatable/BezierMesh|,|java+interface:///org/sunflow/core/PrimitiveList|>,|java+class:///org/sunflow/core/light/ImageBasedLight|>,
+  <<|java+class:///org/sunflow/Benchmark|,|java+interface:///org/sunflow/core/Display|>,|java+class:///org/sunflow/core/display/FastDisplay|>,
+  <<|java+class:///org/sunflow/core/primitive/Hair|,|java+interface:///org/sunflow/core/Shader|>,|java+class:///org/sunflow/core/shader/PrimIDShader|>
+]

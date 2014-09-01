@@ -1,0 +1,20 @@
+[
+  <<|java+class:///net/sourceforge/ganttproject/chart/StyledPainterImpl/ColouredRectanglePainter|,|java+interface:///net/sourceforge/ganttproject/chart/StyledPainterImpl/RectanglePainter|>,|java+anonymousClass:///net/sourceforge/ganttproject/chart/StyledPainterImpl/$anonymous6|>,
+  <<|java+class:///net/sourceforge/ganttproject/export/ExporterToImage/FileTypeOption|,|java+interface:///net/sourceforge/ganttproject/gui/options/model/EnumerationOption|>,|java+class:///net/sourceforge/ganttproject/gui/options/model/DefaultEnumerationOption|>,
+  <<|java+class:///net/sourceforge/ganttproject/export/ExporterToImage|,|java+interface:///net/sourceforge/ganttproject/export/Exporter|>,|java+class:///net/sourceforge/ganttproject/export/ExporterToCSV|>,
+  <<|java+class:///org/ganttproject/impex/msproject/ExporterToMsProjectFile|,|java+interface:///net/sourceforge/ganttproject/export/Exporter|>,|java+class:///net/sourceforge/ganttproject/export/ExporterToCSV|>,
+  <<|java+class:///org/ganttproject/impex/htmlpdf/ExporterToHTML|,|java+interface:///net/sourceforge/ganttproject/export/Exporter|>,|java+class:///net/sourceforge/ganttproject/export/ExporterToCSV|>,
+  <<|java+class:///net/sourceforge/ganttproject/gui/FileChooserPageBase|,|java+interface:///net/sourceforge/ganttproject/gui/projectwizard/WizardPage|>,|java+class:///net/sourceforge/ganttproject/gui/projectwizard/ProjectNamePage|>,
+  <<|java+class:///org/ganttproject/impex/htmlpdf/ExporterToPDF|,|java+interface:///net/sourceforge/ganttproject/export/Exporter|>,|java+class:///net/sourceforge/ganttproject/export/ExporterToCSV|>,
+  <<|java+class:///net/sourceforge/ganttproject/GanttTreeTableModel|,|java+interface:///net/sourceforge/ganttproject/task/TaskContainmentHierarchyFacade|>,|java+class:///net/sourceforge/ganttproject/TaskContainmentHierarchyFacadeImpl|>,
+  <<|java+class:///net/sourceforge/ganttproject/GanttProjectImpl|,|java+interface:///net/sourceforge/ganttproject/IGanttProject|>,|java+class:///net/sourceforge/ganttproject/GanttProject|>,
+  <<|java+class:///net/sourceforge/ganttproject/parser/DayTypeTagHandler|,|java+interface:///net/sourceforge/ganttproject/parser/TagHandler|>,|java+class:///net/sourceforge/ganttproject/parser/PreviousStateTasksTagHandler|>,
+  <<|java+class:///net/sourceforge/ganttproject/document/AbstractDocument|,|java+interface:///net/sourceforge/ganttproject/document/Document|>,|java+class:///net/sourceforge/ganttproject/document/FtpDocument|>,
+  <<|java+class:///org/ganttproject/impex/msproject/ImporterFromMsProjectFile|,|java+interface:///net/sourceforge/ganttproject/importer/Importer|>,|java+class:///net/sourceforge/ganttproject/importer/ImporterFromGanttFile|>,
+  <<|java+class:///net/sourceforge/ganttproject/time/TimeUnitDateFrameableImpl|,|java+interface:///net/sourceforge/ganttproject/time/DateFrameable|>,|java+class:///net/sourceforge/ganttproject/time/gregorian/FramerImpl|>,
+  <<|java+class:///net/sourceforge/ganttproject/parser/VacationTagHandler|,|java+interface:///net/sourceforge/ganttproject/parser/ParsingListener|>,|java+class:///net/sourceforge/ganttproject/parser/CustomPropertiesTagHandler|>,
+  <<|java+class:///net/sourceforge/ganttproject/GanttGraphicArea|,|java+interface:///net/sourceforge/ganttproject/ProjectEventListener|>,|java+class:///net/sourceforge/ganttproject/GanttTree2|>,
+  <<|java+class:///net/sourceforge/ganttproject/chart/LabelPositionOptionImpl|,|java+interface:///net/sourceforge/ganttproject/gui/options/model/EnumerationOption|>,|java+class:///net/sourceforge/ganttproject/gui/options/model/DefaultEnumerationOption|>,
+  <<|java+class:///net/sourceforge/ganttproject/parser/BlankLineTagHandler|,|java+interface:///net/sourceforge/ganttproject/parser/TagHandler|>,|java+class:///net/sourceforge/ganttproject/parser/PreviousStateTasksTagHandler|>,
+  <<|java+class:///net/sourceforge/ganttproject/time/TimeUnitFunctionOfDateImpl/ParameterizedTimeUnitImpl|,|java+interface:///net/sourceforge/ganttproject/time/DateFrameable|>,|java+class:///net/sourceforge/ganttproject/time/gregorian/FramerImpl|>
+]

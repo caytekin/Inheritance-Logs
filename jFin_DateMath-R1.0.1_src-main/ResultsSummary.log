@@ -1,0 +1,132 @@
+RESULTS LOG: 
+INTERNAL REUSE TOTAL: 10 
+<|java+class:///org/jfin/date/accrual/AccrualPeriod|,|java+class:///org/jfin/date/Period|> 
+<|java+class:///org/jfin/date/accrual/impl/FixedAccrualPeriod|,|java+class:///org/jfin/date/accrual/AccrualPeriod|> 
+<|java+class:///org/jfin/date/accrual/impl/FloatAccrualPeriod|,|java+class:///org/jfin/date/accrual/AccrualPeriod|> 
+<|java+class:///org/jfin/date/daycount/defaultimpl/AFBActualActual|,|java+class:///org/jfin/date/daycount/DaycountCalculator|> 
+<|java+class:///org/jfin/date/daycount/defaultimpl/Actual360|,|java+class:///org/jfin/date/daycount/DaycountCalculator|> 
+<|java+class:///org/jfin/date/daycount/defaultimpl/Actual365Fixed|,|java+class:///org/jfin/date/daycount/DaycountCalculator|> 
+<|java+class:///org/jfin/date/daycount/defaultimpl/Actual366|,|java+class:///org/jfin/date/daycount/DaycountCalculator|> 
+<|java+class:///org/jfin/date/daycount/defaultimpl/ISDAActualActual|,|java+class:///org/jfin/date/daycount/DaycountCalculator|> 
+<|java+class:///org/jfin/date/daycount/defaultimpl/ISMAActualActual|,|java+class:///org/jfin/date/daycount/DaycountCalculator|> 
+<|java+class:///org/jfin/date/holiday/HolidayCalendarSet|,|java+class:///org/jfin/date/holiday/HolidayCalendar|> 
+
+EXTERNAL REUSE TOTAL: 0 
+
+SUBTYPE TOTAL: 17 
+<|java+class:///org/jfin/date/accrual/AccrualPeriod|,|java+class:///org/jfin/date/Period|> 
+<|java+class:///org/jfin/date/accrual/NotionalPeriod|,|java+class:///org/jfin/date/Period|> 
+<|java+class:///org/jfin/date/accrual/impl/FixedAccrualPeriod|,|java+class:///org/jfin/date/accrual/AccrualPeriod|> 
+<|java+class:///org/jfin/date/accrual/impl/FloatAccrualPeriod|,|java+class:///org/jfin/date/accrual/AccrualPeriod|> 
+<|java+class:///org/jfin/date/daycount/defaultimpl/AFBActualActual|,|java+class:///org/jfin/date/daycount/DaycountCalculator|> 
+<|java+class:///org/jfin/date/daycount/defaultimpl/Actual360|,|java+class:///org/jfin/date/daycount/DaycountCalculator|> 
+<|java+class:///org/jfin/date/daycount/defaultimpl/Actual365Fixed|,|java+class:///org/jfin/date/daycount/DaycountCalculator|> 
+<|java+class:///org/jfin/date/daycount/defaultimpl/Actual366|,|java+class:///org/jfin/date/daycount/DaycountCalculator|> 
+<|java+class:///org/jfin/date/daycount/defaultimpl/Business252|,|java+class:///org/jfin/date/daycount/DaycountCalculator|> 
+<|java+class:///org/jfin/date/daycount/defaultimpl/EU30360|,|java+class:///org/jfin/date/daycount/DaycountCalculator|> 
+<|java+class:///org/jfin/date/daycount/defaultimpl/ISDAActualActual|,|java+class:///org/jfin/date/daycount/DaycountCalculator|> 
+<|java+class:///org/jfin/date/daycount/defaultimpl/ISMAActualActual|,|java+class:///org/jfin/date/daycount/DaycountCalculator|> 
+<|java+class:///org/jfin/date/daycount/defaultimpl/IT30360|,|java+class:///org/jfin/date/daycount/DaycountCalculator|> 
+<|java+class:///org/jfin/date/daycount/defaultimpl/US30360|,|java+class:///org/jfin/date/daycount/DaycountCalculator|> 
+<|java+class:///org/jfin/date/holiday/HolidayCalendarSet|,|java+class:///org/jfin/date/holiday/HolidayCalendar|> 
+<|java+class:///org/jfin/date/holiday/defaultimpl/WeekendHolidayCalendar|,|java+class:///org/jfin/date/holiday/HolidayCalendar|> 
+<|java+class:///org/jfin/date/holiday/financialcalendarimpl/FinancialCalendarHolidayCalendar|,|java+class:///org/jfin/date/holiday/HolidayCalendar|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 4 
+<|java+class:///org/jfin/date/accrual/AccrualPeriod|,|java+class:///org/jfin/date/Period|> 
+<|java+class:///org/jfin/date/accrual/NotionalPeriod|,|java+class:///org/jfin/date/Period|> 
+<|java+class:///org/jfin/date/accrual/impl/FixedAccrualPeriod|,|java+class:///org/jfin/date/accrual/AccrualPeriod|> 
+<|java+class:///org/jfin/date/accrual/impl/FloatAccrualPeriod|,|java+class:///org/jfin/date/accrual/AccrualPeriod|> 
+
+GENERIC TOTAL: 1 
+<|java+class:///org/jfin/date/accrual/AccrualPeriod|,|java+class:///org/jfin/date/Period|> 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 2 
+<|java+class:///org/jfin/date/accrual/AccrualPeriod|,|java+class:///org/jfin/date/Period|> 
+<|java+class:///org/jfin/date/accrual/NotionalPeriod|,|java+class:///org/jfin/date/Period|> 
+
+DOWNCALL TOTAL: 16 
+<|java+class:///org/jfin/date/daycount/defaultimpl/AFBActualActual|,|java+class:///org/jfin/date/daycount/DaycountCalculator|> 
+<|java+class:///org/jfin/date/daycount/defaultimpl/Actual360|,|java+class:///org/jfin/date/daycount/DaycountCalculator|> 
+<|java+class:///org/jfin/date/daycount/defaultimpl/Actual365Fixed|,|java+class:///org/jfin/date/daycount/DaycountCalculator|> 
+<|java+class:///org/jfin/date/daycount/defaultimpl/Actual366|,|java+class:///org/jfin/date/daycount/DaycountCalculator|> 
+<|java+class:///org/jfin/date/daycount/defaultimpl/Business252|,|java+class:///org/jfin/date/daycount/DaycountCalculator|> 
+<|java+class:///org/jfin/date/daycount/defaultimpl/DaycountCalculatorFactoryImpl|,|java+class:///org/jfin/date/daycount/DaycountCalculatorFactory|> 
+<|java+class:///org/jfin/date/daycount/defaultimpl/EU30360|,|java+class:///org/jfin/date/daycount/DaycountCalculator|> 
+<|java+class:///org/jfin/date/daycount/defaultimpl/ISDAActualActual|,|java+class:///org/jfin/date/daycount/DaycountCalculator|> 
+<|java+class:///org/jfin/date/daycount/defaultimpl/ISMAActualActual|,|java+class:///org/jfin/date/daycount/DaycountCalculator|> 
+<|java+class:///org/jfin/date/daycount/defaultimpl/IT30360|,|java+class:///org/jfin/date/daycount/DaycountCalculator|> 
+<|java+class:///org/jfin/date/daycount/defaultimpl/US30360|,|java+class:///org/jfin/date/daycount/DaycountCalculator|> 
+<|java+class:///org/jfin/date/holiday/HolidayCalendarSet|,|java+class:///org/jfin/date/holiday/HolidayCalendar|> 
+<|java+class:///org/jfin/date/holiday/defaultimpl/HolidayCalendarFactoryImpl|,|java+class:///org/jfin/date/holiday/HolidayCalendarFactory|> 
+<|java+class:///org/jfin/date/holiday/defaultimpl/WeekendHolidayCalendar|,|java+class:///org/jfin/date/holiday/HolidayCalendar|> 
+<|java+class:///org/jfin/date/holiday/financialcalendarimpl/FinancialCalendarHolidayCalendar|,|java+class:///org/jfin/date/holiday/HolidayCalendar|> 
+<|java+class:///org/jfin/date/holiday/financialcalendarimpl/HolidayCalendarFactoryFinancialCalendarImpl|,|java+class:///org/jfin/date/holiday/HolidayCalendarFactory|> 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 0 
+
+SUBTYPE TOTAL: 0 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 0 
+
+DOWNCALL TOTAL: 0 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 0 
+
+SUBTYPE TOTAL: 0 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 0 
+
+DOWNCALL TOTAL: 0 
+
+
+
+

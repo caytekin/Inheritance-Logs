@@ -1,0 +1,20 @@
+[
+  <<|java+class:///org/argouml/uml/diagram/DiagramUndoManager/DiagramCommand|,|java+class:///org/argouml/kernel/AbstractCommand|>,|java+anonymousClass:///org/argouml/kernel/ProjectImpl/setDescription(java/lang/String)/$anonymous1|>,
+  <<|java+class:///org/argouml/kernel/DefaultUndoManager/Interaction|,|java+class:///org/argouml/kernel/AbstractCommand|>,|java+anonymousClass:///org/argouml/kernel/ProjectImpl/setDescription(java/lang/String)/$anonymous1|>,
+  <<|java+class:///org/argouml/persistence/ProfileConfigurationFilePersister|,|java+class:///org/argouml/persistence/MemberFilePersister|>,|java+class:///org/argouml/persistence/TodoListMemberFilePersister|>,
+  <<|java+class:///org/argouml/uml/PredicateSearch|,|java+interface:///org/argouml/util/Predicate|>,|java+class:///org/argouml/uml/PredicateNotInTrash|>,
+  <<|java+class:///org/argouml/persistence/ModelMemberFilePersister|,|java+interface:///org/argouml/persistence/XmiExtensionParser|>,|java+class:///org/argouml/persistence/XmiFilePersister|>,
+  <<|java+class:///org/argouml/util/PredicateType|,|java+interface:///org/argouml/util/Predicate|>,|java+class:///org/argouml/uml/PredicateNotInTrash|>,
+  <<|java+class:///org/argouml/ui/SplashScreen|,|java+interface:///org/argouml/taskmgmt/ProgressMonitor|>,|java+class:///org/argouml/ui/ProgressMonitorWindow|>,
+  <<|java+class:///org/argouml/ui/StatusBar|,|java+interface:///org/argouml/taskmgmt/ProgressMonitor|>,|java+class:///org/argouml/ui/ProgressMonitorWindow|>,
+  <<|java+class:///org/argouml/uml/ui/TabStyle|,|java+interface:///org/argouml/ui/TabFigTarget|>,|java+class:///org/argouml/ui/StylePanel|>,
+  <<|java+class:///org/argouml/kernel/NonUndoableCommand|,|java+interface:///org/argouml/kernel/Command|>,|java+class:///org/argouml/kernel/AbstractCommand|>,
+  <<|java+class:///org/argouml/persistence/OldModelMemberFilePersister|,|java+interface:///org/argouml/persistence/XmiExtensionParser|>,|java+class:///org/argouml/persistence/XmiFilePersister|>,
+  <<|java+class:///org/argouml/profile/internal/ocl/CompositeModelInterpreter|,|java+interface:///org/argouml/profile/internal/ocl/ModelInterpreter|>,|java+class:///org/argouml/profile/internal/ocl/uml14/OclAPIModelInterpreter|>,
+  <<|java+interface:///org/argouml/ui/GUIProjectSettingsTabInterface|,|java+interface:///org/argouml/application/api/GUISettingsTabInterface|>,|java+class:///org/argouml/ui/SettingsTabUser|>,
+  <<|java+class:///org/argouml/uml/cognitive/ChildGenSearch|,|java+interface:///org/argouml/util/ChildGenerator|>,|java+class:///org/argouml/uml/GenCompositeClasses2|>,
+  <<|java+class:///org/argouml/uml/diagram/ui/FigEdgeAssociationClass|,|java+interface:///org/argouml/kernel/DelayedVChangeListener|>,|java+class:///org/argouml/uml/ui/TabStyle|>,
+  <<|java+class:///org/argouml/ui/cmd/SettingsTabShortcuts|,|java+interface:///org/argouml/application/api/GUISettingsTabInterface|>,|java+class:///org/argouml/ui/SettingsTabUser|>,
+  <<|java+class:///org/argouml/cognitive/CompositeCM|,|java+interface:///org/argouml/cognitive/ControlMech|>,|java+class:///org/argouml/cognitive/DesignGoalsCM|>,
+  <<|java+class:///org/argouml/ui/explorer/rules/AbstractPerspectiveRule|,|java+interface:///org/argouml/ui/explorer/rules/PerspectiveRule|>,|java+class:///org/argouml/ui/explorer/rules/GoCriticsToCritic|>
+]

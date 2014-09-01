@@ -1,0 +1,21 @@
+[
+  <<|java+class:///org/apache/logging/log4j/flume/appender/FlumeEvent|,|java+interface:///org/apache/logging/log4j/core/LogEvent|>,{|java+class:///org/apache/flume/event/SimpleEvent|},|project://log4j-2.0-beta/core/src/main/java/org/apache/logging/log4j/core/pattern/LevelPatternConverter.java|(3391,12,<96,33>,<96,45>)>,
+  <<|java+class:///org/apache/logging/log4j/core/impl/Log4jLogEvent|,|java+interface:///org/apache/logging/log4j/core/LogEvent|>,{|java+interface:///java/io/Serializable|},|project://log4j-2.0-beta/core/src/main/java/org/apache/logging/log4j/core/pattern/LevelPatternConverter.java|(3933,12,<118,39>,<118,51>)>,
+  <<|java+class:///org/apache/log4j/Level|,|java+class:///org/apache/log4j/Priority|>,{|java+interface:///java/io/Serializable|},|project://log4j-2.0-beta/log4j12-api/src/main/java/org/apache/log4j/Priority.java|(4235,12,<131,31>,<131,43>)>,
+  <<|java+class:///org/apache/logging/log4j/flume/appender/FlumeEvent|,|java+interface:///org/apache/logging/log4j/core/LogEvent|>,{|java+class:///org/apache/flume/event/SimpleEvent|},|project://log4j-2.0-beta/core/src/main/java/org/apache/logging/log4j/core/net/SocketServer.java|(6125,27,<176,47>,<176,74>)>,
+  <<|java+class:///org/apache/logging/log4j/message/LocalizedMessage|,|java+interface:///org/apache/logging/log4j/message/Message|>,{|java+interface:///org/apache/logging/log4j/message/LoggerNameAwareMessage|},|project://log4j-2.0-beta/log4j12-api/src/main/java/org/apache/log4j/Category.java|(10302,17,<335,57>,<335,74>)>,
+  <<|java+class:///org/apache/logging/log4j/core/appender/AbstractAppender|,|java+interface:///org/apache/logging/log4j/core/Appender|>,{
+    |java+interface:///org/apache/logging/log4j/core/LifeCycle|,
+    |java+class:///org/apache/logging/log4j/core/filter/AbstractFilterable|
+  },|project://log4j-2.0-beta/core/src/main/java/org/apache/logging/log4j/core/appender/routing/RoutingAppender.java|(6428,30,<148,41>,<148,71>)>,
+  <<|java+class:///org/apache/logging/log4j/core/impl/Log4jLogEvent|,|java+interface:///org/apache/logging/log4j/core/LogEvent|>,{|java+interface:///java/io/Serializable|},|project://log4j-2.0-beta/core/src/test/java/org/apache/logging/log4j/core/LogEventTest.java|(2386,27,<57,23>,<57,50>)>,
+  <<|java+class:///org/apache/logging/log4j/core/impl/Log4jLogEvent|,|java+interface:///org/apache/logging/log4j/core/LogEvent|>,{|java+interface:///java/io/Serializable|},|project://log4j-2.0-beta/core/src/test/java/org/apache/logging/log4j/core/LogEventTest.java|(2553,27,<62,23>,<62,50>)>,
+  <<|java+class:///org/apache/logging/log4j/flume/appender/FlumeEvent|,|java+interface:///org/apache/logging/log4j/core/LogEvent|>,{|java+class:///org/apache/flume/event/SimpleEvent|},|project://log4j-2.0-beta/core/src/main/java/org/apache/logging/log4j/core/pattern/LogEventPatternConverter.java|(2156,14,<57,19>,<57,33>)>,
+  <<|java+class:///org/apache/logging/log4j/core/impl/Log4jLogEvent|,|java+interface:///org/apache/logging/log4j/core/LogEvent|>,{|java+interface:///java/io/Serializable|},|project://log4j-2.0-beta/core/src/test/java/org/apache/logging/log4j/core/layout/SerializedLayoutTest.java|(4120,27,<118,24>,<118,51>)>,
+  <<|java+class:///org/apache/logging/log4j/flume/appender/FlumeEvent|,|java+interface:///org/apache/logging/log4j/core/LogEvent|>,{|java+class:///org/apache/flume/event/SimpleEvent|},|project://log4j-2.0-beta/core/src/test/java/org/apache/logging/log4j/core/appender/SocketAppenderTest.java|(6067,27,<166,29>,<166,56>)>,
+  <<|java+class:///org/apache/logging/log4j/flume/appender/FlumeEvent|,|java+interface:///org/apache/logging/log4j/core/LogEvent|>,{|java+class:///org/apache/flume/event/SimpleEvent|},|project://log4j-2.0-beta/core/src/test/java/org/apache/logging/log4j/core/appender/SocketAppenderTest.java|(6979,27,<197,33>,<197,60>)>,
+  <<|java+class:///org/apache/logging/log4j/core/filter/CompositeFilter|,|java+interface:///org/apache/logging/log4j/core/Filter|>,{
+    |java+interface:///java/lang/Iterable|,
+    |java+interface:///org/apache/logging/log4j/core/LifeCycle|
+  },|project://log4j-2.0-beta/core/src/main/java/org/apache/logging/log4j/core/config/BaseConfiguration.java|(6766,26,<181,26>,<181,52>)>
+]

@@ -1,0 +1,237 @@
+RESULTS LOG: 
+INTERNAL REUSE TOTAL: 23 
+<|java+class:///gnu/regexp/RE|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenAny|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenBackRef|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenChar|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenEnd|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenEndSub|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenLookAhead|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenOneOf|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenPOSIX|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenRange|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenRepeated|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenStart|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenWordBoundary|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/UncheckedRE|,|java+class:///gnu/regexp/RE|> 
+<|java+class:///net/sourceforge/jsxe/DocumentBuffer|,|java+class:///net/sourceforge/jsxe/dom/XMLDocument|> 
+<|java+class:///net/sourceforge/jsxe/gui/ActivityLogDialog|,|java+class:///net/sourceforge/jsxe/gui/EnhancedDialog|> 
+<|java+class:///net/sourceforge/jsxe/gui/DirtyFilesDialog|,|java+class:///net/sourceforge/jsxe/gui/EnhancedDialog|> 
+<|java+class:///net/sourceforge/jsxe/gui/GlobalOptionsDialog|,|java+class:///net/sourceforge/jsxe/gui/OptionsDialog|> 
+<|java+class:///net/sourceforge/jsxe/gui/OptionsDialog|,|java+class:///net/sourceforge/jsxe/gui/EnhancedDialog|> 
+<|java+class:///net/sourceforge/jsxe/gui/PluginManagerDialog|,|java+class:///net/sourceforge/jsxe/gui/EnhancedDialog|> 
+<|java+class:///org/syntax/jedit/DefaultInputHandler|,|java+class:///org/syntax/jedit/InputHandler|> 
+<|java+class:///org/syntax/jedit/tokenmarker/XMLTokenMarker|,|java+class:///org/syntax/jedit/tokenmarker/TokenMarker|> 
+<|java+class:///treeview/action/AddDocTypeAction/EditDocTypeDialog|,|java+class:///net/sourceforge/jsxe/gui/EnhancedDialog|> 
+
+EXTERNAL REUSE TOTAL: 5 
+<|java+class:///net/sourceforge/jsxe/DocumentBuffer|,|java+class:///net/sourceforge/jsxe/dom/XMLDocument|> 
+<|java+class:///net/sourceforge/jsxe/gui/ActivityLogDialog|,|java+class:///net/sourceforge/jsxe/gui/EnhancedDialog|> 
+<|java+class:///net/sourceforge/jsxe/gui/DirtyFilesDialog|,|java+class:///net/sourceforge/jsxe/gui/EnhancedDialog|> 
+<|java+class:///sourceview/SourceViewSearchDialog|,|java+class:///net/sourceforge/jsxe/gui/EnhancedDialog|> 
+<|java+class:///treeview/EditTagDialog|,|java+class:///net/sourceforge/jsxe/gui/EnhancedDialog|> 
+
+SUBTYPE TOTAL: 34 
+<|java+class:///gnu/regexp/RE|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenAny|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenBackRef|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenChar|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenEnd|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenEndSub|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenLookAhead|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenOneOf|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenPOSIX|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenRepeated|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenStart|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenWordBoundary|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///net/sourceforge/jsxe/DocumentBuffer|,|java+class:///net/sourceforge/jsxe/dom/XMLDocument|> 
+<|java+class:///net/sourceforge/jsxe/DocumentBuffer/DocumentBufferOptionsPanel|,|java+class:///net/sourceforge/jsxe/gui/OptionsPanel|> 
+<|java+class:///net/sourceforge/jsxe/ViewPlugin|,|java+class:///net/sourceforge/jsxe/ActionPlugin|> 
+<|java+class:///net/sourceforge/jsxe/gui/ActivityLogDialog|,|java+class:///net/sourceforge/jsxe/gui/EnhancedDialog|> 
+<|java+class:///net/sourceforge/jsxe/gui/DirtyFilesDialog|,|java+class:///net/sourceforge/jsxe/gui/EnhancedDialog|> 
+<|java+class:///net/sourceforge/jsxe/gui/ErrorListDialog|,|java+class:///net/sourceforge/jsxe/gui/EnhancedDialog|> 
+<|java+class:///net/sourceforge/jsxe/gui/GlobalOptionsDialog|,|java+class:///net/sourceforge/jsxe/gui/OptionsDialog|> 
+<|java+class:///net/sourceforge/jsxe/gui/OptionsDialog|,|java+class:///net/sourceforge/jsxe/gui/EnhancedDialog|> 
+<|java+class:///net/sourceforge/jsxe/gui/PluginManagerDialog|,|java+class:///net/sourceforge/jsxe/gui/EnhancedDialog|> 
+<|java+class:///net/sourceforge/jsxe/jsXe/jsXeOptionsPanel|,|java+class:///net/sourceforge/jsxe/gui/OptionsPanel|> 
+<|java+class:///org/syntax/jedit/DefaultInputHandler|,|java+class:///org/syntax/jedit/InputHandler|> 
+<|java+class:///org/syntax/jedit/tokenmarker/XMLTokenMarker|,|java+class:///org/syntax/jedit/tokenmarker/TokenMarker|> 
+<|java+class:///sourceview/SourceViewDocument|,|java+class:///org/syntax/jedit/SyntaxDocument|> 
+<|java+class:///sourceview/SourceViewOptionsPanel|,|java+class:///net/sourceforge/jsxe/gui/OptionsPanel|> 
+<|java+class:///sourceview/SourceViewOptionsPanel/ColorWellButton/ColorPickerDialog|,|java+class:///net/sourceforge/jsxe/gui/EnhancedDialog|> 
+<|java+class:///sourceview/SourceViewOptionsPanel/StyleEditor|,|java+class:///net/sourceforge/jsxe/gui/EnhancedDialog|> 
+<|java+class:///sourceview/SourceViewPlugin|,|java+class:///net/sourceforge/jsxe/ViewPlugin|> 
+<|java+class:///sourceview/SourceViewSearchDialog|,|java+class:///net/sourceforge/jsxe/gui/EnhancedDialog|> 
+<|java+class:///treeview/DefaultViewOptionsPanel|,|java+class:///net/sourceforge/jsxe/gui/OptionsPanel|> 
+<|java+class:///treeview/EditTagDialog|,|java+class:///net/sourceforge/jsxe/gui/EnhancedDialog|> 
+<|java+class:///treeview/TreeViewPlugin|,|java+class:///net/sourceforge/jsxe/ViewPlugin|> 
+<|java+class:///treeview/action/AddDocTypeAction/EditDocTypeDialog|,|java+class:///net/sourceforge/jsxe/gui/EnhancedDialog|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 26 
+<|java+class:///gnu/regexp/RE|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenAny|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenBackRef|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenChar|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenEnd|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenEndSub|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenLookAhead|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenOneOf|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenPOSIX|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenRange|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenRepeated|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenStart|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenWordBoundary|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///net/sourceforge/jsxe/DocumentBuffer|,|java+class:///net/sourceforge/jsxe/dom/XMLDocument|> 
+<|java+class:///net/sourceforge/jsxe/gui/ActivityLogDialog|,|java+class:///net/sourceforge/jsxe/gui/EnhancedDialog|> 
+<|java+class:///net/sourceforge/jsxe/gui/DirtyFilesDialog|,|java+class:///net/sourceforge/jsxe/gui/EnhancedDialog|> 
+<|java+class:///net/sourceforge/jsxe/gui/ErrorListDialog|,|java+class:///net/sourceforge/jsxe/gui/EnhancedDialog|> 
+<|java+class:///net/sourceforge/jsxe/gui/GlobalOptionsDialog|,|java+class:///net/sourceforge/jsxe/gui/OptionsDialog|> 
+<|java+class:///net/sourceforge/jsxe/gui/OptionsDialog|,|java+class:///net/sourceforge/jsxe/gui/EnhancedDialog|> 
+<|java+class:///net/sourceforge/jsxe/gui/PluginManagerDialog|,|java+class:///net/sourceforge/jsxe/gui/EnhancedDialog|> 
+<|java+class:///sourceview/SourceViewDocument|,|java+class:///org/syntax/jedit/SyntaxDocument|> 
+<|java+class:///sourceview/SourceViewOptionsPanel/ColorWellButton/ColorPickerDialog|,|java+class:///net/sourceforge/jsxe/gui/EnhancedDialog|> 
+<|java+class:///sourceview/SourceViewOptionsPanel/StyleEditor|,|java+class:///net/sourceforge/jsxe/gui/EnhancedDialog|> 
+<|java+class:///sourceview/SourceViewSearchDialog|,|java+class:///net/sourceforge/jsxe/gui/EnhancedDialog|> 
+<|java+class:///treeview/EditTagDialog|,|java+class:///net/sourceforge/jsxe/gui/EnhancedDialog|> 
+<|java+class:///treeview/action/AddDocTypeAction/EditDocTypeDialog|,|java+class:///net/sourceforge/jsxe/gui/EnhancedDialog|> 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 1 
+<|java+class:///net/sourceforge/jsxe/ActionPlugin/Broken|,|java+class:///net/sourceforge/jsxe/ActionPlugin|> 
+
+FRAMEWORK TOTAL: 30 
+<|java+class:///gnu/regexp/RE|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenAny|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenBackRef|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenChar|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenEnd|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenEndSub|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenLookAhead|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenOneOf|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenPOSIX|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenRange|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenRepeated|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenStart|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenWordBoundary|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///net/sourceforge/jsxe/DocumentBuffer/DocumentBufferOptionsPanel|,|java+class:///net/sourceforge/jsxe/gui/OptionsPanel|> 
+<|java+class:///net/sourceforge/jsxe/gui/ActivityLogDialog|,|java+class:///net/sourceforge/jsxe/gui/EnhancedDialog|> 
+<|java+class:///net/sourceforge/jsxe/gui/DirtyFilesDialog|,|java+class:///net/sourceforge/jsxe/gui/EnhancedDialog|> 
+<|java+class:///net/sourceforge/jsxe/gui/ErrorListDialog|,|java+class:///net/sourceforge/jsxe/gui/EnhancedDialog|> 
+<|java+class:///net/sourceforge/jsxe/gui/GlobalOptionsDialog|,|java+class:///net/sourceforge/jsxe/gui/OptionsDialog|> 
+<|java+class:///net/sourceforge/jsxe/gui/OptionsDialog|,|java+class:///net/sourceforge/jsxe/gui/EnhancedDialog|> 
+<|java+class:///net/sourceforge/jsxe/gui/PluginManagerDialog|,|java+class:///net/sourceforge/jsxe/gui/EnhancedDialog|> 
+<|java+class:///net/sourceforge/jsxe/jsXe/jsXeOptionsPanel|,|java+class:///net/sourceforge/jsxe/gui/OptionsPanel|> 
+<|java+class:///org/syntax/jedit/DefaultInputHandler|,|java+class:///org/syntax/jedit/InputHandler|> 
+<|java+class:///sourceview/SourceViewDocument|,|java+class:///org/syntax/jedit/SyntaxDocument|> 
+<|java+class:///sourceview/SourceViewOptionsPanel|,|java+class:///net/sourceforge/jsxe/gui/OptionsPanel|> 
+<|java+class:///sourceview/SourceViewOptionsPanel/ColorWellButton/ColorPickerDialog|,|java+class:///net/sourceforge/jsxe/gui/EnhancedDialog|> 
+<|java+class:///sourceview/SourceViewOptionsPanel/StyleEditor|,|java+class:///net/sourceforge/jsxe/gui/EnhancedDialog|> 
+<|java+class:///sourceview/SourceViewSearchDialog|,|java+class:///net/sourceforge/jsxe/gui/EnhancedDialog|> 
+<|java+class:///treeview/DefaultViewOptionsPanel|,|java+class:///net/sourceforge/jsxe/gui/OptionsPanel|> 
+<|java+class:///treeview/EditTagDialog|,|java+class:///net/sourceforge/jsxe/gui/EnhancedDialog|> 
+<|java+class:///treeview/action/AddDocTypeAction/EditDocTypeDialog|,|java+class:///net/sourceforge/jsxe/gui/EnhancedDialog|> 
+
+DOWNCALL TOTAL: 19 
+<|java+class:///gnu/regexp/RE|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenAny|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenBackRef|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenChar|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenEnd|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenEndSub|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenLookAhead|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenOneOf|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenPOSIX|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenRange|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenRepeated|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenStart|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///gnu/regexp/RETokenWordBoundary|,|java+class:///gnu/regexp/REToken|> 
+<|java+class:///net/sourceforge/jsxe/DocumentBuffer|,|java+class:///net/sourceforge/jsxe/dom/XMLDocument|> 
+<|java+class:///net/sourceforge/jsxe/DocumentBuffer/DocumentBufferOptionsPanel|,|java+class:///net/sourceforge/jsxe/gui/OptionsPanel|> 
+<|java+class:///net/sourceforge/jsxe/gui/GlobalOptionsDialog|,|java+class:///net/sourceforge/jsxe/gui/OptionsDialog|> 
+<|java+class:///org/syntax/jedit/tokenmarker/XMLTokenMarker|,|java+class:///org/syntax/jedit/tokenmarker/TokenMarker|> 
+<|java+class:///sourceview/SourceViewOptionsPanel|,|java+class:///net/sourceforge/jsxe/gui/OptionsPanel|> 
+<|java+class:///treeview/DefaultViewOptionsPanel|,|java+class:///net/sourceforge/jsxe/gui/OptionsPanel|> 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 0 
+
+SUBTYPE TOTAL: 11 
+<|java+class:///gnu/regexp/CharIndexedCharArray|,|java+interface:///gnu/regexp/CharIndexed|> 
+<|java+class:///gnu/regexp/CharIndexedInputStream|,|java+interface:///gnu/regexp/CharIndexed|> 
+<|java+class:///gnu/regexp/CharIndexedReader|,|java+interface:///gnu/regexp/CharIndexed|> 
+<|java+class:///gnu/regexp/CharIndexedString|,|java+interface:///gnu/regexp/CharIndexed|> 
+<|java+class:///gnu/regexp/CharIndexedStringBuffer|,|java+interface:///gnu/regexp/CharIndexed|> 
+<|java+class:///net/sourceforge/jsxe/dom/XMLDocument/XMLDocAdapterListener|,|java+interface:///net/sourceforge/jsxe/dom/AdapterNodeListener|> 
+<|java+class:///net/sourceforge/jsxe/gui/OptionsPanel|,|java+interface:///net/sourceforge/jsxe/options/OptionPane|> 
+<|java+class:///sourceview/CharIndexedSegment|,|java+interface:///gnu/regexp/CharIndexed|> 
+<|java+class:///sourceview/SourceView|,|java+interface:///net/sourceforge/jsxe/gui/DocumentView|> 
+<|java+class:///sourceview/SourceView/SourceViewXMLDocumentListener|,|java+interface:///net/sourceforge/jsxe/dom/XMLDocumentListener|> 
+<|java+class:///treeview/DefaultView|,|java+interface:///net/sourceforge/jsxe/gui/DocumentView|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 2 
+<|java+class:///org/syntax/jedit/InputHandler/insert_char|,|java+interface:///org/syntax/jedit/InputHandler/NonRepeatable|> 
+<|java+class:///org/syntax/jedit/InputHandler/repeat|,|java+interface:///org/syntax/jedit/InputHandler/NonRecordable|> 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 4 
+<|java+class:///net/sourceforge/jsxe/gui/OptionsPanel|,|java+interface:///net/sourceforge/jsxe/options/OptionPane|> 
+<|java+class:///sourceview/CharIndexedSegment|,|java+interface:///gnu/regexp/CharIndexed|> 
+<|java+class:///sourceview/SourceView|,|java+interface:///net/sourceforge/jsxe/gui/DocumentView|> 
+<|java+class:///treeview/DefaultView|,|java+interface:///net/sourceforge/jsxe/gui/DocumentView|> 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 0 
+
+DOWNCALL TOTAL: 0 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 0 
+
+SUBTYPE TOTAL: 0 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 0 
+
+DOWNCALL TOTAL: 0 
+
+
+
+

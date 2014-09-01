@@ -1,0 +1,8 @@
+[
+  <<|java+class:///MailboxList|,|java+interface:///net/wastl/webmail/server/Plugin|>,{|java+interface:///net/wastl/webmail/server/URLHandler|},|project://webmail-0.7.10/src/net/wastl/webmail/server/PluginHandler.java|(2534,24,<87,15>,<87,39>)>,
+  <<|java+class:///PassThroughPlugin|,|java+interface:///net/wastl/webmail/server/Plugin|>,{|java+interface:///net/wastl/webmail/server/URLHandler|},|project://webmail-0.7.10/src/net/wastl/webmail/server/PluginHandler.java|(2976,16,<105,14>,<105,30>)>,
+  <<|java+class:///FolderList|,|java+interface:///net/wastl/webmail/server/Plugin|>,{|java+interface:///net/wastl/webmail/server/URLHandler|},|project://webmail-0.7.10/src/net/wastl/webmail/plugins/About.java|(2241,23,<77,14>,<77,37>)>,
+  <<|java+class:///net/wastl/webmail/logger/ServletLogger|,|java+interface:///net/wastl/webmail/server/Logger|>,{|java+interface:///net/wastl/webmail/config/ConfigurationListener|},|project://webmail-0.7.10/src/net/wastl/webmail/storage/FileStorage.java|(4517,63,<152,9>,<152,72>)>,
+  <<|java+class:///net/wastl/webmail/logger/ServletLogger|,|java+interface:///net/wastl/webmail/config/ConfigurationListener|>,{|java+interface:///net/wastl/webmail/server/Logger|},|project://webmail-0.7.10/src/net/wastl/webmail/config/ConfigScheme.java|(7113,41,<223,26>,<223,67>)>,
+  <<|java+class:///net/wastl/webmail/storage/FileStorage|,|java+class:///net/wastl/webmail/server/Storage|>,{|java+interface:///net/wastl/webmail/config/ConfigurationListener|},|project://webmail-0.7.10/src/net/wastl/webmail/server/WebMailServer.java|(5671,32,<203,13>,<203,45>)>
+]

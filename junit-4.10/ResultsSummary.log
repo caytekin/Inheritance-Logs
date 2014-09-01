@@ -1,0 +1,204 @@
+RESULTS LOG: 
+INTERNAL REUSE TOTAL: 18 
+<|java+class:///junit/extensions/ActiveTestSuite|,|java+class:///junit/framework/TestSuite|> 
+<|java+class:///junit/extensions/RepeatedTest|,|java+class:///junit/extensions/TestDecorator|> 
+<|java+class:///junit/framework/TestCase|,|java+class:///junit/framework/Assert|> 
+<|java+class:///junit/textui/TestRunner|,|java+class:///junit/runner/BaseTestRunner|> 
+<|java+class:///org/junit/experimental/ParallelComputer|,|java+class:///org/junit/runner/Computer|> 
+<|java+class:///org/junit/experimental/theories/Theories|,|java+class:///org/junit/runners/BlockJUnit4ClassRunner|> 
+<|java+class:///org/junit/experimental/theories/Theories/TheoryAnchor|,|java+class:///org/junit/runners/model/Statement|> 
+<|java+class:///org/junit/internal/builders/AllDefaultPossibilitiesBuilder|,|java+class:///org/junit/runners/model/RunnerBuilder|> 
+<|java+class:///org/junit/internal/matchers/StringContains|,|java+class:///org/junit/internal/matchers/SubstringMatcher|> 
+<|java+class:///org/junit/internal/requests/FilterRequest|,|java+class:///org/junit/runner/Request|> 
+<|java+class:///org/junit/internal/requests/SortingRequest|,|java+class:///org/junit/runner/Request|> 
+<|java+class:///org/junit/internal/runners/statements/ExpectException|,|java+class:///org/junit/runners/model/Statement|> 
+<|java+class:///org/junit/internal/runners/statements/RunAfters|,|java+class:///org/junit/runners/model/Statement|> 
+<|java+class:///org/junit/internal/runners/statements/RunBefores|,|java+class:///org/junit/runners/model/Statement|> 
+<|java+class:///org/junit/rules/ExpectedException/ExpectedExceptionStatement|,|java+class:///org/junit/runners/model/Statement|> 
+<|java+class:///org/junit/rules/RunRules|,|java+class:///org/junit/runners/model/Statement|> 
+<|java+class:///org/junit/runners/BlockJUnit4ClassRunner|,|java+class:///org/junit/runners/ParentRunner|> 
+<|java+class:///org/junit/runners/Parameterized/TestClassRunnerForParameters|,|java+class:///org/junit/runners/BlockJUnit4ClassRunner|> 
+
+EXTERNAL REUSE TOTAL: 4 
+<|java+class:///junit/framework/TestCase|,|java+class:///junit/framework/Assert|> 
+<|java+class:///org/junit/internal/ExactComparisonCriteria|,|java+class:///org/junit/internal/ComparisonCriteria|> 
+<|java+class:///org/junit/internal/InexactComparisonCriteria|,|java+class:///org/junit/internal/ComparisonCriteria|> 
+<|java+class:///org/junit/internal/builders/AllDefaultPossibilitiesBuilder|,|java+class:///org/junit/runners/model/RunnerBuilder|> 
+
+SUBTYPE TOTAL: 30 
+<|java+class:///junit/extensions/TestSetup|,|java+class:///junit/extensions/TestDecorator|> 
+<|java+class:///junit/framework/TestCase|,|java+class:///junit/framework/Assert|> 
+<|java+class:///org/junit/experimental/ParallelComputer|,|java+class:///org/junit/runner/Computer|> 
+<|java+class:///org/junit/experimental/categories/Categories/CategoryFilter|,|java+class:///org/junit/runner/manipulation/Filter|> 
+<|java+class:///org/junit/experimental/max/MaxHistory/RememberingListener|,|java+class:///org/junit/runner/notification/RunListener|> 
+<|java+class:///org/junit/experimental/theories/Theories/TheoryAnchor|,|java+class:///org/junit/runners/model/Statement|> 
+<|java+class:///org/junit/experimental/theories/internal/AllMembersSupplier|,|java+class:///org/junit/experimental/theories/ParameterSupplier|> 
+<|java+class:///org/junit/internal/TextListener|,|java+class:///org/junit/runner/notification/RunListener|> 
+<|java+class:///org/junit/internal/builders/AllDefaultPossibilitiesBuilder|,|java+class:///org/junit/runners/model/RunnerBuilder|> 
+<|java+class:///org/junit/internal/builders/IgnoredClassRunner|,|java+class:///org/junit/runner/Runner|> 
+<|java+class:///org/junit/internal/builders/NullBuilder|,|java+class:///org/junit/runners/model/RunnerBuilder|> 
+<|java+class:///org/junit/internal/builders/SuiteMethodBuilder|,|java+class:///org/junit/runners/model/RunnerBuilder|> 
+<|java+class:///org/junit/internal/matchers/IsCollectionContaining|,|java+class:///org/junit/internal/matchers/TypeSafeMatcher|> 
+<|java+class:///org/junit/internal/matchers/StringContains|,|java+class:///org/junit/internal/matchers/SubstringMatcher|> 
+<|java+class:///org/junit/internal/matchers/SubstringMatcher|,|java+class:///org/junit/internal/matchers/TypeSafeMatcher|> 
+<|java+class:///org/junit/internal/requests/ClassRequest|,|java+class:///org/junit/runner/Request|> 
+<|java+class:///org/junit/internal/requests/FilterRequest|,|java+class:///org/junit/runner/Request|> 
+<|java+class:///org/junit/internal/requests/SortingRequest|,|java+class:///org/junit/runner/Request|> 
+<|java+class:///org/junit/internal/runners/ErrorReportingRunner|,|java+class:///org/junit/runner/Runner|> 
+<|java+class:///org/junit/internal/runners/JUnit38ClassRunner|,|java+class:///org/junit/runner/Runner|> 
+<|java+class:///org/junit/internal/runners/SuiteMethod|,|java+class:///org/junit/internal/runners/JUnit38ClassRunner|> 
+<|java+class:///org/junit/internal/runners/statements/Fail|,|java+class:///org/junit/runners/model/Statement|> 
+<|java+class:///org/junit/internal/runners/statements/FailOnTimeout|,|java+class:///org/junit/runners/model/Statement|> 
+<|java+class:///org/junit/internal/runners/statements/InvokeMethod|,|java+class:///org/junit/runners/model/Statement|> 
+<|java+class:///org/junit/rules/ExpectedException/ExpectedExceptionStatement|,|java+class:///org/junit/runners/model/Statement|> 
+<|java+class:///org/junit/runner/Result/Listener|,|java+class:///org/junit/runner/notification/RunListener|> 
+<|java+class:///org/junit/runners/BlockJUnit4ClassRunner|,|java+class:///org/junit/runners/ParentRunner|> 
+<|java+class:///org/junit/runners/ParentRunner|,|java+class:///org/junit/runner/Runner|> 
+<|java+class:///org/junit/runners/Suite|,|java+class:///org/junit/runners/ParentRunner|> 
+<|java+class:///org/junit/runners/model/FrameworkMethod|,|java+class:///org/junit/runners/model/FrameworkMember|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 16 
+<|java+class:///junit/extensions/ActiveTestSuite|,|java+class:///junit/framework/TestSuite|> 
+<|java+class:///junit/extensions/RepeatedTest|,|java+class:///junit/extensions/TestDecorator|> 
+<|java+class:///junit/extensions/TestSetup|,|java+class:///junit/extensions/TestDecorator|> 
+<|java+class:///junit/framework/ComparisonFailure|,|java+class:///junit/framework/AssertionFailedError|> 
+<|java+class:///org/junit/experimental/categories/Categories|,|java+class:///org/junit/runners/Suite|> 
+<|java+class:///org/junit/experimental/runners/Enclosed|,|java+class:///org/junit/runners/Suite|> 
+<|java+class:///org/junit/experimental/theories/Theories|,|java+class:///org/junit/runners/BlockJUnit4ClassRunner|> 
+<|java+class:///org/junit/internal/matchers/StringContains|,|java+class:///org/junit/internal/matchers/SubstringMatcher|> 
+<|java+class:///org/junit/internal/runners/JUnit38ClassRunner|,|java+class:///org/junit/runner/Runner|> 
+<|java+class:///org/junit/internal/runners/SuiteMethod|,|java+class:///org/junit/internal/runners/JUnit38ClassRunner|> 
+<|java+class:///org/junit/runners/AllTests|,|java+class:///org/junit/internal/runners/SuiteMethod|> 
+<|java+class:///org/junit/runners/BlockJUnit4ClassRunner|,|java+class:///org/junit/runners/ParentRunner|> 
+<|java+class:///org/junit/runners/JUnit4|,|java+class:///org/junit/runners/BlockJUnit4ClassRunner|> 
+<|java+class:///org/junit/runners/Parameterized|,|java+class:///org/junit/runners/Suite|> 
+<|java+class:///org/junit/runners/Parameterized/TestClassRunnerForParameters|,|java+class:///org/junit/runners/BlockJUnit4ClassRunner|> 
+<|java+class:///org/junit/runners/Suite|,|java+class:///org/junit/runners/ParentRunner|> 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 2 
+<|java+class:///org/junit/experimental/theories/internal/AllMembersSupplier/MethodParameterValue|,|java+class:///org/junit/experimental/theories/PotentialAssignment|> 
+<|java+class:///org/junit/experimental/theories/suppliers/TestedOnSupplier|,|java+class:///org/junit/experimental/theories/ParameterSupplier|> 
+
+FRAMEWORK TOTAL: 3 
+<|java+class:///junit/framework/ComparisonFailure|,|java+class:///junit/framework/AssertionFailedError|> 
+<|java+class:///org/junit/internal/matchers/IsCollectionContaining|,|java+class:///org/junit/internal/matchers/TypeSafeMatcher|> 
+<|java+class:///org/junit/internal/matchers/SubstringMatcher|,|java+class:///org/junit/internal/matchers/TypeSafeMatcher|> 
+
+DOWNCALL TOTAL: 27 
+<|java+class:///junit/textui/TestRunner|,|java+class:///junit/runner/BaseTestRunner|> 
+<|java+class:///org/junit/experimental/theories/Theories|,|java+class:///org/junit/runners/BlockJUnit4ClassRunner|> 
+<|java+class:///org/junit/internal/ExactComparisonCriteria|,|java+class:///org/junit/internal/ComparisonCriteria|> 
+<|java+class:///org/junit/internal/InexactComparisonCriteria|,|java+class:///org/junit/internal/ComparisonCriteria|> 
+<|java+class:///org/junit/internal/builders/AllDefaultPossibilitiesBuilder|,|java+class:///org/junit/runners/model/RunnerBuilder|> 
+<|java+class:///org/junit/internal/builders/AnnotatedBuilder|,|java+class:///org/junit/runners/model/RunnerBuilder|> 
+<|java+class:///org/junit/internal/builders/IgnoredBuilder|,|java+class:///org/junit/runners/model/RunnerBuilder|> 
+<|java+class:///org/junit/internal/builders/IgnoredClassRunner|,|java+class:///org/junit/runner/Runner|> 
+<|java+class:///org/junit/internal/builders/JUnit3Builder|,|java+class:///org/junit/runners/model/RunnerBuilder|> 
+<|java+class:///org/junit/internal/builders/JUnit4Builder|,|java+class:///org/junit/runners/model/RunnerBuilder|> 
+<|java+class:///org/junit/internal/builders/NullBuilder|,|java+class:///org/junit/runners/model/RunnerBuilder|> 
+<|java+class:///org/junit/internal/builders/SuiteMethodBuilder|,|java+class:///org/junit/runners/model/RunnerBuilder|> 
+<|java+class:///org/junit/internal/matchers/IsCollectionContaining|,|java+class:///org/junit/internal/matchers/TypeSafeMatcher|> 
+<|java+class:///org/junit/internal/matchers/StringContains|,|java+class:///org/junit/internal/matchers/SubstringMatcher|> 
+<|java+class:///org/junit/internal/matchers/SubstringMatcher|,|java+class:///org/junit/internal/matchers/TypeSafeMatcher|> 
+<|java+class:///org/junit/internal/runners/ErrorReportingRunner|,|java+class:///org/junit/runner/Runner|> 
+<|java+class:///org/junit/internal/runners/JUnit38ClassRunner|,|java+class:///org/junit/runner/Runner|> 
+<|java+class:///org/junit/internal/runners/JUnit4ClassRunner|,|java+class:///org/junit/runner/Runner|> 
+<|java+class:///org/junit/rules/ErrorCollector|,|java+class:///org/junit/rules/Verifier|> 
+<|java+class:///org/junit/rules/TemporaryFolder|,|java+class:///org/junit/rules/ExternalResource|> 
+<|java+class:///org/junit/rules/TestName|,|java+class:///org/junit/rules/TestWatcher|> 
+<|java+class:///org/junit/runners/BlockJUnit4ClassRunner|,|java+class:///org/junit/runners/ParentRunner|> 
+<|java+class:///org/junit/runners/Parameterized/TestClassRunnerForParameters|,|java+class:///org/junit/runners/BlockJUnit4ClassRunner|> 
+<|java+class:///org/junit/runners/ParentRunner|,|java+class:///org/junit/runner/Runner|> 
+<|java+class:///org/junit/runners/Suite|,|java+class:///org/junit/runners/ParentRunner|> 
+<|java+class:///org/junit/runners/model/FrameworkField|,|java+class:///org/junit/runners/model/FrameworkMember|> 
+<|java+class:///org/junit/runners/model/FrameworkMethod|,|java+class:///org/junit/runners/model/FrameworkMember|> 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 0 
+
+SUBTYPE TOTAL: 12 
+<|java+class:///junit/extensions/TestDecorator|,|java+interface:///junit/framework/Test|> 
+<|java+class:///junit/framework/JUnit4TestAdapter|,|java+interface:///junit/framework/Test|> 
+<|java+class:///junit/framework/JUnit4TestAdapter|,|java+interface:///org/junit/runner/Describable|> 
+<|java+class:///junit/framework/JUnit4TestAdapter|,|java+interface:///org/junit/runner/manipulation/Filterable|> 
+<|java+class:///junit/framework/JUnit4TestAdapter|,|java+interface:///org/junit/runner/manipulation/Sortable|> 
+<|java+class:///junit/framework/JUnit4TestCaseFacade|,|java+interface:///junit/framework/Test|> 
+<|java+class:///junit/framework/JUnit4TestCaseFacade|,|java+interface:///org/junit/runner/Describable|> 
+<|java+class:///junit/framework/TestCase|,|java+interface:///junit/framework/Test|> 
+<|java+class:///junit/framework/TestSuite|,|java+interface:///junit/framework/Test|> 
+<|java+class:///junit/textui/ResultPrinter|,|java+interface:///junit/framework/TestListener|> 
+<|java+class:///org/junit/internal/RealSystem|,|java+interface:///org/junit/internal/JUnitSystem|> 
+<|java+class:///org/junit/internal/runners/JUnit38ClassRunner/OldTestClassAdaptingListener|,|java+interface:///junit/framework/TestListener|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 4 
+<|java+class:///junit/extensions/TestDecorator|,|java+interface:///junit/framework/Test|> 
+<|java+class:///junit/framework/TestCase|,|java+interface:///junit/framework/Test|> 
+<|java+class:///org/junit/internal/runners/JUnit4ClassRunner|,|java+interface:///org/junit/runner/manipulation/Filterable|> 
+<|java+class:///org/junit/runners/ParentRunner|,|java+interface:///org/junit/runner/manipulation/Sortable|> 
+
+CATEGORY TOTAL: 6 
+<|java+class:///junit/runner/BaseTestRunner|,|java+interface:///junit/framework/TestListener|> 
+<|java+class:///org/junit/internal/runners/JUnit38ClassRunner|,|java+interface:///org/junit/runner/manipulation/Filterable|> 
+<|java+class:///org/junit/internal/runners/JUnit38ClassRunner|,|java+interface:///org/junit/runner/manipulation/Sortable|> 
+<|java+class:///org/junit/internal/runners/JUnit4ClassRunner|,|java+interface:///org/junit/runner/manipulation/Sortable|> 
+<|java+class:///org/junit/runner/Runner|,|java+interface:///org/junit/runner/Describable|> 
+<|java+class:///org/junit/runners/ParentRunner|,|java+interface:///org/junit/runner/manipulation/Filterable|> 
+
+FRAMEWORK TOTAL: 0 
+
+DOWNCALL TOTAL: 0 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 0 
+
+SUBTYPE TOTAL: 0 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 0 
+
+DOWNCALL TOTAL: 0 
+
+
+
+

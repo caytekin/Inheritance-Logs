@@ -1,0 +1,14 @@
+[
+  <<|java+class:///FunnyBracketsPlugin|,|java+interface:///org/jext/RegisterablePlugin|>,|java+class:///PHPPlugin|>,
+  <<|java+class:///FindInFilesPlugin|,|java+interface:///org/jext/Plugin|>,|java+class:///PHPPlugin|>,
+  <<|java+class:///JBrowsePlugin|,|java+interface:///org/jext/Plugin|>,|java+class:///PHPPlugin|>,
+  <<|java+class:///PyBrowsePlugin|,|java+interface:///org/jext/Plugin|>,|java+class:///PHPPlugin|>,
+  <<|java+class:///HTMLPlugin|,|java+interface:///org/jext/Plugin|>,|java+class:///PHPPlugin|>,
+  <<|java+class:///JavaPlugin|,|java+interface:///org/jext/Plugin|>,|java+class:///PHPPlugin|>,
+  <<|java+class:///KeystrokeRecorderPlugin|,|java+interface:///org/jext/Plugin|>,|java+class:///PHPPlugin|>,
+  <<|java+class:///FunnyBracketsPlugin|,|java+interface:///org/jext/Plugin|>,|java+class:///PHPPlugin|>,
+  <<|java+class:///HTMLPlugin|,|java+interface:///org/jext/RegisterablePlugin|>,|java+class:///PHPPlugin|>,
+  <<|java+class:///WheelMousePlugin|,|java+interface:///org/jext/Plugin|>,|java+class:///PHPPlugin|>,
+  <<|java+class:///FindAllPlugin|,|java+interface:///org/jext/Plugin|>,|java+class:///PHPPlugin|>,
+  <<|java+class:///XMLBrowsePlugin|,|java+interface:///org/jext/Plugin|>,|java+class:///PHPPlugin|>
+]

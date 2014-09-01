@@ -1,0 +1,5 @@
+{
+  <<|java+class:///org/javacc/jjtree/ASTCompilationUnit|,|java+class:///org/javacc/jjtree/JJTreeNode|>,<|project://javacc-5.0/src/org/javacc/jjtree/ASTCompilationUnit.java|(2798,12,<64,10>,<64,22>),|java+method:///org/javacc/jjtree/JJTreeNode/print(org.javacc.jjtree.Token,org.javacc.jjtree.IO)|>>,
+  <<|java+class:///org/javacc/jjtree/ASTCompilationUnit|,|java+class:///org/javacc/jjtree/JJTreeNode|>,<|project://javacc-5.0/src/org/javacc/jjtree/ASTCompilationUnit.java|(2403,12,<55,10>,<55,22>),|java+method:///org/javacc/jjtree/JJTreeNode/print(org.javacc.jjtree.Token,org.javacc.jjtree.IO)|>>,
+  <<|java+class:///org/javacc/jjtree/ASTCompilationUnit|,|java+class:///org/javacc/jjtree/JJTreeNode|>,<|project://javacc-5.0/src/org/javacc/jjtree/ASTCompilationUnit.java|(2845,12,<67,8>,<67,20>),|java+method:///org/javacc/jjtree/JJTreeNode/print(org.javacc.jjtree.Token,org.javacc.jjtree.IO)|>>
+}

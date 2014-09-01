@@ -1,0 +1,340 @@
+RESULTS LOG: 
+INTERNAL REUSE TOTAL: 77 
+<|java+class:///org/apache/james/fetchmail/DynamicAccount|,|java+class:///org/apache/james/fetchmail/Account|> 
+<|java+class:///org/apache/james/fetchmail/FolderProcessor|,|java+class:///org/apache/james/fetchmail/ProcessorAbstract|> 
+<|java+class:///org/apache/james/fetchmail/MessageProcessor|,|java+class:///org/apache/james/fetchmail/ProcessorAbstract|> 
+<|java+class:///org/apache/james/fetchmail/StoreProcessor|,|java+class:///org/apache/james/fetchmail/ProcessorAbstract|> 
+<|java+class:///org/apache/james/mailrepository/AvalonSpoolRepository|,|java+class:///org/apache/james/mailrepository/AvalonMailRepository|> 
+<|java+class:///org/apache/james/mailrepository/JDBCSpoolRepository|,|java+class:///org/apache/james/mailrepository/JDBCMailRepository|> 
+<|java+class:///org/apache/james/mailrepository/MimeMessageAvalonSource|,|java+class:///org/apache/james/core/MimeMessageSource|> 
+<|java+class:///org/apache/james/mailrepository/MimeMessageJDBCSource|,|java+class:///org/apache/james/core/MimeMessageSource|> 
+<|java+class:///org/apache/james/mailrepository/filepair/File_Persistent_Object_Repository|,|java+class:///org/apache/james/mailrepository/filepair/AbstractFileRepository|> 
+<|java+class:///org/apache/james/mailrepository/filepair/File_Persistent_Stream_Repository|,|java+class:///org/apache/james/mailrepository/filepair/AbstractFileRepository|> 
+<|java+class:///org/apache/james/nntpserver/NNTPServer|,|java+class:///org/apache/james/core/AbstractJamesService|> 
+<|java+class:///org/apache/james/pop3server/POP3Server|,|java+class:///org/apache/james/core/AbstractJamesService|> 
+<|java+class:///org/apache/james/remotemanager/RemoteManager|,|java+class:///org/apache/james/core/AbstractJamesService|> 
+<|java+class:///org/apache/james/smtpserver/SMTPServer|,|java+class:///org/apache/james/core/AbstractJamesService|> 
+<|java+class:///org/apache/james/transport/MailetLoader|,|java+class:///org/apache/james/transport/Loader|> 
+<|java+class:///org/apache/james/transport/MatchLoader|,|java+class:///org/apache/james/transport/Loader|> 
+<|java+class:///org/apache/james/transport/mailets/AbstractNotify|,|java+class:///org/apache/james/transport/mailets/AbstractRedirect|> 
+<|java+class:///org/apache/james/transport/mailets/AbstractRedirect|,|java+class:///org/apache/mailet/GenericMailet|> 
+<|java+class:///org/apache/james/transport/mailets/AbstractVirtualUserTable|,|java+class:///org/apache/mailet/GenericMailet|> 
+<|java+class:///org/apache/james/transport/mailets/AddFooter|,|java+class:///org/apache/mailet/GenericMailet|> 
+<|java+class:///org/apache/james/transport/mailets/AddHabeasWarrantMark|,|java+class:///org/apache/mailet/GenericMailet|> 
+<|java+class:///org/apache/james/transport/mailets/AddHeader|,|java+class:///org/apache/mailet/GenericMailet|> 
+<|java+class:///org/apache/james/transport/mailets/CommandListservManager|,|java+class:///org/apache/mailet/GenericMailet|> 
+<|java+class:///org/apache/james/transport/mailets/CommandListservProcessor|,|java+class:///org/apache/mailet/GenericMailet|> 
+<|java+class:///org/apache/james/transport/mailets/DSNBounce|,|java+class:///org/apache/james/transport/mailets/AbstractNotify|> 
+<|java+class:///org/apache/james/transport/mailets/Forward|,|java+class:///org/apache/james/transport/mailets/AbstractRedirect|> 
+<|java+class:///org/apache/james/transport/mailets/FromRepository|,|java+class:///org/apache/mailet/GenericMailet|> 
+<|java+class:///org/apache/james/transport/mailets/GenericListserv|,|java+class:///org/apache/mailet/GenericMailet|> 
+<|java+class:///org/apache/james/transport/mailets/GenericListservManager|,|java+class:///org/apache/mailet/GenericMailet|> 
+<|java+class:///org/apache/james/transport/mailets/JDBCAlias|,|java+class:///org/apache/mailet/GenericMailet|> 
+<|java+class:///org/apache/james/transport/mailets/LocalDelivery|,|java+class:///org/apache/mailet/GenericMailet|> 
+<|java+class:///org/apache/james/transport/mailets/LogHeaders|,|java+class:///org/apache/mailet/GenericMailet|> 
+<|java+class:///org/apache/james/transport/mailets/PostmasterAlias|,|java+class:///org/apache/mailet/GenericMailet|> 
+<|java+class:///org/apache/james/transport/mailets/Redirect|,|java+class:///org/apache/james/transport/mailets/AbstractRedirect|> 
+<|java+class:///org/apache/james/transport/mailets/RemoteDelivery|,|java+class:///org/apache/mailet/GenericMailet|> 
+<|java+class:///org/apache/james/transport/mailets/RemoveMailAttribute|,|java+class:///org/apache/mailet/GenericMailet|> 
+<|java+class:///org/apache/james/transport/mailets/ServerTime|,|java+class:///org/apache/mailet/GenericMailet|> 
+<|java+class:///org/apache/james/transport/mailets/SetMailAttribute|,|java+class:///org/apache/mailet/GenericMailet|> 
+<|java+class:///org/apache/james/transport/mailets/ToProcessor|,|java+class:///org/apache/mailet/GenericMailet|> 
+<|java+class:///org/apache/james/transport/mailets/ToRepository|,|java+class:///org/apache/mailet/GenericMailet|> 
+<|java+class:///org/apache/james/transport/mailets/UseHeaderRecipients|,|java+class:///org/apache/mailet/GenericMailet|> 
+<|java+class:///org/apache/james/transport/mailets/debug/Counter|,|java+class:///org/apache/mailet/GenericMailet|> 
+<|java+class:///org/apache/james/transport/mailets/debug/DumpSystemErr|,|java+class:///org/apache/mailet/GenericMailet|> 
+<|java+class:///org/apache/james/transport/mailets/listservcommands/ErrorCommand|,|java+class:///org/apache/james/transport/mailets/listservcommands/BaseCommand|> 
+<|java+class:///org/apache/james/transport/mailets/listservcommands/Info|,|java+class:///org/apache/james/transport/mailets/listservcommands/BaseCommand|> 
+<|java+class:///org/apache/james/transport/mailets/listservcommands/Owner|,|java+class:///org/apache/james/transport/mailets/listservcommands/BaseCommand|> 
+<|java+class:///org/apache/james/transport/mailets/listservcommands/Subscribe|,|java+class:///org/apache/james/transport/mailets/listservcommands/BaseCommand|> 
+<|java+class:///org/apache/james/transport/mailets/listservcommands/SubscribeConfirm|,|java+class:///org/apache/james/transport/mailets/listservcommands/BaseCommand|> 
+<|java+class:///org/apache/james/transport/mailets/listservcommands/UnSubscribe|,|java+class:///org/apache/james/transport/mailets/listservcommands/BaseCommand|> 
+<|java+class:///org/apache/james/transport/mailets/listservcommands/UnSubscribeConfirm|,|java+class:///org/apache/james/transport/mailets/listservcommands/BaseCommand|> 
+<|java+class:///org/apache/james/transport/matchers/AbstractNetworkMatcher|,|java+class:///org/apache/mailet/GenericMatcher|> 
+<|java+class:///org/apache/james/transport/matchers/AbstractQuotaMatcher|,|java+class:///org/apache/mailet/GenericMatcher|> 
+<|java+class:///org/apache/james/transport/matchers/AbstractStorageQuota|,|java+class:///org/apache/james/transport/matchers/AbstractQuotaMatcher|> 
+<|java+class:///org/apache/james/transport/matchers/AttachmentFileNameIs|,|java+class:///org/apache/mailet/GenericMatcher|> 
+<|java+class:///org/apache/james/transport/matchers/CompareNumericHeaderValue|,|java+class:///org/apache/mailet/GenericMatcher|> 
+<|java+class:///org/apache/james/transport/matchers/FetchedFrom|,|java+class:///org/apache/mailet/GenericMatcher|> 
+<|java+class:///org/apache/james/transport/matchers/FileRegexMatcher|,|java+class:///org/apache/james/transport/matchers/GenericRegexMatcher|> 
+<|java+class:///org/apache/james/transport/matchers/HasHabeasWarrantMark|,|java+class:///org/apache/mailet/GenericMatcher|> 
+<|java+class:///org/apache/james/transport/matchers/HasHeader|,|java+class:///org/apache/mailet/GenericMatcher|> 
+<|java+class:///org/apache/james/transport/matchers/HasMailAttributeWithValue|,|java+class:///org/apache/mailet/GenericMatcher|> 
+<|java+class:///org/apache/james/transport/matchers/InSpammerBlacklist|,|java+class:///org/apache/mailet/GenericMatcher|> 
+<|java+class:///org/apache/james/transport/matchers/NESSpamCheck|,|java+class:///org/apache/james/transport/matchers/GenericRegexMatcher|> 
+<|java+class:///org/apache/james/transport/matchers/RecipientIsOverFixedQuota|,|java+class:///org/apache/james/transport/matchers/AbstractStorageQuota|> 
+<|java+class:///org/apache/james/transport/matchers/RelayLimit|,|java+class:///org/apache/mailet/GenericMatcher|> 
+<|java+class:///org/apache/james/transport/matchers/RemoteAddrInNetwork|,|java+class:///org/apache/james/transport/matchers/AbstractNetworkMatcher|> 
+<|java+class:///org/apache/james/transport/matchers/RemoteAddrNotInNetwork|,|java+class:///org/apache/james/transport/matchers/AbstractNetworkMatcher|> 
+<|java+class:///org/apache/james/transport/matchers/SMTPAuthUserIs|,|java+class:///org/apache/mailet/GenericMatcher|> 
+<|java+class:///org/apache/james/transport/matchers/SenderHostIs|,|java+class:///org/apache/mailet/GenericMatcher|> 
+<|java+class:///org/apache/james/transport/matchers/SenderInFakeDomain|,|java+class:///org/apache/james/transport/matchers/AbstractNetworkMatcher|> 
+<|java+class:///org/apache/james/transport/matchers/SenderIs|,|java+class:///org/apache/mailet/GenericMatcher|> 
+<|java+class:///org/apache/james/transport/matchers/SenderIsRegex|,|java+class:///org/apache/mailet/GenericMatcher|> 
+<|java+class:///org/apache/james/transport/matchers/SizeGreaterThan|,|java+class:///org/apache/mailet/GenericMatcher|> 
+<|java+class:///org/apache/james/transport/matchers/SubjectIs|,|java+class:///org/apache/mailet/GenericMatcher|> 
+<|java+class:///org/apache/james/transport/matchers/SubjectStartsWith|,|java+class:///org/apache/mailet/GenericMatcher|> 
+<|java+class:///org/apache/james/userrepository/AbstractJdbcUsersRepository|,|java+class:///org/apache/james/userrepository/AbstractUsersRepository|> 
+<|java+class:///org/apache/james/util/RFC822DateFormat|,|java+class:///org/apache/james/util/SynchronizedDateFormat|> 
+<|java+class:///org/apache/james/util/mail/handlers/message_disposition_notification|,|java+class:///org/apache/james/util/mail/handlers/AbstractDataContentHandler|> 
+
+EXTERNAL REUSE TOTAL: 6 
+<|java+class:///org/apache/james/transport/MailetLoader|,|java+class:///org/apache/james/transport/Loader|> 
+<|java+class:///org/apache/james/transport/MatchLoader|,|java+class:///org/apache/james/transport/Loader|> 
+<|java+class:///org/apache/james/transport/mailets/CommandListservFooter|,|java+class:///org/apache/mailet/GenericMailet|> 
+<|java+class:///org/apache/james/userrepository/AbstractJdbcUsersRepository|,|java+class:///org/apache/james/userrepository/AbstractUsersRepository|> 
+<|java+class:///org/apache/james/userrepository/DefaultJamesUser|,|java+class:///org/apache/james/userrepository/DefaultUser|> 
+<|java+class:///org/apache/james/util/RFC822DateFormat|,|java+class:///org/apache/james/util/SynchronizedDateFormat|> 
+
+SUBTYPE TOTAL: 14 
+<|java+class:///org/apache/james/core/MimeMessageInputStreamSource|,|java+class:///org/apache/james/core/MimeMessageSource|> 
+<|java+class:///org/apache/james/fetchmail/DynamicAccount|,|java+class:///org/apache/james/fetchmail/Account|> 
+<|java+class:///org/apache/james/mailrepository/AvalonSpoolRepository|,|java+class:///org/apache/james/mailrepository/AvalonMailRepository|> 
+<|java+class:///org/apache/james/mailrepository/JDBCSpoolRepository|,|java+class:///org/apache/james/mailrepository/JDBCMailRepository|> 
+<|java+class:///org/apache/james/mailrepository/MimeMessageAvalonSource|,|java+class:///org/apache/james/core/MimeMessageSource|> 
+<|java+class:///org/apache/james/mailrepository/MimeMessageJDBCSource|,|java+class:///org/apache/james/core/MimeMessageSource|> 
+<|java+class:///org/apache/james/transport/MailetLoader|,|java+class:///org/apache/james/transport/Loader|> 
+<|java+class:///org/apache/james/transport/MatchLoader|,|java+class:///org/apache/james/transport/Loader|> 
+<|java+class:///org/apache/james/transport/mailets/CommandListservManager|,|java+class:///org/apache/mailet/GenericMailet|> 
+<|java+class:///org/apache/james/transport/mailets/listservcommands/ErrorCommand|,|java+class:///org/apache/james/transport/mailets/listservcommands/BaseCommand|> 
+<|java+class:///org/apache/james/userrepository/AbstractJdbcUsersRepository|,|java+class:///org/apache/james/userrepository/AbstractUsersRepository|> 
+<|java+class:///org/apache/james/userrepository/DefaultUsersJdbcRepository|,|java+class:///org/apache/james/userrepository/AbstractJdbcUsersRepository|> 
+<|java+class:///org/apache/james/userrepository/JamesUsersJdbcRepository|,|java+class:///org/apache/james/userrepository/AbstractJdbcUsersRepository|> 
+<|java+class:///org/apache/james/util/RFC2980DateFormat|,|java+class:///org/apache/james/util/SynchronizedDateFormat|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 9 
+<|java+class:///org/apache/james/fetchmail/DynamicAccount|,|java+class:///org/apache/james/fetchmail/Account|> 
+<|java+class:///org/apache/james/fetchmail/FolderProcessor|,|java+class:///org/apache/james/fetchmail/ProcessorAbstract|> 
+<|java+class:///org/apache/james/fetchmail/MessageProcessor|,|java+class:///org/apache/james/fetchmail/ProcessorAbstract|> 
+<|java+class:///org/apache/james/fetchmail/StoreProcessor|,|java+class:///org/apache/james/fetchmail/ProcessorAbstract|> 
+<|java+class:///org/apache/james/userrepository/DefaultJamesUser|,|java+class:///org/apache/james/userrepository/DefaultUser|> 
+<|java+class:///org/apache/james/util/RFC2980DateFormat|,|java+class:///org/apache/james/util/SynchronizedDateFormat|> 
+<|java+class:///org/apache/james/util/RFC822DateFormat|,|java+class:///org/apache/james/util/SynchronizedDateFormat|> 
+<|java+class:///org/apache/james/util/mail/handlers/message_disposition_notification|,|java+class:///org/apache/james/util/mail/handlers/AbstractDataContentHandler|> 
+<|java+class:///org/apache/james/util/mail/handlers/multipart_report|,|java+class:///org/apache/james/util/mail/handlers/AbstractDataContentHandler|> 
+
+GENERIC TOTAL: 2 
+<|java+class:///org/apache/james/mailrepository/JDBCSpoolRepository|,|java+class:///org/apache/james/mailrepository/JDBCMailRepository|> 
+<|java+class:///org/apache/james/mailrepository/filepair/File_Persistent_Object_Repository|,|java+class:///org/apache/james/mailrepository/filepair/AbstractFileRepository|> 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 18 
+<|java+class:///org/apache/james/fetchmail/DynamicAccount|,|java+class:///org/apache/james/fetchmail/Account|> 
+<|java+class:///org/apache/james/mailrepository/AvalonSpoolRepository|,|java+class:///org/apache/james/mailrepository/AvalonMailRepository|> 
+<|java+class:///org/apache/james/mailrepository/JDBCSpoolRepository|,|java+class:///org/apache/james/mailrepository/JDBCMailRepository|> 
+<|java+class:///org/apache/james/mailrepository/filepair/File_Persistent_Object_Repository|,|java+class:///org/apache/james/mailrepository/filepair/AbstractFileRepository|> 
+<|java+class:///org/apache/james/mailrepository/filepair/File_Persistent_Stream_Repository|,|java+class:///org/apache/james/mailrepository/filepair/AbstractFileRepository|> 
+<|java+class:///org/apache/james/nntpserver/NNTPServer|,|java+class:///org/apache/james/core/AbstractJamesService|> 
+<|java+class:///org/apache/james/pop3server/POP3Server|,|java+class:///org/apache/james/core/AbstractJamesService|> 
+<|java+class:///org/apache/james/remotemanager/RemoteManager|,|java+class:///org/apache/james/core/AbstractJamesService|> 
+<|java+class:///org/apache/james/smtpserver/SMTPServer|,|java+class:///org/apache/james/core/AbstractJamesService|> 
+<|java+class:///org/apache/james/transport/MailetLoader|,|java+class:///org/apache/james/transport/Loader|> 
+<|java+class:///org/apache/james/transport/MatchLoader|,|java+class:///org/apache/james/transport/Loader|> 
+<|java+class:///org/apache/james/userrepository/AbstractJdbcUsersRepository|,|java+class:///org/apache/james/userrepository/AbstractUsersRepository|> 
+<|java+class:///org/apache/james/userrepository/DefaultJamesUser|,|java+class:///org/apache/james/userrepository/DefaultUser|> 
+<|java+class:///org/apache/james/userrepository/DefaultUsersJdbcRepository|,|java+class:///org/apache/james/userrepository/AbstractJdbcUsersRepository|> 
+<|java+class:///org/apache/james/userrepository/JamesUsersJdbcRepository|,|java+class:///org/apache/james/userrepository/AbstractJdbcUsersRepository|> 
+<|java+class:///org/apache/james/userrepository/ListUsersJdbcRepository|,|java+class:///org/apache/james/userrepository/AbstractJdbcUsersRepository|> 
+<|java+class:///org/apache/james/util/mail/handlers/message_disposition_notification|,|java+class:///org/apache/james/util/mail/handlers/AbstractDataContentHandler|> 
+<|java+class:///org/apache/james/util/mail/handlers/multipart_report|,|java+class:///org/apache/james/util/mail/handlers/AbstractDataContentHandler|> 
+
+DOWNCALL TOTAL: 56 
+<|java+class:///org/apache/james/mailrepository/filepair/File_Persistent_Object_Repository|,|java+class:///org/apache/james/mailrepository/filepair/AbstractFileRepository|> 
+<|java+class:///org/apache/james/mailrepository/filepair/File_Persistent_Stream_Repository|,|java+class:///org/apache/james/mailrepository/filepair/AbstractFileRepository|> 
+<|java+class:///org/apache/james/nntpserver/NNTPServer|,|java+class:///org/apache/james/core/AbstractJamesService|> 
+<|java+class:///org/apache/james/pop3server/POP3Server|,|java+class:///org/apache/james/core/AbstractJamesService|> 
+<|java+class:///org/apache/james/remotemanager/RemoteManager|,|java+class:///org/apache/james/core/AbstractJamesService|> 
+<|java+class:///org/apache/james/smtpserver/SMTPServer|,|java+class:///org/apache/james/core/AbstractJamesService|> 
+<|java+class:///org/apache/james/transport/mailets/AbstractNotify|,|java+class:///org/apache/james/transport/mailets/AbstractRedirect|> 
+<|java+class:///org/apache/james/transport/mailets/AbstractRedirect|,|java+class:///org/apache/mailet/GenericMailet|> 
+<|java+class:///org/apache/james/transport/mailets/AddFooter|,|java+class:///org/apache/mailet/GenericMailet|> 
+<|java+class:///org/apache/james/transport/mailets/AddHeader|,|java+class:///org/apache/mailet/GenericMailet|> 
+<|java+class:///org/apache/james/transport/mailets/AvalonListserv|,|java+class:///org/apache/james/transport/mailets/GenericListserv|> 
+<|java+class:///org/apache/james/transport/mailets/AvalonListservManager|,|java+class:///org/apache/james/transport/mailets/GenericListservManager|> 
+<|java+class:///org/apache/james/transport/mailets/CommandListservFooter|,|java+class:///org/apache/mailet/GenericMailet|> 
+<|java+class:///org/apache/james/transport/mailets/CommandListservManager|,|java+class:///org/apache/mailet/GenericMailet|> 
+<|java+class:///org/apache/james/transport/mailets/CommandListservProcessor|,|java+class:///org/apache/mailet/GenericMailet|> 
+<|java+class:///org/apache/james/transport/mailets/Forward|,|java+class:///org/apache/james/transport/mailets/AbstractRedirect|> 
+<|java+class:///org/apache/james/transport/mailets/FromRepository|,|java+class:///org/apache/mailet/GenericMailet|> 
+<|java+class:///org/apache/james/transport/mailets/JDBCAlias|,|java+class:///org/apache/mailet/GenericMailet|> 
+<|java+class:///org/apache/james/transport/mailets/JDBCListserv|,|java+class:///org/apache/james/transport/mailets/GenericListserv|> 
+<|java+class:///org/apache/james/transport/mailets/JDBCVirtualUserTable|,|java+class:///org/apache/james/transport/mailets/AbstractVirtualUserTable|> 
+<|java+class:///org/apache/james/transport/mailets/LogHeaders|,|java+class:///org/apache/mailet/GenericMailet|> 
+<|java+class:///org/apache/james/transport/mailets/Redirect|,|java+class:///org/apache/james/transport/mailets/AbstractRedirect|> 
+<|java+class:///org/apache/james/transport/mailets/RemoteDelivery|,|java+class:///org/apache/mailet/GenericMailet|> 
+<|java+class:///org/apache/james/transport/mailets/RemoveMailAttribute|,|java+class:///org/apache/mailet/GenericMailet|> 
+<|java+class:///org/apache/james/transport/mailets/Resend|,|java+class:///org/apache/james/transport/mailets/AbstractRedirect|> 
+<|java+class:///org/apache/james/transport/mailets/SetMailAttribute|,|java+class:///org/apache/mailet/GenericMailet|> 
+<|java+class:///org/apache/james/transport/mailets/ToProcessor|,|java+class:///org/apache/mailet/GenericMailet|> 
+<|java+class:///org/apache/james/transport/mailets/ToRepository|,|java+class:///org/apache/mailet/GenericMailet|> 
+<|java+class:///org/apache/james/transport/mailets/UseHeaderRecipients|,|java+class:///org/apache/mailet/GenericMailet|> 
+<|java+class:///org/apache/james/transport/mailets/XMLVirtualUserTable|,|java+class:///org/apache/james/transport/mailets/AbstractVirtualUserTable|> 
+<|java+class:///org/apache/james/transport/matchers/AbstractNetworkMatcher|,|java+class:///org/apache/mailet/GenericMatcher|> 
+<|java+class:///org/apache/james/transport/matchers/AbstractStorageQuota|,|java+class:///org/apache/james/transport/matchers/AbstractQuotaMatcher|> 
+<|java+class:///org/apache/james/transport/matchers/AttachmentFileNameIs|,|java+class:///org/apache/mailet/GenericMatcher|> 
+<|java+class:///org/apache/james/transport/matchers/CommandForListserv|,|java+class:///org/apache/mailet/GenericRecipientMatcher|> 
+<|java+class:///org/apache/james/transport/matchers/CommandListservMatcher|,|java+class:///org/apache/mailet/GenericRecipientMatcher|> 
+<|java+class:///org/apache/james/transport/matchers/CompareNumericHeaderValue|,|java+class:///org/apache/mailet/GenericMatcher|> 
+<|java+class:///org/apache/james/transport/matchers/GenericRegexMatcher|,|java+class:///org/apache/mailet/GenericMatcher|> 
+<|java+class:///org/apache/james/transport/matchers/HostIs|,|java+class:///org/apache/mailet/GenericRecipientMatcher|> 
+<|java+class:///org/apache/james/transport/matchers/HostIsLocal|,|java+class:///org/apache/mailet/GenericRecipientMatcher|> 
+<|java+class:///org/apache/james/transport/matchers/InSpammerBlacklist|,|java+class:///org/apache/mailet/GenericMatcher|> 
+<|java+class:///org/apache/james/transport/matchers/RecipientIs|,|java+class:///org/apache/mailet/GenericRecipientMatcher|> 
+<|java+class:///org/apache/james/transport/matchers/RecipientIsLocal|,|java+class:///org/apache/mailet/GenericRecipientMatcher|> 
+<|java+class:///org/apache/james/transport/matchers/RecipientIsRegex|,|java+class:///org/apache/mailet/GenericRecipientMatcher|> 
+<|java+class:///org/apache/james/transport/matchers/RelayLimit|,|java+class:///org/apache/mailet/GenericMatcher|> 
+<|java+class:///org/apache/james/transport/matchers/SMTPAuthUserIs|,|java+class:///org/apache/mailet/GenericMatcher|> 
+<|java+class:///org/apache/james/transport/matchers/SenderHostIs|,|java+class:///org/apache/mailet/GenericMatcher|> 
+<|java+class:///org/apache/james/transport/matchers/SenderIs|,|java+class:///org/apache/mailet/GenericMatcher|> 
+<|java+class:///org/apache/james/transport/matchers/SenderIsRegex|,|java+class:///org/apache/mailet/GenericMatcher|> 
+<|java+class:///org/apache/james/transport/matchers/SizeGreaterThan|,|java+class:///org/apache/mailet/GenericMatcher|> 
+<|java+class:///org/apache/james/transport/matchers/UserIs|,|java+class:///org/apache/mailet/GenericRecipientMatcher|> 
+<|java+class:///org/apache/james/userrepository/AbstractJdbcUsersRepository|,|java+class:///org/apache/james/userrepository/AbstractUsersRepository|> 
+<|java+class:///org/apache/james/userrepository/DefaultUsersJdbcRepository|,|java+class:///org/apache/james/userrepository/AbstractJdbcUsersRepository|> 
+<|java+class:///org/apache/james/userrepository/JamesUsersJdbcRepository|,|java+class:///org/apache/james/userrepository/AbstractJdbcUsersRepository|> 
+<|java+class:///org/apache/james/userrepository/ListUsersJdbcRepository|,|java+class:///org/apache/james/userrepository/AbstractJdbcUsersRepository|> 
+<|java+class:///org/apache/james/util/mail/handlers/message_disposition_notification|,|java+class:///org/apache/james/util/mail/handlers/AbstractDataContentHandler|> 
+<|java+class:///org/apache/james/util/mail/handlers/multipart_report|,|java+class:///org/apache/james/util/mail/handlers/AbstractDataContentHandler|> 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 1 
+<|java+class:///org/apache/james/util/watchdog/SchedulerWatchdogFactory/SchedulerWatchdog|,|java+interface:///org/apache/james/util/watchdog/Watchdog|> 
+
+SUBTYPE TOTAL: 34 
+<|java+class:///org/apache/james/James|,|java+interface:///org/apache/james/services/MailServer|> 
+<|java+class:///org/apache/james/James|,|java+interface:///org/apache/mailet/MailetContext|> 
+<|java+class:///org/apache/james/core/AvalonUsersStore|,|java+interface:///org/apache/james/services/UsersStore|> 
+<|java+class:///org/apache/james/core/MailImpl|,|java+interface:///org/apache/mailet/Mail|> 
+<|java+class:///org/apache/james/core/MailetConfigImpl|,|java+interface:///org/apache/mailet/MailetConfig|> 
+<|java+class:///org/apache/james/core/MatcherConfigImpl|,|java+interface:///org/apache/mailet/MatcherConfig|> 
+<|java+class:///org/apache/james/mailrepository/AvalonMailRepository|,|java+interface:///org/apache/james/services/MailRepository|> 
+<|java+class:///org/apache/james/mailrepository/AvalonSpoolRepository|,|java+interface:///org/apache/james/services/SpoolRepository|> 
+<|java+class:///org/apache/james/mailrepository/JDBCMailRepository|,|java+interface:///org/apache/james/services/MailRepository|> 
+<|java+class:///org/apache/james/mailrepository/JDBCSpoolRepository|,|java+interface:///org/apache/james/services/SpoolRepository|> 
+<|java+class:///org/apache/james/mailrepository/MBoxMailRepository|,|java+interface:///org/apache/james/services/MailRepository|> 
+<|java+class:///org/apache/james/nntpserver/NNTPHandler/NNTPWatchdogTarget|,|java+interface:///org/apache/james/util/watchdog/WatchdogTarget|> 
+<|java+class:///org/apache/james/nntpserver/NNTPServer/NNTPHandlerConfigurationDataImpl|,|java+interface:///org/apache/james/nntpserver/NNTPHandlerConfigurationData|> 
+<|java+class:///org/apache/james/nntpserver/repository/NNTPArticleImpl|,|java+interface:///org/apache/james/nntpserver/repository/NNTPArticle|> 
+<|java+class:///org/apache/james/nntpserver/repository/NNTPGroupImpl|,|java+interface:///org/apache/james/nntpserver/repository/NNTPGroup|> 
+<|java+class:///org/apache/james/nntpserver/repository/NNTPRepositoryImpl|,|java+interface:///org/apache/james/nntpserver/repository/NNTPRepository|> 
+<|java+class:///org/apache/james/pop3server/POP3Handler/POP3WatchdogTarget|,|java+interface:///org/apache/james/util/watchdog/WatchdogTarget|> 
+<|java+class:///org/apache/james/pop3server/POP3Server/POP3HandlerConfigurationDataImpl|,|java+interface:///org/apache/james/pop3server/POP3HandlerConfigurationData|> 
+<|java+class:///org/apache/james/remotemanager/RemoteManager/RemoteManagerHandlerConfigurationDataImpl|,|java+interface:///org/apache/james/remotemanager/RemoteManagerHandlerConfigurationData|> 
+<|java+class:///org/apache/james/remotemanager/RemoteManagerHandler/RemoteManagerWatchdogTarget|,|java+interface:///org/apache/james/util/watchdog/WatchdogTarget|> 
+<|java+class:///org/apache/james/smtpserver/SMTPHandler/SMTPWatchdogTarget|,|java+interface:///org/apache/james/util/watchdog/WatchdogTarget|> 
+<|java+class:///org/apache/james/smtpserver/SMTPServer/SMTPHandlerConfigurationDataImpl|,|java+interface:///org/apache/james/smtpserver/SMTPHandlerConfigurationData|> 
+<|java+class:///org/apache/james/transport/mailets/CommandListservManager|,|java+interface:///org/apache/james/transport/mailets/ICommandListservManager|> 
+<|java+class:///org/apache/james/transport/mailets/RemoteDelivery/MultipleDelayFilter|,|java+interface:///org/apache/james/services/SpoolRepository/AcceptFilter|> 
+<|java+class:///org/apache/james/transport/mailets/listservcommands/BaseCommand|,|java+interface:///org/apache/james/transport/mailets/listservcommands/IListServCommand|> 
+<|java+class:///org/apache/james/userrepository/AbstractUsersRepository|,|java+interface:///org/apache/james/services/UsersRepository|> 
+<|java+class:///org/apache/james/userrepository/DefaultJamesUser|,|java+interface:///org/apache/james/services/JamesUser|> 
+<|java+class:///org/apache/james/userrepository/DefaultUser|,|java+interface:///org/apache/james/services/User|> 
+<|java+class:///org/apache/james/userrepository/UsersFileRepository|,|java+interface:///org/apache/james/services/UsersRepository|> 
+<|java+class:///org/apache/james/util/RFC977DateFormat|,|java+interface:///org/apache/james/util/SimplifiedDateFormat|> 
+<|java+class:///org/apache/james/util/SynchronizedDateFormat|,|java+interface:///org/apache/james/util/SimplifiedDateFormat|> 
+<|java+class:///org/apache/james/util/watchdog/InaccurateTimeoutWatchdog|,|java+interface:///org/apache/james/util/watchdog/Watchdog|> 
+<|java+class:///org/apache/james/util/watchdog/SchedulerWatchdogFactory/SchedulerWatchdog|,|java+interface:///org/apache/james/util/watchdog/Watchdog|> 
+<|java+class:///org/apache/james/util/watchdog/ThreadPerWatchdogFactory|,|java+interface:///org/apache/james/util/watchdog/WatchdogFactory|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 16 
+<|java+class:///org/apache/james/util/mail/mdn/ActionModeAutomatic|,|java+interface:///org/apache/james/util/mail/mdn/DispositionActionMode|> 
+<|java+class:///org/apache/james/util/mail/mdn/ActionModeManual|,|java+interface:///org/apache/james/util/mail/mdn/DispositionActionMode|> 
+<|java+class:///org/apache/james/util/mail/mdn/ModifierError|,|java+interface:///org/apache/james/util/mail/mdn/DispositionModifier|> 
+<|java+class:///org/apache/james/util/mail/mdn/ModifierExpired|,|java+interface:///org/apache/james/util/mail/mdn/DispositionModifier|> 
+<|java+class:///org/apache/james/util/mail/mdn/ModifierFailed|,|java+interface:///org/apache/james/util/mail/mdn/DispositionModifier|> 
+<|java+class:///org/apache/james/util/mail/mdn/ModifierMailboxTerminated|,|java+interface:///org/apache/james/util/mail/mdn/DispositionModifier|> 
+<|java+class:///org/apache/james/util/mail/mdn/ModifierSuperseded|,|java+interface:///org/apache/james/util/mail/mdn/DispositionModifier|> 
+<|java+class:///org/apache/james/util/mail/mdn/ModifierWarning|,|java+interface:///org/apache/james/util/mail/mdn/DispositionModifier|> 
+<|java+class:///org/apache/james/util/mail/mdn/SendingModeAutomatic|,|java+interface:///org/apache/james/util/mail/mdn/DispositionSendingMode|> 
+<|java+class:///org/apache/james/util/mail/mdn/SendingModeManual|,|java+interface:///org/apache/james/util/mail/mdn/DispositionSendingMode|> 
+<|java+class:///org/apache/james/util/mail/mdn/TypeDeleted|,|java+interface:///org/apache/james/util/mail/mdn/DispositionType|> 
+<|java+class:///org/apache/james/util/mail/mdn/TypeDenied|,|java+interface:///org/apache/james/util/mail/mdn/DispositionType|> 
+<|java+class:///org/apache/james/util/mail/mdn/TypeDispatched|,|java+interface:///org/apache/james/util/mail/mdn/DispositionType|> 
+<|java+class:///org/apache/james/util/mail/mdn/TypeDisplayed|,|java+interface:///org/apache/james/util/mail/mdn/DispositionType|> 
+<|java+class:///org/apache/james/util/mail/mdn/TypeFailed|,|java+interface:///org/apache/james/util/mail/mdn/DispositionType|> 
+<|java+class:///org/apache/james/util/mail/mdn/TypeProcessed|,|java+interface:///org/apache/james/util/mail/mdn/DispositionType|> 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 12 
+<|java+class:///org/apache/james/James|,|java+interface:///org/apache/james/services/MailServer|> 
+<|java+class:///org/apache/james/core/AvalonUsersStore|,|java+interface:///org/apache/james/services/UsersStore|> 
+<|java+class:///org/apache/james/mailrepository/AvalonMailRepository|,|java+interface:///org/apache/james/services/MailRepository|> 
+<|java+class:///org/apache/james/mailrepository/JDBCMailRepository|,|java+interface:///org/apache/james/services/MailRepository|> 
+<|java+class:///org/apache/james/mailrepository/MBoxMailRepository|,|java+interface:///org/apache/james/services/MailRepository|> 
+<|java+class:///org/apache/james/nntpserver/repository/NNTPGroupImpl|,|java+interface:///org/apache/james/nntpserver/repository/NNTPGroup|> 
+<|java+class:///org/apache/james/transport/mailets/CommandListservManager|,|java+interface:///org/apache/james/transport/mailets/ICommandListservManager|> 
+<|java+class:///org/apache/james/userrepository/DefaultUser|,|java+interface:///org/apache/james/services/User|> 
+<|java+class:///org/apache/james/userrepository/UsersFileRepository|,|java+interface:///org/apache/james/services/UsersRepository|> 
+<|java+class:///org/apache/james/userrepository/UsersLDAPRepository|,|java+interface:///org/apache/james/services/UsersRepository|> 
+<|java+class:///org/apache/mailet/GenericMailet|,|java+interface:///org/apache/mailet/Mailet|> 
+<|java+class:///org/apache/mailet/GenericMatcher|,|java+interface:///org/apache/mailet/Matcher|> 
+
+CATEGORY TOTAL: 5 
+<|java+class:///org/apache/james/mailrepository/JDBCSpoolRepository|,|java+interface:///org/apache/james/services/SpoolRepository|> 
+<|java+class:///org/apache/james/util/SynchronizedDateFormat|,|java+interface:///org/apache/james/util/SimplifiedDateFormat|> 
+<|java+class:///org/apache/james/util/watchdog/SchedulerWatchdogFactory|,|java+interface:///org/apache/james/util/watchdog/WatchdogFactory|> 
+<|java+class:///org/apache/mailet/GenericMailet|,|java+interface:///org/apache/mailet/MailetConfig|> 
+<|java+class:///org/apache/mailet/GenericMatcher|,|java+interface:///org/apache/mailet/MatcherConfig|> 
+
+FRAMEWORK TOTAL: 3 
+<|java+class:///org/apache/james/core/AvalonMailStore|,|java+interface:///org/apache/james/services/MailStore|> 
+<|java+class:///org/apache/james/core/MailImpl|,|java+interface:///org/apache/mailet/Mail|> 
+<|java+class:///org/apache/james/util/connection/SimpleConnectionManager|,|java+interface:///org/apache/james/services/JamesConnectionManager|> 
+
+DOWNCALL TOTAL: 0 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 2 
+<|java+interface:///org/apache/james/services/SpoolRepository|,|java+interface:///org/apache/james/services/MailRepository|> 
+<|java+interface:///org/apache/james/transport/mailets/ICommandListservManager|,|java+interface:///org/apache/mailet/Mailet|> 
+
+SUBTYPE TOTAL: 3 
+<|java+interface:///org/apache/james/services/JamesUser|,|java+interface:///org/apache/james/services/User|> 
+<|java+interface:///org/apache/james/services/SpoolRepository|,|java+interface:///org/apache/james/services/MailRepository|> 
+<|java+interface:///org/apache/james/transport/mailets/ICommandListservManager|,|java+interface:///org/apache/mailet/Mailet|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 0 
+
+DOWNCALL TOTAL: 0 
+
+
+
+

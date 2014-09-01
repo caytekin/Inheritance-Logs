@@ -1,0 +1,369 @@
+RESULTS LOG: 
+INTERNAL REUSE TOTAL: 52 
+<|java+class:///org/castor/xml/schema/writer/ComplexTypeTest|,|java+class:///org/castor/xml/schema/writer/AbstractSchemaTest|> 
+<|java+class:///org/castor/xml/schema/writer/GroupTest|,|java+class:///org/castor/xml/schema/writer/AbstractSchemaTest|> 
+<|java+class:///org/castor/xml/schema/writer/NamespaceTest|,|java+class:///org/castor/xml/schema/writer/AbstractSchemaTest|> 
+<|java+class:///org/castor/xml/schema/writer/SimpleTypeTest|,|java+class:///org/castor/xml/schema/writer/AbstractSchemaTest|> 
+<|java+class:///org/exolab/castor/xml/schema/Annotation|,|java+class:///org/exolab/castor/xml/schema/Structure|> 
+<|java+class:///org/exolab/castor/xml/schema/AnyType|,|java+class:///org/exolab/castor/xml/schema/XMLType|> 
+<|java+class:///org/exolab/castor/xml/schema/AttributeGroupDecl|,|java+class:///org/exolab/castor/xml/schema/AttributeGroup|> 
+<|java+class:///org/exolab/castor/xml/schema/AttributeGroupReference|,|java+class:///org/exolab/castor/xml/schema/AttributeGroup|> 
+<|java+class:///org/exolab/castor/xml/schema/ComplexType|,|java+class:///org/exolab/castor/xml/schema/XMLType|> 
+<|java+class:///org/exolab/castor/xml/schema/DeferredSimpleType|,|java+class:///org/exolab/castor/xml/schema/SimpleType|> 
+<|java+class:///org/exolab/castor/xml/schema/ElementDecl|,|java+class:///org/exolab/castor/xml/schema/Particle|> 
+<|java+class:///org/exolab/castor/xml/schema/Group|,|java+class:///org/exolab/castor/xml/schema/Particle|> 
+<|java+class:///org/exolab/castor/xml/schema/ModelGroup|,|java+class:///org/exolab/castor/xml/schema/Group|> 
+<|java+class:///org/exolab/castor/xml/schema/SimpleContent|,|java+class:///org/exolab/castor/xml/schema/ContentType|> 
+<|java+class:///org/exolab/castor/xml/schema/SimpleType|,|java+class:///org/exolab/castor/xml/schema/XMLType|> 
+<|java+class:///org/exolab/castor/xml/schema/TypeReference|,|java+class:///org/exolab/castor/xml/schema/XMLType|> 
+<|java+class:///org/exolab/castor/xml/schema/UnknownDef|,|java+class:///org/exolab/castor/xml/schema/Structure|> 
+<|java+class:///org/exolab/castor/xml/schema/Wildcard|,|java+class:///org/exolab/castor/xml/schema/Particle|> 
+<|java+class:///org/exolab/castor/xml/schema/annotations/jdo/descriptors/ColumnDescriptor|,|java+class:///org/exolab/castor/xml/schema/annotations/jdo/descriptors/ReadonlyDirtyTypeDescriptor|> 
+<|java+class:///org/exolab/castor/xml/schema/annotations/jdo/descriptors/OneToManyDescriptor|,|java+class:///org/exolab/castor/xml/schema/annotations/jdo/descriptors/ReadonlyDirtyTypeDescriptor|> 
+<|java+class:///org/exolab/castor/xml/schema/annotations/jdo/descriptors/OneToOneDescriptor|,|java+class:///org/exolab/castor/xml/schema/annotations/jdo/descriptors/ReadonlyDirtyTypeDescriptor|> 
+<|java+class:///org/exolab/castor/xml/schema/annotations/jdo/descriptors/PrimaryKeyDescriptor|,|java+class:///org/exolab/castor/xml/schema/annotations/jdo/descriptors/PkTypeDescriptor|> 
+<|java+class:///org/exolab/castor/xml/schema/facets/MaxExclusive|,|java+class:///org/exolab/castor/xml/schema/Facet|> 
+<|java+class:///org/exolab/castor/xml/schema/facets/MaxInclusive|,|java+class:///org/exolab/castor/xml/schema/Facet|> 
+<|java+class:///org/exolab/castor/xml/schema/facets/MinExclusive|,|java+class:///org/exolab/castor/xml/schema/Facet|> 
+<|java+class:///org/exolab/castor/xml/schema/facets/MinInclusive|,|java+class:///org/exolab/castor/xml/schema/Facet|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/AnnotationUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/AttributeGroupUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/AttributeUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/ComplexContentRestrictionUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/ComplexContentUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/ComplexTypeUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/ElementUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/ExtensionUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/FacetUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/FieldOrSelectorUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/GroupUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/IdentityConstraintUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/ImportUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/IncludeUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/ModelGroupUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/RedefineUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/SchemaUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/SimpleContentRestrictionUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/SimpleContentUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/SimpleTypeListUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/SimpleTypeRestrictionUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/SimpleTypeUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/UnionUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/WildcardUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/simpletypes/AtomicType|,|java+class:///org/exolab/castor/xml/schema/SimpleType|> 
+<|java+class:///org/exolab/castor/xml/schema/simpletypes/ListType|,|java+class:///org/exolab/castor/xml/schema/SimpleType|> 
+
+EXTERNAL REUSE TOTAL: 26 
+<|java+class:///org/exolab/castor/xml/schema/Annotated|,|java+class:///org/exolab/castor/xml/schema/Structure|> 
+<|java+class:///org/exolab/castor/xml/schema/AppInfo|,|java+class:///org/exolab/castor/xml/schema/AnnotationItem|> 
+<|java+class:///org/exolab/castor/xml/schema/AttributeDecl|,|java+class:///org/exolab/castor/xml/schema/Annotated|> 
+<|java+class:///org/exolab/castor/xml/schema/AttributeGroup|,|java+class:///org/exolab/castor/xml/schema/Annotated|> 
+<|java+class:///org/exolab/castor/xml/schema/AttributeGroupDecl|,|java+class:///org/exolab/castor/xml/schema/AttributeGroup|> 
+<|java+class:///org/exolab/castor/xml/schema/ComplexType|,|java+class:///org/exolab/castor/xml/schema/XMLType|> 
+<|java+class:///org/exolab/castor/xml/schema/DeferredSimpleType|,|java+class:///org/exolab/castor/xml/schema/SimpleType|> 
+<|java+class:///org/exolab/castor/xml/schema/Documentation|,|java+class:///org/exolab/castor/xml/schema/AnnotationItem|> 
+<|java+class:///org/exolab/castor/xml/schema/ElementDecl|,|java+class:///org/exolab/castor/xml/schema/Particle|> 
+<|java+class:///org/exolab/castor/xml/schema/Facet|,|java+class:///org/exolab/castor/xml/schema/Annotated|> 
+<|java+class:///org/exolab/castor/xml/schema/Group|,|java+class:///org/exolab/castor/xml/schema/Particle|> 
+<|java+class:///org/exolab/castor/xml/schema/IdentityConstraint|,|java+class:///org/exolab/castor/xml/schema/Annotated|> 
+<|java+class:///org/exolab/castor/xml/schema/ModelGroup|,|java+class:///org/exolab/castor/xml/schema/Group|> 
+<|java+class:///org/exolab/castor/xml/schema/Particle|,|java+class:///org/exolab/castor/xml/schema/Annotated|> 
+<|java+class:///org/exolab/castor/xml/schema/RedefineSchema|,|java+class:///org/exolab/castor/xml/schema/Annotated|> 
+<|java+class:///org/exolab/castor/xml/schema/Schema|,|java+class:///org/exolab/castor/xml/schema/Annotated|> 
+<|java+class:///org/exolab/castor/xml/schema/SimpleType|,|java+class:///org/exolab/castor/xml/schema/XMLType|> 
+<|java+class:///org/exolab/castor/xml/schema/TypeReference|,|java+class:///org/exolab/castor/xml/schema/XMLType|> 
+<|java+class:///org/exolab/castor/xml/schema/Union|,|java+class:///org/exolab/castor/xml/schema/SimpleType|> 
+<|java+class:///org/exolab/castor/xml/schema/Wildcard|,|java+class:///org/exolab/castor/xml/schema/Particle|> 
+<|java+class:///org/exolab/castor/xml/schema/XMLType|,|java+class:///org/exolab/castor/xml/schema/Annotated|> 
+<|java+class:///org/exolab/castor/xml/schema/annotations/jdo/OneToMany|,|java+class:///org/exolab/castor/xml/schema/annotations/jdo/ReadonlyDirtyType|> 
+<|java+class:///org/exolab/castor/xml/schema/annotations/jdo/OneToOne|,|java+class:///org/exolab/castor/xml/schema/annotations/jdo/ReadonlyDirtyType|> 
+<|java+class:///org/exolab/castor/xml/schema/annotations/jdo/PrimaryKey|,|java+class:///org/exolab/castor/xml/schema/annotations/jdo/PkType|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/SchemaUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/simpletypes/ListType|,|java+class:///org/exolab/castor/xml/schema/SimpleType|> 
+
+SUBTYPE TOTAL: 75 
+<|java+class:///org/exolab/castor/xml/schema/Annotated|,|java+class:///org/exolab/castor/xml/schema/Structure|> 
+<|java+class:///org/exolab/castor/xml/schema/Annotation|,|java+class:///org/exolab/castor/xml/schema/Structure|> 
+<|java+class:///org/exolab/castor/xml/schema/AnnotationItem|,|java+class:///org/exolab/castor/xml/schema/Structure|> 
+<|java+class:///org/exolab/castor/xml/schema/AnyType|,|java+class:///org/exolab/castor/xml/schema/XMLType|> 
+<|java+class:///org/exolab/castor/xml/schema/AppInfo|,|java+class:///org/exolab/castor/xml/schema/AnnotationItem|> 
+<|java+class:///org/exolab/castor/xml/schema/AttributeDecl|,|java+class:///org/exolab/castor/xml/schema/Annotated|> 
+<|java+class:///org/exolab/castor/xml/schema/AttributeGroup|,|java+class:///org/exolab/castor/xml/schema/Annotated|> 
+<|java+class:///org/exolab/castor/xml/schema/AttributeGroupDecl|,|java+class:///org/exolab/castor/xml/schema/AttributeGroup|> 
+<|java+class:///org/exolab/castor/xml/schema/AttributeGroupReference|,|java+class:///org/exolab/castor/xml/schema/AttributeGroup|> 
+<|java+class:///org/exolab/castor/xml/schema/ComplexType|,|java+class:///org/exolab/castor/xml/schema/XMLType|> 
+<|java+class:///org/exolab/castor/xml/schema/DeferredSimpleType|,|java+class:///org/exolab/castor/xml/schema/SimpleType|> 
+<|java+class:///org/exolab/castor/xml/schema/Documentation|,|java+class:///org/exolab/castor/xml/schema/AnnotationItem|> 
+<|java+class:///org/exolab/castor/xml/schema/ElementDecl|,|java+class:///org/exolab/castor/xml/schema/Particle|> 
+<|java+class:///org/exolab/castor/xml/schema/Facet|,|java+class:///org/exolab/castor/xml/schema/Annotated|> 
+<|java+class:///org/exolab/castor/xml/schema/Group|,|java+class:///org/exolab/castor/xml/schema/Particle|> 
+<|java+class:///org/exolab/castor/xml/schema/IdentityConstraint|,|java+class:///org/exolab/castor/xml/schema/Annotated|> 
+<|java+class:///org/exolab/castor/xml/schema/IdentityField|,|java+class:///org/exolab/castor/xml/schema/Annotated|> 
+<|java+class:///org/exolab/castor/xml/schema/IdentitySelector|,|java+class:///org/exolab/castor/xml/schema/Annotated|> 
+<|java+class:///org/exolab/castor/xml/schema/Key|,|java+class:///org/exolab/castor/xml/schema/IdentityConstraint|> 
+<|java+class:///org/exolab/castor/xml/schema/KeyRef|,|java+class:///org/exolab/castor/xml/schema/IdentityConstraint|> 
+<|java+class:///org/exolab/castor/xml/schema/ModelGroup|,|java+class:///org/exolab/castor/xml/schema/Group|> 
+<|java+class:///org/exolab/castor/xml/schema/Particle|,|java+class:///org/exolab/castor/xml/schema/Annotated|> 
+<|java+class:///org/exolab/castor/xml/schema/RedefineSchema|,|java+class:///org/exolab/castor/xml/schema/Annotated|> 
+<|java+class:///org/exolab/castor/xml/schema/Schema|,|java+class:///org/exolab/castor/xml/schema/Annotated|> 
+<|java+class:///org/exolab/castor/xml/schema/SimpleContent|,|java+class:///org/exolab/castor/xml/schema/ContentType|> 
+<|java+class:///org/exolab/castor/xml/schema/SimpleType|,|java+class:///org/exolab/castor/xml/schema/XMLType|> 
+<|java+class:///org/exolab/castor/xml/schema/SimpleTypeReference|,|java+class:///org/exolab/castor/xml/schema/SimpleType|> 
+<|java+class:///org/exolab/castor/xml/schema/TypeReference|,|java+class:///org/exolab/castor/xml/schema/XMLType|> 
+<|java+class:///org/exolab/castor/xml/schema/Union|,|java+class:///org/exolab/castor/xml/schema/SimpleType|> 
+<|java+class:///org/exolab/castor/xml/schema/Unique|,|java+class:///org/exolab/castor/xml/schema/IdentityConstraint|> 
+<|java+class:///org/exolab/castor/xml/schema/Wildcard|,|java+class:///org/exolab/castor/xml/schema/Particle|> 
+<|java+class:///org/exolab/castor/xml/schema/XMLType|,|java+class:///org/exolab/castor/xml/schema/Annotated|> 
+<|java+class:///org/exolab/castor/xml/schema/annotations/jdo/Column|,|java+class:///org/exolab/castor/xml/schema/annotations/jdo/ReadonlyDirtyType|> 
+<|java+class:///org/exolab/castor/xml/schema/annotations/jdo/OneToMany|,|java+class:///org/exolab/castor/xml/schema/annotations/jdo/ReadonlyDirtyType|> 
+<|java+class:///org/exolab/castor/xml/schema/annotations/jdo/OneToOne|,|java+class:///org/exolab/castor/xml/schema/annotations/jdo/ReadonlyDirtyType|> 
+<|java+class:///org/exolab/castor/xml/schema/annotations/jdo/PrimaryKey|,|java+class:///org/exolab/castor/xml/schema/annotations/jdo/PkType|> 
+<|java+class:///org/exolab/castor/xml/schema/annotations/jdo/descriptors/ColumnDescriptor|,|java+class:///org/exolab/castor/xml/schema/annotations/jdo/descriptors/ReadonlyDirtyTypeDescriptor|> 
+<|java+class:///org/exolab/castor/xml/schema/annotations/jdo/descriptors/OneToManyDescriptor|,|java+class:///org/exolab/castor/xml/schema/annotations/jdo/descriptors/ReadonlyDirtyTypeDescriptor|> 
+<|java+class:///org/exolab/castor/xml/schema/annotations/jdo/descriptors/OneToOneDescriptor|,|java+class:///org/exolab/castor/xml/schema/annotations/jdo/descriptors/ReadonlyDirtyTypeDescriptor|> 
+<|java+class:///org/exolab/castor/xml/schema/annotations/jdo/descriptors/PrimaryKeyDescriptor|,|java+class:///org/exolab/castor/xml/schema/annotations/jdo/descriptors/PkTypeDescriptor|> 
+<|java+class:///org/exolab/castor/xml/schema/facets/MaxExclusive|,|java+class:///org/exolab/castor/xml/schema/Facet|> 
+<|java+class:///org/exolab/castor/xml/schema/facets/MaxInclusive|,|java+class:///org/exolab/castor/xml/schema/Facet|> 
+<|java+class:///org/exolab/castor/xml/schema/facets/MinExclusive|,|java+class:///org/exolab/castor/xml/schema/Facet|> 
+<|java+class:///org/exolab/castor/xml/schema/facets/MinInclusive|,|java+class:///org/exolab/castor/xml/schema/Facet|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/AnnotationUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/AppInfoUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/AttributeGroupUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/AttributeUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/ComplexContentRestrictionUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/ComplexContentUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/ComplexTypeUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/DocumentationUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/ElementUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/ExtensionUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/FacetUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/FieldOrSelectorUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/GroupUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/IdentityConstraintUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/ImportUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/IncludeUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/ModelGroupUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/RedefineUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/SchemaUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/SimpleContentRestrictionUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/SimpleContentUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/SimpleTypeListUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/SimpleTypeRestrictionUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/SimpleTypeUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/UnionUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/UnknownUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/WildcardUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/simpletypes/AtomicType|,|java+class:///org/exolab/castor/xml/schema/SimpleType|> 
+<|java+class:///org/exolab/castor/xml/schema/simpletypes/ListType|,|java+class:///org/exolab/castor/xml/schema/SimpleType|> 
+<|java+class:///org/exolab/castor/xml/schema/simpletypes/RealType|,|java+class:///org/exolab/castor/xml/schema/simpletypes/AtomicType|> 
+<|java+class:///org/exolab/castor/xml/schema/simpletypes/UrType|,|java+class:///org/exolab/castor/xml/schema/SimpleType|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 65 
+<|java+class:///org/castor/xml/schema/writer/ComplexTypeTest|,|java+class:///org/castor/xml/schema/writer/AbstractSchemaTest|> 
+<|java+class:///org/castor/xml/schema/writer/GroupTest|,|java+class:///org/castor/xml/schema/writer/AbstractSchemaTest|> 
+<|java+class:///org/castor/xml/schema/writer/NamespaceTest|,|java+class:///org/castor/xml/schema/writer/AbstractSchemaTest|> 
+<|java+class:///org/castor/xml/schema/writer/SimpleTypeTest|,|java+class:///org/castor/xml/schema/writer/AbstractSchemaTest|> 
+<|java+class:///org/exolab/castor/xml/schema/AnyType|,|java+class:///org/exolab/castor/xml/schema/XMLType|> 
+<|java+class:///org/exolab/castor/xml/schema/AppInfo|,|java+class:///org/exolab/castor/xml/schema/AnnotationItem|> 
+<|java+class:///org/exolab/castor/xml/schema/ComplexType|,|java+class:///org/exolab/castor/xml/schema/XMLType|> 
+<|java+class:///org/exolab/castor/xml/schema/DeferredSimpleType|,|java+class:///org/exolab/castor/xml/schema/SimpleType|> 
+<|java+class:///org/exolab/castor/xml/schema/Documentation|,|java+class:///org/exolab/castor/xml/schema/AnnotationItem|> 
+<|java+class:///org/exolab/castor/xml/schema/ElementDecl|,|java+class:///org/exolab/castor/xml/schema/Particle|> 
+<|java+class:///org/exolab/castor/xml/schema/Group|,|java+class:///org/exolab/castor/xml/schema/Particle|> 
+<|java+class:///org/exolab/castor/xml/schema/Key|,|java+class:///org/exolab/castor/xml/schema/IdentityConstraint|> 
+<|java+class:///org/exolab/castor/xml/schema/KeyRef|,|java+class:///org/exolab/castor/xml/schema/IdentityConstraint|> 
+<|java+class:///org/exolab/castor/xml/schema/ModelGroup|,|java+class:///org/exolab/castor/xml/schema/Group|> 
+<|java+class:///org/exolab/castor/xml/schema/Particle|,|java+class:///org/exolab/castor/xml/schema/Annotated|> 
+<|java+class:///org/exolab/castor/xml/schema/RedefineSchema|,|java+class:///org/exolab/castor/xml/schema/Annotated|> 
+<|java+class:///org/exolab/castor/xml/schema/Schema|,|java+class:///org/exolab/castor/xml/schema/Annotated|> 
+<|java+class:///org/exolab/castor/xml/schema/SimpleContent|,|java+class:///org/exolab/castor/xml/schema/ContentType|> 
+<|java+class:///org/exolab/castor/xml/schema/SimpleType|,|java+class:///org/exolab/castor/xml/schema/XMLType|> 
+<|java+class:///org/exolab/castor/xml/schema/Union|,|java+class:///org/exolab/castor/xml/schema/SimpleType|> 
+<|java+class:///org/exolab/castor/xml/schema/Unique|,|java+class:///org/exolab/castor/xml/schema/IdentityConstraint|> 
+<|java+class:///org/exolab/castor/xml/schema/UnknownDef|,|java+class:///org/exolab/castor/xml/schema/Structure|> 
+<|java+class:///org/exolab/castor/xml/schema/XMLType|,|java+class:///org/exolab/castor/xml/schema/Annotated|> 
+<|java+class:///org/exolab/castor/xml/schema/annotations/jdo/Column|,|java+class:///org/exolab/castor/xml/schema/annotations/jdo/ReadonlyDirtyType|> 
+<|java+class:///org/exolab/castor/xml/schema/annotations/jdo/OneToMany|,|java+class:///org/exolab/castor/xml/schema/annotations/jdo/ReadonlyDirtyType|> 
+<|java+class:///org/exolab/castor/xml/schema/annotations/jdo/OneToOne|,|java+class:///org/exolab/castor/xml/schema/annotations/jdo/ReadonlyDirtyType|> 
+<|java+class:///org/exolab/castor/xml/schema/annotations/jdo/PrimaryKey|,|java+class:///org/exolab/castor/xml/schema/annotations/jdo/PkType|> 
+<|java+class:///org/exolab/castor/xml/schema/annotations/jdo/descriptors/ColumnDescriptor|,|java+class:///org/exolab/castor/xml/schema/annotations/jdo/descriptors/ReadonlyDirtyTypeDescriptor|> 
+<|java+class:///org/exolab/castor/xml/schema/annotations/jdo/descriptors/OneToManyDescriptor|,|java+class:///org/exolab/castor/xml/schema/annotations/jdo/descriptors/ReadonlyDirtyTypeDescriptor|> 
+<|java+class:///org/exolab/castor/xml/schema/annotations/jdo/descriptors/OneToOneDescriptor|,|java+class:///org/exolab/castor/xml/schema/annotations/jdo/descriptors/ReadonlyDirtyTypeDescriptor|> 
+<|java+class:///org/exolab/castor/xml/schema/annotations/jdo/descriptors/PrimaryKeyDescriptor|,|java+class:///org/exolab/castor/xml/schema/annotations/jdo/descriptors/PkTypeDescriptor|> 
+<|java+class:///org/exolab/castor/xml/schema/facets/MaxExclusive|,|java+class:///org/exolab/castor/xml/schema/Facet|> 
+<|java+class:///org/exolab/castor/xml/schema/facets/MaxInclusive|,|java+class:///org/exolab/castor/xml/schema/Facet|> 
+<|java+class:///org/exolab/castor/xml/schema/facets/MinExclusive|,|java+class:///org/exolab/castor/xml/schema/Facet|> 
+<|java+class:///org/exolab/castor/xml/schema/facets/MinInclusive|,|java+class:///org/exolab/castor/xml/schema/Facet|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/AnnotationUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/AppInfoUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/AttributeGroupUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/AttributeUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/CharacterUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/ComplexContentRestrictionUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/ComplexContentUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/ComplexTypeUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/DocumentationUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/ElementUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/ExtensionUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/FacetUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/FieldOrSelectorUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/GroupUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/IdentityConstraintUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/ImportUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/IncludeUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/ModelGroupUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/RedefineUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/SchemaUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/SimpleContentRestrictionUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/SimpleContentUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/SimpleTypeListUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/SimpleTypeRestrictionUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/SimpleTypeUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/UnionUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/UnknownUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/WildcardUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/simpletypes/ListType|,|java+class:///org/exolab/castor/xml/schema/SimpleType|> 
+<|java+class:///org/exolab/castor/xml/schema/simpletypes/UrType|,|java+class:///org/exolab/castor/xml/schema/SimpleType|> 
+
+GENERIC TOTAL: 5 
+<|java+class:///org/exolab/castor/xml/schema/ElementDecl|,|java+class:///org/exolab/castor/xml/schema/Particle|> 
+<|java+class:///org/exolab/castor/xml/schema/Group|,|java+class:///org/exolab/castor/xml/schema/Particle|> 
+<|java+class:///org/exolab/castor/xml/schema/annotations/jdo/Column|,|java+class:///org/exolab/castor/xml/schema/annotations/jdo/ReadonlyDirtyType|> 
+<|java+class:///org/exolab/castor/xml/schema/annotations/jdo/OneToMany|,|java+class:///org/exolab/castor/xml/schema/annotations/jdo/ReadonlyDirtyType|> 
+<|java+class:///org/exolab/castor/xml/schema/annotations/jdo/PrimaryKey|,|java+class:///org/exolab/castor/xml/schema/annotations/jdo/PkType|> 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 17 
+<|java+class:///org/castor/xml/schema/writer/ComplexTypeTest|,|java+class:///org/castor/xml/schema/writer/AbstractSchemaTest|> 
+<|java+class:///org/castor/xml/schema/writer/GroupTest|,|java+class:///org/castor/xml/schema/writer/AbstractSchemaTest|> 
+<|java+class:///org/castor/xml/schema/writer/NamespaceTest|,|java+class:///org/castor/xml/schema/writer/AbstractSchemaTest|> 
+<|java+class:///org/castor/xml/schema/writer/SimpleTypeTest|,|java+class:///org/castor/xml/schema/writer/AbstractSchemaTest|> 
+<|java+class:///org/exolab/castor/xml/schema/Annotated|,|java+class:///org/exolab/castor/xml/schema/Structure|> 
+<|java+class:///org/exolab/castor/xml/schema/Annotation|,|java+class:///org/exolab/castor/xml/schema/Structure|> 
+<|java+class:///org/exolab/castor/xml/schema/AnnotationItem|,|java+class:///org/exolab/castor/xml/schema/Structure|> 
+<|java+class:///org/exolab/castor/xml/schema/SimpleContent|,|java+class:///org/exolab/castor/xml/schema/ContentType|> 
+<|java+class:///org/exolab/castor/xml/schema/UnknownDef|,|java+class:///org/exolab/castor/xml/schema/Structure|> 
+<|java+class:///org/exolab/castor/xml/schema/annotations/jdo/Column|,|java+class:///org/exolab/castor/xml/schema/annotations/jdo/ReadonlyDirtyType|> 
+<|java+class:///org/exolab/castor/xml/schema/annotations/jdo/OneToMany|,|java+class:///org/exolab/castor/xml/schema/annotations/jdo/ReadonlyDirtyType|> 
+<|java+class:///org/exolab/castor/xml/schema/annotations/jdo/OneToOne|,|java+class:///org/exolab/castor/xml/schema/annotations/jdo/ReadonlyDirtyType|> 
+<|java+class:///org/exolab/castor/xml/schema/annotations/jdo/PrimaryKey|,|java+class:///org/exolab/castor/xml/schema/annotations/jdo/PkType|> 
+<|java+class:///org/exolab/castor/xml/schema/annotations/jdo/descriptors/ColumnDescriptor|,|java+class:///org/exolab/castor/xml/schema/annotations/jdo/descriptors/ReadonlyDirtyTypeDescriptor|> 
+<|java+class:///org/exolab/castor/xml/schema/annotations/jdo/descriptors/OneToManyDescriptor|,|java+class:///org/exolab/castor/xml/schema/annotations/jdo/descriptors/ReadonlyDirtyTypeDescriptor|> 
+<|java+class:///org/exolab/castor/xml/schema/annotations/jdo/descriptors/OneToOneDescriptor|,|java+class:///org/exolab/castor/xml/schema/annotations/jdo/descriptors/ReadonlyDirtyTypeDescriptor|> 
+<|java+class:///org/exolab/castor/xml/schema/annotations/jdo/descriptors/PrimaryKeyDescriptor|,|java+class:///org/exolab/castor/xml/schema/annotations/jdo/descriptors/PkTypeDescriptor|> 
+
+DOWNCALL TOTAL: 32 
+<|java+class:///org/exolab/castor/xml/schema/Annotation|,|java+class:///org/exolab/castor/xml/schema/Structure|> 
+<|java+class:///org/exolab/castor/xml/schema/AnnotationItem|,|java+class:///org/exolab/castor/xml/schema/Structure|> 
+<|java+class:///org/exolab/castor/xml/schema/ModelGroup|,|java+class:///org/exolab/castor/xml/schema/Group|> 
+<|java+class:///org/exolab/castor/xml/schema/UnknownDef|,|java+class:///org/exolab/castor/xml/schema/Structure|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/AnnotationUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/AppInfoUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/AttributeGroupUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/AttributeUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/CharacterUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/ComplexContentRestrictionUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/ComplexContentUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/ComplexTypeUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/DocumentationUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/ElementUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/ExtensionUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/FacetUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/FieldOrSelectorUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/GroupUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/IdentityConstraintUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/ImportUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/IncludeUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/ModelGroupUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/RedefineUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/SchemaUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/SimpleContentRestrictionUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/SimpleContentUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/SimpleTypeListUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/SimpleTypeRestrictionUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/SimpleTypeUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/UnionUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/UnknownUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+<|java+class:///org/exolab/castor/xml/schema/reader/WildcardUnmarshaller|,|java+class:///org/exolab/castor/xml/schema/reader/ComponentReader|> 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 0 
+
+SUBTYPE TOTAL: 10 
+<|java+class:///org/exolab/castor/xml/dtd/parser/InputCharStream|,|java+interface:///org/exolab/castor/xml/dtd/parser/CharStream|> 
+<|java+class:///org/exolab/castor/xml/schema/ComplexType|,|java+interface:///org/exolab/castor/xml/schema/ContentModelGroup|> 
+<|java+class:///org/exolab/castor/xml/schema/ComplexType|,|java+interface:///org/exolab/castor/xml/schema/Referable|> 
+<|java+class:///org/exolab/castor/xml/schema/ContentModelGroupImpl|,|java+interface:///org/exolab/castor/xml/schema/ContentModelGroup|> 
+<|java+class:///org/exolab/castor/xml/schema/ElementDecl|,|java+interface:///org/exolab/castor/xml/schema/Referable|> 
+<|java+class:///org/exolab/castor/xml/schema/Group|,|java+interface:///org/exolab/castor/xml/schema/ContentModelGroup|> 
+<|java+class:///org/exolab/castor/xml/schema/Group|,|java+interface:///org/exolab/castor/xml/schema/Referable|> 
+<|java+class:///org/exolab/castor/xml/schema/SchemaContextImpl|,|java+interface:///org/exolab/castor/xml/schema/SchemaContext|> 
+<|java+class:///org/exolab/castor/xml/schema/ScopableResolver|,|java+interface:///org/exolab/castor/xml/schema/Resolver|> 
+<|java+class:///org/exolab/castor/xml/schema/SimpleType|,|java+interface:///org/exolab/castor/xml/schema/Referable|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 4 
+<|java+class:///org/exolab/castor/xml/dtd/parser/DTDInitialParser|,|java+interface:///org/exolab/castor/xml/dtd/parser/DTDInitialParserConstants|> 
+<|java+class:///org/exolab/castor/xml/dtd/parser/DTDInitialParserTokenManager|,|java+interface:///org/exolab/castor/xml/dtd/parser/DTDInitialParserConstants|> 
+<|java+class:///org/exolab/castor/xml/dtd/parser/DTDParser|,|java+interface:///org/exolab/castor/xml/dtd/parser/DTDParserConstants|> 
+<|java+class:///org/exolab/castor/xml/dtd/parser/DTDParserTokenManager|,|java+interface:///org/exolab/castor/xml/dtd/parser/DTDParserConstants|> 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 1 
+<|java+class:///org/exolab/castor/xml/schema/SimpleType|,|java+interface:///org/exolab/castor/xml/schema/Referable|> 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 0 
+
+DOWNCALL TOTAL: 0 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 0 
+
+SUBTYPE TOTAL: 0 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 0 
+
+DOWNCALL TOTAL: 0 
+
+
+
+

@@ -1,0 +1,203 @@
+RESULTS LOG: 
+INTERNAL REUSE TOTAL: 16 
+<|java+class:///com/opensymphony/oscache/base/algorithm/AbstractConcurrentReadCache/KeyIterator|,|java+class:///com/opensymphony/oscache/base/algorithm/AbstractConcurrentReadCache/HashIterator|> 
+<|java+class:///com/opensymphony/oscache/base/algorithm/AbstractConcurrentReadCache/ValueIterator|,|java+class:///com/opensymphony/oscache/base/algorithm/AbstractConcurrentReadCache/HashIterator|> 
+<|java+class:///com/opensymphony/oscache/base/algorithm/FIFOCache|,|java+class:///com/opensymphony/oscache/base/algorithm/AbstractConcurrentReadCache|> 
+<|java+class:///com/opensymphony/oscache/base/algorithm/LRUCache|,|java+class:///com/opensymphony/oscache/base/algorithm/AbstractConcurrentReadCache|> 
+<|java+class:///com/opensymphony/oscache/base/algorithm/TestFIFOCache|,|java+class:///com/opensymphony/oscache/base/algorithm/TestQueueCache|> 
+<|java+class:///com/opensymphony/oscache/base/algorithm/TestLRUCache|,|java+class:///com/opensymphony/oscache/base/algorithm/TestQueueCache|> 
+<|java+class:///com/opensymphony/oscache/base/algorithm/TestQueueCache|,|java+class:///com/opensymphony/oscache/base/algorithm/TestAbstractCache|> 
+<|java+class:///com/opensymphony/oscache/base/algorithm/TestUnlimitedCache|,|java+class:///com/opensymphony/oscache/base/algorithm/TestQueueCache|> 
+<|java+class:///com/opensymphony/oscache/base/algorithm/UnlimitedCache|,|java+class:///com/opensymphony/oscache/base/algorithm/AbstractConcurrentReadCache|> 
+<|java+class:///com/opensymphony/oscache/general/GeneralCacheAdministrator|,|java+class:///com/opensymphony/oscache/base/AbstractCacheAdministrator|> 
+<|java+class:///com/opensymphony/oscache/plugins/clustersupport/JMS10BroadcastingListener|,|java+class:///com/opensymphony/oscache/plugins/clustersupport/AbstractBroadcastingListener|> 
+<|java+class:///com/opensymphony/oscache/plugins/clustersupport/JMSBroadcastingListener|,|java+class:///com/opensymphony/oscache/plugins/clustersupport/AbstractBroadcastingListener|> 
+<|java+class:///com/opensymphony/oscache/plugins/clustersupport/JavaGroupsBroadcastingListener|,|java+class:///com/opensymphony/oscache/plugins/clustersupport/AbstractBroadcastingListener|> 
+<|java+class:///com/opensymphony/oscache/plugins/diskpersistence/HashDiskPersistenceListener|,|java+class:///com/opensymphony/oscache/plugins/diskpersistence/AbstractDiskPersistenceListener|> 
+<|java+class:///com/opensymphony/oscache/web/ServletCache|,|java+class:///com/opensymphony/oscache/base/Cache|> 
+<|java+class:///com/opensymphony/oscache/web/ServletCacheAdministrator|,|java+class:///com/opensymphony/oscache/base/AbstractCacheAdministrator|> 
+
+EXTERNAL REUSE TOTAL: 9 
+<|java+class:///com/opensymphony/oscache/base/events/CacheEntryEvent|,|java+class:///com/opensymphony/oscache/base/events/CacheEvent|> 
+<|java+class:///com/opensymphony/oscache/base/events/CacheGroupEvent|,|java+class:///com/opensymphony/oscache/base/events/CacheEvent|> 
+<|java+class:///com/opensymphony/oscache/base/events/CachePatternEvent|,|java+class:///com/opensymphony/oscache/base/events/CacheEvent|> 
+<|java+class:///com/opensymphony/oscache/base/events/CachewideEvent|,|java+class:///com/opensymphony/oscache/base/events/CacheEvent|> 
+<|java+class:///com/opensymphony/oscache/general/GeneralCacheAdministrator|,|java+class:///com/opensymphony/oscache/base/AbstractCacheAdministrator|> 
+<|java+class:///com/opensymphony/oscache/plugins/diskpersistence/DiskPersistenceListener|,|java+class:///com/opensymphony/oscache/plugins/diskpersistence/AbstractDiskPersistenceListener|> 
+<|java+class:///com/opensymphony/oscache/plugins/diskpersistence/HashDiskPersistenceListener|,|java+class:///com/opensymphony/oscache/plugins/diskpersistence/AbstractDiskPersistenceListener|> 
+<|java+class:///com/opensymphony/oscache/web/ServletCache|,|java+class:///com/opensymphony/oscache/base/Cache|> 
+<|java+class:///com/opensymphony/oscache/web/ServletCacheAdministrator|,|java+class:///com/opensymphony/oscache/base/AbstractCacheAdministrator|> 
+
+SUBTYPE TOTAL: 14 
+<|java+class:///com/opensymphony/oscache/base/algorithm/AbstractConcurrentReadCache/KeyIterator|,|java+class:///com/opensymphony/oscache/base/algorithm/AbstractConcurrentReadCache/HashIterator|> 
+<|java+class:///com/opensymphony/oscache/base/algorithm/AbstractConcurrentReadCache/ValueIterator|,|java+class:///com/opensymphony/oscache/base/algorithm/AbstractConcurrentReadCache/HashIterator|> 
+<|java+class:///com/opensymphony/oscache/base/algorithm/FIFOCache|,|java+class:///com/opensymphony/oscache/base/algorithm/AbstractConcurrentReadCache|> 
+<|java+class:///com/opensymphony/oscache/base/algorithm/LRUCache|,|java+class:///com/opensymphony/oscache/base/algorithm/AbstractConcurrentReadCache|> 
+<|java+class:///com/opensymphony/oscache/base/algorithm/UnlimitedCache|,|java+class:///com/opensymphony/oscache/base/algorithm/AbstractConcurrentReadCache|> 
+<|java+class:///com/opensymphony/oscache/general/GeneralCacheAdministrator|,|java+class:///com/opensymphony/oscache/base/AbstractCacheAdministrator|> 
+<|java+class:///com/opensymphony/oscache/plugins/clustersupport/JMS10BroadcastingListener|,|java+class:///com/opensymphony/oscache/plugins/clustersupport/AbstractBroadcastingListener|> 
+<|java+class:///com/opensymphony/oscache/plugins/clustersupport/JMSBroadcastingListener|,|java+class:///com/opensymphony/oscache/plugins/clustersupport/AbstractBroadcastingListener|> 
+<|java+class:///com/opensymphony/oscache/plugins/clustersupport/JavaGroupsBroadcastingListener|,|java+class:///com/opensymphony/oscache/plugins/clustersupport/AbstractBroadcastingListener|> 
+<|java+class:///com/opensymphony/oscache/plugins/clustersupport/TestJMSBroadcastingListener|,|java+class:///com/opensymphony/oscache/plugins/clustersupport/BaseTestBroadcastingListener|> 
+<|java+class:///com/opensymphony/oscache/plugins/clustersupport/TestJavaGroupsBroadcastingListener|,|java+class:///com/opensymphony/oscache/plugins/clustersupport/BaseTestBroadcastingListener|> 
+<|java+class:///com/opensymphony/oscache/plugins/diskpersistence/DiskPersistenceListener|,|java+class:///com/opensymphony/oscache/plugins/diskpersistence/AbstractDiskPersistenceListener|> 
+<|java+class:///com/opensymphony/oscache/web/ServletCache|,|java+class:///com/opensymphony/oscache/base/Cache|> 
+<|java+class:///com/opensymphony/oscache/web/ServletCacheAdministrator|,|java+class:///com/opensymphony/oscache/base/AbstractCacheAdministrator|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 20 
+<|java+class:///com/opensymphony/oscache/base/algorithm/FIFOCache|,|java+class:///com/opensymphony/oscache/base/algorithm/AbstractConcurrentReadCache|> 
+<|java+class:///com/opensymphony/oscache/base/algorithm/LRUCache|,|java+class:///com/opensymphony/oscache/base/algorithm/AbstractConcurrentReadCache|> 
+<|java+class:///com/opensymphony/oscache/base/algorithm/TestFIFOCache|,|java+class:///com/opensymphony/oscache/base/algorithm/TestQueueCache|> 
+<|java+class:///com/opensymphony/oscache/base/algorithm/TestLRUCache|,|java+class:///com/opensymphony/oscache/base/algorithm/TestQueueCache|> 
+<|java+class:///com/opensymphony/oscache/base/algorithm/TestQueueCache|,|java+class:///com/opensymphony/oscache/base/algorithm/TestAbstractCache|> 
+<|java+class:///com/opensymphony/oscache/base/algorithm/TestUnlimitedCache|,|java+class:///com/opensymphony/oscache/base/algorithm/TestQueueCache|> 
+<|java+class:///com/opensymphony/oscache/base/algorithm/UnlimitedCache|,|java+class:///com/opensymphony/oscache/base/algorithm/AbstractConcurrentReadCache|> 
+<|java+class:///com/opensymphony/oscache/base/events/CacheEntryEvent|,|java+class:///com/opensymphony/oscache/base/events/CacheEvent|> 
+<|java+class:///com/opensymphony/oscache/base/events/CacheGroupEvent|,|java+class:///com/opensymphony/oscache/base/events/CacheEvent|> 
+<|java+class:///com/opensymphony/oscache/base/events/CacheMapAccessEvent|,|java+class:///com/opensymphony/oscache/base/events/CacheEvent|> 
+<|java+class:///com/opensymphony/oscache/base/events/CachePatternEvent|,|java+class:///com/opensymphony/oscache/base/events/CacheEvent|> 
+<|java+class:///com/opensymphony/oscache/base/events/CachewideEvent|,|java+class:///com/opensymphony/oscache/base/events/CacheEvent|> 
+<|java+class:///com/opensymphony/oscache/base/events/ScopeEvent|,|java+class:///com/opensymphony/oscache/base/events/CacheEvent|> 
+<|java+class:///com/opensymphony/oscache/general/GeneralCacheAdministrator|,|java+class:///com/opensymphony/oscache/base/AbstractCacheAdministrator|> 
+<|java+class:///com/opensymphony/oscache/general/TestGeneralCacheAdministrator|,|java+class:///com/opensymphony/oscache/base/TestAbstractCacheAdministrator|> 
+<|java+class:///com/opensymphony/oscache/plugins/clustersupport/TestJMS10BroadcastingListener|,|java+class:///com/opensymphony/oscache/plugins/clustersupport/BaseTestBroadcastingListener|> 
+<|java+class:///com/opensymphony/oscache/plugins/clustersupport/TestJMSBroadcastingListener|,|java+class:///com/opensymphony/oscache/plugins/clustersupport/BaseTestBroadcastingListener|> 
+<|java+class:///com/opensymphony/oscache/plugins/clustersupport/TestJavaGroupsBroadcastingListener|,|java+class:///com/opensymphony/oscache/plugins/clustersupport/BaseTestBroadcastingListener|> 
+<|java+class:///com/opensymphony/oscache/web/ServletCache|,|java+class:///com/opensymphony/oscache/base/Cache|> 
+<|java+class:///com/opensymphony/oscache/web/ServletCacheAdministrator|,|java+class:///com/opensymphony/oscache/base/AbstractCacheAdministrator|> 
+
+GENERIC TOTAL: 2 
+<|java+class:///com/opensymphony/oscache/plugins/clustersupport/JavaGroupsBroadcastingListener|,|java+class:///com/opensymphony/oscache/plugins/clustersupport/AbstractBroadcastingListener|> 
+<|java+class:///com/opensymphony/oscache/web/ServletCache|,|java+class:///com/opensymphony/oscache/base/Cache|> 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 15 
+<|java+class:///com/opensymphony/oscache/base/algorithm/AbstractConcurrentReadCache/KeyIterator|,|java+class:///com/opensymphony/oscache/base/algorithm/AbstractConcurrentReadCache/HashIterator|> 
+<|java+class:///com/opensymphony/oscache/base/algorithm/AbstractConcurrentReadCache/ValueIterator|,|java+class:///com/opensymphony/oscache/base/algorithm/AbstractConcurrentReadCache/HashIterator|> 
+<|java+class:///com/opensymphony/oscache/base/algorithm/FIFOCache|,|java+class:///com/opensymphony/oscache/base/algorithm/AbstractConcurrentReadCache|> 
+<|java+class:///com/opensymphony/oscache/base/algorithm/LRUCache|,|java+class:///com/opensymphony/oscache/base/algorithm/AbstractConcurrentReadCache|> 
+<|java+class:///com/opensymphony/oscache/base/algorithm/TestQueueCache|,|java+class:///com/opensymphony/oscache/base/algorithm/TestAbstractCache|> 
+<|java+class:///com/opensymphony/oscache/base/algorithm/UnlimitedCache|,|java+class:///com/opensymphony/oscache/base/algorithm/AbstractConcurrentReadCache|> 
+<|java+class:///com/opensymphony/oscache/general/GeneralCacheAdministrator|,|java+class:///com/opensymphony/oscache/base/AbstractCacheAdministrator|> 
+<|java+class:///com/opensymphony/oscache/general/TestGeneralCacheAdministrator|,|java+class:///com/opensymphony/oscache/base/TestAbstractCacheAdministrator|> 
+<|java+class:///com/opensymphony/oscache/plugins/clustersupport/TestJMS10BroadcastingListener|,|java+class:///com/opensymphony/oscache/plugins/clustersupport/BaseTestBroadcastingListener|> 
+<|java+class:///com/opensymphony/oscache/plugins/clustersupport/TestJMSBroadcastingListener|,|java+class:///com/opensymphony/oscache/plugins/clustersupport/BaseTestBroadcastingListener|> 
+<|java+class:///com/opensymphony/oscache/plugins/clustersupport/TestJavaGroupsBroadcastingListener|,|java+class:///com/opensymphony/oscache/plugins/clustersupport/BaseTestBroadcastingListener|> 
+<|java+class:///com/opensymphony/oscache/plugins/diskpersistence/DiskPersistenceListener|,|java+class:///com/opensymphony/oscache/plugins/diskpersistence/AbstractDiskPersistenceListener|> 
+<|java+class:///com/opensymphony/oscache/plugins/diskpersistence/HashDiskPersistenceListener|,|java+class:///com/opensymphony/oscache/plugins/diskpersistence/AbstractDiskPersistenceListener|> 
+<|java+class:///com/opensymphony/oscache/web/ServletCache|,|java+class:///com/opensymphony/oscache/base/Cache|> 
+<|java+class:///com/opensymphony/oscache/web/ServletCacheAdministrator|,|java+class:///com/opensymphony/oscache/base/AbstractCacheAdministrator|> 
+
+DOWNCALL TOTAL: 15 
+<|java+class:///com/opensymphony/oscache/base/algorithm/AbstractConcurrentReadCache/KeyIterator|,|java+class:///com/opensymphony/oscache/base/algorithm/AbstractConcurrentReadCache/HashIterator|> 
+<|java+class:///com/opensymphony/oscache/base/algorithm/AbstractConcurrentReadCache/ValueIterator|,|java+class:///com/opensymphony/oscache/base/algorithm/AbstractConcurrentReadCache/HashIterator|> 
+<|java+class:///com/opensymphony/oscache/base/algorithm/FIFOCache|,|java+class:///com/opensymphony/oscache/base/algorithm/AbstractConcurrentReadCache|> 
+<|java+class:///com/opensymphony/oscache/base/algorithm/LRUCache|,|java+class:///com/opensymphony/oscache/base/algorithm/AbstractConcurrentReadCache|> 
+<|java+class:///com/opensymphony/oscache/base/algorithm/UnlimitedCache|,|java+class:///com/opensymphony/oscache/base/algorithm/AbstractConcurrentReadCache|> 
+<|java+class:///com/opensymphony/oscache/general/TestGeneralCacheAdministrator|,|java+class:///com/opensymphony/oscache/base/TestAbstractCacheAdministrator|> 
+<|java+class:///com/opensymphony/oscache/plugins/clustersupport/JMS10BroadcastingListener|,|java+class:///com/opensymphony/oscache/plugins/clustersupport/AbstractBroadcastingListener|> 
+<|java+class:///com/opensymphony/oscache/plugins/clustersupport/JMSBroadcastingListener|,|java+class:///com/opensymphony/oscache/plugins/clustersupport/AbstractBroadcastingListener|> 
+<|java+class:///com/opensymphony/oscache/plugins/clustersupport/JavaGroupsBroadcastingListener|,|java+class:///com/opensymphony/oscache/plugins/clustersupport/AbstractBroadcastingListener|> 
+<|java+class:///com/opensymphony/oscache/plugins/clustersupport/TestJMS10BroadcastingListener|,|java+class:///com/opensymphony/oscache/plugins/clustersupport/BaseTestBroadcastingListener|> 
+<|java+class:///com/opensymphony/oscache/plugins/clustersupport/TestJMSBroadcastingListener|,|java+class:///com/opensymphony/oscache/plugins/clustersupport/BaseTestBroadcastingListener|> 
+<|java+class:///com/opensymphony/oscache/plugins/clustersupport/TestJavaGroupsBroadcastingListener|,|java+class:///com/opensymphony/oscache/plugins/clustersupport/BaseTestBroadcastingListener|> 
+<|java+class:///com/opensymphony/oscache/plugins/diskpersistence/DiskPersistenceListener|,|java+class:///com/opensymphony/oscache/plugins/diskpersistence/AbstractDiskPersistenceListener|> 
+<|java+class:///com/opensymphony/oscache/plugins/diskpersistence/HashDiskPersistenceListener|,|java+class:///com/opensymphony/oscache/plugins/diskpersistence/AbstractDiskPersistenceListener|> 
+<|java+class:///com/opensymphony/oscache/web/ServletCache|,|java+class:///com/opensymphony/oscache/base/Cache|> 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 3 
+<|java+class:///com/opensymphony/oscache/plugins/clustersupport/AbstractBroadcastingListener|,|java+interface:///com/opensymphony/oscache/base/LifecycleAware|> 
+<|java+class:///com/opensymphony/oscache/web/filter/CacheFilter|,|java+interface:///com/opensymphony/oscache/web/filter/ICacheGroupsProvider|> 
+<|java+class:///com/opensymphony/oscache/web/filter/CacheFilter|,|java+interface:///com/opensymphony/oscache/web/filter/ICacheKeyProvider|> 
+
+SUBTYPE TOTAL: 9 
+<|java+class:///com/opensymphony/oscache/base/DummyAlwayRefreshEntryPolicy|,|java+interface:///com/opensymphony/oscache/base/EntryRefreshPolicy|> 
+<|java+class:///com/opensymphony/oscache/extra/CacheEntryEventListenerImpl|,|java+interface:///com/opensymphony/oscache/base/events/CacheEntryEventListener|> 
+<|java+class:///com/opensymphony/oscache/extra/CacheMapAccessEventListenerImpl|,|java+interface:///com/opensymphony/oscache/base/events/CacheMapAccessEventListener|> 
+<|java+class:///com/opensymphony/oscache/plugins/clustersupport/AbstractBroadcastingListener|,|java+interface:///com/opensymphony/oscache/base/LifecycleAware|> 
+<|java+class:///com/opensymphony/oscache/plugins/clustersupport/AbstractBroadcastingListener|,|java+interface:///com/opensymphony/oscache/base/events/CacheEntryEventListener|> 
+<|java+class:///com/opensymphony/oscache/plugins/diskpersistence/AbstractDiskPersistenceListener|,|java+interface:///com/opensymphony/oscache/base/persistence/PersistenceListener|> 
+<|java+class:///com/opensymphony/oscache/web/filter/CacheFilter|,|java+interface:///com/opensymphony/oscache/web/filter/ICacheGroupsProvider|> 
+<|java+class:///com/opensymphony/oscache/web/filter/CacheFilter|,|java+interface:///com/opensymphony/oscache/web/filter/ICacheKeyProvider|> 
+<|java+class:///com/opensymphony/oscache/web/filter/ExpiresRefreshPolicy|,|java+interface:///com/opensymphony/oscache/base/EntryRefreshPolicy|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 5 
+<|java+class:///com/opensymphony/oscache/plugins/clustersupport/AbstractBroadcastingListener|,|java+interface:///com/opensymphony/oscache/base/LifecycleAware|> 
+<|java+class:///com/opensymphony/oscache/plugins/clustersupport/AbstractBroadcastingListener|,|java+interface:///com/opensymphony/oscache/base/events/CacheEntryEventListener|> 
+<|java+class:///com/opensymphony/oscache/plugins/diskpersistence/AbstractDiskPersistenceListener|,|java+interface:///com/opensymphony/oscache/base/persistence/PersistenceListener|> 
+<|java+class:///com/opensymphony/oscache/web/filter/CacheFilter|,|java+interface:///com/opensymphony/oscache/web/filter/ICacheGroupsProvider|> 
+<|java+class:///com/opensymphony/oscache/web/filter/CacheFilter|,|java+interface:///com/opensymphony/oscache/web/filter/ICacheKeyProvider|> 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 2 
+<|java+class:///com/opensymphony/oscache/base/DummyAlwayRefreshEntryPolicy|,|java+interface:///com/opensymphony/oscache/base/EntryRefreshPolicy|> 
+<|java+class:///com/opensymphony/oscache/web/filter/ExpiresRefreshPolicy|,|java+interface:///com/opensymphony/oscache/base/EntryRefreshPolicy|> 
+
+DOWNCALL TOTAL: 0 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 0 
+
+SUBTYPE TOTAL: 4 
+<|java+interface:///com/opensymphony/oscache/base/events/CacheEntryEventListener|,|java+interface:///com/opensymphony/oscache/base/events/CacheEventListener|> 
+<|java+interface:///com/opensymphony/oscache/base/events/CacheMapAccessEventListener|,|java+interface:///com/opensymphony/oscache/base/events/CacheEventListener|> 
+<|java+interface:///com/opensymphony/oscache/base/events/ScopeEventListener|,|java+interface:///com/opensymphony/oscache/base/events/CacheEventListener|> 
+<|java+interface:///com/opensymphony/oscache/web/WebEntryRefreshPolicy|,|java+interface:///com/opensymphony/oscache/base/EntryRefreshPolicy|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 3 
+<|java+interface:///com/opensymphony/oscache/base/events/CacheEntryEventListener|,|java+interface:///com/opensymphony/oscache/base/events/CacheEventListener|> 
+<|java+interface:///com/opensymphony/oscache/base/events/CacheMapAccessEventListener|,|java+interface:///com/opensymphony/oscache/base/events/CacheEventListener|> 
+<|java+interface:///com/opensymphony/oscache/base/events/ScopeEventListener|,|java+interface:///com/opensymphony/oscache/base/events/CacheEventListener|> 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 4 
+<|java+interface:///com/opensymphony/oscache/base/events/CacheEntryEventListener|,|java+interface:///com/opensymphony/oscache/base/events/CacheEventListener|> 
+<|java+interface:///com/opensymphony/oscache/base/events/CacheMapAccessEventListener|,|java+interface:///com/opensymphony/oscache/base/events/CacheEventListener|> 
+<|java+interface:///com/opensymphony/oscache/base/events/ScopeEventListener|,|java+interface:///com/opensymphony/oscache/base/events/CacheEventListener|> 
+<|java+interface:///com/opensymphony/oscache/web/WebEntryRefreshPolicy|,|java+interface:///com/opensymphony/oscache/base/EntryRefreshPolicy|> 
+
+DOWNCALL TOTAL: 0 
+
+
+
+

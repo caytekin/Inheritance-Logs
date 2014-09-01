@@ -1,0 +1,16 @@
+[
+  <<|java+class:///org/picocontainer/adapters/AbstractAdapter|,|java+interface:///org/picocontainer/ComponentAdapter|>,{
+    |java+interface:///org/picocontainer/ComponentMonitorStrategy|,
+    |java+interface:///java/io/Serializable|
+  },|project://picocontainer-2.10.2/src/org/picocontainer/parameters/CollectionComponentParameter.java|(9150,36,<202,62>,<202,98>)>,
+  <<|java+class:///org/picocontainer/DefaultPicoContainer|,|java+interface:///org/picocontainer/MutablePicoContainer|>,{
+    |java+interface:///org/picocontainer/Converting|,
+    |java+interface:///org/picocontainer/ComponentMonitorStrategy|,
+    |java+interface:///java/io/Serializable|
+  },|project://picocontainer-2.10.2/src/org/picocontainer/PicoBuilder.java|(6611,56,<168,44>,<168,100>)>,
+  <<|java+class:///org/picocontainer/behaviors/AbstractBehaviorFactory|,|java+interface:///org/picocontainer/ComponentFactory|>,{
+    |java+interface:///java/io/Serializable|,
+    |java+interface:///org/picocontainer/BehaviorFactory|
+  },|project://picocontainer-2.10.2/src/org/picocontainer/PicoBuilder.java|(8169,64,<205,38>,<205,102>)>,
+  <<|java+class:///org/picocontainer/containers/AbstractDelegatingMutablePicoContainer|,|java+interface:///org/picocontainer/MutablePicoContainer|>,{|java+class:///org/picocontainer/containers/AbstractDelegatingPicoContainer|},|project://picocontainer-2.10.2/src/org/picocontainer/classname/DefaultClassLoadingPicoContainer.java|(8755,24,<207,45>,<207,69>)>
+]

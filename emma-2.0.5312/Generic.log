@@ -1,0 +1,5 @@
+[
+  <<|java+class:///com/vladium/emma/data/MetaData|,|java+interface:///com/vladium/emma/data/IMetaData|>,{|java+interface:///java/lang/Cloneable|},|project://emma-2.0.5312/core/java12/com/vladium/emma/data/DataFactory.java|(4236,29,<125,19>,<125,48>)>,
+  <<|java+class:///com/vladium/emma/data/CoverageData|,|java+interface:///com/vladium/emma/data/ICoverageData|>,{|java+interface:///java/lang/Cloneable|},|project://emma-2.0.5312/core/java12/com/vladium/emma/data/DataFactory.java|(5533,33,<169,19>,<169,52>)>,
+  <<|java+class:///com/vladium/util/IProperties/Factory/PropertiesImpl|,|java+interface:///com/vladium/util/IProperties|>,{|java+interface:///java/lang/Cloneable|},|project://emma-2.0.5312/core/java12/com/vladium/emma/EMMAProperties.java|(4915,39,<127,33>,<127,72>)>
+]

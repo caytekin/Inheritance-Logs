@@ -1,0 +1,9 @@
+[
+  <<|java+class:///org/archive/crawler/settings/SettingsFrameworkTestCase|,|java+interface:///org/archive/crawler/settings/ValueErrorHandler|>,|java+class:///org/archive/crawler/settings/CrawlSettingsSAXHandler|>,
+  <<|java+class:///org/archive/crawler/writer/WARCWriterProcessor|,|java+interface:///org/archive/crawler/event/CrawlStatusListener|>,|java+class:///org/archive/crawler/frontier/AdaptiveRevisitFrontier|>,
+  <<|java+class:///org/archive/crawler/writer/ARCWriterProcessor|,|java+interface:///org/archive/crawler/event/CrawlStatusListener|>,|java+class:///org/archive/crawler/frontier/AdaptiveRevisitFrontier|>,
+  <<|java+class:///org/archive/crawler/frontier/WorkQueueFrontier|,|java+interface:///org/archive/crawler/datamodel/UriUniqFilter/HasUriReceiver|>,|java+class:///org/archive/crawler/util/FPUriUniqFilterTest|>,
+  <<|java+interface:///org/archive/queue/Deque|,|java+interface:///org/archive/queue/Queue|>,|java+class:///org/archive/queue/MemQueue|>,
+  <<|java+class:///org/archive/util/AbstractLongFPSet|,|java+interface:///org/archive/util/fingerprint/LongFPSet|>,|java+class:///org/archive/util/fingerprint/MemLongFPSet|>,
+  <<|java+class:///org/archive/util/fingerprint/ArrayLongFPCache|,|java+interface:///org/archive/util/fingerprint/LongFPSet|>,|java+class:///org/archive/util/fingerprint/MemLongFPSet|>
+]

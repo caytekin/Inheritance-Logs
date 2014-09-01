@@ -1,0 +1,7 @@
+[
+  <<|java+class:///org/sunflow/core/primitive/CornellBox|,|java+interface:///org/sunflow/core/Shader|>,{
+    |java+interface:///org/sunflow/core/LightSource|,
+    |java+interface:///org/sunflow/core/PrimitiveList|
+  },|project://sunflow-0.07.2/src/org/sunflow/core/parser/SCParser.java|(26192,149,<573,32>,<573,181>)>,
+  <<|java+class:///org/sunflow/core/tesselatable/BezierMesh|,|java+interface:///org/sunflow/core/Tesselatable|>,{|java+interface:///org/sunflow/core/PrimitiveList|},|project://sunflow-0.07.2/src/org/sunflow/core/parser/SCParser.java|(40443,161,<861,36>,<861,197>)>
+]

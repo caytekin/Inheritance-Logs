@@ -1,0 +1,120 @@
+RESULTS LOG: 
+INTERNAL REUSE TOTAL: 8 
+<|java+class:///org/cyberneko/html/HTMLScannerTest/InfiniteLoopScanner|,|java+class:///org/cyberneko/html/HTMLScanner|> 
+<|java+class:///org/cyberneko/html/HTMLScannerTest/InfiniteLoopScanner/MyContentScanner|,|java+class:///org/cyberneko/html/HTMLScanner/ContentScanner|> 
+<|java+class:///org/cyberneko/html/filters/ElementRemover|,|java+class:///org/cyberneko/html/filters/DefaultFilter|> 
+<|java+class:///org/cyberneko/html/filters/Identity|,|java+class:///org/cyberneko/html/filters/DefaultFilter|> 
+<|java+class:///org/cyberneko/html/filters/NamespaceBinder|,|java+class:///org/cyberneko/html/filters/DefaultFilter|> 
+<|java+class:///org/cyberneko/html/filters/Purifier|,|java+class:///org/cyberneko/html/filters/DefaultFilter|> 
+<|java+class:///org/cyberneko/html/filters/Writer|,|java+class:///org/cyberneko/html/filters/DefaultFilter|> 
+<|java+class:///sample/Script|,|java+class:///org/cyberneko/html/filters/DefaultFilter|> 
+
+EXTERNAL REUSE TOTAL: 1 
+<|java+class:///org/cyberneko/html/filters/NamespaceBinder|,|java+class:///org/cyberneko/html/filters/DefaultFilter|> 
+
+SUBTYPE TOTAL: 4 
+<|java+class:///org/cyberneko/html/HTMLScannerTest/InfiniteLoopScanner/MyContentScanner|,|java+class:///org/cyberneko/html/HTMLScanner/ContentScanner|> 
+<|java+class:///org/cyberneko/html/SecuritySupport12|,|java+class:///org/cyberneko/html/SecuritySupport|> 
+<|java+class:///org/cyberneko/html/filters/NamespaceBinder|,|java+class:///org/cyberneko/html/filters/DefaultFilter|> 
+<|java+class:///sample/Minimal|,|java+class:///org/cyberneko/html/filters/DefaultFilter|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 10 
+<|java+class:///org/cyberneko/html/HTMLScannerTest/EvaluateInputSourceFilter|,|java+class:///org/cyberneko/html/filters/DefaultFilter|> 
+<|java+class:///org/cyberneko/html/HTMLScannerTest/InfiniteLoopScanner|,|java+class:///org/cyberneko/html/HTMLScanner|> 
+<|java+class:///org/cyberneko/html/Writer|,|java+class:///org/cyberneko/html/filters/DefaultFilter|> 
+<|java+class:///org/cyberneko/html/filters/ElementRemover|,|java+class:///org/cyberneko/html/filters/DefaultFilter|> 
+<|java+class:///org/cyberneko/html/filters/Identity|,|java+class:///org/cyberneko/html/filters/DefaultFilter|> 
+<|java+class:///org/cyberneko/html/filters/NamespaceBinder|,|java+class:///org/cyberneko/html/filters/DefaultFilter|> 
+<|java+class:///org/cyberneko/html/filters/Purifier|,|java+class:///org/cyberneko/html/filters/DefaultFilter|> 
+<|java+class:///org/cyberneko/html/filters/Writer|,|java+class:///org/cyberneko/html/filters/DefaultFilter|> 
+<|java+class:///sample/Minimal|,|java+class:///org/cyberneko/html/filters/DefaultFilter|> 
+<|java+class:///sample/Script|,|java+class:///org/cyberneko/html/filters/DefaultFilter|> 
+
+DOWNCALL TOTAL: 2 
+<|java+class:///org/cyberneko/html/HTMLScannerTest/InfiniteLoopScanner/MyContentScanner|,|java+class:///org/cyberneko/html/HTMLScanner/ContentScanner|> 
+<|java+class:///org/cyberneko/html/filters/NamespaceBinder|,|java+class:///org/cyberneko/html/filters/DefaultFilter|> 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 0 
+
+SUBTYPE TOTAL: 7 
+<|java+class:///org/cyberneko/html/HTMLConfiguration/ErrorReporter|,|java+interface:///org/cyberneko/html/HTMLErrorReporter|> 
+<|java+class:///org/cyberneko/html/HTMLEventInfo/SynthesizedItem|,|java+interface:///org/cyberneko/html/HTMLEventInfo|> 
+<|java+class:///org/cyberneko/html/HTMLScanner|,|java+interface:///org/cyberneko/html/HTMLComponent|> 
+<|java+class:///org/cyberneko/html/HTMLScanner/ContentScanner|,|java+interface:///org/cyberneko/html/HTMLScanner/Scanner|> 
+<|java+class:///org/cyberneko/html/HTMLScanner/SpecialScanner|,|java+interface:///org/cyberneko/html/HTMLScanner/Scanner|> 
+<|java+class:///org/cyberneko/html/HTMLTagBalancer|,|java+interface:///org/cyberneko/html/HTMLComponent|> 
+<|java+class:///org/cyberneko/html/filters/DefaultFilter|,|java+interface:///org/cyberneko/html/HTMLComponent|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 3 
+<|java+class:///org/cyberneko/html/HTMLScanner|,|java+interface:///org/cyberneko/html/HTMLComponent|> 
+<|java+class:///org/cyberneko/html/HTMLScanner/LocationItem|,|java+interface:///org/cyberneko/html/HTMLEventInfo|> 
+<|java+class:///org/cyberneko/html/filters/DefaultFilter|,|java+interface:///org/cyberneko/html/HTMLComponent|> 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 3 
+<|java+class:///org/cyberneko/html/HTMLScanner|,|java+interface:///org/cyberneko/html/HTMLComponent|> 
+<|java+class:///org/cyberneko/html/HTMLTagBalancer|,|java+interface:///org/cyberneko/html/HTMLComponent|> 
+<|java+class:///org/cyberneko/html/filters/DefaultFilter|,|java+interface:///org/cyberneko/html/HTMLComponent|> 
+
+DOWNCALL TOTAL: 0 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 0 
+
+SUBTYPE TOTAL: 0 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 0 
+
+DOWNCALL TOTAL: 0 
+
+
+
+

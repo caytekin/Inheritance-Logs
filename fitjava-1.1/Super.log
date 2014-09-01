@@ -1,0 +1,7 @@
+[
+  <<|java+class:///fit/ParseTest|,|java+class:///junit/framework/TestCase|>,|project://fitjava-1.1/src/fit/ParseTest.java|(269,12,<11,2>,<11,14>)>,
+  <<|java+class:///fit/FrameworkTest|,|java+class:///junit/framework/TestCase|>,|project://fitjava-1.1/src/fit/FrameworkTest.java|(352,13,<14,8>,<14,21>)>,
+  <<|java+class:///fat/FatTest|,|java+class:///junit/framework/TestCase|>,|project://fitjava-1.1/src/fat/FatTest.java|(310,13,<15,8>,<15,21>)>,
+  <<|java+class:///fit/RowFixtureTest|,|java+class:///junit/framework/TestCase|>,|project://fitjava-1.1/src/fit/RowFixtureTest.java|(537,13,<22,8>,<22,21>)>,
+  <<|java+class:///fit/FixtureTest|,|java+class:///junit/framework/TestCase|>,|project://fitjava-1.1/src/fit/FixtureTest.java|(130,12,<8,2>,<8,14>)>
+]

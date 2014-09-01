@@ -1,0 +1,7 @@
+[
+  <<|java+class:///net/sourceforge/cobertura/coveragedata/SourceFileData|,|java+class:///net/sourceforge/cobertura/coveragedata/CoverageDataContainer|>,{
+    |java+interface:///java/lang/Comparable|,
+    |java+interface:///net/sourceforge/cobertura/coveragedata/HasBeenInstrumented|
+  },|project://cobertura-1.9.4.1/src/net/sourceforge/cobertura/coveragedata/CoverageDataContainer.java|(2699,26,<88,48>,<88,74>)>,
+  <<|java+class:///net/sourceforge/cobertura/coveragedata/TouchCollector/SwitchTouchData|,|java+class:///net/sourceforge/cobertura/coveragedata/TouchCollector/LineTouchData|>,{|java+interface:///net/sourceforge/cobertura/coveragedata/HasBeenInstrumented|},|project://cobertura-1.9.4.1/src/net/sourceforge/cobertura/coveragedata/TouchCollector.java|(3995,19,<107,25>,<107,44>)>
+]

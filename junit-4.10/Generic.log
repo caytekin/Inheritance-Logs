@@ -1,0 +1,13 @@
+[
+  <<|java+class:///org/junit/internal/runners/JUnit4ClassRunner|,|java+interface:///org/junit/runner/manipulation/Filterable|>,{
+    |java+class:///org/junit/runner/Runner|,
+    |java+interface:///org/junit/runner/manipulation/Sortable|
+  },|project://junit-4.10/src/org/junit/runner/manipulation/Filter.java|(2688,18,<88,25>,<88,43>)>,
+  <<|java+class:///org/junit/runners/ParentRunner|,|java+interface:///org/junit/runner/manipulation/Sortable|>,{
+    |java+class:///org/junit/runner/Runner|,
+    |java+interface:///org/junit/runner/manipulation/Filterable|
+  },|project://junit-4.10/src/org/junit/runner/manipulation/Sorter.java|(1091,17,<38,23>,<38,40>)>,
+  <<|java+class:///junit/extensions/TestDecorator|,|java+interface:///junit/framework/Test|>,{|java+class:///junit/framework/Assert|},|project://junit-4.10/src/junit/runner/BaseTestRunner.java|(3355,54,<125,9>,<125,63>)>,
+  <<|java+class:///junit/extensions/TestDecorator|,|java+interface:///junit/framework/Test|>,{|java+class:///junit/framework/Assert|},|project://junit-4.10/src/junit/framework/TestSuite.java|(2426,11,<74,9>,<74,20>)>,
+  <<|java+class:///junit/framework/TestCase|,|java+interface:///junit/framework/Test|>,{|java+class:///junit/framework/Assert|},|project://junit-4.10/src/org/junit/internal/runners/SuiteMethod.java|(962,31,<34,10>,<34,41>)>
+]

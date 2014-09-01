@@ -1,0 +1,297 @@
+RESULTS LOG: 
+INTERNAL REUSE TOTAL: 25 
+<|java+class:///de/nava/informa/exporters/TestRSS_0_91_Exporter|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/exporters/TestRSS_1_0_Exporter|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/exporters/TestRSS_2_0_Exporter|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/impl/hibernate/TestChannelCategory|,|java+class:///de/nava/informa/utils/InformaHibernateTestCase|> 
+<|java+class:///de/nava/informa/impl/hibernate/TestChannelGroup|,|java+class:///de/nava/informa/utils/InformaHibernateTestCase|> 
+<|java+class:///de/nava/informa/impl/hibernate/TestCreateChannels|,|java+class:///de/nava/informa/utils/InformaHibernateTestCase|> 
+<|java+class:///de/nava/informa/impl/hibernate/TestUnreadItems|,|java+class:///de/nava/informa/utils/InformaHibernateTestCase|> 
+<|java+class:///de/nava/informa/parsers/TestAtom_0_3_Parser|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/parsers/TestAtom_1_0_Parser|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/parsers/TestFeedParser|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/parsers/TestOPML_1_1_Parser|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/parsers/TestRSS_0_91_Parser|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/parsers/TestRSS_0_92_Parser|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/parsers/TestRSS_1_0_Parser|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/parsers/TestRSS_2_0_Parser|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/search/TestChannelIndexer|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/search/TestChannelSearcher|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/utils/TestCacheSettingsFM|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/utils/TestChannelRegistry|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/utils/TestFeedManager|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/utils/TestFormatDetector|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/utils/TestItemComparator|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/utils/manager/hibernate/PersistenceManager|,|java+class:///de/nava/informa/utils/manager/hibernate/NonCachingPersistenceManager|> 
+<|java+class:///de/nava/informa/utils/manager/memory/Channel|,|java+class:///de/nava/informa/impl/basic/Channel|> 
+<|java+class:///de/nava/informa/utils/manager/memory/Item|,|java+class:///de/nava/informa/impl/basic/Item|> 
+
+EXTERNAL REUSE TOTAL: 2 
+<|java+class:///de/nava/informa/utils/InformaHibernateTestCase|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/utils/manager/memory/Item|,|java+class:///de/nava/informa/impl/basic/Item|> 
+
+SUBTYPE TOTAL: 7 
+<|java+class:///de/nava/informa/parsers/TestFeedParser|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/utils/cleaner/CleanerWorkerThread|,|java+class:///de/nava/informa/utils/toolkit/WorkerThread|> 
+<|java+class:///de/nava/informa/utils/manager/hibernate/PersistenceManager|,|java+class:///de/nava/informa/utils/manager/hibernate/NonCachingPersistenceManager|> 
+<|java+class:///de/nava/informa/utils/manager/memory/Channel|,|java+class:///de/nava/informa/impl/basic/Channel|> 
+<|java+class:///de/nava/informa/utils/manager/memory/ChannelGroup|,|java+class:///de/nava/informa/impl/basic/ChannelGroup|> 
+<|java+class:///de/nava/informa/utils/manager/memory/Item|,|java+class:///de/nava/informa/impl/basic/Item|> 
+<|java+class:///de/nava/informa/utils/poller/PollerWorkerThread|,|java+class:///de/nava/informa/utils/toolkit/WorkerThread|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 34 
+<|java+class:///de/nava/informa/exporters/TestRSS_0_91_Exporter|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/exporters/TestRSS_1_0_Exporter|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/exporters/TestRSS_2_0_Exporter|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/impl/basic/TestChannelBuilder|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/impl/basic/TestItemOrder|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/impl/hibernate/TestChannelCategory|,|java+class:///de/nava/informa/utils/InformaHibernateTestCase|> 
+<|java+class:///de/nava/informa/impl/hibernate/TestChannelGroup|,|java+class:///de/nava/informa/utils/InformaHibernateTestCase|> 
+<|java+class:///de/nava/informa/impl/hibernate/TestCreateChannels|,|java+class:///de/nava/informa/utils/InformaHibernateTestCase|> 
+<|java+class:///de/nava/informa/impl/hibernate/TestHibernateStressTest|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/impl/hibernate/TestInformaPersistence|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/impl/hibernate/TestPersistChannelGrp|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/impl/hibernate/TestUnreadItems|,|java+class:///de/nava/informa/utils/InformaHibernateTestCase|> 
+<|java+class:///de/nava/informa/parsers/TestAtom_0_3_Parser|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/parsers/TestAtom_1_0_Parser|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/parsers/TestFeedParser|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/parsers/TestOPML_1_1_Parser|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/parsers/TestRSS_0_91_Parser|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/parsers/TestRSS_0_92_Parser|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/parsers/TestRSS_1_0_Parser|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/parsers/TestRSS_2_0_Parser|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/search/TestChannelIndexer|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/search/TestChannelSearcher|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/utils/InformaHibernateTestCase|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/utils/TestCacheSettingsFM|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/utils/TestChannelObserver|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/utils/TestChannelRegistry|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/utils/TestFeedManager|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/utils/TestFormatDetector|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/utils/TestItemComparator|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/utils/TestParserUtils|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/utils/cleaner/CleanerWorkerThread|,|java+class:///de/nava/informa/utils/toolkit/WorkerThread|> 
+<|java+class:///de/nava/informa/utils/manager/memory/Channel|,|java+class:///de/nava/informa/impl/basic/Channel|> 
+<|java+class:///de/nava/informa/utils/manager/memory/ChannelGroup|,|java+class:///de/nava/informa/impl/basic/ChannelGroup|> 
+<|java+class:///de/nava/informa/utils/poller/PollerWorkerThread|,|java+class:///de/nava/informa/utils/toolkit/WorkerThread|> 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 31 
+<|java+class:///de/nava/informa/exporters/TestRSS_0_91_Exporter|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/exporters/TestRSS_1_0_Exporter|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/exporters/TestRSS_2_0_Exporter|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/impl/basic/TestChannelBuilder|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/impl/basic/TestItemOrder|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/impl/hibernate/TestHibernateStressTest|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/impl/hibernate/TestInformaPersistence|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/impl/hibernate/TestItem|,|java+class:///de/nava/informa/impl/basic/TestItem|> 
+<|java+class:///de/nava/informa/impl/hibernate/TestPersistChannelGrp|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/parsers/TestAtom_0_3_Parser|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/parsers/TestAtom_1_0_Parser|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/parsers/TestFeedParser|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/parsers/TestOPML_1_1_Parser|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/parsers/TestRSS_0_91_Parser|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/parsers/TestRSS_0_92_Parser|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/parsers/TestRSS_1_0_Parser|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/parsers/TestRSS_2_0_Parser|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/search/TestChannelIndexer|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/search/TestChannelSearcher|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/utils/InformaHibernateTestCase|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/utils/TestCacheSettingsFM|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/utils/TestChannelObserver|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/utils/TestChannelRegistry|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/utils/TestFeedManager|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/utils/TestFormatDetector|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/utils/TestItemComparator|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/utils/TestParserUtils|,|java+class:///de/nava/informa/utils/InformaTestCase|> 
+<|java+class:///de/nava/informa/utils/cleaner/CleanerWorkerThread|,|java+class:///de/nava/informa/utils/toolkit/WorkerThread|> 
+<|java+class:///de/nava/informa/utils/manager/hibernate/TestHibernatePersistenceManager|,|java+class:///de/nava/informa/utils/manager/TestAbstractPersistenceManager|> 
+<|java+class:///de/nava/informa/utils/manager/memory/TestMemoryPersistenceManager|,|java+class:///de/nava/informa/utils/manager/TestAbstractPersistenceManager|> 
+<|java+class:///de/nava/informa/utils/poller/PollerWorkerThread|,|java+class:///de/nava/informa/utils/toolkit/WorkerThread|> 
+
+DOWNCALL TOTAL: 5 
+<|java+class:///de/nava/informa/utils/cleaner/CleanerWorkerThread|,|java+class:///de/nava/informa/utils/toolkit/WorkerThread|> 
+<|java+class:///de/nava/informa/utils/manager/hibernate/PersistenceManager|,|java+class:///de/nava/informa/utils/manager/hibernate/NonCachingPersistenceManager|> 
+<|java+class:///de/nava/informa/utils/manager/hibernate/TestHibernatePersistenceManager|,|java+class:///de/nava/informa/utils/manager/TestAbstractPersistenceManager|> 
+<|java+class:///de/nava/informa/utils/manager/memory/TestMemoryPersistenceManager|,|java+class:///de/nava/informa/utils/manager/TestAbstractPersistenceManager|> 
+<|java+class:///de/nava/informa/utils/poller/PollerWorkerThread|,|java+class:///de/nava/informa/utils/toolkit/WorkerThread|> 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 0 
+
+SUBTYPE TOTAL: 47 
+<|java+class:///de/nava/informa/exporters/RSS_0_91_Exporter|,|java+interface:///de/nava/informa/core/ChannelExporterIF|> 
+<|java+class:///de/nava/informa/exporters/RSS_1_0_Exporter|,|java+interface:///de/nava/informa/core/ChannelExporterIF|> 
+<|java+class:///de/nava/informa/impl/basic/Category|,|java+interface:///de/nava/informa/core/CategoryIF|> 
+<|java+class:///de/nava/informa/impl/basic/Channel|,|java+interface:///de/nava/informa/core/ChannelIF|> 
+<|java+class:///de/nava/informa/impl/basic/ChannelBuilder|,|java+interface:///de/nava/informa/core/ChannelBuilderIF|> 
+<|java+class:///de/nava/informa/impl/basic/ChannelGroup|,|java+interface:///de/nava/informa/core/ChannelGroupIF|> 
+<|java+class:///de/nava/informa/impl/basic/Cloud|,|java+interface:///de/nava/informa/core/CloudIF|> 
+<|java+class:///de/nava/informa/impl/basic/Feed|,|java+interface:///de/nava/informa/core/FeedIF|> 
+<|java+class:///de/nava/informa/impl/basic/Image|,|java+interface:///de/nava/informa/core/ImageIF|> 
+<|java+class:///de/nava/informa/impl/basic/Item|,|java+interface:///de/nava/informa/core/ItemIF|> 
+<|java+class:///de/nava/informa/impl/basic/ItemEnclosure|,|java+interface:///de/nava/informa/core/ItemEnclosureIF|> 
+<|java+class:///de/nava/informa/impl/basic/ItemGuid|,|java+interface:///de/nava/informa/core/ItemGuidIF|> 
+<|java+class:///de/nava/informa/impl/basic/ItemSource|,|java+interface:///de/nava/informa/core/ItemSourceIF|> 
+<|java+class:///de/nava/informa/impl/basic/TestItem/SimpleItem|,|java+interface:///de/nava/informa/core/ItemIF|> 
+<|java+class:///de/nava/informa/impl/basic/TextInput|,|java+interface:///de/nava/informa/core/TextInputIF|> 
+<|java+class:///de/nava/informa/impl/hibernate/Category|,|java+interface:///de/nava/informa/core/CategoryIF|> 
+<|java+class:///de/nava/informa/impl/hibernate/Channel|,|java+interface:///de/nava/informa/core/ChannelIF|> 
+<|java+class:///de/nava/informa/impl/hibernate/ChannelBuilder|,|java+interface:///de/nava/informa/core/ChannelBuilderIF|> 
+<|java+class:///de/nava/informa/impl/hibernate/ChannelGroup|,|java+interface:///de/nava/informa/core/ChannelGroupIF|> 
+<|java+class:///de/nava/informa/impl/hibernate/Cloud|,|java+interface:///de/nava/informa/core/CloudIF|> 
+<|java+class:///de/nava/informa/impl/hibernate/Image|,|java+interface:///de/nava/informa/core/ImageIF|> 
+<|java+class:///de/nava/informa/impl/hibernate/Item|,|java+interface:///de/nava/informa/core/ItemIF|> 
+<|java+class:///de/nava/informa/impl/hibernate/ItemEnclosure|,|java+interface:///de/nava/informa/core/ItemEnclosureIF|> 
+<|java+class:///de/nava/informa/impl/hibernate/ItemGuid|,|java+interface:///de/nava/informa/core/ItemGuidIF|> 
+<|java+class:///de/nava/informa/impl/hibernate/ItemSource|,|java+interface:///de/nava/informa/core/ItemSourceIF|> 
+<|java+class:///de/nava/informa/impl/hibernate/TestHibernateStressTest/ChannelLogRecordObserver|,|java+interface:///de/nava/informa/utils/PersistChanGrpMgrObserverIF|> 
+<|java+class:///de/nava/informa/impl/hibernate/TestHibernateStressTest/informaLogObserver|,|java+interface:///de/nava/informa/utils/PersistChanGrpMgrObserverIF|> 
+<|java+class:///de/nava/informa/impl/hibernate/TestInformaPersistence|,|java+interface:///de/nava/informa/core/ChannelObserverIF|> 
+<|java+class:///de/nava/informa/impl/hibernate/TextInput|,|java+interface:///de/nava/informa/core/TextInputIF|> 
+<|java+class:///de/nava/informa/utils/Atom030Settings|,|java+interface:///de/nava/informa/utils/CacheSettingsIF|> 
+<|java+class:///de/nava/informa/utils/CacheSettings|,|java+interface:///de/nava/informa/utils/CacheSettingsIF|> 
+<|java+class:///de/nava/informa/utils/RSS091Settings|,|java+interface:///de/nava/informa/utils/CacheSettingsIF|> 
+<|java+class:///de/nava/informa/utils/RSS100Settings|,|java+interface:///de/nava/informa/utils/CacheSettingsIF|> 
+<|java+class:///de/nava/informa/utils/RSS200Settings|,|java+interface:///de/nava/informa/utils/CacheSettingsIF|> 
+<|java+class:///de/nava/informa/utils/SimpleChannelObserver|,|java+interface:///de/nava/informa/core/ChannelObserverIF|> 
+<|java+class:///de/nava/informa/utils/cleaner/Cleaner/CleanerThreadFactory|,|java+interface:///de/nava/informa/utils/toolkit/WorkerThreadFactoryIF|> 
+<|java+class:///de/nava/informa/utils/cleaner/Cleaner/SchedulerCallback|,|java+interface:///de/nava/informa/utils/toolkit/SchedulerCallbackIF|> 
+<|java+class:///de/nava/informa/utils/cleaner/CompositeMatcher|,|java+interface:///de/nava/informa/utils/cleaner/CleanerMatcherIF|> 
+<|java+class:///de/nava/informa/utils/cleaner/CompositeObserver|,|java+interface:///de/nava/informa/utils/cleaner/CleanerObserverIF|> 
+<|java+class:///de/nava/informa/utils/manager/hibernate/NonCachingPersistenceManager|,|java+interface:///de/nava/informa/utils/manager/PersistenceManagerIF|> 
+<|java+class:///de/nava/informa/utils/manager/memory/PersistenceManager|,|java+interface:///de/nava/informa/utils/manager/PersistenceManagerIF|> 
+<|java+class:///de/nava/informa/utils/poller/CompositeApprover|,|java+interface:///de/nava/informa/utils/poller/PollerApproverIF|> 
+<|java+class:///de/nava/informa/utils/poller/CompositeObserver|,|java+interface:///de/nava/informa/utils/poller/PollerObserverIF|> 
+<|java+class:///de/nava/informa/utils/poller/Poller/PollerThreadFactory|,|java+interface:///de/nava/informa/utils/toolkit/WorkerThreadFactoryIF|> 
+<|java+class:///de/nava/informa/utils/poller/Poller/SchedulerCallback|,|java+interface:///de/nava/informa/utils/toolkit/SchedulerCallbackIF|> 
+<|java+class:///de/nava/informa/utils/poller/TestPollerWorkerThread/CustomApprover|,|java+interface:///de/nava/informa/utils/poller/PollerApproverIF|> 
+<|java+class:///de/nava/informa/utils/poller/TestPollerWorkerThread/CustomObserver|,|java+interface:///de/nava/informa/utils/poller/PollerObserverIF|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 1 
+<|java+class:///de/nava/informa/search/ItemDocument|,|java+interface:///de/nava/informa/search/ItemFieldConstants|> 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 1 
+<|java+class:///de/nava/informa/impl/hibernate/TestInformaPersistence|,|java+interface:///de/nava/informa/core/ChannelObserverIF|> 
+
+CATEGORY TOTAL: 6 
+<|java+class:///de/nava/informa/exporters/RSS_2_0_Exporter|,|java+interface:///de/nava/informa/core/ChannelExporterIF|> 
+<|java+class:///de/nava/informa/utils/cleaner/PersistenceObserver|,|java+interface:///de/nava/informa/utils/cleaner/CleanerObserverIF|> 
+<|java+class:///de/nava/informa/utils/manager/TestPersistenceManagerConfig/DummyPersistenceManager|,|java+interface:///de/nava/informa/utils/manager/PersistenceManagerIF|> 
+<|java+class:///de/nava/informa/utils/manager/hibernate/NonCachingPersistenceManager|,|java+interface:///de/nava/informa/utils/manager/PersistenceManagerIF|> 
+<|java+class:///de/nava/informa/utils/manager/hibernate/SpringPersistenceManager|,|java+interface:///de/nava/informa/utils/manager/PersistenceManagerIF|> 
+<|java+class:///de/nava/informa/utils/poller/PersistenceObserver|,|java+interface:///de/nava/informa/utils/poller/PollerObserverIF|> 
+
+FRAMEWORK TOTAL: 8 
+<|java+class:///de/nava/informa/impl/basic/ChannelSubscription|,|java+interface:///de/nava/informa/core/ChannelSubscriptionIF|> 
+<|java+class:///de/nava/informa/impl/basic/Cloud|,|java+interface:///de/nava/informa/core/CloudIF|> 
+<|java+class:///de/nava/informa/impl/basic/ItemEnclosure|,|java+interface:///de/nava/informa/core/ItemEnclosureIF|> 
+<|java+class:///de/nava/informa/impl/basic/ItemMetadata|,|java+interface:///de/nava/informa/core/ItemMetadataIF|> 
+<|java+class:///de/nava/informa/impl/hibernate/ChannelSubscription|,|java+interface:///de/nava/informa/core/ChannelSubscriptionIF|> 
+<|java+class:///de/nava/informa/impl/hibernate/Cloud|,|java+interface:///de/nava/informa/core/CloudIF|> 
+<|java+class:///de/nava/informa/impl/hibernate/ItemEnclosure|,|java+interface:///de/nava/informa/core/ItemEnclosureIF|> 
+<|java+class:///de/nava/informa/impl/hibernate/ItemMetadata|,|java+interface:///de/nava/informa/core/ItemMetadataIF|> 
+
+DOWNCALL TOTAL: 0 
+
+
+
+
+INTERNAL REUSE TOTAL: 0 
+
+EXTERNAL REUSE TOTAL: 33 
+<|java+interface:///de/nava/informa/core/CategoryIF|,|java+interface:///de/nava/informa/core/WithChildrenMIF|> 
+<|java+interface:///de/nava/informa/core/CategoryIF|,|java+interface:///de/nava/informa/core/WithIdMIF|> 
+<|java+interface:///de/nava/informa/core/CategoryIF|,|java+interface:///de/nava/informa/core/WithTitleMIF|> 
+<|java+interface:///de/nava/informa/core/ChannelGroupIF|,|java+interface:///de/nava/informa/core/WithChildrenMIF|> 
+<|java+interface:///de/nava/informa/core/ChannelGroupIF|,|java+interface:///de/nava/informa/core/WithIdMIF|> 
+<|java+interface:///de/nava/informa/core/ChannelGroupIF|,|java+interface:///de/nava/informa/core/WithTitleMIF|> 
+<|java+interface:///de/nava/informa/core/ChannelIF|,|java+interface:///de/nava/informa/core/ChannelObservableIF|> 
+<|java+interface:///de/nava/informa/core/ChannelIF|,|java+interface:///de/nava/informa/core/WithCategoriesMIF|> 
+<|java+interface:///de/nava/informa/core/ChannelIF|,|java+interface:///de/nava/informa/core/WithCreatorMIF|> 
+<|java+interface:///de/nava/informa/core/ChannelIF|,|java+interface:///de/nava/informa/core/WithDescriptionMIF|> 
+<|java+interface:///de/nava/informa/core/ChannelIF|,|java+interface:///de/nava/informa/core/WithElementsAndAttributesMIF|> 
+<|java+interface:///de/nava/informa/core/ChannelIF|,|java+interface:///de/nava/informa/core/WithIdMIF|> 
+<|java+interface:///de/nava/informa/core/ChannelIF|,|java+interface:///de/nava/informa/core/WithLocationMIF|> 
+<|java+interface:///de/nava/informa/core/ChannelIF|,|java+interface:///de/nava/informa/core/WithSiteMIF|> 
+<|java+interface:///de/nava/informa/core/ChannelIF|,|java+interface:///de/nava/informa/core/WithTitleMIF|> 
+<|java+interface:///de/nava/informa/core/FeedIF|,|java+interface:///de/nava/informa/core/WithChannelMIF|> 
+<|java+interface:///de/nava/informa/core/FeedIF|,|java+interface:///de/nava/informa/core/WithLocationMIF|> 
+<|java+interface:///de/nava/informa/core/FeedIF|,|java+interface:///de/nava/informa/core/WithSiteMIF|> 
+<|java+interface:///de/nava/informa/core/FeedIF|,|java+interface:///de/nava/informa/core/WithTitleMIF|> 
+<|java+interface:///de/nava/informa/core/ImageIF|,|java+interface:///de/nava/informa/core/WithDescriptionMIF|> 
+<|java+interface:///de/nava/informa/core/ImageIF|,|java+interface:///de/nava/informa/core/WithLinkMIF|> 
+<|java+interface:///de/nava/informa/core/ImageIF|,|java+interface:///de/nava/informa/core/WithLocationMIF|> 
+<|java+interface:///de/nava/informa/core/ImageIF|,|java+interface:///de/nava/informa/core/WithTitleMIF|> 
+<|java+interface:///de/nava/informa/core/ItemIF|,|java+interface:///de/nava/informa/core/WithCategoriesMIF|> 
+<|java+interface:///de/nava/informa/core/ItemIF|,|java+interface:///de/nava/informa/core/WithChannelMIF|> 
+<|java+interface:///de/nava/informa/core/ItemIF|,|java+interface:///de/nava/informa/core/WithCreatorMIF|> 
+<|java+interface:///de/nava/informa/core/ItemIF|,|java+interface:///de/nava/informa/core/WithDescriptionMIF|> 
+<|java+interface:///de/nava/informa/core/ItemIF|,|java+interface:///de/nava/informa/core/WithIdMIF|> 
+<|java+interface:///de/nava/informa/core/ItemIF|,|java+interface:///de/nava/informa/core/WithLinkMIF|> 
+<|java+interface:///de/nava/informa/core/ItemIF|,|java+interface:///de/nava/informa/core/WithTitleMIF|> 
+<|java+interface:///de/nava/informa/core/ItemIF|,|java+interface:///de/nava/informa/core/WithUnreadMIF|> 
+<|java+interface:///de/nava/informa/core/ItemSourceIF|,|java+interface:///de/nava/informa/core/WithNameMIF|> 
+<|java+interface:///de/nava/informa/utils/PersistChanGrpMgrObserverIF|,|java+interface:///de/nava/informa/core/ChannelObserverIF|> 
+
+SUBTYPE TOTAL: 3 
+<|java+interface:///de/nava/informa/core/ChannelIF|,|java+interface:///de/nava/informa/core/ChannelObservableIF|> 
+<|java+interface:///de/nava/informa/core/ItemGuidIF|,|java+interface:///de/nava/informa/core/WithIdMIF|> 
+<|java+interface:///de/nava/informa/core/ItemSourceIF|,|java+interface:///de/nava/informa/core/WithNameMIF|> 
+
+DOWNCALL ACTUAL TOTAL: 0 
+
+DOWNCALL CANDIDATE TOTAL: 0 
+
+CONSTANT TOTAL: 0 
+
+MARKER TOTAL: 0 
+
+SUPER TOTAL: 0 
+
+GENERIC TOTAL: 0 
+
+CATEGORY TOTAL: 0 
+
+FRAMEWORK TOTAL: 12 
+<|java+interface:///de/nava/informa/core/CategoryIF|,|java+interface:///de/nava/informa/core/WithIdMIF|> 
+<|java+interface:///de/nava/informa/core/ChannelGroupIF|,|java+interface:///de/nava/informa/core/WithIdMIF|> 
+<|java+interface:///de/nava/informa/core/ChannelIF|,|java+interface:///de/nava/informa/core/WithIdMIF|> 
+<|java+interface:///de/nava/informa/core/FeedIF|,|java+interface:///de/nava/informa/core/WithIdMIF|> 
+<|java+interface:///de/nava/informa/core/ImageIF|,|java+interface:///de/nava/informa/core/WithIdMIF|> 
+<|java+interface:///de/nava/informa/core/ItemGuidIF|,|java+interface:///de/nava/informa/core/WithIdMIF|> 
+<|java+interface:///de/nava/informa/core/ItemIF|,|java+interface:///de/nava/informa/core/WithIdMIF|> 
+<|java+interface:///de/nava/informa/core/ItemSourceIF|,|java+interface:///de/nava/informa/core/WithNameMIF|> 
+<|java+interface:///de/nava/informa/core/TextInputIF|,|java+interface:///de/nava/informa/core/WithIdMIF|> 
+<|java+interface:///de/nava/informa/core/TextInputIF|,|java+interface:///de/nava/informa/core/WithNameMIF|> 
+<|java+interface:///de/nava/informa/core/UserIF|,|java+interface:///de/nava/informa/core/WithIdMIF|> 
+<|java+interface:///de/nava/informa/core/UserIF|,|java+interface:///de/nava/informa/core/WithNameMIF|> 
+
+DOWNCALL TOTAL: 0 
+
+
+
+

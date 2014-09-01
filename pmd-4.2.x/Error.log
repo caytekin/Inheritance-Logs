@@ -1,0 +1,15 @@
+Error log for pmd-4.2.x
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///net/sourceforge/pmd/cpd/RubyTokenizer|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [interface(|java+interface:///net/sourceforge/pmd/cpd/Tokenizer|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///net/sourceforge/pmd/cpd/CPPTokenizer|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [interface(|java+interface:///net/sourceforge/pmd/cpd/Tokenizer|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///net/sourceforge/pmd/cpd/JSPTokenizer|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [interface(|java+interface:///net/sourceforge/pmd/cpd/Tokenizer|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [interface(|java+interface:///net/sourceforge/pmd/util/filter/Filter|,[class(|java+class:///java/io/File|,[])]),interface(|java+interface:///net/sourceforge/pmd/util/filter/Filter|,[class(|java+class:///java/io/File|,[])])], declared symbol list: [class(|java+class:///java/io/File|,[])] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///net/sourceforge/pmd/util/filter/OrFilter|,[class(|java+class:///java/lang/String|,[])]),class(|java+class:///net/sourceforge/pmd/util/filter/NotFilter|,[class(|java+class:///java/lang/String|,[])])], declared symbol list: [class(|java+class:///java/lang/String|,[])] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///net/sourceforge/pmd/util/filter/OrFilter|,[class(|java+class:///java/lang/String|,[])]),class(|java+class:///net/sourceforge/pmd/util/filter/NotFilter|,[class(|java+class:///java/lang/String|,[])])], declared symbol list: [class(|java+class:///java/lang/String|,[])] 
+
+In updateDeclaredSymbolListForVararg, the vararg could not be analyzed. Passed symbol list: [class(|java+class:///net/sourceforge/pmd/cpd/PHPTokenizer|,[]),class(|java+class:///java/lang/String|,[]),class(|java+class:///java/lang/String|,[])], declared symbol list: [interface(|java+interface:///net/sourceforge/pmd/cpd/Tokenizer|,[]),array(class(|java+class:///java/lang/String|,[]),1)] 
+

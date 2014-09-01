@@ -1,0 +1,5 @@
+[
+  <<|java+class:///org/columba/addressbook/gui/focus/AbstractFocusOwner|,|java+interface:///org/columba/addressbook/gui/focus/FocusOwner|>,|java+class:///org/columba/addressbook/gui/tree/TreeController|>,
+  <<|java+interface:///org/columba/addressbook/model/IGroupItem|,|java+interface:///org/columba/addressbook/model/IHeaderItem|>,|java+class:///org/columba/addressbook/model/HeaderItem|>,
+  <<|java+class:///org/columba/addressbook/folder/GroupFolder|,|java+interface:///org/columba/addressbook/folder/IContactStorage|>,|java+class:///org/columba/addressbook/folder/AbstractFolder|>
+]

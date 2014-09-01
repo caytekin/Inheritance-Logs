@@ -1,0 +1,18 @@
+{
+  <<|java+class:///org/cyberneko/html/filters/DefaultFilter|,|java+interface:///org/apache/xerces/xni/parser/XMLDocumentFilter|>,2,|java+interface:///org/apache/xerces/xni/parser/XMLDocumentFilter|>,
+  <<|java+class:///sample/Minimal|,|java+class:///org/cyberneko/html/filters/DefaultFilter|>,2,|java+interface:///org/apache/xerces/xni/XMLDocumentHandler|>,
+  <<|java+interface:///org/cyberneko/html/HTMLComponent|,|java+interface:///org/apache/xerces/xni/parser/XMLComponent|>,2,|java+class:///java/lang/Object|>,
+  <<|java+class:///org/cyberneko/html/HTMLScannerTest/InfiniteLoopScanner/MyContentScanner|,|java+class:///org/cyberneko/html/HTMLScanner/ContentScanner|>,2,|java+interface:///org/cyberneko/html/HTMLScanner/Scanner|>,
+  <<|java+class:///org/cyberneko/html/HTMLErrorHandler|,|java+class:///org/apache/xerces/util/DefaultErrorHandler|>,2,|java+interface:///org/apache/xerces/xni/parser/XMLErrorHandler|>,
+  <<|java+class:///org/cyberneko/html/filters/NamespaceBinder|,|java+class:///org/cyberneko/html/filters/DefaultFilter|>,2,|java+interface:///org/apache/xerces/xni/XMLDocumentHandler|>,
+  <<|java+class:///org/cyberneko/html/filters/NamespaceBinder|,|java+class:///org/cyberneko/html/filters/DefaultFilter|>,2,|java+interface:///org/apache/xerces/xni/parser/XMLDocumentFilter|>,
+  <<|java+class:///org/cyberneko/html/HTMLConfiguration|,|java+class:///org/apache/xerces/util/ParserConfigurationSettings|>,2,|java+interface:///org/apache/xerces/xni/parser/XMLComponentManager|>,
+  <<|java+class:///org/cyberneko/html/HTMLScanner/ContentScanner|,|java+interface:///org/cyberneko/html/HTMLScanner/Scanner|>,2,|java+interface:///org/cyberneko/html/HTMLScanner/Scanner|>,
+  <<|java+class:///org/cyberneko/html/filters/NamespaceBinder|,|java+class:///org/cyberneko/html/filters/DefaultFilter|>,2,|java+interface:///org/cyberneko/html/HTMLComponent|>,
+  <<|java+class:///org/cyberneko/html/filters/DefaultFilter|,|java+interface:///org/cyberneko/html/HTMLComponent|>,2,|java+interface:///org/cyberneko/html/HTMLComponent|>,
+  <<|java+class:///org/cyberneko/html/HTMLScanner/PlaybackInputStream|,|java+class:///java/io/FilterInputStream|>,2,|java+class:///java/io/InputStream|>,
+  <<|java+class:///org/cyberneko/html/HTMLConfiguration|,|java+class:///org/apache/xerces/util/ParserConfigurationSettings|>,2,|java+interface:///org/apache/xerces/xni/parser/XMLParserConfiguration|>,
+  <<|java+class:///org/cyberneko/html/filters/NamespaceBinder|,|java+class:///org/cyberneko/html/filters/DefaultFilter|>,2,|java+interface:///org/apache/xerces/xni/parser/XMLDocumentSource|>,
+  <<|java+class:///org/cyberneko/html/CanonicalTest|,|java+class:///junit/framework/TestCase|>,2,|java+interface:///junit/framework/Test|>,
+  <<|java+class:///org/cyberneko/html/UTF8BOMSkipper|,|java+class:///java/io/FilterInputStream|>,2,|java+class:///java/io/InputStream|>
+}

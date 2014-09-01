@@ -1,0 +1,11 @@
+[
+  <<|java+class:///org/apache/myfaces/lifecycle/InvokeApplicationExecutor|,|java+class:///org/apache/myfaces/lifecycle/PhaseExecutor|>,|java+class:///org/apache/myfaces/lifecycle/RenderResponseExecutor|>,
+  <<|java+class:///org/apache/myfaces/shared/util/StreamCharBuffer/AbstractChunkReader|,|java+class:///org/apache/myfaces/shared/util/StreamCharBuffer/ChunkReader|>,|java+class:///org/apache/myfaces/shared/util/StreamCharBuffer/AllocatedBufferReader|>,
+  <<|java+class:///org/apache/myfaces/lifecycle/ApplyRequestValuesExecutor|,|java+class:///org/apache/myfaces/lifecycle/PhaseExecutor|>,|java+class:///org/apache/myfaces/lifecycle/RenderResponseExecutor|>,
+  <<|java+class:///org/apache/myfaces/lifecycle/RestoreViewExecutor|,|java+class:///org/apache/myfaces/lifecycle/PhaseExecutor|>,|java+class:///org/apache/myfaces/lifecycle/RenderResponseExecutor|>,
+  <<|java+class:///org/apache/myfaces/lifecycle/UpdateModelValuesExecutor|,|java+class:///org/apache/myfaces/lifecycle/PhaseExecutor|>,|java+class:///org/apache/myfaces/lifecycle/RenderResponseExecutor|>,
+  <<|java+class:///org/apache/myfaces/lifecycle/ProcessValidationsExecutor|,|java+class:///org/apache/myfaces/lifecycle/PhaseExecutor|>,|java+class:///org/apache/myfaces/lifecycle/RenderResponseExecutor|>,
+  <<|java+class:///org/apache/myfaces/view/facelets/impl/DefaultFaceletContext/CompositeComponentTemplateManager|,|java+interface:///org/apache/myfaces/view/facelets/TemplateClient|>,|java+class:///org/apache/myfaces/view/facelets/tag/composite/CompositeComponentResourceTagHandler|>,
+  <<|java+class:///org/apache/myfaces/view/facelets/impl/TemplateContextImpl/TemplateManagerImpl|,|java+interface:///org/apache/myfaces/view/facelets/TemplateClient|>,|java+class:///org/apache/myfaces/view/facelets/tag/composite/CompositeComponentResourceTagHandler|>,
+  <<|java+class:///org/apache/myfaces/view/facelets/tag/AbstractTagLibrary|,|java+interface:///org/apache/myfaces/view/facelets/tag/TagLibrary|>,|java+class:///org/apache/myfaces/view/facelets/tag/jstl/fn/JstlFnLibrary|>
+]
