@@ -1,0 +1,16 @@
+[
+  <<|java+class:///org/hsqldb/Server|,|java+class:///org/hsqldb/server/Server|>,|java+class:///org/hsqldb/server/WebServer|>,
+  <<|java+class:///org/hsqldb/Schema|,|java+interface:///org/hsqldb/SchemaObject|>,|java+class:///org/hsqldb/Constraint|>,
+  <<|java+class:///org/hsqldb/test/TriggerClass|,|java+interface:///org/hsqldb/Trigger|>,|java+class:///org/hsqldb/TriggerDef/DefaultTrigger|>,
+  <<|java+class:///org/hsqldb/rowio/RowInputTextLog|,|java+interface:///org/hsqldb/rowio/RowInputInterface|>,|java+class:///org/hsqldb/rowio/RowInputText|>,
+  <<|java+class:///org/hsqldb/navigator/RowSetNavigator|,|java+interface:///org/hsqldb/navigator/RangeIterator|>,|java+class:///org/hsqldb/RangeVariable/RangeIteratorBase|>,
+  <<|java+class:///org/hsqldb/sample/TriggerSample|,|java+interface:///org/hsqldb/Trigger|>,|java+class:///org/hsqldb/TriggerDef/DefaultTrigger|>,
+  <<|java+class:///org/hsqldb/store/ObjectCacheHashMap/ObjectCacheIterator|,|java+interface:///org/hsqldb/lib/Iterator|>,|java+class:///org/hsqldb/lib/WrapperIterator|>,
+  <<|java+class:///org/hsqldb/lib/HsqlDeque|,|java+interface:///org/hsqldb/lib/HsqlList|>,|java+class:///org/hsqldb/lib/OrderedHashSet|>,
+  <<|java+class:///org/hsqldb/persist/ScaledRAFileHybrid|,|java+interface:///org/hsqldb/persist/ScaledRAInterface|>,|java+class:///org/hsqldb/persist/ScaledRAFileNIO|>,
+  <<|java+class:///org/hsqldb/persist/ScaledRAFileSimple|,|java+interface:///org/hsqldb/persist/ScaledRAInterface|>,|java+class:///org/hsqldb/persist/ScaledRAFileNIO|>,
+  <<|java+class:///org/hsqldb/test/BlaineTrig|,|java+interface:///org/hsqldb/Trigger|>,|java+class:///org/hsqldb/TriggerDef/DefaultTrigger|>,
+  <<|java+interface:///org/hsqldb/lib/Set|,|java+interface:///org/hsqldb/lib/Collection|>,|java+class:///org/hsqldb/lib/IntKeyIntValueHashMap/Values|>,
+  <<|java+class:///org/hsqldb/Collation|,|java+interface:///org/hsqldb/SchemaObject|>,|java+class:///org/hsqldb/Constraint|>,
+  <<|java+class:///org/hsqldb/persist/ScaledRAFileInJar|,|java+interface:///org/hsqldb/persist/ScaledRAInterface|>,|java+class:///org/hsqldb/persist/ScaledRAFileNIO|>
+]
